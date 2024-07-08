@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhance Filmmaking on iPhone  Top Camera Extensions Listed\""
-date: 2024-06-22T09:24:52.678Z
-updated: 2024-06-23T09:24:52.678Z
+date: 2024-07-07T12:03:12.946Z
+updated: 2024-07-08T12:03:12.946Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ On the other hand, having all the gadgets for iPhone photography doesn't guarant
 
 ## Tripod with Phone Mount
 
-Being perfectly still while taking the picture or while you are recording something can be extremely difficult. To make things even worse iPhones are very light for a camera and even breathing can cause the unwanted movement. The tripod's main purpose is to ensure that the camera is perfectly still while you are using it. [GorilaPod Magnetic](https://www.amazon.com/gp/product/B018UP7Z5O/ref=as%5Fli%5Fss%5Ftl?keywords=gorilla%20pod%20magnetic&qid=1458755433&ref%5F=sr%5F1%5F2&sr=8-2&linkCode=sl1&tag=thapfa-20&linkId=88fc16ee78056eedb4fed585d9f4d73c)is a tripod that is intended for ultra light cameras, which makes it an excellent choice as a tripod for your iPhone. It sticks to any magnetic surface and it can be wrapped around anything else. GorilaPod Magnetic is tiny and it can be easily carried around, but the tripod's mount can have problems holding the iPhone for a long period of time in an unnatural position.
+Being perfectly still while taking the picture or while you are recording something can be extremely difficult. To make things even worse iPhones are very light for a camera and even breathing can cause the unwanted movement. The tripod's main purpose is to ensure that the camera is perfectly still while you are using it. [GorilaPod Magnetic](https://www.amazon.com/gp/product/B018UP7Z5O/ref=as%5Fli%5Fss%5Ftl?keywords=gorilla%20pod%20magnetic&qid=1458755433&ref%5F=sr%5F1%5F2&sr=8-2&linkCode=sl1&tag=thapfa-20&linkId=88fc16ee78056eedb4fed585d9f4d73c) is a tripod that is intended for ultra light cameras, which makes it an excellent choice as a tripod for your iPhone. It sticks to any magnetic surface and it can be wrapped around anything else. GorilaPod Magnetic is tiny and it can be easily carried around, but the tripod's mount can have problems holding the iPhone for a long period of time in an unnatural position.
 
 ![iphone-tripod](https://images.wondershare.com/filmora/article-images/iphone-tripod.jpg)
 

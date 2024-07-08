@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optic Zenith  Premier Choices in the Realm of 8K\""
-date: 2024-06-22T08:44:50.572Z
-updated: 2024-06-23T08:44:50.572Z
+date: 2024-07-07T12:03:13.709Z
+updated: 2024-07-08T12:03:13.709Z
 tags: 
   - screen-recording
   - ai video
@@ -34,11 +34,11 @@ You may also like: [11 Best Bridge Cameras \[Ultimate Review\]](https://tools.te
 
 ## What is an 8K Camera?
 
-The [resolution](https://tools.techidaily.com/wondershare/filmora/download/)determines the maximum quality of pictures a video camera can capture. Each frame an 8K camera records can either have 7680 or 8192 pixels on the longer side of the frame and between 2160 and 8192 pixels on the shorter side of the frame depending on the video’s [aspect ratio](https://tools.techidaily.com/wondershare/filmora/download/). Commonly an 8K video with the standard 16:9 aspect ratio has 33.9 million pixels or a resolution of 7680x4320 pixels.
+The [resolution](https://tools.techidaily.com/wondershare/filmora/download/) determines the maximum quality of pictures a video camera can capture. Each frame an 8K camera records can either have 7680 or 8192 pixels on the longer side of the frame and between 2160 and 8192 pixels on the shorter side of the frame depending on the video’s [aspect ratio](https://tools.techidaily.com/wondershare/filmora/download/). Commonly an 8K video with the standard 16:9 aspect ratio has 33.9 million pixels or a resolution of 7680x4320 pixels.
 
 It is worth noting that the resolution of still images is different than the video resolution, as it is measured in megapixels. Technically, any camera that has more than 25 MP can capture photos that have 7680x3200 pixels, which means that models like [Hasselblad X1D II 50C](https://www.hasselblad.com/x1d/) or [Canon EOS 5DS R](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/dslr/eos-5ds-r) can already take photos that have the same number of pixels like 8K videos. However, these medium format cameras cannot record videos in 8K resolution.
 
-8K video cameras function on the same principle as [4K or Full HD cameras](https://tools.techidaily.com/wondershare/filmora/download/)as they utilize a lens and a sensor to record images on the camera’s memory card. Currently, the size of the files 8K cameras produce is one of the major reasons why cinematographers are still reluctant to embrace them since 40 minutes of footage can take up to 2 terabytes of storage space.
+8K video cameras function on the same principle as [4K or Full HD cameras](https://tools.techidaily.com/wondershare/filmora/download/) as they utilize a lens and a sensor to record images on the camera’s memory card. Currently, the size of the files 8K cameras produce is one of the major reasons why cinematographers are still reluctant to embrace them since 40 minutes of footage can take up to 2 terabytes of storage space.
 
 The images recorded with 8K cameras can be used for live broadcasts, in cinemas or they can be displayed on [8K television sets](https://tools.techidaily.com/wondershare/filmora/download/). Even so, 4K and Full HD videos are still the industry standard and it remains to be seen if 8K technology is going to change that.
 
