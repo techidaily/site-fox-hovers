@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Overcoming the Windows 11 Photo App Hurdles"
-date: 2024-07-12T01:30:00.141Z
-updated: 2024-07-13T01:30:00.141Z
+date: 2024-07-29T05:33:46.614Z
+updated: 2024-07-30T05:33:46.614Z
 tags: 
   - screen-recording
   - ai video
@@ -40,8 +40,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -79,6 +85,9 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -90,6 +99,9 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -101,12 +113,18 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -135,3 +153,49 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits/"><u>[New] 2024 Approved  Earn Wisely  The Simple Triad Method for Scrutinizing YouTube Profits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-comprehensive-assessment-unveiling-du-recorders-features/"><u>[New] Comprehensive Assessment  Unveiling Du Recorder's Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>[New] In 2024, Dive Into Social Media Streams  Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-humor-havens-discovering-comedy-gems-on-youtube/"><u>[New] In 2024, Humor Havens  Discovering Comedy Gems on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-abcs-of-aspect-ratio-a-guide-to-twitter-videos-for-2024/"><u>[New] The ABCs of Aspect Ratio  A Guide to Twitter Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-5-tips-for-influencer-program-on-instagram-with-examples/"><u>[Updated] 5 Tips for Influencer Program on Instagram with Examples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expediting-windows-file-reviews-with-ease/"><u>[Updated] Expediting Windows File Reviews with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-game-capture-software-rivalry-obs-vs-shadowplay-for-2024/"><u>[Updated] Game Capture Software Rivalry  OBS Vs. ShadowPlay for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>[Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-frolics-in-film-an-analytical-review-on-vhs/"><u>2024 Approved  'Frolics in Film'  An Analytical Review on VHS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-aeon-matrix-the-single-screen-superior-desk/"><u>2024 Approved  Aeon Matrix  The Single Screen, Superior Desk</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-amusingscreen-join-the-video-making-party/"><u>2024 Approved  AmusingScreen  Join the Video Making Party</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-balancing-act-volume-control-techniques-for-logic-pro-x/"><u>2024 Approved  Balancing Act  Volume Control Techniques for Logic Pro X</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-best-practices-apps-and-sites-mastering-photo-framing/"><u>2024 Approved  Best Practices Apps & Sites - Mastering Photo Framing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-stabilizing-gadgets-for-youtube-videography/"><u>2024 Approved  Cutting Edge Stabilizing Gadgets for YouTube Videography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-decoding-firefox-picture-in-picture-a-comprehensive-guide/"><u>2024 Approved  Decoding Firefox Picture-in-Picture  A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discreetly-conceal-identity-photo-edit-tip/"><u>2024 Approved  Discreetly Conceal Identity  Photo Edit Tip</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dji-takes-flight-the-game-changing-faceoff-of-mavic-air-vs-spark/"><u>2024 Approved  DJI Takes Flight  The Game-Changing Faceoff of Mavic Air Vs. Spark</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-expert-tips-on-choosing-top-9-webcam-enhancement-tools/"><u>2024 Approved  Expert Tips on Choosing Top 9 Webcam Enhancement Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-frame-by-frame-helpdesk/"><u>2024 Approved  Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-framing-emotions-through-color-grading/"><u>2024 Approved  Framing Emotions Through Color Grading</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-interactive-storytelling-vrs-entertainment-potential/"><u>2024 Approved  Interactive Storytelling  VR's Entertainment Potential</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-live-photography-essentials-for-iphone-users/"><u>2024 Approved  Live Photography Essentials for iPhone Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-viewing-and-audio-top-webcams-for-podcast-creators/"><u>2024 Approved  Optimal Viewing & Audio  Top Webcams for Podcast Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pioneering-photography-with-quantum-hdr-tech/"><u>2024 Approved  Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>2024 Approved  Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-review-ultra-hd-blade-cam-at-full-spectrum/"><u>2024 Approved  Review  Ultra HD Blade Cam at Full Spectrum</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-highest-resolution-elevating-quality-with-drone-edits/"><u>2024 Approved  The Highest Resolution  Elevating Quality with Drone Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uniting-brands-and-youtube-for-maximum-impact/"><u>2024 Approved  Uniting Brands & YouTube for Maximum Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-windows-media-player-alternative/"><u>2024 Approved  Windows Media Player Alternative</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/5-safest-and-most-enjoyable-quadcopters-for-kids/"><u>5 Safest and Most Enjoyable Quadcopters for Kids</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/5-top-tier-gaming-displays-in-4k-quality-for-2024/"><u>5 Top-Tier Gaming Displays in 4K Quality for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-12-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus 12 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/fine-tuning-focus-closeups-on-teams/"><u>Fine-Tuning Focus  Closeups on Teams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>Ideal Choices  Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-7-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 7 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A58 4G FRP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/perfect-pairing-transferring-camera-roll-content-effortlessly-to-snapchat-for-2024/"><u>Perfect Pairing  Transferring Camera Roll Content Effortlessly to Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-start-making-your-own-sports-highlight-film-for-2024/"><u>Quick Start  Making Your Own Sports Highlight Film for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/scalable-earnings-via-youtube-beauty-channels/"><u>Scalable Earnings via YouTube Beauty Channels</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/timeframe-of-proficiency-in-foreign-tongues/"><u>Timeframe of Proficiency in Foreign Tongues</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13-ultra-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi 13 Ultra can’t play AVCHD .mts video</u></a></li>
+</ul></div>

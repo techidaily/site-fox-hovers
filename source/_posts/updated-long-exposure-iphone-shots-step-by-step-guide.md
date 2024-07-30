@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Long-Exposure iPhone Shots  Step-by-Step Guide\""
-date: 2024-07-12T01:34:42.775Z
-updated: 2024-07-13T01:34:42.775Z
+date: 2024-07-29T05:37:18.938Z
+updated: 2024-07-30T05:37:18.938Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 # How to Take Long Exposure Shots with iPhone in iOS 11 or previous
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## How to Take Long Exposure Shots on iPhone
 
 * [Section 1: Users on iOS 11](#part1)
@@ -41,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
 
  Image resource: imore
@@ -53,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Not a user of iOS 11?
 
  If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
@@ -61,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Long Exposure Photography Tips
 
  Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
@@ -72,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What should you capture with your long exposure iPhone shots?
 
  Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
@@ -90,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 * **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
  Image resource: Digital Photo Secrets
@@ -136,3 +158,50 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-comic-crafting-on-apple-devices/"><u>[New] 2024 Approved  Comic Crafting on Apple Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-highlights-of-snowboard-cross-olympics-2022/"><u>[New] 2024 Approved  Highlights of Snowboard Cross Olympics 2022</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-budget-friendly-4k-imaging-sources/"><u>[New] Budget-Friendly 4K Imaging Sources</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevating-media-quality-from-xmlssattml-to-premium-srt/"><u>[New] Elevating Media Quality  From XML/SSA/TTML to Premium SRT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-live-stream-over-the-network-with-vlc-media-player/"><u>[New] In 2024, How to Live Stream Over the Network with VLC Media Player</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-8-cameras-transforming-online-broadcasting/"><u>[New] In 2024, Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-timers-at-no-cost-to-you-for-2024/"><u>[New] Premium Timers at No Cost to You for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pro-level-performance-a-compre-cookie-box-for-2024/"><u>[New] Pro-Level Performance  A Compre Cookie Box for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing-for-2024/"><u>[New] Strategize & Succeed  A Stepwise Approach to Impactful Reddit Sharing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-essential-sony-fdr-x1000v-camera-insight/"><u>[New] The Essential Sony FDR-X1000V Camera Insight</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>[New] The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-economical-action-cameras-discover-the-cheapest-options/"><u>[Updated] 2024 Approved  Economical Action Cameras  Discover the Cheapest Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expert-endorsed-8-tripods-for-flawless-4k-footage/"><u>[Updated] 2024 Approved  Expert-Endorsed 8 Tripods for Flawless 4K Footage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-stop-motion-cinema-top-15-picks/"><u>[Updated] Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-7-best-online-voice-recorders-2023/"><u>[Updated] In 2024, 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-deciphering-and-dissolving-the-fisheye-illusion-in-your-gopro-videos/"><u>[Updated] In 2024, Deciphering & Dissolving The Fisheye Illusion in Your GoPro Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-master-list-saving-your-favorite-ringtone-files/"><u>[Updated] In 2024, Master List  Saving Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-trending-pictures-life-stories-uncovered/"><u>[Updated] In 2024, Trending Pictures  Life Stories Uncovered</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>[Updated] Next Level Video  Top Webcam Filters for Flawless Broadcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-professional-filmmaking-optics-that-elevate-4k-vision/"><u>[Updated] Professional Filmmaking  Optics That Elevate 4K Vision</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-seamlessly-transitioning-sounds-with-audacity-tips-for-2024/"><u>[Updated] Seamlessly Transitioning Sounds with Audacity Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-precision-machines-best-of-the-series-for-2024/"><u>[Updated] Ultimate Precision Machines - Best of the Series for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-high-res-sky-scenes-with-mi-drone/"><u>[Updated] Unveiling the High-Res Sky Scenes with Mi Drone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-copyright-free-gaming-scores-the-10-leading-sources/"><u>2024 Approved  Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-zooming-tactics-for-collaborative-ms-teams/"><u>2024 Approved  Cutting Edge Zooming Tactics for Collaborative MS Teams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dimension-dilemma-solved-why-does-imovie-crop/"><u>2024 Approved  Dimension Dilemma Solved  Why Does iMovie Crop?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-visuals-with-hyperlapse-cinematography/"><u>2024 Approved  Elevating Visuals with Hyperlapse Cinematography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better/"><u>2024 Approved  GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera  Which Is Better?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-panoramic-photo-showdown-deciding-360-supremacy/"><u>2024 Approved  Panoramic Photo Showdown  Deciding 360 Supremacy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/decoding-cloud-cost-the-hunt-for-affordability-continues/"><u>Decoding Cloud Cost  The Hunt for Affordability Continues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevating-your-game-in-drone-racing-and-top-5-speedy-fpv-drones/"><u>Elevating Your Game in Drone Racing & Top 5 Speedy FPV Drones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expertise-in-covert-sound-suppression-with-audacity/"><u>Expertise in Covert Sound Suppression with Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers/"><u>Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-12-leading-motion-capture-camcorders-now-with-global-positioning/"><u>In 2024, 12 Leading Motion Capture Camcorders Now With Global Positioning</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-economic-options-in-panoramic-recording-equipment/"><u>In 2024, Economic Options in Panoramic Recording Equipment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-safaris-picture-and-window-sharing-feature/"><u>In 2024, Expert Tips for Safari's Picture and Window Sharing Feature</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 14?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-audacity-pro-audio-capture-guide/"><u>In 2024, Mastering Audacity  Pro Audio Capture Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone SE (2020)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-formula-for-a-high-ranking-online-persona/"><u>The Formula for a High-Ranking Online Persona</u></a></li>
+</ul></div>
