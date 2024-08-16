@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fresh Conversation Starters  Keeping Listeners Hooked\""
-date: 2024-07-12T02:45:11.867Z
-updated: 2024-07-13T02:45:11.867Z
+date: 2024-08-15T13:07:43.381Z
+updated: 2024-08-16T13:07:43.381Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ The best way is to divide your questions into different categories.
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Here are some icebreaker questions that you can ask to start an interview.
 
@@ -49,11 +52,17 @@ Here are some icebreaker questions that you can ask to start an interview.
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Leading Question
 
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
 
 ![leading questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 
 Some leading questions that you can ask are discussed below.
 
@@ -127,20 +136,39 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### What were your feelings when this happened?
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Mirror your guest
 
 Repeat the same few last words that a guest just said when he finishes his thought, and by doing that, you're creating an intonation that's sort of like a question. It's another way to permit the person you're interviewing to keep going. For example, your question might go like this. Perhaps you're asking somebody about his favorite software of the year that they've used in video editing.
@@ -209,3 +237,55 @@ Consider the following when picking which of the above questions to use on your 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-capturing-the-globe-from-novice-to-experienced-travel-videographer/"><u>[New] 2024 Approved  Capturing the Globe  From Novice to Experienced Travel Videographer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>[New] 2024 Approved  Chortle Chamber  Ideas for 7 Amusing Online Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-digital-chronicles-cutting-edge-methods-for-saving-your-vr-gaming-journey/"><u>[New] Digital Chronicles  Cutting-Edge Methods for Saving Your VR Gaming Journey</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-tips-for-superior-4k-visual-quality-with-gear-for-2024/"><u>[New] Expert Tips for Superior 4K Visual Quality with Gear for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exploring-virtual-worlds-with-samsung-gear-vr-games-for-2024/"><u>[New] Exploring Virtual Worlds with Samsung Gear VR Games for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-share-a-podcast-on-instagram-story-or-post/"><u>[New] How to Share a Podcast on Instagram Story or Post</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-flipping-fun-facts-into-memes-with-kinemaster/"><u>[New] In 2024, Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>[New] In 2024, Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac-for-2024/"><u>[New] Master the Conversion  AVI Files Become GIFs Using Filmora Software (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-serene-soundtracks-copyright-free-legal-meditation-music-for-2024/"><u>[New] Serene Soundtracks – Copyright-Free, Legal Meditation Music for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-editing-game-changer-fcps-best-10-plugins-for-2024/"><u>[New] The Editing Game Changer  FCP's Best 10 Plugins for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visual-identity-mastery-crafting-business-symbols-with-tailored-templates-for-2024/"><u>[New] Visual Identity Mastery  Crafting Business Symbols with Tailored Templates for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-frame-by-frame-excellence-selecting-webcams-for-podcasts/"><u>[Updated] 2024 Approved  Frame-by-Frame Excellence  Selecting Webcams for Podcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-professional-tips-for-capturing-audio-in-audacity/"><u>[Updated] 2024 Approved  Professional Tips for Capturing Audio in Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-websites-to-access-text-styling-resources-for-2024/"><u>[Updated] Best Websites to Access Text Styling Resources for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-perfect-memos-through-sound-waves/"><u>[Updated] Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>[Updated] In 2024, Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-multimedia-mastery-tips-for-mass-photo-and-video-uploads-for-2024/"><u>[Updated] Instagram Multimedia Mastery  Tips for Mass Photo & Video Uploads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-starting-with-the-basics-of-av1-codec/"><u>[Updated] Starting with the Basics of AV1 Codec</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-metaverse-race-begins-dont-miss-these-7-essential-tools-for-2024/"><u>[Updated] The Metaverse Race Begins  Don't Miss These 7 Essential Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-top-10-websites-for-free-photo-access/"><u>[Updated] The Ultimate List  Top 10 Websites for Free Photo Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-vs-gopro-hero-session-and-polaroid-cube-top-pick-for-filmmakers-for-2024/"><u>[Updated] Vs. GoPro Hero Session & Polaroid Cube  Top Pick for Filmmakers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp/"><u>2024 Approved  GIFs-to-Glam  A Complete Guide to Creating Emojis on Telegram & WhatsApp</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-launchpad-essentials-your-first-steps-in-streaming/"><u>2024 Approved  Launchpad Essentials  Your First Steps in Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>2024 Approved  Live TV Streaming Guide  The Best Ten and Their Comparison</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-power-of-persuasion-maximizing-facebook-ad-performance-through-animation/"><u>2024 Approved  The Power of Persuasion  Maximizing Facebook Ad Performance Through Animation</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tifying-the-art-behind-live-video-thumbnails/"><u>Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-your-gopros-energy-duration/"><u>Enhancing Your GoPro's Energy Duration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974442796-ensure-top-notch-gaming-updated-rtx-2080-driver-packs-for-windows-10-and-11-instant-download/"><u>Ensure Top-Notch Gaming: Updated RTX 2080 Driver Packs for Windows 10 and 11 - Instant Download!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s24plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy S24+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x50i-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X50i Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-play-8t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor Play 8T Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-130-music-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia 130 Music Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-14-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 14</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-no-cost-copyright-free-pubg-image-bundles/"><u>In 2024, No-Cost, Copyright-Free PUBG Image Bundles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pro-user-guide-to-mastering-the-latest-windows-10/"><u>In 2024, Pro User Guide to Mastering the Latest WINDOWS 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/masterclass-in-creating-the-ideal-home-4k-editing-pc/"><u>Masterclass in Creating the Ideal Home 4K Editing PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-low-volume-transitions-within-fl-studio-for-2024/"><u>Mastering Low-Volume Transitions Within FL Studio for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-podcast-rss-feed-development-for-2024/"><u>Mastering Podcast RSS Feed Development for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimize-your-youtube-content-for-maximum-viewership-and-engagement-for-2024/"><u>Optimize Your YouTube Content for Maximum Viewership and Engagement for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dark-mode-clearing-twitch-displays/"><u>Overcoming Dark Mode: Clearing Twitch Displays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quick-guide-posting-podcast-on-instagram-for-2024/"><u>Quick Guide  Posting Podcast on Instagram for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-call-of-duty-warzone-no-match-found-problems-on-windows-computers/"><u>Solve 'Call of Duty Warzone' No Match Found Problems on Windows Computers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-5-aquatic-filter-add-ons-for-gopro/"><u>Ultimate 5 Aquatic Filter Add-Ons for GoPro</u></a></li>
+</ul></div>

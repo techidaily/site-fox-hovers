@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Your Video with Story Remix & Windows Photos\""
-date: 2024-07-12T02:45:22.424Z
-updated: 2024-07-13T02:45:22.424Z
+date: 2024-08-15T13:07:33.763Z
+updated: 2024-08-16T13:07:33.763Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,9 @@ Go to **Start** menu and open **Windows Photos**. you can see videos and photos 
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -62,12 +65,22 @@ How to create a Story Remix project automatically –
    3. Give a name and tap on **OK**.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -81,12 +94,18 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
 
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Adding a new theme
 
 A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
@@ -96,6 +115,9 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -112,6 +134,9 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -133,6 +158,9 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## Part 6: How to export a Story Remix video
 
@@ -149,6 +177,10 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -187,3 +219,57 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-prime-collection-no-cost-windowsmac-videoplays/"><u>[New] 2024 Approved  Prime Collection  No-Cost Windows/Mac Videoplays</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-techniques-for-iphones-in-virtual-space/"><u>[New] Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enhancing-video-conferencing-with-zoom-and-chromebook-for-2024/"><u>[New] Enhancing Video Conferencing with Zoom and Chromebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-engagement-with-effective-youtube-banners-and-thumbnails/"><u>[New] In 2024, Boosting Engagement with Effective YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigating-video-chats-zooming-in-on-xbox/"><u>[New] In 2024, Navigating Video Chats  Zooming In on Xbox</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-rated-pc-and-mobile-mkv-reader/"><u>[New] In 2024, Top-Rated PC & Mobile MKV Reader</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-launching-an-online-fundraising-challenge-on-facebook/"><u>[New] Launching an Online Fundraising Challenge on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-screen-protectors-that-enhance-vr-filming/"><u>[New] Screen Protectors That Enhance VR Filming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamlesssoundcast-the-essential-steps-for-a-smooth-live-podcast-broadcast-for-2024/"><u>[New] SeamlessSoundCast  The Essential Steps for a Smooth Live Podcast Broadcast for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sky-high-speeds-key-moments-in-the-short-tracks-olympics-for-2024/"><u>[New] Sky-High Speeds  Key Moments in the Short Tracks, Olympics for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-step-by-step-strategies-to-thrive-on-reddit-for-2024/"><u>[New] Step-by-Step Strategies to Thrive on Reddit for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-video-editor-selection-guide-understanding-filmora-and-democracy-creator/"><u>[New] Video Editor Selection Guide  Understanding Filmora and Democracy Creator</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-low-light-techniques-for-iphone/"><u>[Updated] 2024 Approved  Essential Low-Light Techniques for iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gags-and-grins-techniques-in-parody-production/"><u>[Updated] 2024 Approved  Gags and Grins  Techniques in Parody Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlocking-potential-innovations-in-gif-artistry/"><u>[Updated] 2024 Approved  Unlocking Potential  Innovations in GIF Artistry</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-videography-space-on-128gb-technology/"><u>[Updated] 2024 Approved  Videography Space on 128GB Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-22-efficient-ways-to-livestream-classes-without-paying/"><u>[Updated] 22 Efficient Ways to Livestream Classes Without Paying</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-eternal-memory-keepsake-blend-free-cloud-services-with-elite-charged-spaces/"><u>[Updated] Eternal Memory Keepsake  Blend Free Cloud Services with Elite Charged Spaces</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-panoramas-to-pages-uploading-wide-angle-content-online/"><u>[Updated] From Panoramas to Pages  Uploading Wide Angle Content Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-edge-of-creativity-best-4k-displays-for-editing-excellence/"><u>[Updated] In 2024, Edge of Creativity  Best 4K Displays for Editing Excellence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-efficient-use-of-telegram-browser-interface/"><u>[Updated] In 2024, Efficient Use of Telegram Browser Interface</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-art-of-chatting-with-voices-on-whatsapp/"><u>[Updated] In 2024, The Art of Chatting with Voices on WhatsApp</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>[Updated] In 2024, The Ultimate Guide  Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reimagining-cityscapes-the-integration-of-ecosystem-services/"><u>[Updated] Reimagining Cityscapes  The Integration of Ecosystem Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spiritual-stretching-youtubes-best-yoga-content-crews/"><u>[Updated] Spiritual Stretching – YouTube’s Best Yoga Content Crews</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-updated-dialogue-tools-to-engage-audio-audiences-for-2024/"><u>[Updated] Updated Dialogue Tools to Engage Audio Audiences for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-agni-2-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Agni 2 5G</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-audience-hooks-writing-captivating-podcast-descriptions/"><u>2024 Approved  Audience Hooks  Writing Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-bypassing-costs-your-step-by-step-to-fcp/"><u>2024 Approved  Bypassing Costs  Your Step-by-Step to FCP</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-examination-for-straightforward-hdr/"><u>2024 Approved  Comprehensive Examination for Straightforward HDR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-srt-playback-guide-on-different-os-platforms/"><u>2024 Approved  SRT Playback Guide on Different OS Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-magic-of-watching-nba-online-unveiling-the-best-15-strategies/"><u>2024 Approved  The Magic of Watching NBA Online - Unveiling the Best 15 Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-list-of-trending-instagram-hashtags-for-success/"><u>2024 Approved  The Ultimate List of Trending Instagram Hashtags for Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-video-freelancers-talent-agreement-form/"><u>2024 Approved  Video Freelancers  Talent Agreement Form</u></a></li>
+<li><a href="https://games-able.techidaily.com/becoming-a-word-game-pro-tips-to-thrive-in-new-york-times-strands/"><u>Becoming a Word Game Pro: Tips to Thrive in New York Times' Strands</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-prime-tiktok-openings-using-macos-for-2024/"><u>Crafting Prime TikTok Openings Using MacOS for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dial-up-your-digital-influence-nine-simple-steps-on-instagram/"><u>Dial Up Your Digital Influence  Nine Simple Steps on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-advanced-features-in-intova-edge-x-for-2024/"><u>Exploring Advanced Features in Intova Edge X for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/glow-up-your-android-footage/"><u>Glow Up Your Android Footage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-c51-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco C51</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-a-beginners-guide-to-use-lunapic-photo-editor/"><u>In 2024, A Beginner's Guide to Use Lunapic Photo Editor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-canvas-hidden-gems-for-crafting-visual-magic/"><u>In 2024, Canva's Hidden Gems for Crafting Visual Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dissecting-the-advantages-of-lg-bp350-display-tech/"><u>In 2024, Dissecting the Advantages of LG BP350 Display Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-iphone-hacks-for-minimalist-video-presentation/"><u>In 2024, IPhone Hacks for Minimalist Video Presentation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 14?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c12-plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C12 Plus Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supercharge-your-productivity-with-chatgpt-discovering-7-transformative-ways-for-better-workdays/"><u>Supercharge Your Productivity with ChatGPT: Discovering 7 Transformative Ways for Better Workdays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x-for-2024/"><u>Unveiling Mastery  The Ultimate Animoji Guide for iPhone X for 2024</u></a></li>
+</ul></div>
