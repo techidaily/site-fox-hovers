@@ -1,0 +1,868 @@
+---
+title: "[New] Tips for Skewing Photo Captions for 2024"
+date: 2024-08-22T23:28:12.749Z
+updated: 2024-08-23T23:28:12.749Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [New] Tips for Skewing Photo Captions for 2024"
+excerpt: "This Article Describes [New] Tips for Skewing Photo Captions for 2024"
+keywords: "Photo Caption Tips,Skew Caption Techniques,Correcting Caption Angles,Adjusting Caption Orientation,Enhancing Captions in Photography,Caption Alignment Guides,Image Caption Correction Tricks"
+thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371de84c07fa11e25ea749aee6.jpg
+---
+
+## Tips for Skewing Photo Captions
+
+##### Create High-Quality Video - Wondershare Filmora
+
+An easy and powerful YouTube video editor
+
+Numerous video and audio effects to choose from
+
+Detailed tutorials are provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Over the past few years, distortion effects have become popular. People also apply distortion effects on text to make it stand out. You can use this effect on both video and photography. In this blog post, we'll look at how to distort the text in photography and video. We have also provided a list of free text distorters.
+
+#### In this article
+
+01 [What Is Text Distortion?](#part1)
+
+02 [How to Distort Text in Photography Using Photoshop](#part2)
+
+03 [How to Distort Text in Video?](#part3)
+
+## What Is Text Distortion?
+
+Distortion of text is referred to as the alteration of the original characteristics or shape of a text. Most people use text distortion to add uniqueness to their photos or videos and make sure their projects stand out from the pack.
+
+## How to Distort Text in Photography Using Photoshop
+
+If you are looking for ways to combine art and words, Photoshop offers the right tools to help you add creative effects to text. You can apply text distortion to product logos, headers for a blog, or headers you would like to use in other marketing materials to make them stand out.
+
+By typing normal characters and applying changes with a few clicks in the program, you will save yourself the time and money that you would have used in outsourcing custom designs.
+
+The bottom line is: Distorting text in Photoshop is a simple process that requires patience and a little know-how. You can distort the text in many ways, making it a useful tool for creating various looks for your designs.
+
+With that in mind, let's look at how you can apply text distortion in photography using Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 1\
+
+Start Photoshop, and then click on the File menu. Select the New option and set parameters for your document, according to the space the text is going to occupy in its intended medium. In the Name field, type a name. You can also decide to leave the Photoshop default.
+
+![text distortion in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-1.png)
+
+### Step 2\
+
+Click the Window menu to open the Layers panel and click Layers.
+
+### Step 3\
+
+Click on the New Layer icon that resembles a bent-corner sticky note.
+
+### Step 4\
+
+Click on the T icon located in the Tools panel. You can also click on the Window and select Tools if you don't see the Tools panel. After opening the Type toolbar, choose the text size, color, and font you'll use for the distorted text. Now, click the canvas, and then type the text you want to distort. The text appears in a non-distorted format when you type.
+
+### Step 5\
+
+Check the list and right-click on the new text layer with a T icon symbol and the words you have typed. Select the Rasterize Layer option; this will turn the box with the T icon into a white and gray checkerboard.
+
+![how to distort text in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-2.png)
+
+### Step 6\
+
+Click on the Edit menu, then hover your cursor over Transform. From the fly-out menu, choose Distort. A border encircled with white boxes will surround the text on the canvas. Click and pull a corner box away from the text, like toward a corner of the Adobe Photoshop work area.
+
+Be sure to pull it in different directions and check how the text will become funhouse-style elongated in different ways; this will allow you to judge which look you prefer for your text distortion.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+### Step 7\
+
+Now, click another corner and drag towards the center to make the text look like it's slightly squished.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 8\
+
+Take one of the middleboxes and pull and drug them on either the bottom or top to make the text wider.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+### Step 9\
+
+Tinker around with different changes mentioned above until you get the text distortion you want. Once you are satisfied with the results, hit Enter to set the change and get rid of the boxes and borders from the text.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 10\
+
+Select the File menu and click Save As. Photoshop will automatically have "PSD" displayed in the Format box, which allows you to save your file as a proprietary Photoshop PSD. Make sure you leave this extension, as it lets you re-access the design layers and perform more text distortions in the future. Now, click on Save.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 11\
+
+Go to the File menu and click on it. Select the Save As option again. Choose your preferred graphic format and click Save. Photoshop will prompt you about discarding layers. When you see this, click OK or Yes. Doing this will render your text uneditable and allow anyone with an image viewer to open your graphic instead of only Photoshop. It will also allow you to include it in word processing documents, websites, and other materials.
+
+#### Add Noise to the Text
+
+Select your text and then go to Filter - Noise - Add Noise; this will add Noise to the text. Next, select your text again and go to Filter -Blur -Gaussian Blur; this will blur the edges of the text to help smooth out the distortion.
+
+#### Make the Text Look like Ink with a Smudge Tool
+
+You can add a texture overlay for more texture and dimension to your text. To do this, click on the Text option in the Toolbox and select the dropdown that says Add Texture Overlay; this opens a new window, and you can click on your image to choose the texture.
+
+## How to Distort Text in Video?
+
+Canva is a graphic design platform that offers software for both Windows and Mac. You can use this program to edit photos, videos, and documents. It comes with loads of features that you can use. You can distort texts in video using Canva by following the steps below:
+
+1. Head to <https://www.canva.com/download/windows/> and download Canva. Install the software on your PC and launch it.
+2. Click the Create a Design button.
+3. Select the Custom Size option, and enter the dimensions of choice before clicking the Create New Design button. You can also choose the preset design size options.
+4. Drag and drop the video into Canva.
+5. Next, click on Text on the left side menu and choose the Add A Heading option. Enter your text in the box. You can change the size of your text and color.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-9.png)
+
+1. Next, highlight the text, and then go to Effects. Click on Glitch and Curve. Doing this will allow you to create a curved text with a glitch effect.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-10.png)
+
+1. You can download your video with text distortion or share it on your social media platforms.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## Bonus! Free Online Text Distorter
+
+You can also distort text with online tools. You need an internet connection and your PC or mobile device to use these platforms. Here are some of the popular online text distorters you'll find online.
+
+### 1\. PicMonkey
+
+This online tool provides photo editing and graphic design tools, and you can use it to distort the text in your photo. PicMonkey.com allows you to put your words into arcs and circles to create typography art. You can also add drop shadow, and knockout, to outline the center of the distorted text. The handles on both sides of the text box allow you to resize the diameter of the circled text or scrunch up or stretch out your arched text. Additionally, you can add spaces between the letters and play with the kerning of the text.
+
+![online text distorter - picmonkey](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2.MockoFun
+
+Adding text along a curve is a great way to make a strong graphic statement. The tool lets you create a logo and include a circular distorted text. You can also add this effect to photos using MockoFun.com.
+
+Many graphic designers use this tool to create distorted text on badges, labels, and logos to make their designs cool and attention-grabbing.
+
+![online text distorter - MockoFun](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-4.png)
+
+### 3\. Zalgo
+
+Zalgo Text Generator is an online tool that allows you to create glitch text. The Zalgo text will be a glitchy form of usual text. Zalgo.org is also free to use this online text distorter.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-11.png)
+
+### 4\. GFTO
+
+EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 5\. Wavy Text Generator
+
+This tool allows you to distort text by adding a wavy effect to it. To use this tool, you only have to head to nhttp://www.coding-dude.com/wp/wavy-text-generator/ and type your text in the field, then this text distorter will generate a preview showing the results of how your text will look like. The pink button allows you to copy your text's HTML/CSS code.
+
+![online text distorter - Wavy Text Generator](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** Text distortion allows you to create attention-grabbing content. You can use the above tools to create this effect on your text to make it stand out and look more appealing to the audience or viewers.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Over the past few years, distortion effects have become popular. People also apply distortion effects on text to make it stand out. You can use this effect on both video and photography. In this blog post, we'll look at how to distort the text in photography and video. We have also provided a list of free text distorters.
+
+#### In this article
+
+01 [What Is Text Distortion?](#part1)
+
+02 [How to Distort Text in Photography Using Photoshop](#part2)
+
+03 [How to Distort Text in Video?](#part3)
+
+## What Is Text Distortion?
+
+Distortion of text is referred to as the alteration of the original characteristics or shape of a text. Most people use text distortion to add uniqueness to their photos or videos and make sure their projects stand out from the pack.
+
+## How to Distort Text in Photography Using Photoshop
+
+If you are looking for ways to combine art and words, Photoshop offers the right tools to help you add creative effects to text. You can apply text distortion to product logos, headers for a blog, or headers you would like to use in other marketing materials to make them stand out.
+
+By typing normal characters and applying changes with a few clicks in the program, you will save yourself the time and money that you would have used in outsourcing custom designs.
+
+The bottom line is: Distorting text in Photoshop is a simple process that requires patience and a little know-how. You can distort the text in many ways, making it a useful tool for creating various looks for your designs.
+
+With that in mind, let's look at how you can apply text distortion in photography using Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+### Step 1\
+
+Start Photoshop, and then click on the File menu. Select the New option and set parameters for your document, according to the space the text is going to occupy in its intended medium. In the Name field, type a name. You can also decide to leave the Photoshop default.
+
+![text distortion in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-1.png)
+
+### Step 2\
+
+Click the Window menu to open the Layers panel and click Layers.
+
+### Step 3\
+
+Click on the New Layer icon that resembles a bent-corner sticky note.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 4\
+
+Click on the T icon located in the Tools panel. You can also click on the Window and select Tools if you don't see the Tools panel. After opening the Type toolbar, choose the text size, color, and font you'll use for the distorted text. Now, click the canvas, and then type the text you want to distort. The text appears in a non-distorted format when you type.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 5\
+
+Check the list and right-click on the new text layer with a T icon symbol and the words you have typed. Select the Rasterize Layer option; this will turn the box with the T icon into a white and gray checkerboard.
+
+![how to distort text in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 6\
+
+Click on the Edit menu, then hover your cursor over Transform. From the fly-out menu, choose Distort. A border encircled with white boxes will surround the text on the canvas. Click and pull a corner box away from the text, like toward a corner of the Adobe Photoshop work area.
+
+Be sure to pull it in different directions and check how the text will become funhouse-style elongated in different ways; this will allow you to judge which look you prefer for your text distortion.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+### Step 7\
+
+Now, click another corner and drag towards the center to make the text look like it's slightly squished.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+### Step 8\
+
+Take one of the middleboxes and pull and drug them on either the bottom or top to make the text wider.
+
+### Step 9\
+
+Tinker around with different changes mentioned above until you get the text distortion you want. Once you are satisfied with the results, hit Enter to set the change and get rid of the boxes and borders from the text.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 10\
+
+Select the File menu and click Save As. Photoshop will automatically have "PSD" displayed in the Format box, which allows you to save your file as a proprietary Photoshop PSD. Make sure you leave this extension, as it lets you re-access the design layers and perform more text distortions in the future. Now, click on Save.
+
+### Step 11\
+
+Go to the File menu and click on it. Select the Save As option again. Choose your preferred graphic format and click Save. Photoshop will prompt you about discarding layers. When you see this, click OK or Yes. Doing this will render your text uneditable and allow anyone with an image viewer to open your graphic instead of only Photoshop. It will also allow you to include it in word processing documents, websites, and other materials.
+
+#### Add Noise to the Text
+
+Select your text and then go to Filter - Noise - Add Noise; this will add Noise to the text. Next, select your text again and go to Filter -Blur -Gaussian Blur; this will blur the edges of the text to help smooth out the distortion.
+
+#### Make the Text Look like Ink with a Smudge Tool
+
+You can add a texture overlay for more texture and dimension to your text. To do this, click on the Text option in the Toolbox and select the dropdown that says Add Texture Overlay; this opens a new window, and you can click on your image to choose the texture.
+
+## How to Distort Text in Video?
+
+Canva is a graphic design platform that offers software for both Windows and Mac. You can use this program to edit photos, videos, and documents. It comes with loads of features that you can use. You can distort texts in video using Canva by following the steps below:
+
+1. Head to <https://www.canva.com/download/windows/> and download Canva. Install the software on your PC and launch it.
+2. Click the Create a Design button.
+3. Select the Custom Size option, and enter the dimensions of choice before clicking the Create New Design button. You can also choose the preset design size options.
+4. Drag and drop the video into Canva.
+5. Next, click on Text on the left side menu and choose the Add A Heading option. Enter your text in the box. You can change the size of your text and color.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-9.png)
+
+1. Next, highlight the text, and then go to Effects. Click on Glitch and Curve. Doing this will allow you to create a curved text with a glitch effect.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-10.png)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+1. You can download your video with text distortion or share it on your social media platforms.
+
+## Bonus! Free Online Text Distorter
+
+You can also distort text with online tools. You need an internet connection and your PC or mobile device to use these platforms. Here are some of the popular online text distorters you'll find online.
+
+### 1\. PicMonkey
+
+This online tool provides photo editing and graphic design tools, and you can use it to distort the text in your photo. PicMonkey.com allows you to put your words into arcs and circles to create typography art. You can also add drop shadow, and knockout, to outline the center of the distorted text. The handles on both sides of the text box allow you to resize the diameter of the circled text or scrunch up or stretch out your arched text. Additionally, you can add spaces between the letters and play with the kerning of the text.
+
+![online text distorter - picmonkey](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### 2.MockoFun
+
+Adding text along a curve is a great way to make a strong graphic statement. The tool lets you create a logo and include a circular distorted text. You can also add this effect to photos using MockoFun.com.
+
+Many graphic designers use this tool to create distorted text on badges, labels, and logos to make their designs cool and attention-grabbing.
+
+![online text distorter - MockoFun](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. Zalgo
+
+Zalgo Text Generator is an online tool that allows you to create glitch text. The Zalgo text will be a glitchy form of usual text. Zalgo.org is also free to use this online text distorter.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 4\. GFTO
+
+EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 5\. Wavy Text Generator
+
+This tool allows you to distort text by adding a wavy effect to it. To use this tool, you only have to head to nhttp://www.coding-dude.com/wp/wavy-text-generator/ and type your text in the field, then this text distorter will generate a preview showing the results of how your text will look like. The pink button allows you to copy your text's HTML/CSS code.
+
+![online text distorter - Wavy Text Generator](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** Text distortion allows you to create attention-grabbing content. You can use the above tools to create this effect on your text to make it stand out and look more appealing to the audience or viewers.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Over the past few years, distortion effects have become popular. People also apply distortion effects on text to make it stand out. You can use this effect on both video and photography. In this blog post, we'll look at how to distort the text in photography and video. We have also provided a list of free text distorters.
+
+#### In this article
+
+01 [What Is Text Distortion?](#part1)
+
+02 [How to Distort Text in Photography Using Photoshop](#part2)
+
+03 [How to Distort Text in Video?](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Is Text Distortion?
+
+Distortion of text is referred to as the alteration of the original characteristics or shape of a text. Most people use text distortion to add uniqueness to their photos or videos and make sure their projects stand out from the pack.
+
+## How to Distort Text in Photography Using Photoshop
+
+If you are looking for ways to combine art and words, Photoshop offers the right tools to help you add creative effects to text. You can apply text distortion to product logos, headers for a blog, or headers you would like to use in other marketing materials to make them stand out.
+
+By typing normal characters and applying changes with a few clicks in the program, you will save yourself the time and money that you would have used in outsourcing custom designs.
+
+The bottom line is: Distorting text in Photoshop is a simple process that requires patience and a little know-how. You can distort the text in many ways, making it a useful tool for creating various looks for your designs.
+
+With that in mind, let's look at how you can apply text distortion in photography using Photoshop.
+
+### Step 1\
+
+Start Photoshop, and then click on the File menu. Select the New option and set parameters for your document, according to the space the text is going to occupy in its intended medium. In the Name field, type a name. You can also decide to leave the Photoshop default.
+
+![text distortion in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### Step 2\
+
+Click the Window menu to open the Layers panel and click Layers.
+
+### Step 3\
+
+Click on the New Layer icon that resembles a bent-corner sticky note.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### Step 4\
+
+Click on the T icon located in the Tools panel. You can also click on the Window and select Tools if you don't see the Tools panel. After opening the Type toolbar, choose the text size, color, and font you'll use for the distorted text. Now, click the canvas, and then type the text you want to distort. The text appears in a non-distorted format when you type.
+
+### Step 5\
+
+Check the list and right-click on the new text layer with a T icon symbol and the words you have typed. Select the Rasterize Layer option; this will turn the box with the T icon into a white and gray checkerboard.
+
+![how to distort text in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+### Step 6\
+
+Click on the Edit menu, then hover your cursor over Transform. From the fly-out menu, choose Distort. A border encircled with white boxes will surround the text on the canvas. Click and pull a corner box away from the text, like toward a corner of the Adobe Photoshop work area.
+
+Be sure to pull it in different directions and check how the text will become funhouse-style elongated in different ways; this will allow you to judge which look you prefer for your text distortion.
+
+### Step 7\
+
+Now, click another corner and drag towards the center to make the text look like it's slightly squished.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+### Step 8\
+
+Take one of the middleboxes and pull and drug them on either the bottom or top to make the text wider.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+### Step 9\
+
+Tinker around with different changes mentioned above until you get the text distortion you want. Once you are satisfied with the results, hit Enter to set the change and get rid of the boxes and borders from the text.
+
+### Step 10\
+
+Select the File menu and click Save As. Photoshop will automatically have "PSD" displayed in the Format box, which allows you to save your file as a proprietary Photoshop PSD. Make sure you leave this extension, as it lets you re-access the design layers and perform more text distortions in the future. Now, click on Save.
+
+### Step 11\
+
+Go to the File menu and click on it. Select the Save As option again. Choose your preferred graphic format and click Save. Photoshop will prompt you about discarding layers. When you see this, click OK or Yes. Doing this will render your text uneditable and allow anyone with an image viewer to open your graphic instead of only Photoshop. It will also allow you to include it in word processing documents, websites, and other materials.
+
+#### Add Noise to the Text
+
+Select your text and then go to Filter - Noise - Add Noise; this will add Noise to the text. Next, select your text again and go to Filter -Blur -Gaussian Blur; this will blur the edges of the text to help smooth out the distortion.
+
+#### Make the Text Look like Ink with a Smudge Tool
+
+You can add a texture overlay for more texture and dimension to your text. To do this, click on the Text option in the Toolbox and select the dropdown that says Add Texture Overlay; this opens a new window, and you can click on your image to choose the texture.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## How to Distort Text in Video?
+
+Canva is a graphic design platform that offers software for both Windows and Mac. You can use this program to edit photos, videos, and documents. It comes with loads of features that you can use. You can distort texts in video using Canva by following the steps below:
+
+1. Head to <https://www.canva.com/download/windows/> and download Canva. Install the software on your PC and launch it.
+2. Click the Create a Design button.
+3. Select the Custom Size option, and enter the dimensions of choice before clicking the Create New Design button. You can also choose the preset design size options.
+4. Drag and drop the video into Canva.
+5. Next, click on Text on the left side menu and choose the Add A Heading option. Enter your text in the box. You can change the size of your text and color.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+1. Next, highlight the text, and then go to Effects. Click on Glitch and Curve. Doing this will allow you to create a curved text with a glitch effect.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-10.png)
+
+1. You can download your video with text distortion or share it on your social media platforms.
+
+## Bonus! Free Online Text Distorter
+
+You can also distort text with online tools. You need an internet connection and your PC or mobile device to use these platforms. Here are some of the popular online text distorters you'll find online.
+
+### 1\. PicMonkey
+
+This online tool provides photo editing and graphic design tools, and you can use it to distort the text in your photo. PicMonkey.com allows you to put your words into arcs and circles to create typography art. You can also add drop shadow, and knockout, to outline the center of the distorted text. The handles on both sides of the text box allow you to resize the diameter of the circled text or scrunch up or stretch out your arched text. Additionally, you can add spaces between the letters and play with the kerning of the text.
+
+![online text distorter - picmonkey](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+### 2.MockoFun
+
+Adding text along a curve is a great way to make a strong graphic statement. The tool lets you create a logo and include a circular distorted text. You can also add this effect to photos using MockoFun.com.
+
+Many graphic designers use this tool to create distorted text on badges, labels, and logos to make their designs cool and attention-grabbing.
+
+![online text distorter - MockoFun](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Zalgo
+
+Zalgo Text Generator is an online tool that allows you to create glitch text. The Zalgo text will be a glitchy form of usual text. Zalgo.org is also free to use this online text distorter.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### 4\. GFTO
+
+EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+### 5\. Wavy Text Generator
+
+This tool allows you to distort text by adding a wavy effect to it. To use this tool, you only have to head to nhttp://www.coding-dude.com/wp/wavy-text-generator/ and type your text in the field, then this text distorter will generate a preview showing the results of how your text will look like. The pink button allows you to copy your text's HTML/CSS code.
+
+![online text distorter - Wavy Text Generator](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** Text distortion allows you to create attention-grabbing content. You can use the above tools to create this effect on your text to make it stand out and look more appealing to the audience or viewers.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Over the past few years, distortion effects have become popular. People also apply distortion effects on text to make it stand out. You can use this effect on both video and photography. In this blog post, we'll look at how to distort the text in photography and video. We have also provided a list of free text distorters.
+
+#### In this article
+
+01 [What Is Text Distortion?](#part1)
+
+02 [How to Distort Text in Photography Using Photoshop](#part2)
+
+03 [How to Distort Text in Video?](#part3)
+
+## What Is Text Distortion?
+
+Distortion of text is referred to as the alteration of the original characteristics or shape of a text. Most people use text distortion to add uniqueness to their photos or videos and make sure their projects stand out from the pack.
+
+## How to Distort Text in Photography Using Photoshop
+
+If you are looking for ways to combine art and words, Photoshop offers the right tools to help you add creative effects to text. You can apply text distortion to product logos, headers for a blog, or headers you would like to use in other marketing materials to make them stand out.
+
+By typing normal characters and applying changes with a few clicks in the program, you will save yourself the time and money that you would have used in outsourcing custom designs.
+
+The bottom line is: Distorting text in Photoshop is a simple process that requires patience and a little know-how. You can distort the text in many ways, making it a useful tool for creating various looks for your designs.
+
+With that in mind, let's look at how you can apply text distortion in photography using Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+### Step 1\
+
+Start Photoshop, and then click on the File menu. Select the New option and set parameters for your document, according to the space the text is going to occupy in its intended medium. In the Name field, type a name. You can also decide to leave the Photoshop default.
+
+![text distortion in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 2\
+
+Click the Window menu to open the Layers panel and click Layers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### Step 3\
+
+Click on the New Layer icon that resembles a bent-corner sticky note.
+
+### Step 4\
+
+Click on the T icon located in the Tools panel. You can also click on the Window and select Tools if you don't see the Tools panel. After opening the Type toolbar, choose the text size, color, and font you'll use for the distorted text. Now, click the canvas, and then type the text you want to distort. The text appears in a non-distorted format when you type.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 5\
+
+Check the list and right-click on the new text layer with a T icon symbol and the words you have typed. Select the Rasterize Layer option; this will turn the box with the T icon into a white and gray checkerboard.
+
+![how to distort text in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-2.png)
+
+### Step 6\
+
+Click on the Edit menu, then hover your cursor over Transform. From the fly-out menu, choose Distort. A border encircled with white boxes will surround the text on the canvas. Click and pull a corner box away from the text, like toward a corner of the Adobe Photoshop work area.
+
+Be sure to pull it in different directions and check how the text will become funhouse-style elongated in different ways; this will allow you to judge which look you prefer for your text distortion.
+
+### Step 7\
+
+Now, click another corner and drag towards the center to make the text look like it's slightly squished.
+
+### Step 8\
+
+Take one of the middleboxes and pull and drug them on either the bottom or top to make the text wider.
+
+### Step 9\
+
+Tinker around with different changes mentioned above until you get the text distortion you want. Once you are satisfied with the results, hit Enter to set the change and get rid of the boxes and borders from the text.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 10\
+
+Select the File menu and click Save As. Photoshop will automatically have "PSD" displayed in the Format box, which allows you to save your file as a proprietary Photoshop PSD. Make sure you leave this extension, as it lets you re-access the design layers and perform more text distortions in the future. Now, click on Save.
+
+### Step 11\
+
+Go to the File menu and click on it. Select the Save As option again. Choose your preferred graphic format and click Save. Photoshop will prompt you about discarding layers. When you see this, click OK or Yes. Doing this will render your text uneditable and allow anyone with an image viewer to open your graphic instead of only Photoshop. It will also allow you to include it in word processing documents, websites, and other materials.
+
+#### Add Noise to the Text
+
+Select your text and then go to Filter - Noise - Add Noise; this will add Noise to the text. Next, select your text again and go to Filter -Blur -Gaussian Blur; this will blur the edges of the text to help smooth out the distortion.
+
+#### Make the Text Look like Ink with a Smudge Tool
+
+You can add a texture overlay for more texture and dimension to your text. To do this, click on the Text option in the Toolbox and select the dropdown that says Add Texture Overlay; this opens a new window, and you can click on your image to choose the texture.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Distort Text in Video?
+
+Canva is a graphic design platform that offers software for both Windows and Mac. You can use this program to edit photos, videos, and documents. It comes with loads of features that you can use. You can distort texts in video using Canva by following the steps below:
+
+1. Head to <https://www.canva.com/download/windows/> and download Canva. Install the software on your PC and launch it.
+2. Click the Create a Design button.
+3. Select the Custom Size option, and enter the dimensions of choice before clicking the Create New Design button. You can also choose the preset design size options.
+4. Drag and drop the video into Canva.
+5. Next, click on Text on the left side menu and choose the Add A Heading option. Enter your text in the box. You can change the size of your text and color.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+1. Next, highlight the text, and then go to Effects. Click on Glitch and Curve. Doing this will allow you to create a curved text with a glitch effect.
+
+![how to distort text in video with canva](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-10.png)
+
+1. You can download your video with text distortion or share it on your social media platforms.
+
+## Bonus! Free Online Text Distorter
+
+You can also distort text with online tools. You need an internet connection and your PC or mobile device to use these platforms. Here are some of the popular online text distorters you'll find online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. PicMonkey
+
+This online tool provides photo editing and graphic design tools, and you can use it to distort the text in your photo. PicMonkey.com allows you to put your words into arcs and circles to create typography art. You can also add drop shadow, and knockout, to outline the center of the distorted text. The handles on both sides of the text box allow you to resize the diameter of the circled text or scrunch up or stretch out your arched text. Additionally, you can add spaces between the letters and play with the kerning of the text.
+
+![online text distorter - picmonkey](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2.MockoFun
+
+Adding text along a curve is a great way to make a strong graphic statement. The tool lets you create a logo and include a circular distorted text. You can also add this effect to photos using MockoFun.com.
+
+Many graphic designers use this tool to create distorted text on badges, labels, and logos to make their designs cool and attention-grabbing.
+
+![online text distorter - MockoFun](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Zalgo
+
+Zalgo Text Generator is an online tool that allows you to create glitch text. The Zalgo text will be a glitchy form of usual text. Zalgo.org is also free to use this online text distorter.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### 4\. GFTO
+
+EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-12.png)
+
+### 5\. Wavy Text Generator
+
+This tool allows you to distort text by adding a wavy effect to it. To use this tool, you only have to head to nhttp://www.coding-dude.com/wp/wavy-text-generator/ and type your text in the field, then this text distorter will generate a preview showing the results of how your text will look like. The pink button allows you to copy your text's HTML/CSS code.
+
+![online text distorter - Wavy Text Generator](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** Text distortion allows you to create attention-grabbing content. You can use the above tools to create this effect on your text to make it stand out and look more appealing to the audience or viewers.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-reactivate-lost-chatter-in-social-media-clips/"><u>[New] 2024 Approved  Reactivate Lost Chatter in Social Media Clips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-free-virtual-music-pulse-analyzers/"><u>[New] Explore Free, Virtual Music Pulse Analyzers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-4k-with-the-new-nikon-d500-camera/"><u>[New] Mastering 4K with the New Nikon D500 Camera</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860159037-updated-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>[Updated] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-tools-for-perfect-linux-screenshots/"><u>[Updated] In 2024, Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/10-key-tips-to-design-podcast-cover-art-for-2024/"><u>10 Key Tips to Design Podcast Cover Art for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/10-quick-diy-moviemaking-secrets-unveiled-for-2024/"><u>10 Quick DIY Moviemaking Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-affordable-aerial-cameras-top-picks-under-100/"><u>2024 Approved  Affordable Aerial Cameras  Top Picks Under $100</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-best-sixers-comprehensive-4k-camera-guide/"><u>2024 Approved  Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-constructing-cinema-stories/"><u>2024 Approved  Constructing Cinema Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-creating-stunning-overlays-in-photoshop/"><u>2024 Approved  Creating Stunning Overlays in Photoshop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dial-in-the-perfect-accessories-for-dynamic-videos/"><u>2024 Approved  Dial in the Perfect Accessories for Dynamic Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-editortech-examination-visualflow-pro-the-complete-guide/"><u>2024 Approved  EditorTech Examination  VisualFlow Pro, The Complete Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-note-taking-to-new-heights-with-mematic/"><u>2024 Approved  Elevate Note-Taking to New Heights with Mematic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-performers-top-picks-from-skate-highlights/"><u>2024 Approved  Elite Performers  Top Picks From Skate Highlights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-soundstage-storytelling-scripts/"><u>2024 Approved  Elite Soundstage Storytelling Scripts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-cinematics-with-kinemasters-transition-magic/"><u>2024 Approved  Enhancing Cinematics with Kinemaster's Transition Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-fashion-items-for-sj4000-owners/"><u>2024 Approved  Essential Fashion Items for SJ4000 Owners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-essentials-of-effective-spotify-ad-placement/"><u>2024 Approved  Essentials of Effective Spotify Ad Placement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-exploring-alternatives-to-magixs-acid-pro/"><u>2024 Approved  Exploring Alternatives to Magix's ACID Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-extended-review-uncomplicated-hdr-approach/"><u>2024 Approved  Extended Review  Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ffmpegs-audio-recapture-challenge/"><u>2024 Approved  FFmpeg's Audio Recapture Challenge</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ideal-selection-of-cost-effective-4k-projection-screens/"><u>2024 Approved  Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovating-through-virtual-experiences/"><u>2024 Approved  Innovating Through Virtual Experiences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovative-techniques-for-designing-attractive-vlog-narratives/"><u>2024 Approved  Innovative Techniques for Designing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-journey-through-filmora-editing-10-standout-functions/"><u>2024 Approved  Journey Through Filmora Editing  10 Standout Functions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-laughing-in-the-metaverse-how-to-create-your-own-funny-memes/"><u>2024 Approved  Laughing in the Metaverse  How to Create Your Own Funny Memes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-shadows-and-highlights-through-photoshop-curves/"><u>2024 Approved  Mastering Shadows & Highlights Through Photoshop Curves</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>2024 Approved  Optimize iPhone Usage  How to Manipulate Picture-in-Picture on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>2024 Approved  Perfecting iPhone Photography  Mastery of Macro and Close-Up Details</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-prime-mkv-software-pc-and-android/"><u>2024 Approved  Prime MKV Software  PC & Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pushing-boundaries-advanced-iphone-silhouette-techniques/"><u>2024 Approved  Pushing Boundaries  Advanced iPhone Silhouette Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>2024 Approved  Revolutionize Post-Production  The Best 11 Tutorials on Color Workflow</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>2024 Approved  Secure Your Files at No Cost  The Best Free 1TB+ Cloud Storages</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/"><u>2024 Approved  Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-into-premium-sound-quality-garageband-edition/"><u>2024 Approved  Step Into Premium Sound Quality  GarageBand Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streaming-success-without-xsplit/"><u>2024 Approved  Streaming Success Without Xsplit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sustaining-wellbeing-in-virtual-reality/"><u>2024 Approved  Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-syncopated-syntax-showcase/"><u>2024 Approved  Syncopated Syntax Showcase</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-photographers-toolkit-top-text-editors-for-images/"><u>2024 Approved  The Photographer's Toolkit  Top Text Editors for Images</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-innovations-in-podcast-titling-with-ai-assistants/"><u>2024 Approved  Top Innovations in Podcast Titling with AI Assistants</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-total-zen-closing-virtual-horizons/"><u>2024 Approved  Total Zen  Closing Virtual Horizons</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-worlds-greatest-payloads-heavy-lift-drones-guide/"><u>2024 Approved  World's Greatest Payloads  Heavy Lift Drones Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>2024 Approved  Zoomy Zappers  Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/3-easy-steps-for-masterful-image-grading/"><u>3 Easy Steps for Masterful Image Grading</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-axon-40-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE Axon 40 Lite FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-application-runtime-to-compensate-for-lack-of-qt-plugins/"><u>Adjusting Application Runtime to Compensate for Lack of Qt Plugins</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-photography-with-photo-8s-windows-edition-download-now/"><u>Boost Your Photography with Photo 8'S Windows Edition - Download Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-c51-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Poco C51.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-logitech-extreme-3d-pro-driver-upgrade-a-step-by-step-guide/"><u>How to Install the Latest Logitech Extreme 3D Pro Driver Upgrade: A Step-by-Step Guide |</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>In 2024, Expert Guide  Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-15-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 SIM Lock?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-star-wars-squadrons-game-analysis-engrossing-galactic-battles-await/"><u>In-Depth Star Wars Squadrons Game Analysis - Engrossing Galactic Battles Await!</u></a></li>
+<li><a href="https://techidaily.com/remove-v30-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove V30 unlock screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-why-is-my-valorant-in-game-voice-chat-malfunctioning/"><u>Solving the Problem: Why Is My Valorant In-Game Voice Chat Malfunctioning?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-checklist-tracking-igtv-analytics/"><u>The Ultimate Checklist  Tracking IGTV Analytics</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-se-2022-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone SE (2022) Location By Mobile Number | Dr.fone</u></a></li>
+</ul></div>
