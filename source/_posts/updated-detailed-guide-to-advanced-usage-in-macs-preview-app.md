@@ -1,0 +1,273 @@
+---
+title: "[Updated] Detailed Guide to Advanced Usage in Mac's Preview App"
+date: 2024-08-27T15:36:50.152Z
+updated: 2024-08-28T15:36:50.152Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [Updated] Detailed Guide to Advanced Usage in Mac's Preview App"
+excerpt: "This Article Describes [Updated] Detailed Guide to Advanced Usage in Mac's Preview App"
+keywords: "Mac Preview Basics,Advanced Preview Tips,Mastering Mac Preview,Expert Mac Preview Use,Preview App Proficiency,Key Features in Preview,Enhance Mac Preview Skills"
+thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6cff4615a7e12084a4473983a.jpg
+---
+
+## Detailed Guide to Advanced Usage in Mac's Preview App
+
+# How to Use Preview App on Mac
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+The **Preview app** is a built-in program in macOS, and works as a default viewer for the image and PDF files that your Mac computer has. Because Preview is also an editing software, you don’t need to look for any other third-party tool for basic photo and PDF manipulations.
+
+That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
+
+## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
+
+Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
+
+The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+### How to View and Edit Photos in Preview on Mac
+
+As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
+
+#### To view an image in Preview
+
+* Double-click the photo, or
+* Right-click the photo, go to **Open With** on the context menu, and click **Preview (default)** from the submenu that appears
+
+#### To edit an image in Preview
+
+* Use the tools present on the standard toolbar at the top of the interface
+* Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+### How to Show Markup Tools in Preview on Mac
+
+Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
+
+**Step 1: Show Markup Tools**
+
+Click the **Show Markup Toolbar** icon present at the upper-right area to reveal the editing tools right under the standard toolbar.
+
+**Step 2: Hide Markup Tools**
+
+Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
+
+**Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### How to Crop in Preview
+
+In order to crop a photo in the **Preview app**:
+
+**Step 1: Open the Image**
+
+Use the method explained earlier to open the photo you want to edit in Preview.
+
+**Step 2: Select the Area of Interest**
+
+Drag the mouse pointer over the area of the photo you want to keep. If need be, click anywhere between the marked region and drag to reposition the selection. In addition, you can use any of the available side handles to adjust the area of interest on the image.
+
+**Step 3: Crop the Photo**
+
+Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+### How to Rotate Image in Preview
+
+Rotating an image in the **Preview app** is fairly simple. To do so:
+
+**Step 1: Open the Target Image**
+
+Use the method explained above to open the photo in Preview.
+
+**Step 2: Rotate the Image**
+
+Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### How to Add Text to Image in Preview
+
+The **Preview app** even lets you annotate the images with ease. To add text to a photo:
+
+**Step1: Insert Text Frame**
+
+Click the **Text** icon from the **Markup Toolbar**, drag the side handles to adjust the width of the text frame, and use the mouse to drag and reposition the entire frame to your preferred location on the photo.
+
+**Step 2: Add Text**
+
+Click inside the frame, delete the existing placeholder text, and type a new caption/annotation for the picture.
+
+**Step 3: Format the Text**
+
+Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+### How to Remove Background in Preview
+
+As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
+
+**Step 1: Select Unwanted Parts of the Image**
+
+Click the **Instant Alpha** icon from the left area of the **Markup Toolbar**, click anywhere on the unwanted background on the image, and slowly drag the mouse. Notice the red colored coating that the image starts getting covered with. This is the portion that Preview will consider background and will remove. While dragging the mouse, if any section of the image that you want to keep gets red, drag the pointer to the opposite direction to deselect the area.
+
+**Step 2: Remove the Background**
+
+Once the background portion of the image gets selected (colored in red), without releasing the mouse button, press **Delete** on the keyboard.
+
+**Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
+
+**Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+### How to Combine Images into One
+
+This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
+
+**Step 1: Open Both the Images**
+
+Drag mouse over both the images you want to participate in the process, right-click any one of the selected photos, go to **Open With**, and click **Preview (default)** from the submenu.
+
+**Step 2: Remove Background from the First Image**
+
+Ensure that Preview opens with both the images listed in the sidebar in the left. From the sidebar, select first image, and use the **Instant Alpha** tool as explained earlier to remove the background.
+
+**Step 3: Combine the Images**
+
+After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Save Images in Different Formats
+
+The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
+
+**Step 1: Get to the Export Box**
+
+After opening an image, click **File** from the menu bar at the top, and click **Export** from the menu that appears next.
+
+**Step 2: Choose Output Format and Export**
+
+Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+### Part 2: FAQs About Preview App on Mac
+
+#### What is the Preview App?
+
+1. Preview is a built-in program in macOS that works as a default image and PDF viewer, and is also equipped with some elementary editing tools.
+
+#### Where to find the Preview App on Mac?
+
+1. Usually, when you double-click an image or a PDF document, the **Preview app** is automatically initialized displaying the contents of the file. If you want to manually open the program, you can find it in the **Applications** folder on your Mac.
+
+#### What formats does Preview support?
+
+1. At the time of this writing, the **Preview app** supports **HEIC**, **JPEG**, **JPEG-2000**, **OpenEXR**, **PDF**, **PNG**, and **TIFF**
+
+#### Can you convert images in Preview?
+
+1. Yes, you can. In addition to the process explained in **Section 8** of **Part 1**, the **Preview app for Mac** also supports batch conversion. To do so, you must:
+
+* Select all the images you want to convert
+* Drag the selected photos to the **Preview** icon on the **Dock**
+* Confirm that all the images you selected are present in the sidebar of the **Preview app**. You can drag and drop more images from your Mac to this sidebar to add them to the list
+* Press **Command** \+ **A** on the keyboard to select all the images in the sidebar
+* Click **File** from the menu bar at the top
+* Click **Export Selected Images** from the menu that comes down
+
+**Note:** Make sure that all the images you selected are of the same format. Preview doesn’t allow batch conversion of varied photo types.
+
+* Pick a destination folder from the navigation bar in the left
+* Click **Options** from the bottom
+* Select your preferred output format for all the images from the **Format** drop-down list
+* Click **Choose** to convert all the images in a single go
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-exclusive-list-10-budget-friendly-passport-photographers-online/"><u>[New] 2024 Approved  Exclusive List  10 Budget-Friendly Passport Photographers Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-illuminating-path-to-stellar-android-video-quality/"><u>[New] 2024 Approved  Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-implementing-visual-learning-strategies-in-classrooms/"><u>[New] 2024 Approved  Implementing Visual Learning Strategies in Classrooms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-master-the-art-of-social-media-success-with-these-10-facebook-tips/"><u>[New] 2024 Approved  Master the Art of Social Media Success with These 10 Facebook Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pioneering-changes-to-your-pubg-characters-speech/"><u>[New] 2024 Approved  Pioneering Changes to Your PUBG Character's Speech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beam-yourself-into-vr-android-tips-and-tricks/"><u>[New] Beam Yourself Into VR  Android Tips & Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>[New] In 2024, From Doodles to Success  Your Guide to a Flourishing Design Career</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[New] In 2024, From Flat to Framed  Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-mac-animation-extractor/"><u>[New] Prime Mac Animation Extractor</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[New] Secure Your Content  Copyright Checks Before TikTok Sharing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>[New] Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>[Updated] 2024 Approved  Masterclass in Digital Animation  The Art of Creating GIFs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-simplified-avatar-design-in-the-metaverse-explained/"><u>[Updated] 2024 Approved  Simplified Avatar Design in the Metaverse Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-xsplit-archive-detailed-video-game-analyses/"><u>[Updated] 2024 Approved  XSplit Archive  Detailed Video Game Analyses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-capturing-the-horizon-expert-techniques-in-drone-filmmaking-for-2024/"><u>[Updated] Capturing the Horizon  Expert Techniques in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-channel-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>[Updated] In 2024, Channel Compendium  Best of the Bunch - Historical YouTubes For Study</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-tips-for-hiring-best-film-makers/"><u>[Updated] In 2024, Expert Tips for Hiring Best Film Makers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-free-mindfulness-melodies/"><u>[Updated] In 2024, Free Mindfulness Melodies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-gif-to-sticker-guide-mastering-conversion-on-discord-whatsapp-telegram/"><u>[Updated] In 2024, GIF to Sticker Guide  Mastering Conversion on Discord, WhatsApp, Telegram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-usenet-video-player-direct-streaming-access/"><u>[Updated] In 2024, Usenet Video Player  Direct Streaming Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-visualize-verve-vocalize-laughter-kapwings-toolkit/"><u>[Updated] In 2024, Visualize Verve, Vocalize Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-decades-best-writes-across-film-classifications/"><u>2024 Approved  A Decade's Best Writes Across Film Classifications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-the-leading-mobile-movie-units/"><u>2024 Approved  Discover the Leading Mobile Movie Units</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-attracting-and-managing-brands-as-affiliates-on-youtube/"><u>2024 Approved  Mastering the Art of Attracting and Managing Brands as Affiliates on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/direct-data-delivery-fast-file-pathways-to-desktop/"><u>Direct Data Delivery  Fast File Pathways to Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-brother-mfc-7860dw-printer-on-windows/"><u>Download and Update Drivers for Brother MFC-7860DW Printer on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-spend-on-youtube-campaigns-for-2024/"><u>Evaluating Spend on YouTube Campaigns for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-advanced-crossfade-methods-to-elevate-your-audiovisual-projects/"><u>In 2024, Advanced Crossfade Methods to Elevate Your Audiovisual Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-avoid-washed-out-iphone-hd-videos-4-premiere-pro-methods/"><u>In 2024, Avoid Washed-Out iPhone HD Videos  4 Premiere Pro Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-se-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone SE Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-making-the-most-out-of-your-films-b-roll/"><u>In 2024, Making the Most Out of Your Film's B-Roll</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pinnacle-article-hook-maker/"><u>In 2024, Pinnacle Article Hook Maker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-aspers-methodology-for-sleep-success/"><u>Navigating Asper's Methodology for Sleep Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-for-semaphore-timeout-period-has-expired-error/"><u>Step-by-Step Repair for 'Semaphore Timeout Period Has Expired' Error</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/thrifty-filmmakers-action-camera-options-for-2024/"><u>Thrifty Filmmaker's Action Camera Options for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-more-potential-with-chatgpt-on-your-desktop-versus-online-usage/"><u>Unlocking More Potential with ChatGPT on Your Desktop Versus Online Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-say-goodbye-to-frustration-easy-filmora-discount-codes/"><u>Updated 2024 Approved Say Goodbye to Frustration Easy Filmora Discount Codes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/videorenewal-assistant-reviving-files/"><u>VideoRenewal Assistant: Reviving Files</u></a></li>
+</ul></div>
