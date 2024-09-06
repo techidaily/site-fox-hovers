@@ -1,7 +1,7 @@
 ---
 title: "DJI Airborne Prototype Scrutiny for 2024"
-date: 2024-08-31T21:42:38.685Z
-updated: 2024-09-01T21:42:38.685Z
+date: 2024-09-05T00:14:59.642Z
+updated: 2024-09-06T00:14:59.642Z
 tags: 
   - screen-recording
   - ai video
@@ -179,5 +179,8 @@ Follow @Max Wales
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

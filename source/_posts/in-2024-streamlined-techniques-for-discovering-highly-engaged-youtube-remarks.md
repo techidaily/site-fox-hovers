@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamlined Techniques for Discovering Highly Engaged YouTube Remarks"
-date: 2024-07-12T02:19:40.362Z
-updated: 2024-07-13T02:19:40.362Z
+date: 2024-09-05T00:11:23.352Z
+updated: 2024-09-06T00:11:23.352Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,12 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -83,6 +89,18 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Scroll down a little bit and click the **More** button.
 
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
@@ -109,12 +127,36 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -157,12 +199,30 @@ To put it another way, YouTube flags notable comments for you to ensure that new
 
 Additionally, video creators can manually highlight commenters to mark them for later responses. To do this, click on the comment's timestamp (found next to the commenter's username). Ta-da ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -189,16 +249,34 @@ Step3 Click the **Comments** section.
 
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
@@ -211,6 +289,12 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
 ## How to Respond to Comments
@@ -255,6 +339,18 @@ To put it another way, YouTube flags notable comments for you to ensure that new
 
 Additionally, video creators can manually highlight commenters to mark them for later responses. To do this, click on the comment's timestamp (found next to the commenter's username). Ta-da ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
@@ -282,3 +378,38 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-explore-and-expand-top-7-services-turning-your-digital-creations-into-crypto-assets/"><u>[New] 2024 Approved  Explore and Expand  Top 7 Services Turning Your Digital Creations Into Crypto Assets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed/"><u>[New] 2024 Approved  Full Spectrum Visionary  EIZO's CG318-4K Reviewed and Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-iphone-strategies-preserving-and-enjoying-gifs-at-their-best/"><u>[New] 2024 Approved  IPhone Strategies  Preserving & Enjoying GIFs at Their Best</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-smart-way-to-shop-for-drones-must-know-information/"><u>[New] 2024 Approved  The Smart Way to Shop for Drones  Must-Know Information</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-free-webm-players-how-to-play-webm-video-files-in-2024/"><u>[New] Best Free WebM Players  How to Play WebM Video Files, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-guide-to-audio-effects-starting-with-auditions-fade-in/"><u>[New] In 2024, Essential Guide to Audio Effects  Starting with Audition’s Fade In</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>[New] In 2024, GoPro Time Lapse Tips  Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leading-brands-of-steadicams-for-professional-drones-in-film/"><u>[New] In 2024, Leading Brands of Steadicams for Professional Drones in Film</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-must-have-10-fcp-plug-ins-for-professionals/"><u>[New] In 2024, Must-Have 10 FCP Plug-Ins for Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-refining-your-online-visual-experience-with-zooms/"><u>[New] In 2024, Refining Your Online Visual Experience with Zooms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-mkv-player-for-windows-devices/"><u>[New] Premium MKV Player for Windows Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eamless-google-meet-integration-for-youtube-enthusiasts/"><u>[New] Seamless Google Meet Integration for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streamlining-image-processes-with-polarrs-compreeved-tools-for-2024/"><u>[New] Streamlining Image Processes with Polarr's Compreeved Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-undersea-gopro-enhancements/"><u>[Updated] Best Undersea Gopro Enhancements</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-much-does-pewdiepie-make-yearly-financial-report/"><u>[Updated] How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-produce-a-trending-solo-podcast-series/"><u>[Updated] How To Produce A Trending Solo Podcast Series</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-tapping-into-traditional-hymns-downloads-and-editing-guide/"><u>[Updated] In 2024, Tapping Into Traditional Hymns  Downloads & Editing Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-efficient-techniques-for-capturing-macos-content/"><u>2024 Approved  Efficient Techniques for Capturing macOS Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-traditional-chinese-salutation-patterns/"><u>Discovering Traditional Chinese Salutation Patterns</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/discreetly-share-life-with-instagram-live-for-2024/"><u>Discreetly Share Life with Instagram Live for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/find-your-perfect-match-with-these-best-5-iphone-pods/"><u>Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-prevent-youtube-from-starting-video-before-you-watch-for-2024/"><u>How to Prevent YouTube From Starting Video Before You Watch for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-conquering-hdr-photography-with-ease/"><u>In 2024, Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-wmv-video-editors-without-a-price-tag-2023-edition/"><u>New Best WMV Video Editors Without a Price Tag (2023 Edition)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/paint-your-posts-brightly-instagrams-triple-highlight-strategies-for-2024/"><u>Paint Your Posts Brightly  Instagram's Triple Highlight Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/preeminent-5-photo-background-changer-tools-iphone-x87-edition/"><u>Preeminent 5 Photo Background Changer Tools  IPhone X/8/7 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-minecraft-recordings-handbook/"><u>Pro Minecraft Recordings Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>Smart Selections  Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/streamlining-sound-creation-the-6-most-user-friendly-free-online-auditory-editing-tools/"><u>Streamlining Sound Creation The 6 Most User-Friendly, Free Online Auditory Editing Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-itel-p55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Itel P55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-top-15-cost-saving-web-editors-rated-best/"><u>Unveiling Top 15 Cost-Saving Web Editors - Rated Best</u></a></li>
+</ul></div>
