@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"fox-hovers.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8577</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9293</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8577</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9293</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-the-art-of-auditory-branding-logo-insights-for-podcasters-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png" alt="&#34;[Updated] The Art of Auditory Branding  Logo Insights for Podcasters for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-2024-approved-harnessing-ai-an-innovators-toolkit-for-youtube-titles/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg" alt="[Updated] 2024 Approved Harnessing AI An Innovator&#39;s Toolkit for YouTube Titles" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-the-art-of-auditory-branding-logo-insights-for-podcasters-for-2024/">
-                            &#34;[Updated] The Art of Auditory Branding  Logo Insights for Podcasters for 2024&#34;
+                        <a href="/updated-2024-approved-harnessing-ai-an-innovators-toolkit-for-youtube-titles/">
+                            [Updated] 2024 Approved Harnessing AI An Innovator&#39;s Toolkit for YouTube Titles
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [Updated] The Art of Auditory Branding: Logo Insights for Podcasters for 2024”</p>
+                            <p>“This Article Describes [Updated] 2024 Approved: Harnessing AI: An Innovator’s Toolkit for YouTube Titles”</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:35 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:52 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/updated-the-art-of-auditory-branding-logo-insights-for-podcasters-for-2024/">Read more<span class="seo-reader-text">&#34;[Updated] The Art of Auditory Branding  Logo Insights for Podcasters for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-2024-approved-harnessing-ai-an-innovators-toolkit-for-youtube-titles/">Read more<span class="seo-reader-text">[Updated] 2024 Approved Harnessing AI An Innovator&#39;s Toolkit for YouTube Titles</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -789,21 +846,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/in-2024-utilizing-lut-filters-in-obs-studio-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png" alt="In 2024, Utilizing LUT Filters in OBS Studio Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/in-2024-slow-taper-strategies-to-compress-sound-in-fl-studio/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c10e7d8eb07bd33367c48152.jpg" alt="In 2024, Slow Taper Strategies to Compress Sound in FL Studio" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/in-2024-utilizing-lut-filters-in-obs-studio-effectively/">
-                            In 2024, Utilizing LUT Filters in OBS Studio Effectively
+                        <a href="/in-2024-slow-taper-strategies-to-compress-sound-in-fl-studio/">
+                            In 2024, Slow Taper Strategies to Compress Sound in FL Studio
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes In 2024, Utilizing LUT Filters in OBS Studio Effectively</p>
+                            <p>This Article Describes In 2024, Slow Taper Strategies to Compress Sound in FL Studio</p>
 
                         
                     </div>
@@ -811,9 +868,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:34 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:51 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/in-2024-utilizing-lut-filters-in-obs-studio-effectively/">Read more<span class="seo-reader-text">In 2024, Utilizing LUT Filters in OBS Studio Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/in-2024-slow-taper-strategies-to-compress-sound-in-fl-studio/">Read more<span class="seo-reader-text">In 2024, Slow Taper Strategies to Compress Sound in FL Studio</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-2024-approved-how-to-engage-with-snapchat-luminaries/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85a816656ff3b301d8b067e97.jpg" alt="&#34;[Updated] 2024 Approved  How to Engage with Snapchat Luminaries&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-aerial-shooting-essentials-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e99cf7ed2375f403fbf9fc3e.jpg" alt="[Updated] Aerial Shooting Essentials for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-2024-approved-how-to-engage-with-snapchat-luminaries/">
-                            &#34;[Updated] 2024 Approved  How to Engage with Snapchat Luminaries&#34;
+                        <a href="/updated-aerial-shooting-essentials-for-2024/">
+                            [Updated] Aerial Shooting Essentials for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [Updated] 2024 Approved: How to Engage with Snapchat Luminaries”</p>
+                            <p>This Article Describes [Updated] Aerial Shooting Essentials for 2024</p>
 
                         
                     </div>
@@ -907,9 +964,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:33 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:50 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/updated-2024-approved-how-to-engage-with-snapchat-luminaries/">Read more<span class="seo-reader-text">&#34;[Updated] 2024 Approved  How to Engage with Snapchat Luminaries&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-aerial-shooting-essentials-for-2024/">Read more<span class="seo-reader-text">[Updated] Aerial Shooting Essentials for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -981,21 +1038,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-syncing-sounds-to-visuals-online/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b2067dd8fea4392e3520b311142.jpg" alt="[Updated] Syncing Sounds to Visuals Online" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-in-2024-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042ad27894aff917614decf98a8.jpg" alt="[New] In 2024, Swiftly Start Sharing Joy Installing the iFunny Meme App" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-syncing-sounds-to-visuals-online/">
-                            [Updated] Syncing Sounds to Visuals Online
+                        <a href="/new-in-2024-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/">
+                            [New] In 2024, Swiftly Start Sharing Joy Installing the iFunny Meme App
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [Updated] Syncing Sounds to Visuals Online</p>
+                            <p>“This Article Describes [New] In 2024, Swiftly Start Sharing Joy: Installing the iFunny Meme App”</p>
 
                         
                     </div>
@@ -1003,9 +1060,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:32 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:49 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/updated-syncing-sounds-to-visuals-online/">Read more<span class="seo-reader-text">[Updated] Syncing Sounds to Visuals Online</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-in-2024-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/">Read more<span class="seo-reader-text">[New] In 2024, Swiftly Start Sharing Joy Installing the iFunny Meme App</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/next-gen-screen-leaders-best-4k-tvs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg" alt="&#34;Next-Gen Screen Leaders  Best 4K TVs&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-2024-approved-joyful-jokes-on-pixels-35-best-mobile-apps/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38ea9e6dfe43b98273ae04085.jpg" alt="[Updated] 2024 Approved Joyful Jokes on Pixels 35 Best Mobile Apps" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/next-gen-screen-leaders-best-4k-tvs/">
-                            &#34;Next-Gen Screen Leaders  Best 4K TVs&#34;
+                        <a href="/updated-2024-approved-joyful-jokes-on-pixels-35-best-mobile-apps/">
+                            [Updated] 2024 Approved Joyful Jokes on Pixels 35 Best Mobile Apps
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes Next-Gen Screen Leaders: Best 4K TVs”</p>
+                            <p>“This Article Describes [Updated] 2024 Approved: Joyful Jokes on Pixels: 35 Best Mobile Apps”</p>
 
                         
                     </div>
@@ -1099,9 +1156,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:31 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:48 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/next-gen-screen-leaders-best-4k-tvs/">Read more<span class="seo-reader-text">&#34;Next-Gen Screen Leaders  Best 4K TVs&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-2024-approved-joyful-jokes-on-pixels-35-best-mobile-apps/">Read more<span class="seo-reader-text">[Updated] 2024 Approved Joyful Jokes on Pixels 35 Best Mobile Apps</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1173,21 +1230,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/hear-got-music-top-sites-to-download-ringtones/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg" alt="&#34;Hear GoT Music - Top Sites to Download Ringtones&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-2024-approved-expert-strategies-for-live-over-the-net-broadcast-in-vlc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d6070583d2a1a451841876e1401.jpg" alt="[New] 2024 Approved Expert Strategies for Live Over-the-Net Broadcast in VLC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/hear-got-music-top-sites-to-download-ringtones/">
-                            &#34;Hear GoT Music - Top Sites to Download Ringtones&#34;
+                        <a href="/new-2024-approved-expert-strategies-for-live-over-the-net-broadcast-in-vlc/">
+                            [New] 2024 Approved Expert Strategies for Live Over-the-Net Broadcast in VLC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes Hear GoT Music - Top Sites to Download Ringtones”</p>
+                            <p>“This Article Describes [New] 2024 Approved: Expert Strategies for Live Over-the-Net Broadcast in VLC”</p>
 
                         
                     </div>
@@ -1195,9 +1252,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:30 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:46 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/hear-got-music-top-sites-to-download-ringtones/">Read more<span class="seo-reader-text">&#34;Hear GoT Music - Top Sites to Download Ringtones&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-2024-approved-expert-strategies-for-live-over-the-net-broadcast-in-vlc/">Read more<span class="seo-reader-text">[New] 2024 Approved Expert Strategies for Live Over-the-Net Broadcast in VLC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-in-2024-periscope-footage-lifesaving-tips-and-tricks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf37b6d4d36fe64b43b43e9aea.jpg" alt="[New] In 2024, Periscope Footage Lifesaving Tips &amp; Tricks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a5467f4617c51e1bd762f7f5db4.png" alt="Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-in-2024-periscope-footage-lifesaving-tips-and-tricks/">
-                            [New] In 2024, Periscope Footage Lifesaving Tips &amp; Tricks
+                        <a href="/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/">
+                            Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [New] In 2024, Periscope Footage Lifesaving Tips &amp; Tricks</p>
+                            <p>This Article Describes Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</p>
 
                         
                     </div>
@@ -1291,9 +1348,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:29 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:45 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1349,7 +1406,7 @@
         
     </div>
 
-    <a href="/new-in-2024-periscope-footage-lifesaving-tips-and-tricks/">Read more<span class="seo-reader-text">[New] In 2024, Periscope Footage Lifesaving Tips &amp; Tricks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/">Read more<span class="seo-reader-text">Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1365,21 +1422,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-solitary-voice-collective-applause-a-podcast-journey-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec48b8af506bc5428bdf5f9d0e.jpg" alt="&#34;[Updated] Solitary Voice, Collective Applause  A Podcast Journey for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-laugh-out-loud-a-step-by-step-meme-building-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70fd1186bee34b5c05700af6e2.jpg" alt="[Updated] Laugh Out Loud A Step-by-Step Meme Building for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-solitary-voice-collective-applause-a-podcast-journey-for-2024/">
-                            &#34;[Updated] Solitary Voice, Collective Applause  A Podcast Journey for 2024&#34;
+                        <a href="/updated-laugh-out-loud-a-step-by-step-meme-building-for-2024/">
+                            [Updated] Laugh Out Loud A Step-by-Step Meme Building for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [Updated] Solitary Voice, Collective Applause: A Podcast Journey for 2024”</p>
+                            <p>“This Article Describes [Updated] Laugh Out Loud: A Step-by-Step Meme Building for 2024”</p>
 
                         
                     </div>
@@ -1387,9 +1444,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:28 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:44 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1445,7 +1502,7 @@
         
     </div>
 
-    <a href="/updated-solitary-voice-collective-applause-a-podcast-journey-for-2024/">Read more<span class="seo-reader-text">&#34;[Updated] Solitary Voice, Collective Applause  A Podcast Journey for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-laugh-out-loud-a-step-by-step-meme-building-for-2024/">Read more<span class="seo-reader-text">[Updated] Laugh Out Loud A Step-by-Step Meme Building for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1461,21 +1518,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-premium-drone-fleet-the-ultimate-cinematic-allies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345539201fb129df4e83ad3d30.jpg" alt="&#34;[New] Premium Drone Fleet  The Ultimate Cinematic Allies&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-the-most-reliable-gopro-cases-1-10-showdown/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba58f7b17ac94759c2d0864364.jpg" alt="[New] The Most Reliable GoPro Cases - #1-10 Showdown" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-premium-drone-fleet-the-ultimate-cinematic-allies/">
-                            &#34;[New] Premium Drone Fleet  The Ultimate Cinematic Allies&#34;
+                        <a href="/new-the-most-reliable-gopro-cases-1-10-showdown/">
+                            [New] The Most Reliable GoPro Cases - #1-10 Showdown
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Premium Drone Fleet: The Ultimate Cinematic Allies”</p>
+                            <p>“This Article Describes [New] The Most Reliable GoPro Cases - #1-10 Showdown”</p>
 
                         
                     </div>
@@ -1483,9 +1540,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:27 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:43 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/new-premium-drone-fleet-the-ultimate-cinematic-allies/">Read more<span class="seo-reader-text">&#34;[New] Premium Drone Fleet  The Ultimate Cinematic Allies&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-the-most-reliable-gopro-cases-1-10-showdown/">Read more<span class="seo-reader-text">[New] The Most Reliable GoPro Cases - #1-10 Showdown</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1557,21 +1614,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-turning-social-media-sounds-into-functional-phone-alarms-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c767371cdaf8ce5e5162404d28c7d.jpg" alt="[Updated] Turning Social Media Sounds Into Functional Phone Alarms for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-in-2024-avoid-complexity-top-5-free-tools-for-effortless-gif-to-video-transformation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c38ee953e2dee2be944508d80.jpg" alt="[Updated] In 2024, Avoid Complexity Top 5 Free Tools for Effortless GIF to Video Transformation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-turning-social-media-sounds-into-functional-phone-alarms-for-2024/">
-                            [Updated] Turning Social Media Sounds Into Functional Phone Alarms for 2024
+                        <a href="/updated-in-2024-avoid-complexity-top-5-free-tools-for-effortless-gif-to-video-transformation/">
+                            [Updated] In 2024, Avoid Complexity Top 5 Free Tools for Effortless GIF to Video Transformation
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [Updated] Turning Social Media Sounds Into Functional Phone Alarms for 2024</p>
+                            <p>“This Article Describes [Updated] In 2024, Avoid Complexity: Top 5 Free Tools for Effortless GIF to Video Transformation”</p>
 
                         
                     </div>
@@ -1579,9 +1636,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:26 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 13:20:42 GMT+0800">
                 
-                    2024-08-08
+                    2024-08-15
                 
             </span>
         </span>
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/updated-turning-social-media-sounds-into-functional-phone-alarms-for-2024/">Read more<span class="seo-reader-text">[Updated] Turning Social Media Sounds Into Functional Phone Alarms for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-in-2024-avoid-complexity-top-5-free-tools-for-effortless-gif-to-video-transformation/">Read more<span class="seo-reader-text">[Updated] In 2024, Avoid Complexity Top 5 Free Tools for Effortless GIF to Video Transformation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1647,7 +1704,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/511/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/510/">510</a><a class="page-number" href="/page/511/">511</a><span class="page-number current">512</span><a class="page-number" href="/page/513/">513</a><a class="page-number" href="/page/514/">514</a><span class="space">&hellip;</span><a class="page-number" href="/page/858/">858</a><a class="extend next" rel="next" href="/page/513/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/511/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/510/">510</a><a class="page-number" href="/page/511/">511</a><span class="page-number current">512</span><a class="page-number" href="/page/513/">513</a><a class="page-number" href="/page/514/">514</a><span class="space">&hellip;</span><a class="page-number" href="/page/930/">930</a><a class="extend next" rel="next" href="/page/513/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

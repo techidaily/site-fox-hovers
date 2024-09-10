@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"fox-hovers.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8577</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9293</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8577</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9293</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-top-10-overlooked-yet-best-free-speech-transcribers-for-mac-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7b970dc3ae9c242e74e0d377.jpg" alt="[New] Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-2024-approved-step-by-step-strategies-to-thrive-on-reddit/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f133672dcfc64784a5955ccf2a.jpg" alt="[Updated] 2024 Approved Step-by-Step Strategies to Thrive on Reddit" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-top-10-overlooked-yet-best-free-speech-transcribers-for-mac-for-2024/">
-                            [New] Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac for 2024
+                        <a href="/updated-2024-approved-step-by-step-strategies-to-thrive-on-reddit/">
+                            [Updated] 2024 Approved Step-by-Step Strategies to Thrive on Reddit
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [New] Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac for 2024</p>
+                            <p>“This Article Describes [Updated] 2024 Approved: Step-by-Step Strategies to Thrive on Reddit”</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:37 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:05 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/new-top-10-overlooked-yet-best-free-speech-transcribers-for-mac-for-2024/">Read more<span class="seo-reader-text">[New] Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-2024-approved-step-by-step-strategies-to-thrive-on-reddit/">Read more<span class="seo-reader-text">[Updated] 2024 Approved Step-by-Step Strategies to Thrive on Reddit</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -789,21 +846,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-photography-made-easy-select-top-writing-apps-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd6532c5bd0d695b676cbba88c9.jpg" alt="&#34;[New] Photography Made Easy  Select Top Writing Apps for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-the-ultimate-guide-7-steps-for-stellar-cooking-films/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595ba3ecd2f30cf7442df5bd214.png" alt="[New] The Ultimate Guide 7 Steps for Stellar Cooking Films" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-photography-made-easy-select-top-writing-apps-for-2024/">
-                            &#34;[New] Photography Made Easy  Select Top Writing Apps for 2024&#34;
+                        <a href="/new-the-ultimate-guide-7-steps-for-stellar-cooking-films/">
+                            [New] The Ultimate Guide 7 Steps for Stellar Cooking Films
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Photography Made Easy: Select Top Writing Apps for 2024”</p>
+                            <p>“This Article Describes [New] The Ultimate Guide: 7 Steps for Stellar Cooking Films”</p>
 
                         
                     </div>
@@ -811,9 +868,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:36 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:04 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/new-photography-made-easy-select-top-writing-apps-for-2024/">Read more<span class="seo-reader-text">&#34;[New] Photography Made Easy  Select Top Writing Apps for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-the-ultimate-guide-7-steps-for-stellar-cooking-films/">Read more<span class="seo-reader-text">[New] The Ultimate Guide 7 Steps for Stellar Cooking Films</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a9669265731b5b69e7c1930c88f0f9.jpg" alt="&#34;[New] Navigating Tiny Worlds  5 Ways to Zoom In on Minecraft for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-2024-approved-advanced-techniques-for-tiktok-video-enhancement-via-zoom/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b87872f768fed60cc168fcf66601.jpg" alt="[New] 2024 Approved Advanced Techniques for TikTok Video Enhancement via Zoom" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft-for-2024/">
-                            &#34;[New] Navigating Tiny Worlds  5 Ways to Zoom In on Minecraft for 2024&#34;
+                        <a href="/new-2024-approved-advanced-techniques-for-tiktok-video-enhancement-via-zoom/">
+                            [New] 2024 Approved Advanced Techniques for TikTok Video Enhancement via Zoom
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Navigating Tiny Worlds: 5 Ways to Zoom In on Minecraft for 2024”</p>
+                            <p>“This Article Describes [New] 2024 Approved: Advanced Techniques for TikTok Video Enhancement via Zoom”</p>
 
                         
                     </div>
@@ -907,9 +964,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:35 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:03 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/new-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft-for-2024/">Read more<span class="seo-reader-text">&#34;[New] Navigating Tiny Worlds  5 Ways to Zoom In on Minecraft for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-2024-approved-advanced-techniques-for-tiktok-video-enhancement-via-zoom/">Read more<span class="seo-reader-text">[New] 2024 Approved Advanced Techniques for TikTok Video Enhancement via Zoom</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -981,21 +1038,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-lightning-fast-windowed-photo-reader-for-win11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379ae4c5ac18b6baf95c96be49.jpg" alt="&#34;[New] Lightning-Fast Windowed Photo Reader for Win11&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-filmographys-finest-shots-the-best-camera-and-lighting-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210dde0d1e1927202914413ca4.jpg" alt="[Updated] Filmography&#39;s Finest Shots The Best Camera &amp; Lighting Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-lightning-fast-windowed-photo-reader-for-win11/">
-                            &#34;[New] Lightning-Fast Windowed Photo Reader for Win11&#34;
+                        <a href="/updated-filmographys-finest-shots-the-best-camera-and-lighting-tips/">
+                            [Updated] Filmography&#39;s Finest Shots The Best Camera &amp; Lighting Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Lightning-Fast Windowed Photo Reader for Win11”</p>
+                            <p>“This Article Describes [Updated] Filmography’s Finest Shots: The Best Camera &amp; Lighting Tips”</p>
 
                         
                     </div>
@@ -1003,9 +1060,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:34 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:02 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/new-lightning-fast-windowed-photo-reader-for-win11/">Read more<span class="seo-reader-text">&#34;[New] Lightning-Fast Windowed Photo Reader for Win11&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-filmographys-finest-shots-the-best-camera-and-lighting-tips/">Read more<span class="seo-reader-text">[Updated] Filmography&#39;s Finest Shots The Best Camera &amp; Lighting Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00fb525d667e1a6c4f5883874.jpg" alt="[New] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-in-2024-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a77042379632f2075c2e5462803d44d042.jpg" alt="[New] In 2024, Best Waterproof Cameras For Kids&#39; Filmmaking and Splash Fun" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/">
-                            [New] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen
+                        <a href="/new-in-2024-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun/">
+                            [New] In 2024, Best Waterproof Cameras For Kids&#39; Filmmaking and Splash Fun
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [New] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</p>
+                            <p>This Article Describes [New] In 2024, Best Waterproof Cameras For Kids’ Filmmaking and Splash Fun</p>
 
                         
                     </div>
@@ -1099,9 +1156,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:34 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:52:00 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/new-ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/">Read more<span class="seo-reader-text">[New] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-in-2024-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun/">Read more<span class="seo-reader-text">[New] In 2024, Best Waterproof Cameras For Kids&#39; Filmmaking and Splash Fun</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1173,21 +1230,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-in-2024-prime-selection-of-affordable-cams-for-action-sports/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg" alt="[New] In 2024, Prime Selection of Affordable Cams for Action Sports" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-in-2024-transforming-your-shots-with-ease-in-photoshop/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b57ae525149deda993c1369b.jpg" alt="[New] In 2024, Transforming Your Shots with Ease in Photoshop" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-in-2024-prime-selection-of-affordable-cams-for-action-sports/">
-                            [New] In 2024, Prime Selection of Affordable Cams for Action Sports
+                        <a href="/new-in-2024-transforming-your-shots-with-ease-in-photoshop/">
+                            [New] In 2024, Transforming Your Shots with Ease in Photoshop
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [New] In 2024, Prime Selection of Affordable Cams for Action Sports</p>
+                            <p>This Article Describes [New] In 2024, Transforming Your Shots with Ease in Photoshop</p>
 
                         
                     </div>
@@ -1195,9 +1252,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:33 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:51:59 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/new-in-2024-prime-selection-of-affordable-cams-for-action-sports/">Read more<span class="seo-reader-text">[New] In 2024, Prime Selection of Affordable Cams for Action Sports</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-in-2024-transforming-your-shots-with-ease-in-photoshop/">Read more<span class="seo-reader-text">[New] In 2024, Transforming Your Shots with Ease in Photoshop</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-in-2024-decoding-the-capabilities-in-samsungs-newest-photo-software/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a05de89bd7149842bbd8e67a6.jpg" alt="[New] In 2024, Decoding the Capabilities in Samsung&#39;s Newest Photo Software" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-total-gb-for-24-hour-movie-size-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc9941bc7a8515fe1dd62e1cd32c.jpg" alt="[Updated] Total GB for 24-Hour Movie Size for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-in-2024-decoding-the-capabilities-in-samsungs-newest-photo-software/">
-                            [New] In 2024, Decoding the Capabilities in Samsung&#39;s Newest Photo Software
+                        <a href="/updated-total-gb-for-24-hour-movie-size-for-2024/">
+                            [Updated] Total GB for 24-Hour Movie Size for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [New] In 2024, Decoding the Capabilities in Samsung’s Newest Photo Software</p>
+                            <p>“This Article Describes [Updated] Total GB for 24-Hour Movie Size for 2024”</p>
 
                         
                     </div>
@@ -1291,9 +1348,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:32 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:51:58 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1349,7 +1406,7 @@
         
     </div>
 
-    <a href="/new-in-2024-decoding-the-capabilities-in-samsungs-newest-photo-software/">Read more<span class="seo-reader-text">[New] In 2024, Decoding the Capabilities in Samsung&#39;s Newest Photo Software</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-total-gb-for-24-hour-movie-size-for-2024/">Read more<span class="seo-reader-text">[Updated] Total GB for 24-Hour Movie Size for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1365,21 +1422,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-in-2024-core-principles-of-crafting-convincing-video-endorsements/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b87872f768fed60cc168fcf66601.jpg" alt="[New] In 2024, Core Principles of Crafting Convincing Video Endorsements" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/secrets-of-seamless-video-editing-using-windows-11-tools-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e62628b7a3a5060d5bc396913a4e.jpg" alt="Secrets of Seamless Video Editing Using Windows 11 Tools for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-in-2024-core-principles-of-crafting-convincing-video-endorsements/">
-                            [New] In 2024, Core Principles of Crafting Convincing Video Endorsements
+                        <a href="/secrets-of-seamless-video-editing-using-windows-11-tools-for-2024/">
+                            Secrets of Seamless Video Editing Using Windows 11 Tools for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [New] In 2024, Core Principles of Crafting Convincing Video Endorsements</p>
+                            <p>This Article Describes Secrets of Seamless Video Editing Using Windows 11 Tools for 2024</p>
 
                         
                     </div>
@@ -1387,9 +1444,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:31 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:51:57 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1445,7 +1502,7 @@
         
     </div>
 
-    <a href="/new-in-2024-core-principles-of-crafting-convincing-video-endorsements/">Read more<span class="seo-reader-text">[New] In 2024, Core Principles of Crafting Convincing Video Endorsements</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/secrets-of-seamless-video-editing-using-windows-11-tools-for-2024/">Read more<span class="seo-reader-text">Secrets of Seamless Video Editing Using Windows 11 Tools for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1461,21 +1518,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-grateful-choices-comprehensive-otu-guide-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b6eee67595d026f30ea77ba0.jpg" alt="&#34;[New] Grateful Choices  Comprehensive OTU Guide for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-smilesketcher-turn-your-ideas-into-memes-and-graphics/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8049e6555ff0f80bdf97ed47.jpg" alt="[New] SmileSketcher Turn Your Ideas Into Memes &amp; Graphics" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-grateful-choices-comprehensive-otu-guide-for-2024/">
-                            &#34;[New] Grateful Choices  Comprehensive OTU Guide for 2024&#34;
+                        <a href="/new-smilesketcher-turn-your-ideas-into-memes-and-graphics/">
+                            [New] SmileSketcher Turn Your Ideas Into Memes &amp; Graphics
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Grateful Choices: Comprehensive OTU Guide for 2024”</p>
+                            <p>“This Article Describes [New] SmileSketcher: Turn Your Ideas Into Memes &amp; Graphics”</p>
 
                         
                     </div>
@@ -1483,9 +1540,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:30 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:51:56 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/new-grateful-choices-comprehensive-otu-guide-for-2024/">Read more<span class="seo-reader-text">&#34;[New] Grateful Choices  Comprehensive OTU Guide for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-smilesketcher-turn-your-ideas-into-memes-and-graphics/">Read more<span class="seo-reader-text">[New] SmileSketcher Turn Your Ideas Into Memes &amp; Graphics</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1557,21 +1614,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-expert-techniques-for-converting-xml-ssa-to-high-end-srt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae81e5253850f97e6c38efaf4.jpg" alt="&#34;[New] Expert Techniques for Converting XML, SSA to High-End SRT&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-expert-psd-shadow-play/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a1d0ceb2c3d06364d867bc68.png" alt="[Updated] Expert PSD Shadow Play" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-expert-techniques-for-converting-xml-ssa-to-high-end-srt/">
-                            &#34;[New] Expert Techniques for Converting XML, SSA to High-End SRT&#34;
+                        <a href="/updated-expert-psd-shadow-play/">
+                            [Updated] Expert PSD Shadow Play
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Expert Techniques for Converting XML, SSA to High-End SRT”</p>
+                            <p>This Article Describes [Updated] Expert PSD Shadow Play</p>
 
                         
                     </div>
@@ -1579,9 +1636,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 29 2024 05:32:30 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 08 2024 07:51:55 GMT+0800">
                 
-                    2024-07-29
+                    2024-08-08
                 
             </span>
         </span>
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/new-expert-techniques-for-converting-xml-ssa-to-high-end-srt/">Read more<span class="seo-reader-text">&#34;[New] Expert Techniques for Converting XML, SSA to High-End SRT&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-expert-psd-shadow-play/">Read more<span class="seo-reader-text">[Updated] Expert PSD Shadow Play</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1647,7 +1704,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/633/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/632/">632</a><a class="page-number" href="/page/633/">633</a><span class="page-number current">634</span><a class="page-number" href="/page/635/">635</a><a class="page-number" href="/page/636/">636</a><span class="space">&hellip;</span><a class="page-number" href="/page/858/">858</a><a class="extend next" rel="next" href="/page/635/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/633/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/632/">632</a><a class="page-number" href="/page/633/">633</a><span class="page-number current">634</span><a class="page-number" href="/page/635/">635</a><a class="page-number" href="/page/636/">636</a><span class="space">&hellip;</span><a class="page-number" href="/page/930/">930</a><a class="extend next" rel="next" href="/page/635/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
