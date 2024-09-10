@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Flight to Film  The Drone Editor's Playbook for 2024\""
-date: 2024-09-05T00:21:43.774Z
-updated: 2024-09-06T00:21:43.774Z
+date: 2024-09-09T10:52:23.227Z
+updated: 2024-09-10T10:52:23.227Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,18 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -30,6 +42,12 @@ So, now you have your new drone in your hands and lots of dreams in your eyes to
 
 New to video editing world? Check this [how to edit video ultimate guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn video editing step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Aerial Video Editing Tips
 
 #### 1\. Select your Footage
@@ -64,10 +82,28 @@ One amazing thing to know about post processing workflow is that it comes with v
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 1: Trimming with Instant Cutter
 
 ![trimming sliders](https://images.wondershare.com/filmora/guide/6-instant-cutter-trimming-sliders.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 There is no doubt to say that Wondershare Filmora is one of the best tools for easy and advanced editing needs. It contains lots of practical tools to process action cam and drone videos. Its inbuilt instant cutter tool helps users to trim 4K aerial or HD videos with easy drag and drop slider function.
 
 #### Step 2: Correct the Fisheye effect with Lens Correction
@@ -84,12 +120,24 @@ Gimbals can help you to get rid of shaky videos but in case if you are not able 
 
 ![apply effects](https://images.wondershare.com/filmora/article-images/apply-effects-to-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You will be glad to know that Filmora platform offers more than 500 effects for editing and the list includes filters, overlays, titles, text, transitions and free music content. All of them are capable enough to develop interesting footage for aerial video needs. Further, Filmora also has ability to work with advanced themes like Blockbuster, Holiday, Summer, Spring and Travel.
 
 #### Step 5: Color Correction
 
 ![color correction](https://images.wondershare.com/filmora/article-images/color-adjusting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Note that a too bright or too dark footage is not considered as ideal for professional needs. Also, a good footage does not contain colour casts like orange, blue overlays that vary scene to scene. Wondershare Filmora offers colour correction tool that has easy options to make adjustments for tint, temperature, saturation, contrast and brightness. It is also possible to apply 3D luts into videos so that they can provide Hollywood like sensational feeling.
 
 #### Step 6: Exporting
@@ -186,16 +234,3 @@ Follow @Max Wales
 <li><a href="https://some-skills.techidaily.com/todays-drone-usage-tomorrows-revolutionary-pathways-for-2024/"><u>Today's Drone Usage, Tomorrow's Revolutionary Pathways for 2024</u></a></li>
 <li><a href="https://fox-hovers.techidaily.com/total-gb-for-24-hour-movie-size-for-2024/"><u>Total GB for 24-Hour Movie Size for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

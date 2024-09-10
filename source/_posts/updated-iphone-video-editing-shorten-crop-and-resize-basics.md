@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Video Editing  Shorten, Crop & Resize Basics\""
-date: 2024-09-05T00:20:40.272Z
-updated: 2024-09-06T00:20:40.272Z
+date: 2024-09-09T10:52:24.284Z
+updated: 2024-09-10T10:52:24.284Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
  Either for sharing or getting your message across, videos on iPhone need to be concise and short. Sizes will matter the most. You made a great video on your iPhone, and you simply want to extract out the best bit. For this purpose, you need to shorten or resize the videos on iPhone, making sharing much easy. Then, to have a manageable file size, iPhone built in editor is hard to ignore.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to shorten a video on iPhone
 
 #### 1. [The Built-in Video Editor](https://support.apple.com/en-gb/HT207587)
@@ -45,6 +51,12 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![iphone photo](https://images.wondershare.com/filmora/article-images/iPhone_video_edit_default.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 2. [iMovie](https://itunes.apple.com/us/app/imovie/id377298193?mt=8&ign-mpt=uo%3D8)
 
  iMovie is another simple application to use. Solid design, simple usage and intuitive multi-touch gesture makes this app an all time winner. Especially when you are answering " how to shorten a video on iPhone? Despite its editing capabilities, we will keep our focus on video resizing. It's a video size reducer, that can import file directly from iPhone. There are many options to trim, rotate, duplicate, split or delete clip. By default a photo in a timeline will be a clip for 6 to 12 seconds of onscreen time. Trimming photo will mean cutting the on-screen duration.
@@ -55,6 +67,12 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![imoive](https://images.wondershare.com/filmora/article-images/iMovie-shorten.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  But, it can be, that you don't want to delete parts at all. Instead you want to make "large" size a little bit more manageable. For that sake, another way to trim video, iPhone camera roll has ,is, by resizing. But resizing and compressions are tricky. You need to consider video dimension (pixels), aspect ratio and resolution. Above all resizing doesn't mean sacrificing quality. One best way to do that is to use Desqueeze.
 
 ## Part 2: How to resize a video on iPhone
@@ -72,6 +90,12 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![desqueeze](https://images.wondershare.com/filmora/article-images/desqueeze.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 2. Video Compressor
 
  Video Compressor can also be used to shrink down the file size on iPhone. Especially when you want to share something right from your iDevice. The steps to follow include
@@ -86,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 ![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -100,10 +124,16 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Ollie Mattison
 

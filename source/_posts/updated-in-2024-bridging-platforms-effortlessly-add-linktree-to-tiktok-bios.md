@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Bridging Platforms  Effortlessly Add Linktree to TikTok Bios\""
-date: 2024-09-05T00:19:39.515Z
-updated: 2024-09-06T00:19:39.515Z
+date: 2024-09-09T10:52:25.460Z
+updated: 2024-09-10T10:52:25.460Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,12 @@ Although you can’t directly add all your website and page links to TikTok, ser
 
 ![linktree and tiktok featured image](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. [Collaboration with TikTok](#%5FToc126053421)
 2. [Premium Services Offered by Linktree](#%5FToc126053422)
 3. [Pricing Plans of Linktree](#%5FToc126053423)
@@ -48,12 +54,6 @@ Linktree has always supported adding your TikTok accounts link to your landing p
 
 After Profile Kit integration, the TikTok creators will have a more enhanced and engaging user experience on Linktree. Users can now log in to their TikTok through Linktree and display up to 6 of their videos to enhance their profile. People viewing the TikTok creator's profile on Linktree can play those videos without leaving the platform.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Premium Services Offered by Linktree
 
 The Linktree platform was built to help users fully utilize their social media accounts to increase their reach. It offers multiple services and features to easily manage your links portfolio and enhance your user experience. Below are a few of the key features offered by Linktree.
@@ -75,15 +75,21 @@ It is a freemium service with multiple paid plans. Although basic features like 
 | **Premium**           | $24               | $234             |
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Make a Linktree?
 
 The process to make a Linktree is quick and simple to follow. It will take you less than 5 minutes to set up a landing page and **Linktree to TikTok**. There is also a Linktree mobile app that can be used to create a Linktree landing page. You can learn how to create a Linktree using a website and mobile app below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Guide for Creating a Linktree on Browser
 
 If you are creating Linktree on a web browser, use these steps to easily create your Linktree landing page:
@@ -92,24 +98,42 @@ If you are creating Linktree on a web browser, use these steps to easily create 
 
 ![tap on sign up free](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Create your account password and tap “Continue.” Next, you will be asked to provide your name and choose your business or content categories. After choosing, click “Continue” and select a subscription package on the next screen.
 
 ![create your unique password](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Click on the link sent in your email to verify your account to proceed further. Once verified, press “Add Link” to add your first link. Here, you can add a direct link or click "View All" and choose a specific platform like "TikTok" to add your TikTok link.
 
 ![add your tiktok account](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** You can change the page theme, add a profile picture and insert a bio by clicking "Appearance." Through “Settings,” you can add SEO tags, integrate a mailing list, link your social media accounts, and do many other things.
 
 ![adjust the linktree appearance](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Simple Instruction to Create a Linktree on Mobile Device
 
 Linktree mobile app is also viable for creating a Linktree landing page if you aren't comfortable creating an account on a website. Follow these steps to create Linktree using the mobile app:
@@ -118,29 +142,41 @@ Linktree mobile app is also viable for creating a Linktree landing page if you a
 
 ![select the signup option](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Now you will be moved back to the app, and here you need to enter your name and select business or content categories. After that, you will receive a mail for account verification. Verify the account to proceed further.
 
 ![confirm the account category](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Once the account is verified, press “Add New link” on the app to add your links. You can enter a link directly or choose a platform from numerous options given on the app. To add a link to your TikTok video, select “TikTok Video” and enter the link details.
 
 ![tap on tiktok video](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** In the “Appearance” tab, you can add a profile pic, change themes, customize backgrounds and buttons, etc. The “Preview” tab lets you view your page from another user’s perspective. By pressing "More," you can access different options from “Settings” to “Help & Support.”
 
 ![adjust the appearance settings](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Add Link in TikTok Bio?
 
@@ -154,6 +190,12 @@ Hopefully, you have known what Linktree is and how to add Linktree to your TikTo
 
 And there is video tutorial about how to edit TikTok videos with Filmora, especially for video editing beginners. If you have any interests, please watch it, and start your video editing journey with Filmora!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 TikTok has unlimited potential for business development, and you should fully utilize it further improve your business. The restriction on adding multiple links on TikTok is annoying, but it can easily be bypassed using Linktree. By **adding a Linktree to TikTok**, you can easily re-route your followers on TikTok to your websites or stores to increase their traffic.
@@ -163,42 +205,24 @@ TikTok has unlimited potential for business development, and you should fully ut
 * [Part 3: How to Add Link in TikTok Bio?](#%5FToc126053427)
 * [Bonus: How to make TikTok Videos?](#%5FToc126053428)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Linktree?
 
 Using social media platforms correctly can boost your business significantly. However, most of them don’t allow you to add multiple links in your bio. It becomes problematic if you want to add links to your other social media accounts, stores, and web pages besides your official website. To solve this issue, [Linktree](https://linktr.ee/) was created in 2016.
 
 It is a freemium service that allows you to create a landing page with all your important links in one place. Then you can add the link of your Linktree landing page to the bio of your account on different social media platforms like TikTok, Instagram, etc. It allows your followers to easily access your links portfolio in one place, making it easier for them to visit their desired link.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Collaboration with TikTok
 
 Linktree has always supported adding your TikTok accounts link to your landing page. In October 2022, TikTok and Linktree announced a new collaboration to enhance the user experience by working on a new feature called “Profile Kit.” Part of the TikTok for Developers Program, it also includes SDK Login Kit, which allows users to log in through their TikTok credentials.
 
 After Profile Kit integration, the TikTok creators will have a more enhanced and engaging user experience on Linktree. Users can now log in to their TikTok through Linktree and display up to 6 of their videos to enhance their profile. People viewing the TikTok creator's profile on Linktree can play those videos without leaving the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Premium Services Offered by Linktree
 
 The Linktree platform was built to help users fully utilize their social media accounts to increase their reach. It offers multiple services and features to easily manage your links portfolio and enhance your user experience. Below are a few of the key features offered by Linktree.
@@ -209,6 +233,12 @@ The Linktree platform was built to help users fully utilize their social media a
 * **Email and Phone Number Capture:** By integrating a mailing list, you can easily request users to add their emails and phone numbers. The captured contact details can be later used for marketing purposes.
 * **Multiple Admins:** If you run a medium or large-scale business and cannot manage your Linktree account alone, you can add multiple admins. You can also add multi-factor authentication to protect your account.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pricing Plans of Linktree
 
 It is a freemium service with multiple paid plans. Although basic features like unlimited links, multiple social media platforms, analytics, etc., are available in the free version. In comparison, the premium subscription provides many add-ons. Below is the table for the pricing plans of Linktree:
@@ -219,6 +249,12 @@ It is a freemium service with multiple paid plans. Although basic features like 
 | **Pro**               | $9                | $90              |
 | **Premium**           | $24               | $234             |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Make a Linktree?
 
 The process to make a Linktree is quick and simple to follow. It will take you less than 5 minutes to set up a landing page and **Linktree to TikTok**. There is also a Linktree mobile app that can be used to create a Linktree landing page. You can learn how to create a Linktree using a website and mobile app below.
@@ -231,41 +267,29 @@ If you are creating Linktree on a web browser, use these steps to easily create 
 
 ![tap on sign up free](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Create your account password and tap “Continue.” Next, you will be asked to provide your name and choose your business or content categories. After choosing, click “Continue” and select a subscription package on the next screen.
 
 ![create your unique password](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Click on the link sent in your email to verify your account to proceed further. Once verified, press “Add Link” to add your first link. Here, you can add a direct link or click "View All" and choose a specific platform like "TikTok" to add your TikTok link.
 
 ![add your tiktok account](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 4:** You can change the page theme, add a profile picture and insert a bio by clicking "Appearance." Through “Settings,” you can add SEO tags, integrate a mailing list, link your social media accounts, and do many other things.
 
 ![adjust the linktree appearance](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Simple Instruction to Create a Linktree on Mobile Device
 
@@ -275,58 +299,28 @@ Linktree mobile app is also viable for creating a Linktree landing page if you a
 
 ![select the signup option](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Now you will be moved back to the app, and here you need to enter your name and select business or content categories. After that, you will receive a mail for account verification. Verify the account to proceed further.
 
 ![confirm the account category](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Once the account is verified, press “Add New link” on the app to add your links. You can enter a link directly or choose a platform from numerous options given on the app. To add a link to your TikTok video, select “TikTok Video” and enter the link details.
 
 ![tap on tiktok video](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4:** In the “Appearance” tab, you can add a profile pic, change themes, customize backgrounds and buttons, etc. The “Preview” tab lets you view your page from another user’s perspective. By pressing "More," you can access different options from “Settings” to “Help & Support.”
 
 ![adjust the appearance settings](https://images.wondershare.com/filmora/article-images/2023/02/linktree-to-tiktok-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Add Link in TikTok Bio?
 
 Now that you have created your link portfolio on your Linktree landing page, the question is how you can add **Linktree to TikTok**. You can check this article to learn how to add a link to your TikTok bio.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to make TikTok Videos?
 
 Hopefully, you have known what Linktree is and how to add Linktree to your TikTok Bio. Here we also want to recommend you an excellent and user-friendly video editor – Filmora. It is compatible with both the mobile and desktop.
