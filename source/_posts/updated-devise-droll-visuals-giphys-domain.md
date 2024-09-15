@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Devise Droll Visuals  Giphy's Domain\""
-date: 2024-09-09T11:01:57.773Z
-updated: 2024-09-10T11:01:57.773Z
+date: 2024-09-10T18:31:02.213Z
+updated: 2024-09-15T18:57:12.874Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "Giphy GIFs Design,Creative Gif Images,Humor in Gifs,Dynamic GIF Art,F
 thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1a53bbe9519d95b22a1c1295.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Devise Droll Visuals: Giphy's Domain
 
 Giphy meme maker is particularly popular in virtual workplaces because they can make important online interactions more fun. GIF pictures are being employed as a form of expression by users of Facebook, Twitter, and other social media messaging platforms. The popularity of emoji characters, which are used to convey whatever sentiments a person may be experiencing at the time, and the usage of GIFs in social expression go hand in hand. Using a Giphy memes funny tag, users search for GIFs and then choose one of the resultant pictures.
@@ -42,36 +36,12 @@ Step2 To upload a video to GIPHY, click Upload. To add a video from your compute
 
 ![upload video to giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-to-giphy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 If you wish to upload a video from a URL, you may do so. After you've submitted your movie, you'll be sent to the next page automatically so that you may cut it.
 
 ![upload video url giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-url-giphy.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Set the sliders to the length that you choose for your GIF. Recall that shorter is always better! Click Upload Now to continue. The next page gives you the choice of adding tags, making your GIF private, adding a source URL, or adding it to a collection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Alternative Way to Make Meme Video
 
 Giphy should be a desirable option for content and advertising partners due to the search engine and the thorough social integration of its content. The language of the internet is memes. Despite the fact that some of them may be somewhat strange. There is a text option in every specialized video editing program, but [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides something more eye-catching for you! You may create inspiring graphics with quotes using the hundreds of other stock images that Filmora provides, as well as share personal stories, talk about current events, and more. You may also make use of your own images.
@@ -98,24 +68,12 @@ The video file must then be included in the timeline. Another option is to play 
 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
@@ -148,15 +106,16 @@ If you want to add additional text to your meme, use the features-list menu bar.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -186,67 +145,13 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-investigating-storage-amounts-vids-on-64128gb-hardware/"><u>[New] Investigating Storage Amounts Vids on 64/128GB Hardware</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-vimeo-video-on-instagram-feed-for-2024/"><u>[New] Mastering Vimeo Video on Instagram Feed for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-edges-pip-functionality/"><u>[New] Step-by-Step Guide to Edge’s PIP Functionality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamsurf-skimming-above-dacast/"><u>[New] StreamSurf Skimming Above DaCast</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unleash-the-mixer-in-you-20-free-custom-luts-for-dji-minis-and-airs-for-2024/"><u>[New] Unleash the Mixer in You 20 Free, Custom LUTs for DJI Minis & Airs for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-adv-screen-recorder-review/"><u>[Updated] ADV Screen Recorder Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-crafting-compelling-narratives-with-vo-in-powerpoint-for-2024/"><u>[Updated] Crafting Compelling Narratives with VO in PowerPoint for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-step-by-step-process-to-disengage-from-discord-groups-for-2024/"><u>[Updated] The Step-by-Step Process to Disengage From Discord Groups for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-poco-c65-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Poco C65 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-close-up-views-on-web-conferencing/"><u>2024 Approved Mastering Close-Up Views on Web Conferencing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-8-converters-seamless-sub-and-srt-transition/"><u>2024 Approved Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-f14-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy F14 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-clear-view-ahead-how-to-pick-your-ideal-4k-monitor-wisely-for-2024/"><u>A Clear View Ahead How to Pick Your Ideal 4K Monitor Wisely for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-dive-into-the-best-filmora-edits-for-enthusiasts-for-2024/"><u>A Dive Into the Best Filmora Edits for Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-new-era-for-virtual-reality-best-pc-headsets-of-2023/"><u>A New Era for Virtual Reality Best PC Headsets of 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-step-by-step-guide-to-desktop-image-fusion/"><u>A Step-by-Step Guide to Desktop Image Fusion</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-tutorial-incorporating-widgets-in-windows-11/"><u>A Step-by-Step Tutorial: Incorporating Widgets in Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/acclaimed-15-video-filters-to-elevate-gopro-cinematography-for-2024/"><u>Acclaimed 15 Video Filters to Elevate GoPro Cinematography for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ace-the-art-of-shooting-on-a-green-screen/"><u>Ace the Art of Shooting on a Green Screen</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/action-unleashed-the-latest-in-filmmaking-from-polaroids-xs/"><u>Action Unleashed The Latest in Filmmaking From Polaroid's XS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/adding-dimension-to-text-in-adobe-illustrator/"><u>Adding Dimension to Text in Adobe Illustrator</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/advanced-ai-voice-to-text-apps-for-2024/"><u>Advanced AI Voice to Text Apps for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/advanced-techniques-for-professional-mac-burned-discs-for-2024/"><u>Advanced Techniques for Professional Mac-Burned Discs for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/aerial-choreography-the-fresh-take-on-bebops-parrot-for-2024/"><u>Aerial Choreography – The Fresh Take on Bebop's Parrot for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ai-and-creativity-collide-the-best-podcast-renaming-solutions-for-2024/"><u>AI & Creativity Collide The Best Podcast Renaming Solutions for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/appreciate-with-us-open-source-and-subscription-outro-samples/"><u>Appreciate with Us Open-Source & Subscription Outro Samples</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/are-product-critiques-online-generated-income-for-2024/"><u>Are Product Critiques Online Generated Income for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/artists-playground-the-prime-6-platforms-for-nft-creation-for-2024/"><u>Artists' Playground The Prime 6 Platforms for NFT Creation for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/asmr-and-wellness-what-are-its-promising-side-effects-for-2024/"><u>ASMR & Wellness What Are Its Promising Side-Effects for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/asus-proart-review-pushing-boundaries-in-color-accuracy-for-2024/"><u>ASUS ProArt Review Pushing Boundaries in Color Accuracy for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/audacity-wisdom-achieving-fluid-audio-transitions-for-2024/"><u>Audacity Wisdom Achieving Fluid Audio Transitions for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/audiovid-synergy-community-online/"><u>AudioVid Synergy Community Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/auditory-purity-in-ffmpeg-a-format-friendly-perspective/"><u>Auditory Purity in FFmpeg A Format-Friendly Perspective</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/basic-understanding-of-digital-lore-making-for-2024/"><u>Basic Understanding of Digital Lore Making for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/beginners-guide-to-av1-codec/"><u>Beginner's Guide to AV1 Codec</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel-for-2024/"><u>Beginning Basics The Ultimate Guide to Starting a Reviews-Centric YouTube Channel for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/beyond-the-screen-insightful-metaverse-models-summarized-for-2024/"><u>Beyond The Screen Insightful Metaverse Models Summarized for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/boosting-creativity-the-most-outstanding-free-slide-show-templates/"><u>Boosting Creativity The Most Outstanding Free Slide Show Templates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/boosting-photo-editing-skills-essential-pixlr-techniques/"><u>Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/breaking-the-barrier-easy-livestream-setup-for-podcasters-for-2024/"><u>Breaking the Barrier Easy Livestream Setup for Podcasters for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/bring-to-life-the-dance-of-light-on-faces-employing-motion-blur-effects-in-picsart/"><u>Bring to Life the Dance of Light on Faces Employing Motion Blur Effects in Picsart</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/bring-your-text-to-life-techniques-for-3d-design-in-ps-for-2024/"><u>Bring Your Text to Life Techniques for 3D Design in PS for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/budget-friendly-flight-machines-the-cheapest-drone-list-for-2024/"><u>Budget-Friendly Flight Machines The Cheapest Drone List for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/build-haha-images/"><u>Build Haha Images</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-plus-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 Plus activation lock using official methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capture-in-clarity-best-tools-for-quality-4k-conversion-for-2024/"><u>Capture in Clarity Best Tools for Quality 4K Conversion for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>Capturing Excellence A Full Breakdown of SJ-CAM S6</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/charting-a-course-through-public-domain-landmarks-for-2024/"><u>Charting a Course Through Public Domain Landmarks for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-lava-blaze-curve-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Blaze Curve 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m54-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M54 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-eluding-prying-eyes-privacy-preserving-video-editing/"><u>In 2024, Eluding Prying Eyes Privacy-Preserving Video Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-most-popular-image-stickering-apps-iosandroid-edition/"><u>In 2024, Most Popular Image Stickering Apps – iOS/Android Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-tri-band-wireless-network-the-asus-ax6600-mesh-wifi-system-detailed-review/"><u>Mastering the Tri-Band Wireless Network: The ASUS AX6600 Mesh WiFi System Detailed Review</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-video-editing-tools-for-newbies-free-and-paid-options-for-2024/"><u>New Top Video Editing Tools for Newbies Free and Paid Options for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-scansnap-software-on-your-pc/"><u>Quick & Easy Installation of ScanSnap Software on Your PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962554403-resolve-intel-optane-drivers-issues-on-windows-quick-download-and-update-tutorial/"><u>Resolve Intel Optane Drivers Issues on Windows: Quick Download and Update Tutorial!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/selecting-the-perfect-timing-for-b-roll-insertion-for-2024/"><u>Selecting the Perfect Timing for B Roll Insertion for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-brighten-up-your-visuals-essential-color-correction-tutorials/"><u>[New] 2024 Approved Brighten Up Your Visuals Essential Color Correction Tutorials</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-gb-usage-for-full-day-film-length-for-2024/"><u>[New] GB Usage for Full-Day Film Length for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms-for-2024/"><u>[New] Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unleash-the-full-potential-of-your-images-with-snapchat-for-2024/"><u>[New] Unleash the Full Potential of Your Images with Snapchat for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/complete-guide-to-windows-movie-maker-60-downloading-for-2024/"><u>Complete Guide to Windows Movie Maker 6.0 Downloading for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267983270-explore-stellars-quickfix-photo-recovery-tool-navigate-windows-and-more/"><u>Explore Stellar's QuickFix Photo Recovery Tool: Navigate Windows & More!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100i-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100i?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) with IMEI Code?</u></a></li>
 </ul></div>
+
