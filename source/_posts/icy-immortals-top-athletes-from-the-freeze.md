@@ -1,7 +1,7 @@
 ---
 title: "\"Icy Immortals  Top Athletes From the Freeze\""
-date: 2024-09-11T17:00:13.615Z
-updated: 2024-09-15T19:14:28.780Z
+date: 2024-09-19T17:02:54.258Z
+updated: 2024-09-20T23:08:21.828Z
 tags: 
   - screen-recording
   - ai video
@@ -53,13 +53,6 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
@@ -69,10 +62,10 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
@@ -83,18 +76,18 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
@@ -112,13 +105,6 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 ## 9\. American Favorite Out of the Tournament
@@ -127,7 +113,27 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
@@ -136,10 +142,10 @@ Doping scandals have become a part of the Olympics and this year is no different
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
@@ -163,17 +169,21 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-downloader-apps-youtube-videos-on-android-compared/"><u>[New] 2024 Approved Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc-for-2024/"><u>[New] From MPEG-4 to Multifarious Formats A Guide Using VLC for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-emulate-action-by-adding-blur-to-stillness/"><u>[Updated] 2024 Approved Emulate Action by Adding Blur to Stillness</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-android-auditory-guide-adding-personalized-sounds-and-ringtones/"><u>2024 Approved The Complete Android Auditory Guide Adding Personalized Sounds and Ringtones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/av1-basics-for-beginners-explained-for-2024/"><u>AV1 Basics for Beginners Explained for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/exploring-pc-video-editing-substitutes-for-2024/"><u>Exploring PC Video Editing Substitutes for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-12-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme 12 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-apex-storage-wizards-best-of-android-cloud/"><u>In 2024, Apex Storage Wizards Best of Android Cloud</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-f14-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy F14 5G Phone Screen?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mongolia/"><u>Mongolia</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-your-data-against-chatgpt-the-users-path-to-withdrawal/"><u>Securing Your Data Against ChatGPT: The User's Path to Withdrawal</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-studio-optimization-device-agnostic-approaches/"><u>Youtube Studio Optimization Device-Agnostic Approaches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-15-4k-video-camerascamcorders/"><u>[New] 2024 Approved Top 15 4K Video Cameras/Camcorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[New] In 2024, Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-extensive-movement-analysis-2023/"><u>[New] In 2024, Extensive Movement Analysis 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-laughlounge-app-join-the-meme-revolution/"><u>[New] LaughLounge App - Join the Meme Revolution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-comprehensive-breakdown-sony-fdr-x1000v-complete-guide/"><u>[Updated] 2024 Approved Comprehensive Breakdown Sony FDR-X1000V Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-convincing-movie-markers/"><u>[Updated] 2024 Approved Crafting Convincing Movie Markers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-tag-and-showcase-a-podcast-episode/"><u>[Updated] Tag and Showcase a Podcast Episode</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-bridging-the-visibility-gap-for-online-media/"><u>2024 Approved Bridging the Visibility Gap for Online Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/broadcast-friendly-techniques-for-fb-live-events-for-2024/"><u>Broadcast-Friendly Techniques for FB Live Events for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6 | Stellar</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-income-distribution-among-successful-podcasters/"><u>In 2024, Income Distribution Among Successful Podcasters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-digital-frontier-assessing-current-vr-landscape/"><u>In 2024, The Digital Frontier Assessing Current VR Landscape</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-your-youtube-stream-with-wirecast-for-2024/"><u>Optimizing Your YouTube Stream with WireCast for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-xr-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone XR from iCloud</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/zooming-in-a-guide-to-tight-shots-in-microsoft-teams-for-2024/"><u>Zooming In A Guide to Tight Shots in Microsoft Teams for 2024</u></a></li>
 </ul></div>
 

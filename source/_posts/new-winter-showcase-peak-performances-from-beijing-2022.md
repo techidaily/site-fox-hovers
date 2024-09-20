@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Winter Showcase  Peak Performances From Beijing 2022\""
-date: 2024-09-08T16:07:31.172Z
-updated: 2024-09-15T17:51:45.426Z
+date: 2024-09-14T19:28:04.290Z
+updated: 2024-09-20T20:46:33.074Z
 tags: 
   - screen-recording
   - ai video
@@ -45,20 +45,27 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
@@ -66,26 +73,13 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
@@ -119,20 +113,19 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
 
@@ -147,6 +140,13 @@ Zhou is considering the silver win as a consolation prize but he could not showc
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
@@ -169,18 +169,15 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-edge-selecting-the-best-mobile-and-desktop-video-editors/"><u>[New] 2024 Approved Instagram Edge Selecting the Best Mobile & Desktop Video Editors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tunes-terms-and-copyrights-on-instagram/"><u>[New] 2024 Approved Tunes, Terms, and Copyrights on Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-enable-adaptive-hdr-tutorial-for-windows-11/"><u>[New] Enable Adaptive HDR Tutorial for Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-immortalize-gameplay-glories-with-samsung-devices/"><u>[Updated] Immortalize Gameplay Glories with Samsung Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-funnyfaces-forum-jokeye-imagez/"><u>[Updated] In 2024, FunnyFaces Forum Jokeye Imagez</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>2024 Approved Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/complete-examination-of-camstudios-capturing-features/"><u>Complete Examination of CamStudio's Capturing Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-setup-quick-guide-to-installing-your-essential-apps/"><u>Effortless Setup: Quick Guide to Installing Your Essential Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/explore-these-non-periscope-video-platforms-for-iphones-and-androids-for-2024/"><u>Explore These Non-Periscope Video Platforms for iPhones & Androids for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts-for-2024/"><u>How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-text-movement-collections/"><u>In 2024, Optimal Text Movement Collections</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-seagate-backup-plus-essential-advice-and-hacks-success/"><u>Mastering Seagate Backup Plus: Essential Advice and Hacks Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-xbox-virtual-reality-headset-anticipated-launch-dates-and-pricing-insights/"><u>Upcoming Xbox Virtual Reality Headset: Anticipated Launch Dates & Pricing Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-efficient-practices-for-ps3-video-capture-setup/"><u>[New] In 2024, Efficient Practices for PS3 Video Capture Setup</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-custom-whatsapp-ringtone-for-ios-and-android-users/"><u>[New] In 2024, Mastering Custom WhatsApp Ringtone for iOS and Android Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-pivotal-ideas-behind-digital-tale-weaving/"><u>[Updated] 2024 Approved Pivotal Ideas Behind Digital Tale Weaving</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[Updated] From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-hidden-gems-galore-top-10-unique-meme-webpages/"><u>[Updated] In 2024, Hidden Gems Galore – Top 10 Unique Meme Webpages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unsuccessful-windows-update-error-0x8024800c/"><u>Correcting Unsuccessful Windows Update (Error 0X8024800C)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-decrease-ambience-tunes-windowsapple-compatible/"><u>In 2024, Decrease Ambience Tunes Windows/Apple Compatible</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-full-rotation-shoots-9-must-follow-rules/"><u>Mastering Full-Rotation Shoots 9 Must-Follow Rules</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/obs-vs-shadowplay-which-to-choose-for-2024/"><u>OBS vs ShadowPlay - Which to Choose for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g13-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G13? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

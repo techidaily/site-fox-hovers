@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dive Into the World of WhatsApp Alert Creation for iOS, Android\""
-date: 2024-09-12T16:45:56.411Z
-updated: 2024-09-15T16:00:46.655Z
+date: 2024-09-16T21:52:30.564Z
+updated: 2024-09-20T22:07:28.342Z
 tags: 
   - screen-recording
   - ai video
@@ -115,13 +115,6 @@ Step2 Drag the keen video songs to the **“Timeline Panel”** at the bottom. N
 
 ![detach audio filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-filmora.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 In this step, right-click only the audio file whose silent parts you want to eliminate and select **“Silence Detection.”** Now, a window will open up showing three parameters; **“Threshold,” “Minimum Silence,” and “Buffer,”** which you can adjust using the slider.
 
 Moreover, you can also click **“Start”** to roll automatic silence detection, eliminating all the silent parts of the selected file.
@@ -152,13 +145,6 @@ Step1 Open the **“Settings”** menu from the home screen of your Android phon
 
 ![android apps whatsapp ringtone](https://images.wondershare.com/filmora/article-images/2023/03/android-apps-whatsapp-ringtone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Next, scroll down to the WhatsApp option, tap to open it, and select the **“Notifications”** option.
 
 ![android notifications whatsapp ringtone](https://images.wondershare.com/filmora/article-images/2023/03/android-notifications-whatsapp-ringtone.PNG)
@@ -166,6 +152,13 @@ Step2 Next, scroll down to the WhatsApp option, tap to open it, and select the *
 Step3 In the next step, scroll down and select **“Call Notifications.”** Then, tap on **“Sound”** and select a custom-made **WhatsApp ringtone**. And that’s it!
 
 ![select custom whatsapp ringtone](https://images.wondershare.com/filmora/article-images/2023/03/select-custom-whatsapp-ringtone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **How to Customize Whatsapp Ringtone on Android – Directly From Whatsapp**
 
@@ -179,29 +172,9 @@ Step2 Next, tap **“Notifications,”** scroll down and tap **“Ringtone.”**
 
 ![notification whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/notification-whatsapp-ringtones.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Select any ringtone from the list, and you’re done!
 
 ![whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/whatsapp-ringtones.PNG)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. On iPhone
 
@@ -259,6 +232,13 @@ MoboCup is a wonderful resource for downloading **WhatsApp ringtones** and high-
 
 ![mobo cup whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/mobo-cup-whatsapp-ringtones.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Richness & Access**
 
 The site has a massive library of free **WhatsApp ringtones** that ranges from peaceful chimes to Hard Rock. You can find the tones and add them as “Favorite” to download them later. Plus, you can maintain a full list of your favorite **WhatsApp ringtones**.
@@ -273,6 +253,13 @@ The site has a massive library of free **WhatsApp ringtones** that ranges from p
 * WhatsApp BGM
 * Funny
 * Classic
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [MP3 Ringtone](https://mp3-ringtone.com/genre/Whatsapp-Ringtones)
 
@@ -344,6 +331,13 @@ Step3 In the next step, scroll down and select **“Call Notifications.”** The
 
 ![select custom whatsapp ringtone](https://images.wondershare.com/filmora/article-images/2023/03/select-custom-whatsapp-ringtone.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **How to Customize Whatsapp Ringtone on Android – Directly From Whatsapp**
 
 Alternatively, you can customize **WhatsApp ringtones** on Android directly from the app by following the below-mentioned steps:
@@ -377,10 +371,10 @@ Step3 Finally, select any custom WhatsApp tone, tap **“Save,”** and you’re
 ![select ringtone save whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/select-ringtone-save-whatsapp-ringtones.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -415,16 +409,12 @@ Hopefully, you got enlightened reading our article and can easily do WhatsApp ri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-storing-films-videographers-guide-to-64gb-and-128gb-drives/"><u>[New] In 2024, Storing Films Videographers' Guide to 64GB and 128GB Drives</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>[New] In 2024, Syma X5C Insights Choosing the Best Drone for Aviation Rookies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits/"><u>[Updated] In 2024, From Shot to Spectacle Pro Tips for Transformative Photographic Edits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-transforming-life-experiences-into-engaging-yt-videos/"><u>[Updated] Transforming Life Experiences Into Engaging YT Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-best-premiere-plans-free-for-pros/"><u>[Updated] Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/eduvirtua-transforming-linguistics-through-virtual-reality/"><u>EduVirtua: Transforming Linguistics Through Virtual Reality</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-c02-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia C02 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-11-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme 11 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-troubleshoot-successful/"><u>Lenovo TapScreen Troubleshoot Successful</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rec-room-pc-mic-fixes-a-comprehensive-2024-step-by-step-tutorial/"><u>Rec Room PC Mic Fixes: A Comprehensive 2024 Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/scrutinizing-if-opinions-on-items-are-paid-for/"><u>Scrutinizing if Opinions on Items Are Paid For</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online-for-2024/"><u>[New] Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-add-crop-and-edit-music-to-canva-video/"><u>[New] How To Add, Crop And Edit Music To Canva Video?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-saving-space-with-efficient-hd-video-downloads-from-fb/"><u>[New] In 2024, Saving Space with Efficient HD Video Downloads From FB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-tier-psd-artistry-tweaks/"><u>[New] In 2024, Top-Tier PSD Artistry Tweaks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlocking-gopro-potential-model-by-model-insight-for-2024/"><u>[New] Unlocking Gopro Potential Model By Model Insight for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-distortion-for-images-and-videos-for-2024/"><u>Dynamic Distortion for Images & Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-printer-interface-max-48-chars/"><u>Unlocking Windows 11'S Printer Interface (Max 48 Chars)</u></a></li>
 </ul></div>
 

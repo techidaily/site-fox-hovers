@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Gradual Dimming of Sound in Audacity Masterclass"
-date: 2024-09-08T19:45:49.835Z
-updated: 2024-09-15T18:43:12.028Z
+date: 2024-09-14T17:33:38.375Z
+updated: 2024-09-20T17:49:42.651Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,6 @@ By selecting the audio segment, you wish to fade out and selecting Effect > Fade
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
@@ -69,16 +62,23 @@ A dialog box will show up on the screen when you choose the customizable fade op
 
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Crossfades Audacity
 
 There are two choices available when using this effect. You have two options: either manually make a crossfade of your own, or utilize one of the pre-existing crossfades in Audacity. In Audacity, there are two crossfades that are accessible. Crossfade clips and Crossfade tracks are what they are. Crossfade clips make it easier to switch between two distinct clips. Additionally, crossfade tracks aid in crossfading between two audio tracks and are more exact.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to Use Crossfades:**
 
@@ -87,6 +87,13 @@ Using the Time Shift Tool, place your two clips adjacent to one another in order
 Select the area to be crossfaded using the Selection tool, and then click Effect > Crossfade Clips to combine the sounds you've chosen.
 
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
@@ -108,13 +115,6 @@ In the step that follows, we'll show you how to use this platform to fade in and
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
 ##### Step3 Open the Audio Editor in Filmora
@@ -136,13 +136,6 @@ To finish the fade-out, click and drag the other icon in Filmora to the necessar
 The last step consists of downloading your modified file to your PC and storing it there in the appropriate place and format. To simply do so, use the Export button in the top right corner of your software's main interface. You may also quickly submit the modified audio clip to your YouTube channel. To post and share your audio-altered file right away, go to the YouTube menu bar at the top of your Export window as follows, select Sign in, and then input your YouTube channel in Filmora:
 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -160,6 +153,13 @@ In the step that follows, we'll show you how to use this platform to fade in and
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
 ##### Step3 Open the Audio Editor in Filmora
@@ -183,16 +183,10 @@ The last step consists of downloading your modified file to your PC and storing 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -223,18 +217,19 @@ You may access a variety of tools and services on the platform known as Audacity
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>[New] '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-efficientuseofyourwebcamforrecording/"><u>[New] In 2024, EfficientUseOfYourWebcamForRecording</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-depth-analysis-and-methods-with-morphvox-sound-alteration/"><u>[New] In-Depth Analysis and Methods with MorphVOX Sound Alteration</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-memory-compatible-with-sony-a7-cams-for-2024/"><u>[New] Premium Memory Compatible with Sony A7 Cams for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[Updated] 2024 Approved The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unraveling-the-fabric-of-augmented-realities-for-2024/"><u>[Updated] Unraveling the Fabric of Augmented Realities for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-essentials-of-stylistic-self-discovery-high-impact/"><u>2024 Approved The Essentials of Stylistic Self-Discovery [High Impact]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-straightforward-path-to-turn-off-igtv/"><u>In 2024, A Straightforward Path to Turn Off IGTV</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-solo-stream-smoothness-hacks-for-seamless-live-broadcasts/"><u>In 2024, Solo Stream Smoothness Hacks for Seamless Live Broadcasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Phone Network-Ready</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-malfunctioning-logitech-microphone-and-webcam-setup/"><u>Solution Steps for Malfunctioning Logitech Microphone & Webcam Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/system-builders-analysis-puget-demonstrates-superior-endurance-of-intel-cpus-over-ryzen-counterparts-in-new-failure-report/"><u>System Builders' Analysis: Puget Demonstrates Superior Endurance of Intel CPUs Over Ryzen Counterparts in New Failure Report</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>[New] How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-craft-a-compelling-metaverse-presence-with-these-tools/"><u>[New] In 2024, Craft a Compelling Metaverse Presence with These Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-downloading-made-simple-discover-the-4-aces/"><u>[New] In 2024, Downloading Made Simple Discover the 4 Aces</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-speedway-selection-top-5-picks-revealed-for-2024/"><u>[New] Virtual Speedway Selection Top 5 Picks Revealed for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfect-cone-capture-equipment/"><u>[Updated] 2024 Approved Perfect Cone Capture Equipment</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elite-8-tools-transforming-digital-images/"><u>[Updated] In 2024, Elite 8 Tools Transforming Digital Images</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-incorporating-melodies-into-youtube-repertoire/"><u>[Updated] Incorporating Melodies Into Youtube Repertoire</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-writers-of-aural-narratives/"><u>2024 Approved Elite Writers of Aural Narratives</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-cartoon-animation-software-for-android-and-ios-for-2024/"><u>Best Cartoon Animation Software for Android and iOS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-graphics-card-performance-with-gigabytes-gc-wb867d-drivers-download-now/"><u>Enhance Your Graphics Card Performance with Gigabyte's GC-WB867D Drivers - Download Now!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-stunning-iphone-close-ups-and-macros-for-2024/"><u>Expert Tips for Stunning iPhone Close-Ups & Macros for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagrams-sideways-scenario-a-visual-glitch-examined/"><u>In 2024, Instagram's Sideways Scenario A Visual Glitch Examined</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-virtual-conversations-a-google-meet-handbook/"><u>In 2024, Navigating Virtual Conversations A Google Meet Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-10-christian-melodies-download-and-personalize-guide/"><u>In 2024, Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
 </ul></div>
 

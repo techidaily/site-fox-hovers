@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stepping Into Filmmaking  Learning the Basics of Key Shots\""
-date: 2024-07-12T02:05:55.796Z
-updated: 2024-07-13T02:05:55.796Z
+date: 2024-09-19T17:05:39.955Z
+updated: 2024-09-20T19:32:55.930Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,13 @@ Also, the chief character or say the protagonist should have a major presence in
 
 Moreover, while using this type of camera shot, you must take care that it should be dominated by the scenery.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Full Shot
 
 Here, the location can be ignored from keeping in the focus.
@@ -88,6 +95,13 @@ Putting differently, this type of camera shot shows an amalgamation of the body 
 The purpose of this shot is to keep the character looking natural.
 
 ![Medium Shot](https://images.wondershare.com/filmora/filmorapro/medium-shot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Close-Up shot
 
@@ -112,6 +126,13 @@ This type of shot in films aims to fit the single feature on the entire screen. 
 These types of shots are taken keeping the camera exactly at the [human eye level](https://nofilmschool.com/eye-level-shot-camera-angle). Using these bring the neutral effect of the shot.
 
 ![Eye Shots](https://images.wondershare.com/filmora/filmorapro/eye-shots.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. High Shots
 
@@ -145,6 +166,13 @@ This shot typically cuts the screen into two or three or sometimes four parts.
 
 It is helpful when you have multiple things to be shown as important in one scene. It takes close-up of the thing that you want to show your viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 14\. Master Shot
 
 A shot that is recorded from a single angle and is an uninterrupted shot to bring all the characters in view is referred to as the [master shot](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -173,6 +201,13 @@ Please help us by sharing your views on this so that we will update you with mor
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -196,6 +231,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-techniques-for-capturing-high-quality-skype-calls/"><u>[New] Advanced Techniques for Capturing High-Quality Skype Calls</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagram-marketing-ultimate-guide-to-video-success/"><u>[New] Navigating Instagram Marketing Ultimate Guide to Video Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>[Updated] 2024 Approved In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-key-concepts-in-quantum-hdr-mastery-for-2024/"><u>[Updated] Key Concepts in Quantum HDR Mastery for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android-for-2024/"><u>[Updated] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovate-in-fb-advertising-access-no-cost-video-tools/"><u>2024 Approved Innovate in FB Advertising - Access No-Cost Video Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertly-tailored-shots-with-10-initial-free-customizable-lut-packages/"><u>Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-rtx-ebx-2080-driver-for-windows-operating-systems-version-11-7-and-8/"><u>Get the Most Recent RTX Ebx 2080 Driver for Windows Operating Systems (Version 11, 7 & 8)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-prime-selection-of-streaming-services-explored/"><u>In 2024, Prime Selection of Streaming Services Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/superior-mac-gif-enhancer-for-2024/"><u>Superior Mac GIF Enhancer for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-title-the-enigmatic-world-of-fibonacci-sequences-and-their-mathematical-implications-in-modern-science/"><u>Updated Title The Enigmatic World of Fibonacci Sequences and Their Mathematical Implications in Modern Science</u></a></li>
+</ul></div>
 

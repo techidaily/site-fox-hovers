@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Professionals' Choice  Top 10 AFX Templates for FREE\""
-date: 2024-07-12T02:07:20.145Z
-updated: 2024-07-13T02:07:20.145Z
+date: 2024-09-14T21:01:29.704Z
+updated: 2024-09-20T16:41:25.051Z
 tags: 
   - screen-recording
   - ai video
@@ -147,6 +147,13 @@ Step2 Move the playhead to about 3 seconds and then click on “Edit” and sele
 
 ![delete the top split layer](https://images.wondershare.com/filmora/article-images/2022/07/delete-the-top-split-layer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Select the comp that is remaining and click on “Edit” to select “Duplicate.”
 
 ![edit duplicate ae](https://images.wondershare.com/filmora/article-images/2022/07/edit-duplicate-ae.jpg)
@@ -175,9 +182,29 @@ Step4 You can then use the “Effects Window” to change the color as desired.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Free After Effects Title Templates
 
 The following are just some of the best After Effects title templates to choose from;
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Future Action After Effects Title Template
 
@@ -203,6 +230,13 @@ This is another minimalistic title template that can be useful for just any vide
 
 ![black white ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/black-white-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Cyber Brush Titles After Effects Template
 
 This title template is a combination of cyberpunk designs and brush effects to create some of the most unique video titles you will ever see. Because it is so colorful, this title may not be ideal for most projects, but each of the 10 different titles that you will find in this bundle is fully customizable and comes with its unique typography and animations. These titles are ideal for YouTube or Instagram clips whose main aim is to generate engagement.
@@ -226,6 +260,19 @@ The complete opposite of the previous title template, the Masonry Title Template
 This is an After Effects title template bundle that comes with different types of glitching animations. It is an ideal title to choose for a creative video project, although it may also be useful if your video is dramatic or meant to capture attention. All the templates in the bundle are fully customizable; you can change the color, text, and animation at will.
 
 ![glitch ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/glitch-ae-title-tempalte.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Cinematic After Effects Title Template
 
@@ -337,6 +384,19 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-seamlessly-add-pictures-to-youtube-videos/"><u>[New] 2024 Approved How to Seamlessly Add Pictures to YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-tips-to-use-zoom-on-chromebook-for-2024/"><u>[New] Best Tips to Use Zoom on Chromebook for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-secure-social-space-end-following-protocols/"><u>[New] In 2024, Secure Social Space End Following Protocols</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-laugh-labs-free-comedy-creation-for-creative-souls/"><u>[New] Laugh Labs Free Comedy Creation for Creative Souls</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-step-by-step-guide-to-facebook-mastery-pro-and-novice-edition-for-2024/"><u>[New] Step-by-Step Guide to Facebook Mastery Pro & Novice Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-superior-desktop-video-recorders-for-pcmacos/"><u>[Updated] 2024 Approved Superior Desktop Video Recorders for PC/macOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-perfect-your-posts-instagram-video-edits-with-borders/"><u>2024 Approved Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlock-full-participant-grid-display-in-meet/"><u>2024 Approved Unlock Full Participant Grid Display in Meet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/demystifying-facebooks-off-page-activity-review-for-2024/"><u>Demystifying Facebook's Off-Page Activity Review for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-to-use-chatgpt-through-a-vpn-connection/"><u>Is It Possible To Use ChatGPT Through A VPN Connection?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-video-creation-secrets-of-the-professionals-unveiled-for-2024/"><u>YouTube Video Creation Secrets of the Professionals Unveiled for 2024</u></a></li>
+</ul></div>
 

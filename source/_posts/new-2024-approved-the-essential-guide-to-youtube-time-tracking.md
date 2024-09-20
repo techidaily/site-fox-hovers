@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Essential Guide to YouTube Time Tracking\""
-date: 2024-09-10T18:38:28.744Z
-updated: 2024-09-15T20:04:54.304Z
+date: 2024-09-17T22:10:52.305Z
+updated: 2024-09-20T19:08:01.661Z
 tags: 
   - screen-recording
   - ai video
@@ -81,6 +81,13 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** When manually linking to a timestamp, always omit the zeros and include only whole numbers. For example, use 8 instead of 08.
 
 It is also important to note that referring to a specific timestamp does not mean that one cannot watch earlier video segments. They can move the time slider in any direction.
@@ -100,16 +107,10 @@ It is also important to note that referring to a specific timestamp does not mea
 Finally, remember that the formula for a time period is t=Xs or t=XmYs. You modify X and Y to reflect your own time values. Short URLs starting with "youtu.be" use "?" first, while long URLs starting with "youtube.com/watch?v=" use "&" before the time data.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Using link generator to add timestamp
@@ -121,6 +122,13 @@ Link generators allow you to not only share specific parts of videos from YouTub
 1. Go to [Farotech timestamp link generator](https://farotech.com/youtube-timestamp-link-generator/), paste the URL of the YouTube video you want to share, and edit the time.
 
 ![edit the time](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
 2. You will get a dedicated link to your video with the option to embed it on your website or blog.
@@ -180,20 +188,13 @@ You can then share the link as you wish.
 
 ![select copy](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Viewers are taken immediately to the desired timestamp when they click the copied link. The video starts to play at that point.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Link to a YouTube Timestamp Manually
@@ -211,10 +212,10 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** When manually linking to a timestamp, always omit the zeros and include only whole numbers. For example, use 8 instead of 08.
@@ -244,13 +245,6 @@ Link generators allow you to not only share specific parts of videos from YouTub
 1. Go to [Farotech timestamp link generator](https://farotech.com/youtube-timestamp-link-generator/), paste the URL of the YouTube video you want to share, and edit the time.
 
 ![edit the time](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
 2. You will get a dedicated link to your video with the option to embed it on your website or blog.
@@ -302,18 +296,21 @@ Timestamps can help you share information with your audience without having to w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-9-windows-11-secrets-for-a-streamlined-user-interface-experience/"><u>[New] 9 Windows 11 Secrets for a Streamlined User Interface Experience</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-compilation-of-top-mobile-photo-and-film-editors-for-2024/"><u>[New] Compilation of Top Mobile Photo & Film Editors for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exploring-the-fundamentals-of-av1-encoding/"><u>[New] In 2024, Exploring the Fundamentals of AV1 Encoding</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-srt-a-complete-guide-overview/"><u>[New] Mastering SRT A Complete Guide Overview</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-premium-fb-extra-tools-secure-file-grabber-enhanced-firefox-use-for-2024/"><u>[New] Premium FB Extra Tools Secure File Grabber, Enhanced Firefox Use for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>[Updated] 2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-recovering-the-solitary-sound-device/"><u>[Updated] 2024 Approved Recovering the Solitary Sound Device</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform-for-2024/"><u>[Updated] Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-creating-a-softer-focus-iphone-image-blurring-explained/"><u>2024 Approved Creating a Softer Focus IPhone Image Blurring Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-a-step-by-step-fix-for-call-of-duty-vanguard-error-0x00001n-on-pcs/"><u>Beat the Bug: A Step-by-Step Fix for Call of Duty Vanguard Error 0X00001n on PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-poco-m6-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco M6 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-se-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone SE</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-experience-the-power-of-a-new-superior-radiator-with-moora-iv-600-nine-incredible-200mm-fans-weighing-over-35lbs-at-just-600/"><u>Next-Level Gaming: Experience the Power of a New Superior Radiator with MOORA IV 600 - Nine Incredible 200Mm Fans, Weighing Over 35Lbs at Just $600</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-compilation-winning-16-free-media-players/"><u>[New] 2024 Approved Ultimate Compilation Winning 16 Free Media Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-srt-to-sub-transforming-playback-sequences/"><u>[New] From SRT to SUB Transforming Playback Sequences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pro-free-ending-makers-ranked-1-6/"><u>[New] Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-smile-spawning-creativity-in-adobe-meme-making/"><u>[New] Smile Spawning Creativity in Adobe Meme-Making</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-metaverse-and-multimetase-core-disparities-explored-for-2024/"><u>[New] Unveiling the Metaverse & MultiMetase Core Disparities Explored for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-effective-screenrecording-practices-for-professionals/"><u>[Updated] 2024 Approved Effective ScreenRecording Practices for Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-exploring-every-aspect-of-picsart-a-compre-cookie/"><u>[Updated] In 2024, Exploring Every Aspect of PicsArt A Compre Cookie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-precision-portrait-display-review-of-lgs-27in-oled-tv/"><u>[Updated] In 2024, Precision Portrait Display Review of LG's 27in OLED TV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-increase-igtv-views-strategic-use-of-hashtags-for-2024/"><u>[Updated] Increase IGTV Views Strategic Use of Hashtags for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>[Updated] Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-p40plus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Itel P40+ Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-the-power-of-animation-infusing-life-into-your-ig-story-texts/"><u>In 2024, Unlock the Power of Animation Infusing Life Into Your IG Story Texts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-sony-xperia-10-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Sony Xperia 10 V</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-popular-platforms-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Platforms: An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-tutorial-for-repairing-officialsetupdll-not-found-issues/"><u>The Complete Tutorial for Repairing 'officialsetup.dll Not Found' Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

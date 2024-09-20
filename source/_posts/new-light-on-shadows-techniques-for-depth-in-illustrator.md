@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Light on Shadows  Techniques for Depth in Illustrator\""
-date: 2024-07-12T02:04:35.830Z
-updated: 2024-07-13T02:04:35.830Z
+date: 2024-09-16T22:16:59.350Z
+updated: 2024-09-20T20:01:38.407Z
 tags: 
   - screen-recording
   - ai video
@@ -98,7 +98,21 @@ If you want to learn more about Filmora’s fantastic features, please watch the
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -117,6 +131,13 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -144,6 +165,23 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breaking-barriers-how-to-enjoy-virtual-journeys/"><u>[New] In 2024, Breaking Barriers How to Enjoy Virtual Journeys</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-skyrocket-to-your-youtube-audience-goal-1kplus/"><u>[New] In 2024, Skyrocket to Your YouTube Audience Goal 1K+</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-inside-the-magic-understanding-srts-impact/"><u>[New] Inside the Magic Understanding SRT's Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>[Updated] 2024 Approved Free Graphic Goldmine A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-direct-encouraging-content-for-daily-living-vids/"><u>[Updated] 2024 Approved How to Direct Encouraging Content for Daily Living Vids</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-depths-with-premium-underwater-cameras-2023/"><u>[Updated] 2024 Approved Journey Through Depths with Premium Underwater Cameras 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-must-try-top-5-mac-streaming-applications/"><u>[Updated] Must-Try Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>2024 Approved Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beginning-with-windows-10-sound-recording-for-2024/"><u>Beginning with Windows 10 Sound Recording for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/free-picture-haven-a-review-of-the-best-10-online-resources-for-2024/"><u>Free Picture Haven A Review of the Best 10 Online Resources for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-options-best-4k-camera-support-systems-for-2024/"><u>High Definition Options Best 4K Camera Support Systems for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-motorola-edge-2023-screen-sharing-drfone-by-drfone-android/"><u>How To Do Motorola Edge 2023 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-innovative-volume-dissipation-methods-within-audacity-tools/"><u>In 2024, Innovative Volume Dissipation Methods Within Audacity Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/leading-edge-technology-15-high-quality-recorders/"><u>Leading Edge Technology 15 High-Quality Recorders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/save-time-effortlessly-the-ultimate-list-of-10-chatgpt-plus-pdf-syncing-plugins/"><u>Save Time Effortlessly: The Ultimate List of 10 ChatGPT + PDF Syncing Plugins</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-errors-encountered-while-installing-or-updating-on-steam/"><u>Step-by-Step Fixes for Errors Encountered While Installing or Updating on Steam</u></a></li>
+</ul></div>
 

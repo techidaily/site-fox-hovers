@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Beijing's Glacial Gala  The Olympics of Winter, 2022\""
-date: 2024-09-11T16:08:53.193Z
-updated: 2024-09-15T19:17:44.557Z
+date: 2024-09-15T20:12:55.465Z
+updated: 2024-09-20T17:00:46.579Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
@@ -53,11 +60,25 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
@@ -69,40 +90,13 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
@@ -127,16 +121,10 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
@@ -148,10 +136,10 @@ Doping scandals have become a part of the Olympics and this year is no different
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
@@ -175,19 +163,18 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-from-novice-to-expert-advanced-screencasting-steps/"><u>[New] From Novice to Expert Advanced Screencasting Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-depth-analysis-cutzone-pro-review-unveiled/"><u>[New] In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-uniting-choreography-with-crafted-audio-in-instagram/"><u>[New] Uniting Choreography with Crafted Audio in Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-vr-identity-a-hands-on-approach-to-self-representation/"><u>[Updated] 2024 Approved Discovering VR Identity - A Hands-On Approach to Self-Representation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-evaluating-dji-phantom-3-professional-goggles/"><u>[Updated] 2024 Approved Evaluating DJI Phantom 3 Professional Goggles</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/architects-of-unique-virtual-environments-for-2024/"><u>Architects of Unique Virtual Environments for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clarity-cutting-edge-expert-recommendations-for-8k/"><u>Clarity Cutting-Edge Expert Recommendations for 8K</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2023-update-successfully-resolves-launch-problems/"><u>Football Manager 2023 Update Successfully Resolves Launch Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/having-trouble-with-cyberpunk-2077-downloads-heres-how-to-fix-it-on-steam/"><u>Having Trouble With Cyberpunk 2077 Downloads? Here's How to Fix It on Steam</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/picperfect-upgrade-mobile-photography-no-money-down/"><u>PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12-pro-4g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12 Pro 4G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/spectral-skillset-professionals-pathway-to-change/"><u>Spectral Skillset Professionals' Pathway to Change</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-ae-techniques-for-memorable-heads-ups/"><u>[New] In 2024, Essential AE Techniques for Memorable Heads-Ups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instructions-removing-videos-from-youtubes-watchlater/"><u>[New] Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sky-high-creations-professional-tips-for-drone-video-mastery-for-2024/"><u>[New] Sky High Creations Professional Tips for Drone Video Mastery for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unseen-whatsapp-features-for-the-ultimate-messaging-experience-for-2024/"><u>[New] Unseen WhatsApp Features for the Ultimate Messaging Experience for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-audiophiles-guide-download-and-review-sound-files/"><u>[Updated] 2024 Approved Audiophile's Guide Download & Review Sound Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-gear-guide-uncovering-the-best-streamer-webcams/"><u>[Updated] Essential Gear Guide Uncovering the Best Streamer Webcams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-the-black-screen-annoyance-in-hitman-3-top-fixes-for-your-pc/"><u>Banish the Black Screen Annoyance in Hitman 3 - Top Fixes for Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-enhanced-privacy-hub-for-safer-browsing/"><u>Decoding Facebook’s Enhanced Privacy Hub for Safer Browsing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y100twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y100twith/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-camon-20-premier-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Camon 20 Premier 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-8k-vision-selecting-the-superior-cameras/"><u>In 2024, Premium 8K Vision Selecting the Superior Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quantum-realms-unraveling-new-worlds-with-10-sci-fi-titles-for-2024/"><u>Quantum Realms Unraveling New Worlds with 10 Sci-Fi Titles for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-for-streamlining-iphone-video-content/"><u>The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
 </ul></div>
 

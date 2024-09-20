@@ -1,7 +1,7 @@
 ---
 title: "Time Tagging in Picture Editing Software"
-date: 2024-09-14T16:12:43.303Z
-updated: 2024-09-15T16:41:52.278Z
+date: 2024-09-15T22:30:34.518Z
+updated: 2024-09-20T19:38:12.651Z
 tags: 
   - screen-recording
   - ai video
@@ -100,6 +100,13 @@ The stock Android Camera app has full editing features that allow you to crop, r
 
 The stock iPhone Camera app also has full editing tools that allow you to crop, rotate and adjust the contrast of your photos. You can also add stickers and frames to your photo within this app.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use other photo editors to edit photos
 
 Why knowing **how to add date to a photo** with your in-built app is important; here is a complete guide on how you can use other third-party apps to **edit photos on your phone**.
@@ -111,13 +118,6 @@ You can make use of other photo editing apps to edit your pictures. Here are thr
 Instasize is an app that you will find quite useful. The app was developed for influencers and social media users who wish to produce captivating, imaginative images and films..
 
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key features**
 
@@ -170,13 +170,6 @@ The app is available for [Android](https://play.google.com/store/apps/details?id
 
 Mac and windows have free image editing programs that allow you to copy an image from its source, paste it into the editor, crop it, resize it, and then save it. First, let's look at how to **edit a photo on a Mac.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use the inbuilt photo on Mac to edit the photo
 
 Drag and drop your image onto the app window after launching the built-in Images app from your dock or **Finder > Applications** to begin editing photos on your Mac.
@@ -188,19 +181,6 @@ You can perform simple tweaking after the image is in the editor to help make yo
 First, to resize an image in the Photos app on a Mac, enter editing mode by clicking the Edit button located at the top right corner of the Photos app window. Next, select an option by dragging the edges of the cropping framework that shows on your image in the Crop tab, which is in the middle of your Photos window.
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2Sharpen your images
 
@@ -223,6 +203,13 @@ Step1Click on Preview to open.
 Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Click on the text button.
 
@@ -298,19 +285,6 @@ Canva is a standout online photo editor where you can edit your and **add date t
 
 ![ftor](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-20.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * Portrait Retouching
@@ -374,6 +348,13 @@ But what if you miss an important date? How would you plan for this? Well, now y
 
 You can do this in two ways: With an **inbuilt photo editor** or an **external photo editor**. Let's take a look at both.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the inbuilt photo app on Android and iPhone to add date stamps
 
 Most phone makers do not usually have the option to superimpose a timestamp on their taken photos. However, some phones offer it.
@@ -407,6 +388,19 @@ The stock iPhone Camera app also has full editing tools that allow you to crop, 
 Why knowing **how to add date to a photo** with your in-built app is important; here is a complete guide on how you can use other third-party apps to **edit photos on your phone**.
 
 You can make use of other photo editing apps to edit your pictures. Here are three applications that you will find useful to do this.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Instasize**
 
@@ -521,6 +515,19 @@ Step2At the top of your screen, click on Edit & Create to get.
 
 ![click on edit create to get](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-12.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
 
 ### Add date stamps using Windows PC
@@ -554,13 +561,6 @@ Step7Proceed to click on the Save option.
 ## Part 4\. Edit Photos Online to add date stamps
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. [Canva](https://www.canva.com/photo-editor/)
 
@@ -631,21 +631,20 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-a-guide-to-30-compelling-video-presentation-ideas/"><u>[New] A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-brief-steps-efficiently-archiving-gotomeeting-discussions/"><u>[New] Brief Steps Efficiently Archiving GoToMeeting Discussions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>[New] In 2024, Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlock-your-storytelling-potential/"><u>[New] In 2024, Unlock Your Storytelling Potential</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-innovative-approaches-to-console-playback-on-pc-hardware/"><u>[New] Innovative Approaches to Console Playback on PC Hardware</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-visual-storytelling-instagrams-photo-integration-for-2024/"><u>[New] Visual Storytelling Instagram's Photo Integration for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers/"><u>[Updated] 2024 Approved Boost Your E-Commerce Strategy with These Top 15 FB Analyzers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-what-is-public-domain-art/"><u>[Updated] In 2024, What Is Public Domain Art</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-maximizing-video-impact-post-upload-edit-tips-for-youtube/"><u>2024 Approved Maximizing Video Impact Post-Upload Edit Tips for YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-skydrives-frugal-option-minimal-price-maximum-space/"><u>2024 Approved Skydrive's Frugal Option Minimal Price, Maximum Space</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-zerobackground-pro-precision-erasing-for-photos/"><u>2024 Approved ZeroBackground Pro Precision Erasing for Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-cross-format-communication-from-srt-to-xml-ssa-and-beyond/"><u>In 2024, Cross-Format Communication From SRT to XML, SSA, and Beyond</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>In 2024, Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unraveling-triller-its-distinctive-place-in-the-world-of-online-videos/"><u>Unraveling Triller Its Distinctive Place in the World of Online Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-the-ultimate-vr-experience-the-htc-vive-story-for-2024/"><u>Unveiling the Ultimate VR Experience The HTC Vive Story for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-videopad-video-editor-review-features-pricing-and-more/"><u>Updated The Ultimate Videopad Video Editor Review Features, Pricing, and More</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>[New] 2024 Approved Audio Alchemy Selecting Melodies that Enhance Boxings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-classic-cinema-in-paperback-examining-the-goofy-story/"><u>[New] 2024 Approved Classic Cinema in Paperback Examining 'The Goofy Story'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-explore-the-leading-microphones-in-podcasting/"><u>[New] Explore the Leading Microphones in Podcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-direct-path-to-mp3-converting-fb-video-files/"><u>[New] In 2024, Direct Path to MP3 Converting FB Video Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-punchline-creator-suite-for-2024/"><u>[New] Punchline Creator Suite for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[New] The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuit-convertissez-votre-fichier-3gp-en-video-mp4-sur-internet-tutoriel-complet/"><u>Gratuit: Convertissez Votre Fichier 3GP en Vidéo MP4 Sur Internet - Tutoriel Complet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-seamlessly-download-and-install-movie-maker-6/"><u>How to Seamlessly Download and Install Movie Maker 6</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-mastery-essential-tech-to-enhance-your-streams/"><u>In 2024, YouTube Mastery Essential Tech to Enhance Your Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://media-tips.techidaily.com/most-effective-online-platforms-for-designing-captivating-interactive-flipbooks/"><u>Most Effective Online Platforms for Designing Captivating Interactive Flipbooks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-phoenix-technology-restores-pdfs/"><u>New Phoenix Technology Restores PDFs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-fixes-for-stopped-fb-live-broadcasts-for-2024/"><u>Quick Fixes for Stopped FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862859663-revealed-the-ultimate-guide-to-the-newly-unveiled-evga-classified-x67t-amd-board-demanding-over-1300/"><u>Revealed: The Ultimate Guide to the Newly Unveiled EVGA Classified X67t AMD Board - Demanding Over $1,300!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/site-personalization-with-cookiebot-technology/"><u>Site Personalization with Cookiebot Technology</u></a></li>
 </ul></div>
 

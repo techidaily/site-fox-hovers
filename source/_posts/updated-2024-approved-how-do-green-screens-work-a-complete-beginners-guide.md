@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How Do Green Screens Work? [A Complete Beginner's Guide]\""
-date: 2024-09-13T17:07:06.613Z
-updated: 2024-09-15T16:19:54.594Z
+date: 2024-09-19T16:05:07.948Z
+updated: 2024-09-20T21:46:30.948Z
 tags: 
   - screen-recording
   - ai video
@@ -78,13 +78,6 @@ You can discard the background and all the unwanted people. What is left over is
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/how-do-green-screens-work.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Green Screening Does Not Have to Include the Color Green
 
 You can green screen by adding a certain color into the scene. Make it a color that is not seen elsewhere in the scene. Typically, this color is added as a canvas behind the screen, but it doesn't have to work that way.
@@ -140,16 +133,16 @@ You also need to think about individual lighting and how it creates shadows. The
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/green-screen-ideas-movie.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 5: Post-editing
@@ -200,16 +193,22 @@ The best green screen ideas are ones that occur as natural solutions to your pro
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/green-screen-ideas-animated.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In fact, in real life, there are plenty of people who are faking their Instagram images to great success. Notice the blank colors in the background, and the green seat in the image below. Using chromakeying, it is possible to make the Instagram user look as if she is living a luxurious lifestyle.
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/green-screen-ideas-by-tbhbyron.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Best Green Screen Video Editing Tools for Beginners and Pros
 
@@ -226,13 +225,6 @@ In reality, the front-runner in the race for best green screen video editor is t
 #### 1. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/create-green-screen-by-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It is a strong piece of video editing software that is perfectly able to handle green screening, and has many only editing features that will appeal to novice and professional film makers.
 
@@ -260,16 +252,16 @@ It's free to download. Have a try now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2. [iMovie](https://www.apple.com/uk/imovie/)
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/iMovie-Interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The iMovie program is the cheap and tacky entry in the video editing world. It is only available on the iOS and Mac, and is mostly suited for people who do not want to spend a lot of money on their video editing software.
 
@@ -296,6 +288,13 @@ The iMovie program is the cheap and tacky entry in the video editing world. It i
 #### 3. [Lightworks](https://www.lwks.com/)
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/lightworks-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Despite having a few advanced tools, this is probably the best example of bad design and marketing ideas in the video editing world. The free version is so clunky and awful that nobody would agree to buy the premium version. Furthermore, the GUI is terrible and very unintuitive. It looks like a cheap update of a 1990s editor.
 
@@ -343,6 +342,13 @@ Let us know in the comments, and please share our content on social media so tha
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -368,15 +374,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-examining-wirecasts-features-against-competitors/"><u>[New] 2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-a-scriptwriters-playbook/"><u>[New] In 2024, A Scriptwriter's Playbook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-recommendation-best-iphone-ringtone-makers/"><u>[New] In 2024, Recommendation Best iPhone Ringtone Makers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visionary-layout-overhauls/"><u>[New] In 2024, Visionary Layout Overhauls</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>[Updated] Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/audiblefromtwitvid-direct-audio-conversion/"><u>AudibleFromTwitVid Direct Audio Conversion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-free-game-download-torrent-sites-of-the-year/"><u>Best Free Game Download Torrent Sites of the Year</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fixing-overencoded-obs-videos/"><u>Fixing Overencoded OBS Videos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/innovative-classroom-techniques-utilizing-youtube-effectively/"><u>Innovative Classroom Techniques Utilizing YouTube Effectively</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-gt-5-by-drfone-android/"><u>Universal Unlock Pattern for Realme GT 5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dive-into-the-world-of-whatsapp-alert-creation-for-ios-android/"><u>[New] 2024 Approved Dive Into the World of WhatsApp Alert Creation for iOS, Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-top-free-accurate-online-srt-translators/"><u>[New] 2024 Approved Unveiling the Top Free, Accurate Online SRT Translators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-secrets-of-earning-big-reddits-13-money-makers/"><u>[New] In 2024, Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-gopro-max-versus-hero-11-ultimate-review-guide/"><u>[Updated] In 2024, GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-retail-marketing-through-vr-technology/"><u>[Updated] In 2024, Retail Marketing Through VR Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-zte-blade-a73-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from ZTE Blade A73 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-swagtron-swagger-the-epitome-of-elegant-rapid-commuting-devices/"><u>Comprehensive Review: Swagtron Swagger – The Epitome of Elegant, Rapid Commuting Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-hp-printer-software-on-your-windows-pc/"><u>Download & Setup HP Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y78-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y78 5G FRP Locks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-v27-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo V27 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-for-making-acer-screens-steady-and-clear/"><u>Methods for Making Acer Screens Steady and Clear</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-libexec32dll-file-cannot-be-found-a-step-by-step-guide/"><u>Resolving the 'libexec32.dll' File Cannot Be Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-pathway-to-profitability-navigating-youtube-adsense/"><u>The Pathway to Profitability Navigating YouTube AdSense</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-free-drawing-tools-top-mac-apps-listed/"><u>Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
 </ul></div>
 
