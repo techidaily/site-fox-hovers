@@ -142,16 +142,5 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-close-up-clarity-mastering-the-art-of-intense-focus/"><u>[New] Close-Up Clarity Mastering the Art of Intense Focus</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-harmonizing-background-sounds-with-film-trailers/"><u>[New] Harmonizing Background Sounds with Film Trailers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leading-video-makers-in-asmr-sphere/"><u>[New] Leading Video Makers in ASMR Sphere</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-essentials-understanding-whatsapp-calls/"><u>[Updated] 2024 Approved The Essentials Understanding WhatsApp Calls</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-add-auto-captions-to-instagram/"><u>[Updated] How to Add Auto Captions to Instagram</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-spark-20-proplus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Spark 20 Pro+ Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-photo-repair-programs-how-to-fix-and-salvage-damaged-images-effectively/"><u>Leading Photo Repair Programs: How to Fix and Salvage Damaged Images Effectively</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-best-5-iso-compressor-tools-for-efficiently-managing-your-iso-files/"><u>The Best 5 ISO Compressor Tools for Efficiently Managing Your ISO Files</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-tier-drones-for-sale-today/"><u>Top-Tier Drones for Sale Today</u></a></li>
-</ul></div>
+
 
