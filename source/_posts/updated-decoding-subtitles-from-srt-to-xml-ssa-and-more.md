@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Decoding Subtitles  From SRT to XML, SSA & More\""
-date: 2024-09-14T16:20:45.018Z
-updated: 2024-09-20T21:23:25.703Z
+date: 2024-09-22T20:05:42.550Z
+updated: 2024-09-26T23:49:29.899Z
 tags: 
   - screen-recording
   - ai video
@@ -60,9 +60,23 @@ Step2 Click the “Upload” button to upload your SRT file.
 
 ![convert srt to xml](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Select the file output format as “Flash XML (.xml)”. Then hit the “Convert” button to convert SRT to XML.
 
 After the conversion process is finalized, you can download the XML file to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Convert SRT to SSA
 
@@ -76,6 +90,13 @@ Step2 Click the “Upload” button to upload your SRT file.
 
 ![convert srt to ssa](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Click Convert to begin SRT to SSA conversion.
 
 ![click convert to begin srt to ssa](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-3.jpg)
@@ -83,6 +104,20 @@ Step3 Click Convert to begin SRT to SSA conversion.
 Step4 Finally, click the green Download icon to download the converted file to your device.
 
 ![clcik the green download icon](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Convert SRT to TTML
 
@@ -95,6 +130,13 @@ Step1 Open [Better Converter](https://www.better-converter.com/Subtitles-Convert
 Step2 Use the Browse button to upload your SRT file.
 
 ![use browse to upload srt file](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Once you upload the file, Better Converter will automatically convert it to TTML and download the file to your PC. You can find the file in the Download folder.
 
@@ -109,13 +151,6 @@ Step1 Visit REV's[official website](https://www.rev.com/captionconverter)
 Step2 Click on Select.SRT Files to upload the SRT file you want to convert to SCC.
 
 ![click on select srt files](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Under Select Output Formats, choose Scenarist (.scc).
 
@@ -167,23 +202,9 @@ Step2 Click the “Upload” button to upload your SRT file.
 
 ![convert srt to xml](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Select the file output format as “Flash XML (.xml)”. Then hit the “Convert” button to convert SRT to XML.
 
 After the conversion process is finalized, you can download the XML file to your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Convert SRT to SSA
 
@@ -205,6 +226,13 @@ Step4 Finally, click the green Download icon to download the converted file to y
 
 ![clcik the green download icon](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Convert SRT to TTML
 
 Formerly known as DFXP (Distribution Format Exchange Profile), TTML (Time Texture Markup Language) is a time text in online media used in authoring, transcoding, or exchanging time text information used for subtitles and captions of videos. Although this format is supported in most media players, it cannot be used in web browsers. However, some people still have personal reasons why they want to convert SRT to TTML. Irrespective of what your reason to convert SRT to TTML is, you need the help of an online tool to carry out the operation.
@@ -216,19 +244,6 @@ Step1 Open [Better Converter](https://www.better-converter.com/Subtitles-Convert
 Step2 Use the Browse button to upload your SRT file.
 
 ![use browse to upload srt file](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Once you upload the file, Better Converter will automatically convert it to TTML and download the file to your PC. You can find the file in the Download folder.
 
@@ -252,6 +267,13 @@ Step4 Enter your email into the relevant box and click the Convert button.
 
 ![enter email into relevant box](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The SRT file should be converted within a few minutes. Afterward, you can check for the converted files in your email.
 
 ## Part 6: How to Convert SRT to FCPXML
@@ -265,13 +287,6 @@ Step1 Open Resolver Tools in your PC browser.
 Step2 Click on Choose File to upload the SRT file you want to convert.
 
 ![click on choose file to upload](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Select FCPXML to SRT 1.5 and edit output as per requirement. Then, click Send File to begin SRT to FCPXML conversion.
 
@@ -309,5 +324,19 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-archive-your-nintendo-switch-gameplay/"><u>[New] In 2024, How to Archive Your Nintendo Switch Gameplay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-webcam-use-for-professional-meeting-records/"><u>[Updated] 2024 Approved Mastering Webcam Use for Professional Meeting Records</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-high-end-psd-lighting-tweaks-for-2024/"><u>[Updated] High-End PSD Lighting Tweaks for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[Updated] In 2024, Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-steady-your-screen-a-guide-to-decelerating-snapchats-playback/"><u>[Updated] In 2024, Steady Your Screen A Guide to Decelerating Snapchat's Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-syma-x8c-feature-analysis-for-2024/"><u>[Updated] Syma X8C Feature Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androidios-essentials-cutting-edge-video-montage-software/"><u>2024 Approved Android/iOS Essentials Cutting-Edge Video Montage Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/clarity-catalysts-selecting-online-video-aids-for-2024/"><u>Clarity Catalysts Selecting Online Video Aids for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-fixing-hard-drive-issues-in-windows-10-a-step-by-step-tutorial/"><u>Guide to Fixing Hard Drive Issues in Windows 10: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-official-logitech-g602-sound-card-drivers-on-windows/"><u>How to Get the Official Logitech G602 Sound Card Drivers on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029323280-mp4-mp3/"><u>MP4オーディオの抽出手順 - 高品質なMP3へ変換するコツ</u></a></li>
+</ul></div>
 

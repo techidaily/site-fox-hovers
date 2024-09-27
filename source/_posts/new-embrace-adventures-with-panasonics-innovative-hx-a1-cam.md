@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Embrace Adventures with Panasonic's Innovative HX-A1 Cam\""
-date: 2024-09-19T21:43:17.567Z
-updated: 2024-09-20T22:32:28.973Z
+date: 2024-09-24T04:15:07.272Z
+updated: 2024-09-27T01:22:20.399Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 | Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Accessories in the box
 
@@ -105,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Features
 
 #### **1. Video and photo quality**
@@ -141,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -154,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -178,5 +192,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-launching-an-engaging-fb-giving-event/"><u>[New] 2024 Approved Launching an Engaging FB Giving Event</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-beyond-brand-promotion-real-insights-into-instagram-reels/"><u>[New] Beyond Brand Promotion Real Insights Into Instagram Reels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enhancing-reddit-discussions-a-methodical-approach-to-posting-for-2024/"><u>[New] Enhancing Reddit Discussions A Methodical Approach to Posting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-potential-the-instagram-success-story-guide/"><u>[New] Unleashing Potential - The Instagram Success Story Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fundamentals-of-copywriting-for-engaging-fb-campaigns/"><u>[Updated] In 2024, Fundamentals of Copywriting for Engaging FB Campaigns</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-htc-vive-comfort-top-strategies-to-prevent-discomfort/"><u>[Updated] In 2024, HTC Vive Comfort Top Strategies to Prevent Discomfort</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-tricks-to-control-music-paceplay-in-spotify/"><u>[Updated] In 2024, Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>About Oppo Reno 8T FRP Bypass</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/evaluating-superiority-gopros-max-and-hero-11-face-off-for-2024/"><u>Evaluating Superiority GoPro's Max and Hero 11 Face-Off for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>In 2024, Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-laptop-gpu-initialization/"><u>Resolved: Windows 11 Laptop GPU Initialization</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sierras-best-the-top-5-choices-for-mac-video-editing/"><u>Sierra's Best The Top 5 Choices for Mac Video Editing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-updating-and-optimizing-your-dell-webcams-driving-force/"><u>The Ultimate Guide: Updating and Optimizing Your Dell Webcam's Driving Force</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-choice-video-capture-apps-iphone-for-2024/"><u>Top Choice Video Capture Apps iPhone for 2024</u></a></li>
+</ul></div>
 

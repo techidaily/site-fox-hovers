@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Perfect Your Focus  A Guide to Roblox Tight Scopes\""
-date: 2024-09-15T17:36:25.456Z
-updated: 2024-09-20T21:11:40.146Z
+date: 2024-09-21T05:23:44.509Z
+updated: 2024-09-26T17:39:48.227Z
 tags: 
   - screen-recording
   - ai video
@@ -77,6 +77,13 @@ Step2Zoom in by pressing forward on the right thumbstick that has been clicked d
 
 ![press forward right thumbstick](https://images.wondershare.com/filmora/article-images/2022/07/press-forward-right-thumbstick.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
 
 ## Way 4\. Zoom in/out in Roblox on Tablet
@@ -89,22 +96,16 @@ Step1Open the Roblox app, sign in, and then start a test gaming session. The fir
 
 ![zoom in roblox teblet](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-roblox-teblet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2To zoom, just use two fingers and slide them apart (for zooming in) or together (for zooming out) like you would to do so on a smartphone (zoom out).
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
@@ -113,10 +114,23 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,5 +167,22 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets/"><u>[New] 2024 Approved A Step-by-Step Guide for Choosing Your Best Fit Mobile Vs. Tethered Virtual Reality Headsets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>[New] From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-futures-echo-top-30-metaverse-sentiments-arvr/"><u>[New] Future's Echo Top 30 Metaverse Sentiments [AR/VR]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-speed-up-windows-file-inspection/"><u>[New] In 2024, How To Speed Up Windows File Inspection</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-journey-through-animated-expression-your-guide-to-snapface-magic/"><u>[New] Journey Through Animated Expression Your Guide to Snapface Magic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfecting-sims-4-live-action-for-videographers/"><u>[New] Perfecting Sims 4 Live Action for Videographers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-xsplit-direct-insight-and-evaluation-guide/"><u>[Updated] 2024 Approved XSplit Direct Insight & Evaluation Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweetvidcutter-mp4webm-extractor/"><u>[Updated] In 2024, TweetVidCutter MP4/WebM Extractor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-video-glamour-guide-elevating-your-shots-with-effective-lights/"><u>[Updated] In 2024, Video Glamour Guide Elevating Your Shots with Effective Lights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-riddle-me-this-the-ultimate-room-conundrums-for-2024/"><u>[Updated] Riddle Me This The Ultimate Room Conundrums for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-starting-an-online-platform-for-consumer-goods-reviews/"><u>2024 Approved Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>2024 Approved The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-year-in-review-the-best-of-figure-skating22/"><u>2024 Approved Year in Review The Best of Figure Skating'22</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-the-art-of-online-marketing-for-newcomers-for-2024/"><u>Mastering the Art of Online Marketing for Newcomers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
+</ul></div>
 

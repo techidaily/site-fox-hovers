@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Design Mastery in Minutes  Canva's Quick Secret Tips\""
-date: 2024-09-16T21:28:13.746Z
-updated: 2024-09-20T22:46:29.586Z
+date: 2024-09-22T04:40:17.945Z
+updated: 2024-09-27T00:46:58.931Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ Other interesting effects include BadTV, through which you can add cinematic and
 
 ![search and apply filters](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Add Text to Images
 
 Do you like to post Instagram or Facebook stories with catchy captions embedded in them? Canva photo editor online gives you huge and diverse options to add text on the images with fancy styles and colors. You can add an aligned text by adjusting it to various angles such as right, left, or center. Afterward, you can select the font, color, and style of your added text through finger swipes.
@@ -54,13 +61,6 @@ Do you like to post Instagram or Facebook stories with catchy captions embedded 
 You can also manage the size of your text to make it look appropriate and suitable for your image. Hence, you can use the text images to post them as stories on social media accounts or use them for commercial purposes. This is surely good!
 
 ![add texts to photos](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Add Frames to the Image
 
@@ -70,13 +70,6 @@ On the other hand, frames like film 1 and film 2 are extremely trendy, and many 
 
 ![use different canva photo frames](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Create YouTube Thumbnails
 
 Canva photo editor is not only restricted for personal use as many users of YouTube also take benefits from this platform. YouTube thumbnails instantly grab the attention of the audience and help in click baits. You can use this platform to create trendy and appealing YouTube thumbnails to gain more views on the videos.
@@ -84,6 +77,13 @@ Canva photo editor is not only restricted for personal use as many users of YouT
 To create an eye-catchy YouTube thumbnail, use the “Highlight Effect” from this tool. For this, remove the existing background from your picture and apply the duotone image effect to the picture. Then adjust the highlights and shadows and select any color for the background. Thus, you can easily create a creative YouTube thumbnail from this editor.
 
 ![attractive youtube thumbnails](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Add Different Elements
 
@@ -94,10 +94,17 @@ Hence, explore various stickers and graphics from this platform and instantly ap
 ![ add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Make Photo Collage
@@ -107,10 +114,10 @@ Photo collage combines all of our favorite and preferred photos in a single fram
 ![make photo collage in canva](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Design Mockups
@@ -128,10 +135,17 @@ By combining both of these features, you can easily craft a professional illustr
 ![auto blur effect applied](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 10\. Mix the Colors
@@ -168,5 +182,18 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-expand-your-video-editing-experience-no-inshot-required/"><u>[New] Expand Your Video Editing Experience No Inshot Required</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-which-gopro-model-shines-brighter-max-vs-hero-11-for-2024/"><u>[New] Which GoPro Model Shines Brighter, Max Vs. Hero 11 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-techniques-for-vhs-photo-effects-on-pconline-platforms-for-2024/"><u>[Updated] Prime Techniques for VHS Photo Effects on PC/Online Platforms for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-lenslift-critique-essence/"><u>2024 Approved LensLift Critique Essence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-complete-guide-to-conquering-video-editing-with-vivocut/"><u>2024 Approved The Complete Guide to Conquering Video Editing with VivoCut</u></a></li>
+<li><a href="https://techidaily.com/crack-the-code-with-the-new-york-times-trivia-hints-and-correct-responses-for-july-6th-challenge-391/"><u>Crack the Code with The New York Times - Trivia Hints & Correct Responses for July 6Th Challenge (#391)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes/"><u>In 2024, Leveraging XML & TTML for Cutting-Edge SRT Creation Processes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-the-process-windows-movie-maker-content-on-vimeo-for-2024/"><u>Navigating the Process Windows Movie Maker Content on Vimeo for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-time-manipulation-in-final-cut-pro-x-a-step-by-step-guide/"><u>New 2024 Approved Time Manipulation in Final Cut Pro X A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-11-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 11 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-compatible-hp-officejet-pro-8720-printer-driver-download-and-update-instructions/"><u>Windows-Compatible HP OfficeJet Pro 8720 Printer Driver Download and Update Instructions</u></a></li>
+</ul></div>
 

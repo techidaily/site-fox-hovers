@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adding Captions and Text  A Guide for Photo Titles in Microsoft Photos\""
-date: 2024-09-17T20:25:49.696Z
-updated: 2024-09-20T16:56:02.675Z
+date: 2024-09-21T21:51:55.965Z
+updated: 2024-09-27T02:35:26.517Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -73,17 +80,44 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -108,12 +142,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-audfreetech-a-deep-dive-into-audio-file-liberation-techniques-for-2024/"><u>[New] AudFreeTech A Deep Dive Into Audio File Liberation Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-boost-your-podcast-visibility-with-seo-tactics-for-2024/"><u>[New] Boost Your Podcast Visibility with SEO Tactics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enriching-the-instagram-experience-with-background-sounds/"><u>[Updated] 2024 Approved Enriching the Instagram Experience with Background Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs/"><u>[Updated] 2024 Approved Laughter Unleashed A Stepwise Strategy for Making Impactful GIFs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>[Updated] Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-titles-pro-elevate-your-youtube-game/"><u>[Updated] Prime Titles Pro Elevate Your YouTube Game</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-and-effective-strategies-for-vimeo-capture/"><u>[Updated] Quick & Effective Strategies for Vimeo Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-hustle-free-route-mastering-podcast-live-broadcasting-for-2024/"><u>[Updated] The Hustle-Free Route Mastering Podcast Live Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-the-best-8-no-charge-powerful-3d-video-tools/"><u>[Updated] Unlocking The Best 8 No-Charge, Powerful 3D Video Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-noise-free-recording-strategy/"><u>2024 Approved The Ultimate Noise-Free Recording Strategy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-se-2020-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone SE (2020) without Apple ID?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-techniques-of-capturing-emotion-in-digital-gif-formats/"><u>In 2024, Techniques of Capturing Emotion in Digital GIF Formats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-13-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Redmi Note 13 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/key-practices-for-amassing-picture-resources-for-2024/"><u>Key Practices for Amassing Picture Resources for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solving-the-silent-screen-step-by-step-guide-to-mend-a-dysfunctional-microphone-in-your-pc/"><u>Solving the Silent Screen: Step-by-Step Guide to Mend a Dysfunctional Microphone in Your PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-safe-and-secure-top-10plus-websites-to-download-games-online/"><u>Updated 2024 Approved Safe and Secure Top 10+ Websites to Download Games Online</u></a></li>
+</ul></div>
 

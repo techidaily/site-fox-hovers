@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Five to Fiveteen  Tactics Against Oculus Discomfort\""
-date: 2024-09-16T18:18:08.346Z
-updated: 2024-09-20T17:18:40.005Z
+date: 2024-09-20T01:18:27.616Z
+updated: 2024-09-26T21:37:07.847Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -86,12 +100,24 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[New] 2024 Approved Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-intova-xs-action-potential/"><u>[New] 2024 Approved Unveiling Intova X's Action Potential</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-strategy-seamlessly-integrating-subtitles-in-videos/"><u>[New] Expert Strategy Seamlessly Integrating Subtitles in Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-deconstructing-the-viva-video-experience/"><u>[New] In 2024, Deconstructing the Viva Video Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-your-slide-show-webcam-screen-capture-methods/"><u>[New] Mastering Your Slide Show Webcam Screen Capture Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[Updated] 2024 Approved Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-clickable-content-climber-software-for-2024/"><u>[Updated] Clickable Content Climber Software for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-digital-deliberation-for-better-treatment-outcomes/"><u>[Updated] In 2024, Digital Deliberation for Better Treatment Outcomes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-record-pc-sounds-effortlessly-with-x-recorder-for-2024/"><u>[Updated] Record PC Sounds Effortlessly with X-Recorder for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>2024 Approved Crafting Stunning Photography Mastering HDR Merging in Lightroom</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-aoc-display-drivers-for-windows-11-10-and-windows-8-users/"><u>Get the Latest AOC Display Drivers for Windows 11, 10 & Windows 8 Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-the-top-10-for-streamed-television/"><u>In 2024, Navigating the Top 10 for Streamed Television</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-skycleanser-exceptional-bg-erasing-software/"><u>In 2024, SkyCleanser Exceptional BG Erasing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/microsofts-glimpse-into-augmented-reality-the-hololens-journey/"><u>Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-unrestricted-data-saver-solutions/"><u>Top Unrestricted Data Saver Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vonage-vs-competitors-who-reigns-supreme-in-voip/"><u>Vonage Vs. Competitors: Who Reigns Supreme in VoIP?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-7-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 7? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

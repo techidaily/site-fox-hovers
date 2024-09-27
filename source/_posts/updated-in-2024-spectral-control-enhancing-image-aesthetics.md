@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Spectral Control  Enhancing Image Aesthetics\""
-date: 2024-09-15T16:16:01.541Z
-updated: 2024-09-20T17:29:17.820Z
+date: 2024-09-22T22:37:33.673Z
+updated: 2024-09-27T01:27:34.508Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Color grading and color correction are processes that happen throughout postprod
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is Color Grading Important?
 
 **Color grading establish a picture's first impression**
@@ -68,6 +75,13 @@ Kindly see the details and steps on how to engage in color grading and color cor
 Then select the New Project to create a new project file and click Import to find and load your videos in local folders or portable media devices to the local media library. This software also allows you to add files with drag and drop. Then put them on the timeline.
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
@@ -97,6 +111,13 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -112,6 +133,13 @@ First, you need to select the specific video portion you want to change the colo
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You will notice that the color changes depending on your selected preset.
 
@@ -201,12 +229,24 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-iphone-podcast-audio-enjoyment/"><u>[New] 2024 Approved Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-top-30-steadicam-models-for-premium-dslr-cinematography-for-2024/"><u>[New] Discovering Top 30 Steadicam Models for Premium DSLR Cinematography for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[New] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-online-destinations-for-3d-shimmering-letters/"><u>[New] Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-insider-guide-to-efficient-windows-10-usage/"><u>[Updated] 2024 Approved The Insider Guide to Efficient Windows 10 Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-complete-dji-phantom-4-analysis-and-review-for-2024/"><u>[Updated] Complete DJI Phantom 4 Analysis and Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cutting-the-edge-top-ten-camera-lenses-as-of-2024/"><u>[Updated] Cutting the Edge Top Ten Camera Lenses as of 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-entertaining-entrances-tales-that-resonate/"><u>[Updated] In 2024, Entertaining Entrances Tales That Resonate</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-explore-best-gopro-cases-rated-1-10/"><u>2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-low-cost-high-quality-4k-capture-devices/"><u>2024 Approved Low-Cost, High-Quality 4K Capture Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-youtubes-hidden-gems-the-comment-space/"><u>2024 Approved Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-for-preventing-and-fixing-infinite-warfare-battleship-pc-malfunctions/"><u>Essential Tips for Preventing and Fixing Infinite Warfare Battleship PC Malfunctions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hero9-review-a-premium-gopro-but-at-what-cost/"><u>HERO9 Review: A Premium GoPro, But at What Cost?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-meizu-21-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Meizu 21 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a58-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A58 4G Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-giants-warn-should-youngsters-limit-their-time-on-instagram/"><u>Tech Giants Warn: Should Youngsters Limit Their Time on Instagram?</u></a></li>
+</ul></div>
 
