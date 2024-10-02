@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Echoes of the Past  IPhone X Portraiture\""
-date: 2024-09-24T23:40:05.697Z
-updated: 2024-09-26T18:57:45.747Z
+date: 2024-09-28T03:55:07.724Z
+updated: 2024-10-02T03:20:54.475Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -74,10 +74,10 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
@@ -90,6 +90,13 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
 #### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
@@ -99,13 +106,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 **Compatible with:** iOS 8.0 or later
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
@@ -118,10 +118,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
@@ -163,18 +163,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-text-integration-techniques-for-digital-pictures/"><u>[New] 2024 Approved Unveiling Text Integration Techniques for Digital Pictures</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-foremost-suggestions-premium-iphone-tone-makers/"><u>[New] Foremost Suggestions Premium iPhone Tone Makers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-hot-hands-on-10-must-have-vr-peripherals-for-2024/"><u>[New] Hot Hands-On 10 Must-Have VR Peripherals for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-pewdiepie-financial-overview-monetary-metrics/"><u>[Updated] 2024 Approved PewDiePie Financial Overview – Monetary Metrics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-comprehensive-guide-to-softening-images-with-iphone-software-for-2024/"><u>[Updated] A Comprehensive Guide to Softening Images with iPhone Software for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-tactics-for-youtube-short-troubleshooting/"><u>[Updated] Essential Tactics for YouTube Short Troubleshooting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-the-art-of-3d-animation-with-elite-design-applications/"><u>[Updated] In 2024, Mastering the Art of 3D Animation with Elite Design Applications</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-reversing-live-on-twitch-a-top-ten-guide/"><u>[Updated] Reversing Live on Twitch A Top Ten Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-90-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-guide-to-lenovos-screen-recording-process/"><u>2024 Approved Guide to Lenovo's Screen Recording Process</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/manufacture-memorable-visuals-on-giphy/"><u>Manufacture Memorable Visuals on Giphy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-key-disparities-in-360-degree-and-vr-videos-for-2024/"><u>The Key Disparities in 360-Degree & VR Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-frame-rate-issues-in-farming-simulator-22-solving-pc-performance-drop/"><u>Understanding Frame Rate Issues in Farming Simulator 22: Solving PC Performance Drop</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pioneering-techniques-for-popularizing-youtube-videos/"><u>[New] 2024 Approved Pioneering Techniques for Popularizing YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-artistic-zoomers-handbook-a-filters-journey/"><u>[New] 2024 Approved The Artistic Zoomer's Handbook A Filters Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>[New] 2024 Approved The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-guide-to-drone-shooting-methods/"><u>[New] 2024 Approved The Ultimate Guide to Drone Shooting Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-achieving-professional-editing-without-the-price-tag-for-2024/"><u>[New] Achieving Professional Editing Without the Price Tag for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[New] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-magical-sound-alteration-apps-for-your-device/"><u>[New] In 2024, Magical Sound Alteration Apps for Your Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-aspect-ratios-an-online-guide/"><u>[New] Mastering Aspect Ratios An Online Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-shot-recording-camcorders-for-the-hunt-for-2024/"><u>Ultimate Shot-Recording Camcorders for the Hunt for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-reno-8t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Reno 8T Phones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

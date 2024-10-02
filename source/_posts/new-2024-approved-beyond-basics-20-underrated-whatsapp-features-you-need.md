@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Beyond Basics  20 Underrated WhatsApp Features You Need\""
-date: 2024-09-13T21:14:29.938Z
-updated: 2024-09-20T23:13:00.214Z
+date: 2024-09-30T17:45:23.305Z
+updated: 2024-10-02T02:15:10.823Z
 tags: 
   - screen-recording
   - ai video
@@ -139,6 +139,13 @@ Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have
 
 ![Whatsapp Hidden Feature Snooze Whatsapp](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-snooze-whatsapp.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 7.Automatically Delete Messages After 7 Days
 
 Not every message thread is important, and many people have the habit of deleting messages just to feel organized. WhatsApp brings some zero-effort minimalism for you with this new feature available for Android users. Update your app and visit the contact’s page in WhatsApp and you will be able to see the “Disappearing Messages” option. If you enable this, your chats with the particular contact will be deleted automatically on their own.
@@ -151,6 +158,13 @@ If it is annoying to open a loved one’s story and then automatically sliding i
 
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 9.Reply Privately to Recipients in a WhatsApp Group
 
 This is as simple as it sounds. Tap and hold to select a message in a group and then open the 3-dot button at the top right to access the feature.
@@ -162,6 +176,13 @@ Manage how you are notified of messages from specific contacts and groups. Go to
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
 Source: beebom.com
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit WhatsApp Videos with Ease
 
@@ -182,10 +203,16 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -195,13 +222,6 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -226,5 +246,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-decoding-the-art-of-backdrop-cleansing-in-figma-design/"><u>[New] 2024 Approved Decoding the Art of Backdrop Cleansing in Figma Design</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-open-source-chill-beats/"><u>[New] In 2024, Open Source Chill Beats</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-snicker-scribbles-humorhub/"><u>[New] In 2024, Snicker Scribbles HumorHub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-navigating-telegram-web-applications/"><u>[New] Mastering the Art of Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-understanding-cloud-pricing-models-and-savings-strategies/"><u>[New] Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>[Updated] 2024 Approved Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-luminary-megascape-ultimate-4k-integrated-hubs/"><u>[Updated] 2024 Approved Luminary MegaScape Ultimate 4K Integrated Hubs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>[Updated] 2024 Approved Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-creating-a-viral-buzz-on-facebook-that-you-should-know/"><u>[Updated] Tips for Creating a Viral Buzz on Facebook that You Should Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S17t Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>In 2024, Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/minecraft-on-windows-11-how-to-overcome-install-hurdles-successfully/"><u>Minecraft on Windows 11 - How to Overcome Install Hurdles Successfully</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-mastery-the-best-free-online-tools-to-merge-your-clips/"><u>New 2024 Approved Video Mastery The Best Free Online Tools to Merge Your Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-troubleshoot-and-fix-missing-mfc42dll-file-issues/"><u>Steps to Troubleshoot and Fix Missing mfc42.dll File Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-for-seamless-integration-of-supplementary-footage/"><u>Tips for Seamless Integration of Supplementary Footage</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unveiling-the-secret-behind-empty-printouts/"><u>Unveiling the Secret Behind Empty Printouts</u></a></li>
+</ul></div>
 

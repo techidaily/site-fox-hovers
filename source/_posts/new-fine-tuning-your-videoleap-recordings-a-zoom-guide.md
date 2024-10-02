@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fine-Tuning Your Videoleap Recordings  A Zoom Guide\""
-date: 2024-09-17T16:11:32.178Z
-updated: 2024-09-20T23:19:31.682Z
+date: 2024-09-30T21:15:29.846Z
+updated: 2024-10-01T18:11:28.162Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,34 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
 
@@ -101,23 +122,16 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,5 +164,16 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-decoding-apples-m1-revolution-in-tech-for-2024/"><u>[New] Decoding Apple's M1 Revolution in Tech for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-ranking-of-15-4k-video-devices/"><u>[New] Ultimate Ranking of #15 4K Video Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>[Updated] In 2024, The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-trending-topics-and-themes-to-hook-your-streams-attention/"><u>[Updated] Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dannys-columbia-legacy-aiding-the-most-deprived/"><u>Danny's Columbia Legacy: Aiding the Most Deprived</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-8-how-to-unlock-a-disabled-apple-iphone-8-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 8 How to Unlock a Disabled Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/modern-methods-rapidly-turning-srt-into-txt-format/"><u>Modern Methods Rapidly Turning SRT Into TXT Format</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-gen-virtual-experiences-anticipated-ps-vr-games-to-enjoy-for-2024/"><u>Next-Gen Virtual Experiences Anticipated PS VR Games to Enjoy for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-racing-experience-a-step-by-step-guide-to-upgrade-graphics-driver-for-forza-horizon-5/"><u>Optimize Your Racing Experience: A Step-by-Step Guide to Upgrade Graphics Driver for Forza Horizon 5</u></a></li>
+</ul></div>
 

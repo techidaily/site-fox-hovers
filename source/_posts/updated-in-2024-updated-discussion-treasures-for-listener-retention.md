@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Updated Discussion Treasures for Listener Retention"
-date: 2024-09-23T16:49:06.652Z
-updated: 2024-09-26T22:30:25.471Z
+date: 2024-09-29T01:03:44.755Z
+updated: 2024-10-01T22:39:51.490Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Here are some icebreaker questions that you can ask to start an interview.
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Leading Question
 
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
@@ -61,10 +68,10 @@ A leading question suggests a particular answer to the question that the questio
 ![leading questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Some leading questions that you can ask are discussed below.
@@ -110,10 +117,10 @@ You can ask questions from the comparison questions given below.
 15. What do you prefer to eat, pizza or a burger?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Great Closing Questions
@@ -146,6 +153,13 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
@@ -153,28 +167,15 @@ You can get the best information from the person you are interviewing if you do 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What were your feelings when this happened?
 
@@ -198,10 +199,10 @@ So you see how this can continue to move forward by simply mirroring your guest.
 The best thing you can extract from someone in a podcast is their story. If you want to pull out a story from someone, phrase it like this, "Tell me about a time when..." After this question, your job is to sit back, listen, and not interrupt the guest.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4\. Podcast Questions to Avoid Asking
@@ -213,13 +214,6 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Questions you anticipate will result in a "yes" should be avoided, as a simple "yes" adds little value to the interview for those listening.
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
@@ -261,21 +255,17 @@ Consider the following when picking which of the above questions to use on your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-volume-transitions-in-lumafusion/"><u>[New] 2024 Approved Mastering Volume Transitions in Lumafusion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-download-and-play-with-ifunnys-meme-magic-for-2024/"><u>[New] Download and Play with iFunny's Meme Magic for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-hilarity-in-hd-the-best-photo-editing-tools-online/"><u>[New] Hilarity in HD The Best Photo Editing Tools Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-improve-your-zoom-meet-by-sharpening-views/"><u>[New] In 2024, Improve Your Zoom Meet by Sharpening Views</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-instantly-spice-up-videos-on-facebook-with-music-steps-for-2024/"><u>[New] Instantly Spice Up Videos on Facebook With Music Steps for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-professional-online-broadcast-capture-methods-for-2024/"><u>[New] Professional Online Broadcast Capture Methods for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-studio-technique-breakdown-comprehensive-xvideooverview/"><u>[New] Studio Technique Breakdown Comprehensive XVideoOverview</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-triumphs-in-transparency-reddits-top-posts-reviewed-10/"><u>[Updated] In 2024, Triumphs in Transparency Reddit's Top Posts Reviewed (10)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-launching-your-first-telegram-marketing-campaign/"><u>[Updated] Launching Your First Telegram Marketing Campaign</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/free-ways-to-capture-browser-sounds-three-proven-techniques/"><u>Free Ways to Capture Browser Sounds: Three Proven Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-squad-mic-back-in-action-latest-solutions/"><u>How To Get Your Squad Mic Back In Action – Latest Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-pro-photoshop-power-top-10-canva-design-secrets/"><u>In 2024, Pro Photoshop Power Top 10 Canva Design Secrets</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-java-games-our-favorite-features-listed-out/"><u>Inside Java Games: Our Favorite Features Listed Out</u></a></li>
-<li><a href="https://solve-news.techidaily.com/simple-and-fast-convert-your-wmv-videos-into-popular-formats-like-mp4-and-mp3/"><u>Simple and Fast: Convert Your WMV Videos Into Popular Formats Like MP4 & MP3</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/smart-speaker-battle-pros-and-cons-of-google-nest-audio-vs-apple-homepod/"><u>Smart Speaker Battle: Pros and Cons of Google Nest Audio Vs. Apple HomePod</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/video-guide-mastering-data-security-with-mac-hard-drive-encryption-and-decryption-techniques/"><u>Video Guide: Mastering Data Security with Mac Hard Drive Encryption & Decryption Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-boosting-zoom-performance-on-chrome-devices/"><u>[New] 2024 Approved Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-film-apps-showdown-apples-finest-categories-for-2024/"><u>[New] Prime Film Apps Showdown Apple's Finest Categories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-swift-strategies-to-end-windows-10s-unstable-photo-viewing-for-2024/"><u>[New] Swift Strategies to End Windows 10'S Unstable Photo Viewing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-hue-harmonizer-tool/"><u>[New] Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-digitize-creativity-our-top-list-for-engaging-with-3d-typographic-websites/"><u>[Updated] In 2024, Digitize Creativity Our Top List for Engaging with 3D Typographic Websites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-camouflage-blurring-faces-on-demand/"><u>[Updated] Quick Camouflage Blurring Faces on Demand</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-10-relentless-restarts-with-these-user-friendly-remedies/"><u>Defeat Windows 10 Relentless Restarts with These User-Friendly Remedies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-14-pro-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 14 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-social-to-storage-iphone-and-android-gif-savings/"><u>From Social to Storage IPhone & Android GIF Savings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c12-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C12 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-video-ai-how-to-uplift-low-res-videos-and-images-to-higher-resolution/"><u>WinX Video AI: How to Uplift Low-Res Videos and Images to Higher Resolution</u></a></li>
 </ul></div>
 

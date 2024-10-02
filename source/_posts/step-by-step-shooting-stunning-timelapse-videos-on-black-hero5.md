@@ -1,7 +1,7 @@
 ---
 title: "\"Step by Step  Shooting Stunning Timelapse Videos on Black Hero5\""
-date: 2024-09-20T18:10:26.763Z
-updated: 2024-09-26T18:05:10.648Z
+date: 2024-09-26T00:21:56.661Z
+updated: 2024-10-02T04:41:56.215Z
 tags: 
   - screen-recording
   - ai video
@@ -83,6 +83,13 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -94,10 +101,10 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
@@ -106,10 +113,10 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
@@ -118,10 +125,10 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -130,19 +137,6 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -169,14 +163,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-the-importance-of-accurate-slug-line-writing-in-screenplays-for-2024/"><u>[New] The Importance of Accurate Slug Line Writing in Screenplays for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-guide-to-the-latest-tiktok-screen-art/"><u>[Updated] 2024 Approved Guide to the Latest TikTok Screen Art</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-6-fiscal-picks-in-the-4k-projector-market/"><u>[Updated] In 2024, Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-vintage-voices-where-to-download-classical-ringtones/"><u>[Updated] Vintage Voices Where to Download Classical Ringtones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-a56s-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo A56s 5G Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor Phone without PIN</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-itel-p55-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel P55 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-consumer-reactions-vllo-edition/"><u>[New] Consumer Reactions VLLO Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-hobbyist-to-pro-professionalizing-gopro-videos/"><u>[New] From Hobbyist to Pro Professionalizing GoPro Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-showcasing-contributions-and-thought-leadership/"><u>[New] In 2024, Showcasing Contributions & Thought Leadership</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-everyday-fashion-expert-edits-for-haul-videos-for-2024/"><u>[Updated] Elevate Everyday Fashion Expert Edits for Haul Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-business-youtube-sites-you-must-follow-for-2024/"><u>[Updated] Essential Business YouTube Sites You Must Follow for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-hds-finest-picks-reviewing-top-screen-recorders/"><u>[Updated] In 2024, HD's Finest Picks Reviewing Top Screen Recorders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-interactive-escapes-top-10-virtual-accessories-for-2024/"><u>[Updated] Interactive Escapes Top 10 Virtual Accessories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-precision-audit-vll-application-review-for-2024/"><u>[Updated] Precision Audit VLL Application Review for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/dream-of-flight-check-out-these-top-kid-friendly-drones/"><u>Dream of Flight? Check Out These Top Kid-Friendly Drones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-every-aspect-of-androids-recording-technology/"><u>In 2024, Exploring Every Aspect of Android's Recording Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-agni-2-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Agni 2 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-sony-xperia-5-v-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Sony Xperia 5 V Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-note-30i-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Note 30i FRP</u></a></li>
 </ul></div>
 

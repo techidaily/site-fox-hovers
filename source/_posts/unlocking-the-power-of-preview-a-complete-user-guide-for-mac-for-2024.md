@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking the Power of Preview  A Complete User Guide for Mac for 2024\""
-date: 2024-09-21T17:01:59.379Z
-updated: 2024-09-27T01:26:41.468Z
+date: 2024-09-26T21:42:18.804Z
+updated: 2024-10-02T07:45:20.458Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -56,10 +63,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -75,6 +82,13 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -104,13 +118,6 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -126,6 +133,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -158,13 +172,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -212,13 +219,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -244,17 +244,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unleash-the-power-of-online-livestreams-with-us-today/"><u>[New] 2024 Approved Unleash the Power of Online Livestreams with Us Today</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-advanced-techniques-for-capturing-high-quality-skype-calls-for-2024/"><u>[New] Advanced Techniques for Capturing High-Quality Skype Calls for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-basics-of-weaving-a-narrative-thread-for-2024/"><u>[New] Basics of Weaving a Narrative Thread for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-gigglesome-footage-downloader/"><u>[New] Gigglesome Footage Downloader</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-stop-fbs-persistent-video-ad-popups/"><u>[New] How to Stop FB's Persistent Video Ad Popups</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-pioneering-marketing-top-20-strategies-for-impactful-fb-video-ads-for-2024/"><u>[New] Pioneering Marketing Top 20 Strategies for Impactful FB Video Ads for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-decoding-cloud-service-price-structures/"><u>[Updated] 2024 Approved Decoding Cloud Service Price Structures</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-clarity-for-tiny-treasures-in-minecraft/"><u>[Updated] Enhancing Clarity for Tiny Treasures in Minecraft</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-y27-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Y27 5G.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-total-war-warhammer-iii-from-frequently-crashing-on-your-pc/"><u>How to Stop TOTAL WAR: WARHAMMER III From Frequently Crashing on Your PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722548921881-unlocking-the-full-potential-of-your-devices-with-maxoaks-powerful-185wh50k-mah-battery-pack-reviewed-here/"><u>Unlocking the Full Potential of Your Devices with MaxOak’s Powerful 185Wh/50k mAh Battery Pack Reviewed Here!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-horizon-captured-which-camera-takes-the-lead/"><u>[New] 2024 Approved Horizon Captured Which Camera Takes the Lead?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-advanced-techniques-in-xbox-gaming-recording-setup-for-2024/"><u>[New] Advanced Techniques in Xbox Gaming Recording Setup for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-effective-online-channels-for-youtube-advertising/"><u>[New] Effective Online Channels for YouTube Advertising</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-comfortable-virtual-realities/"><u>[New] In 2024, Mastering Comfortable Virtual Realities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mkv-playback-top-macos-apps-reviewed/"><u>[New] MKV Playback Top macOS Apps Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-your-focus-a-guide-to-roblox-tight-scopes/"><u>[Updated] In 2024, Perfect Your Focus A Guide to Roblox Tight Scopes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlock-camera-live-screen-capture-analysis-and-top-replacements-for-2024/"><u>[Updated] Unlock Camera Live Screen Capture Analysis & Top Replacements for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-madden-nfl/"><u>Decoding Madden NFL</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mac-2023/"><u>Mac電影剪接工具的推荐清单 - 2023年頂級前十大品牌!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-how-to-overcome-a-failed-system-clock-cmos-verification/"><u>Troubleshooting Techniques: How to Overcome a Failed System Clock (CMOS) Verification</u></a></li>
 </ul></div>
 
