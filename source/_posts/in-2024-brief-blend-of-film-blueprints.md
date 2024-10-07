@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Brief Blend of Film Blueprints"
-date: 2024-09-16T18:43:12.881Z
-updated: 2024-09-20T19:11:01.842Z
+date: 2024-09-30T16:14:49.440Z
+updated: 2024-10-07T16:49:06.377Z
 tags: 
   - screen-recording
   - ai video
@@ -43,18 +43,18 @@ This is always, always, the number one problem for my screenwriting students. Th
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. An independent story
 
 It's also a useful way to think of the script as an energy system, as William Gibson brilliantly says in Shakespeare's play. An energy system begins with an Inciting Incident - a significant event/discovery that unleashes the energy system - and ends with a Climax - the moment when the story's outcome is known, and the energy system ends. Given the limited number of pages available in your short script, it's essential that your inciting incident appears on the first page.
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Conflict
 
@@ -67,10 +67,10 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Turning Point
@@ -78,13 +78,6 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Sublimation
 
@@ -114,6 +107,19 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Making stunning short films with various Effects & Filters
 
 After you've added your media files for editing and placed them on the Timeline, double-click the target file and adjust video quality by changing the Contrast, Saturation, Brightness, and Hue as you like. Then return to the “Effects” tab and pick the special effects you want to apply.
@@ -121,6 +127,13 @@ After you've added your media files for editing and placed them on the Timeline,
 Select the ones you want to add by clicking "Transition" and dragging them between the video clips. Then, double-click to change the Time Duration, and then click "Apply to All" if you want all transition effects to be the same length.
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
@@ -131,6 +144,13 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -150,13 +170,6 @@ It's also a useful way to think of the script as an energy system, as William Gi
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Conflict
 
 Conflict is every point of opposition between two forces (physical or intellectual), as well as the consequences of this opposition - all in full view of what can be seen on the screen, whether through cinema, television, or devices.
@@ -167,18 +180,18 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Turning Point
 
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Sublimation
 
@@ -225,6 +238,20 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -256,5 +283,16 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-therapeutics-and-patient-engagement/"><u>[New] 2024 Approved Digital Therapeutics and Patient Engagement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cutting-edge-editing-strategies-story-remix-meets-windows-photos/"><u>[New] In 2024, Cutting-Edge Editing Strategies Story Remix Meets Windows Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-soften-image-periphery-with-circular-light-blend-photoshop/"><u>[New] Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-comprehensible-handbook-for-tiktok-emoji-usage/"><u>[Updated] In 2024, The Comprehensible Handbook for TikTok Emoji Usage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-peering-into-the-past-publicly-shared-masterpieces/"><u>[Updated] Peering Into the Past Publicly Shared Masterpieces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-reel-it-in-top-5-action-cameras-for-anglers/"><u>[Updated] Reel It In Top 5 Action Cameras for Anglers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-windows-laptop-capture-software-a-comprehensive-ranking-of-the-top-8-solutions/"><u>Best Windows Laptop Capture Software: A Comprehensive Ranking of the Top 8 Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/kodi-streaming-service-windows-media-replacement-for-2024/"><u>Kodi Streaming Service Windows Media Replacement for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-gobi-fatal-error-in-back-4-blood-unreal-engine-4-a-comprehensive-guide/"><u>Solving the Gobi Fatal Error in Back 4 Blood, Unreal Engine 4: A Comprehensive Guide</u></a></li>
+</ul></div>
 

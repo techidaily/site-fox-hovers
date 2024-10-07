@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Spectral Synergy  Using Color Theories Effectively\""
-date: 2024-09-26T21:06:33.441Z
-updated: 2024-10-02T08:40:24.807Z
+date: 2024-10-05T17:05:50.587Z
+updated: 2024-10-07T17:17:39.316Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -55,10 +48,10 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -70,10 +63,10 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -88,13 +81,20 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -131,19 +131,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-7-innovative-approaches-to-color-correction/"><u>[New] 7 Innovative Approaches to Color Correction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-a-new-dimension-understanding-the-innovations-in-hp-envy-27-monitor/"><u>[New] A New Dimension Understanding the Innovations in HP Envy 27 Monitor</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[New] A Time Traveler’s Guide to YouTube Queue Watch From End to Start</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premium-fonts-with-dynamic-movement/"><u>[New] In 2024, Premium Fonts with Dynamic Movement</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-windows-11-simplified-video-cutting-tips-and-tricks-for-2024/"><u>[New] Windows 11 Simplified Video Cutting Tips & Tricks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices-for-2024/"><u>[Updated] Converting JPEG/PNG Images to PDF on iPad and iPhone Devices for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-exclusive-insight-into-mematics-app-features/"><u>[Updated] Exclusive Insight Into Mematic's App Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-10-action-cam-mic-winners/"><u>[Updated] In 2024, Top 10 Action Cam Mic Winners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/generate-hits-adobe-made-memes-for-2024/"><u>Generate Hits Adobe-Made Memes for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-inventory-guide-to-photographic-and-videography-units/"><u>In 2024, Inventory Guide to Photographic and Videography Units</u></a></li>
-<li><a href="https://article-posts.techidaily.com/popular-photographs-their-narratives-unveiled-for-2024/"><u>Popular Photographs Their Narratives Unveiled for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/purchase-bitraser-the-ultimate-secure-disk-wiping-tool/"><u>Purchase BitRaser: The Ultimate Secure Disk Wiping Tool</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/shape-your-online-presence-changing-backdrops-in-google-meet/"><u>Shape Your Online Presence Changing Backdrops in Google Meet</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-essential-guide-to-spotting-a-haunted-account-9-ways/"><u>The Essential Guide to Spotting a Haunted Account (9 Ways)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-5-tips-to-get-more-views-with-youtube-optimization-free-checklist-for-2024/"><u>[New] 5 Tips to Get More Views with YouTube Optimization [Free Checklist] for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>[New] Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevating-camera-experience-mavic-pro-review/"><u>[New] Elevating Camera Experience - Mavic Pro Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-definition-video-refiner-for-pcmacos/"><u>[New] High Definition Video Refiner for PC/MacOS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-azure-speech-to-text-a-step-by-step-guide-for-2024/"><u>[New] Mastering Azure Speech-to-Text A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-drone-applications-in-the-now-and-in-the-near-future/"><u>[Updated] 2024 Approved Drone Applications in the Now & In the Near Future</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elite-educational-event-emitter/"><u>[Updated] In 2024, Elite Educational Event Emitter</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-transforming-media-captions-the-creme-de-la-creme-of-top-online-editors/"><u>[Updated] In 2024, Transforming Media Captions The Crème De La Créme of Top Online Editors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-the-leading-screen-recording-software-for-educators/"><u>2024 Approved Exploring the Leading Screen Recording Software for Educators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-break-into-everyones-heart-clever-tips-and-examples-for-tinder-bios/"><u>In 2024, Break Into Everyone's Heart - Clever Tips & Examples for Tinder Bios</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-editing-tools-for-avi-videos/"><u>In 2024, The Best Free Video Editing Tools for AVI Videos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-your-online-experience-using-cookiebot-tools/"><u>Optimize Your Online Experience Using Cookiebot Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimizing-inner-spaces-with-sunshine/"><u>Optimizing Inner Spaces with Sunshine</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-minecraft-videography-methods/"><u>Professional Minecraft Videography Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Approach to Crafting 3D Text in Photoshop\""
-date: 2024-09-15T19:01:52.990Z
-updated: 2024-09-20T19:45:21.633Z
+date: 2024-10-04T16:53:38.949Z
+updated: 2024-10-07T16:27:22.832Z
 tags: 
   - screen-recording
   - ai video
@@ -91,6 +91,13 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
@@ -98,6 +105,13 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
@@ -113,19 +127,6 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -133,6 +134,13 @@ The steps are extremely simple. Just follow each exactly as you see it here and 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
@@ -142,24 +150,24 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -188,5 +196,20 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-best-meme-templates/"><u>[New] 2024 Approved Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>[New] 2024 Approved Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-much-wealth-awaits-one-million-youtube-followers-for-2024/"><u>[New] How Much Wealth Awaits One Million YouTube Followers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-path-to-virtual-self-building-metaverse-profiles/"><u>[New] Quick Path to Virtual Self Building Metaverse Profiles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-advice-on-enhancing-vhs-images-using-technology/"><u>[Updated] Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-windows-10-key-additions-and-tweaks-in-focus/"><u>[Updated] In 2024, Windows 10 Key Additions and Tweaks in Focus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-user-interface-for-comment-management/"><u>[Updated] YouTube's User Interface for Comment Management</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-every-skype-interaction-windows-and-os-x-style-for-2024/"><u>Capture Every Skype Interaction Windows & OS X Style for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/evaluating-ffmpegs-retention-of-sound-formats/"><u>Evaluating FFmpeg's Retention of Sound Formats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-drone-lineages-and-lines/"><u>In 2024, Drone Lineages and Lines</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-flipbook-creation-tools-the-ultimate-guide-to-making-engaging-interactive-ebooks/"><u>Top Flipbook Creation Tools: The Ultimate Guide to Making Engaging Interactive Ebooks</u></a></li>
+</ul></div>
 

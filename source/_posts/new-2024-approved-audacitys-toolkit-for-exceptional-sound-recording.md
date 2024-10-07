@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Audacity's Toolkit for Exceptional Sound Recording\""
-date: 2024-09-13T17:19:16.673Z
-updated: 2024-09-20T16:40:04.582Z
+date: 2024-10-02T17:06:58.417Z
+updated: 2024-10-07T16:58:56.022Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -52,6 +59,13 @@ Step2The Soundflower app must then be set up. To achieve this, choose "Sounds" f
 Step3In the "Device" section of the Audacity preferences box, choose "Soundflower (2ch)". From the recording area, choose "Software playthrough." Click "OK" to save the options you've selected.
 
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Export your audio
 
@@ -99,12 +113,17 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-beat-the-bounds-of-voice-modification-the-leading-chrome-apps-unveiled/"><u>[New] 2024 Approved Beat the Bounds of Voice Modification The Leading Chrome Apps Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-crafting-star-stirred-stories-for-your-whatsapp-bio-for-2024/"><u>[New] Crafting Star-Stirred Stories for Your WhatsApp Bio for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-picture-perfect-your-essential-guide-to-uploading-on-youtube/"><u>[New] In 2024, Picture Perfect Your Essential Guide to Uploading on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-fb-videos-top-10-watcher-tools/"><u>[Updated] 2024 Approved Best FB Videos Top 10 Watcher Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-ai-graphic-editor-tools-for-2024/"><u>[Updated] Prime AI Graphic Editor Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>2024 Approved Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-tips-for-zoom-engagement-building-stronger-remote-relationships-for-2024/"><u>Expert Tips for Zoom Engagement Building Stronger Remote Relationships for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-leagues-of-social-platforms-facebook-to-youtube/"><u>Navigating the Big Leagues of Social Platforms: Facebook to YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-upgrades-by-toms-experts/"><u>The Ultimate Guide to Computer Upgrades by Tom's Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Storage Expansion for Sony A7C Cameras"
-date: 2024-09-15T21:50:36.104Z
-updated: 2024-09-20T22:18:33.791Z
+date: 2024-10-03T16:05:59.291Z
+updated: 2024-10-07T16:05:05.337Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -112,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -135,12 +149,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>[New] 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-prolific-iphone-photography-cutting-edge-app-selection-guide/"><u>[New] 2024 Approved Prolific iPhone Photography Cutting-Edge App Selection Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ai-powered-text-conversion-for-effective-presentations/"><u>[New] In 2024, AI-Powered Text Conversion for Effective Presentations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>[New] Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-5-best-snipping-tools-for-pc/"><u>[Updated] 2024 Approved 5 Best Snipping Tools for Pc</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exciting-vr-technologies-shaping-gaming/"><u>[Updated] 2024 Approved Exciting VR Technologies Shaping Gaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-androids-photo-editor-showdown-can-pickup-claim-victory-in-2024/"><u>[Updated] Android's Photo Editor Showdown Can PickUp Claim Victory, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-incorporating-yt-music-streams-into-videos/"><u>[Updated] Incorporating YT Music Streams Into Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>[Updated] Transform Your Speech Access to No-Cost Voice Manipulation Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-find-x6-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Find X6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-premier-picks-the-top-5-international-call-apps-at-no-cost/"><u>Explore Our Premier Picks: The Top 5 International Call Apps at No Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphone-sos-only-dilemma-with-these-6-powerful-techniques-addressed-to-the-status-bar-glitch/"><u>Fix Your iPhone SOS-Only Dilemma with These 6 Powerful Techniques Addressed to the Status Bar Glitch</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-good-to-great-how-the-latest-echo-gen-4-surpasses-its-predecessors/"><u>From Good to Great: How the Latest Echo (Gen 4) Surpasses Its Predecessors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-into-the-future-microsofts-hololens-breakthrough/"><u>In 2024, Step Into the Future Microsoft's HoloLens Breakthrough</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-complete-haul-video-manual-from-shopping-to-screen-time-for-2024/"><u>The Complete Haul Video Manual From Shopping to Screen Time for 2024</u></a></li>
+</ul></div>
 

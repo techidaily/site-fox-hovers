@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Panasonic's Wearable Action Camera Magic"
-date: 2024-09-13T16:31:32.956Z
-updated: 2024-09-20T22:52:52.328Z
+date: 2024-10-06T16:14:38.601Z
+updated: 2024-10-07T16:32:50.171Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -67,6 +74,19 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 | Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Accessories in the box
 
@@ -105,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Features
 
 #### **1. Video and photo quality**
@@ -140,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -149,10 +169,10 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -178,5 +198,18 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-free-top-8-apps-to-get-likes-on-facebook-android-and-iphone-for-2024/"><u>[New] FREE Top 8 Apps to Get Likes on Facebook (Android and iPhone) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] In 2024, Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-in-stream-ads-on-facebook-configuration-and-analysis-guide/"><u>[New] Mastering In-Stream Ads on Facebook Configuration & Analysis Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlocking-screen-clarity-advanced-zoom-techniques/"><u>[Updated] 2024 Approved Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-chrome-users-explore-our-curated-list-of-voice-modification-apps-for-2024/"><u>[Updated] Chrome Users, Explore Our Curated List of Voice Modification Apps for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-edge-2023-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Edge 2023 FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/game-changing-displays-the-creme-de-la-creme-of-4k-monitors-for-2024/"><u>Game-Changing Displays The Crème De La Crème of 4K Monitors for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuitamente-converti-i-file-ape-in-formato-aiff-con-movavi-guida-rapida-e-completa/"><u>Gratuitamente Converti I File .ape in Formato Aiff Con Movavi: Guida Rapida E Completa</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-xcover-7-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-tune-master-app-for-android/"><u>In 2024, Ultimate Tune Master App for Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-how-to-transform-your-m4a-audio-files-into-mp3-with-or-without-itunes-assistance/"><u>Step-by-Step Guide: How To Transform Your M4A Audio Files Into MP3 With Or Without Itunes Assistance</u></a></li>
+</ul></div>
 

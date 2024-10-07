@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Digitizing Memories  From Stillness to Movement\""
-date: 2024-09-19T19:50:05.527Z
-updated: 2024-09-20T21:55:58.653Z
+date: 2024-10-02T16:31:07.631Z
+updated: 2024-10-07T16:17:21.060Z
 tags: 
   - screen-recording
   - ai video
@@ -103,6 +103,13 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -110,6 +117,19 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -124,6 +144,13 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
@@ -159,6 +186,13 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -182,12 +216,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-open-source-os-friendly-videography-software/"><u>[New] 2024 Approved Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-windows-10-and-zoom-a-comprehensive-guide-to-successful-use/"><u>[New] 2024 Approved Windows 10 and Zoom A Comprehensive Guide to Successful Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ideal-mc-villages-architecture-blueprints-for-2024/"><u>[New] Ideal MC Villages Architecture Blueprints for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-customizing-iphone-tones-a-step-by-step-guide/"><u>[New] In 2024, Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-explore-the-leading-microphones-in-podcasting/"><u>[New] In 2024, Explore the Leading Microphones in Podcasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>[New] The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-10-decibel-upgraders-for-every-os-for-2024/"><u>[New] Top 10 Decibel Upgraders for Every OS for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-luts-role-in-image-color-alteration-for-2024/"><u>[New] Unveiling LUTs' Role in Image Color Alteration for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-go-pro-karma-drone-review-for-2024/"><u>[Updated] Go Pro Karma Drone Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>[Updated] In 2024, Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-streamline-filming-borders-on-instagram-videos/"><u>[Updated] In 2024, Streamline Filming Borders on Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-low-cost-high-quality-4k-capture-devices/"><u>[Updated] Low-Cost, High-Quality 4K Capture Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-typing-blunders-on-your-iphone-by-learning-how-to-tame-autocorrect-in-6-ways/"><u>Avoid Typing Blunders on Your iPhone by Learning How to Tame Autocorrect in 6 Ways</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diving-deep-the-intricacies-of-the-mukbang-phenomenon-for-2024/"><u>Diving Deep The Intricacies of the Mukbang Phenomenon for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capture-emotion-not-just-photos-iphone-images-through-leading-lines/"><u>In 2024, Capture Emotion, Not Just Photos IPhone Images Through Leading Lines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shoes-for-virtual-ground-leading-treadmill-insights/"><u>In 2024, Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-vibrant-visuals-with-post-color-techniques/"><u>In 2024, Unlocking Vibrant Visuals with Post-Color Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-evolution-6-ways-ai-transforms-video-game-scriptwriting/"><u>Interactive Evolution: 6 Ways AI Transforms Video Game Scriptwriting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-picks-the-ultimate-gopro-upgrades-for-2024/"><u>Premium Picks The Ultimate Gopro Upgrades for 2024</u></a></li>
+</ul></div>
 

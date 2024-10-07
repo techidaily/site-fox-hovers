@@ -1,7 +1,7 @@
 ---
 title: "The Pro's Guide to Clearing Backdrops in Figma Design for 2024"
-date: 2024-09-19T22:20:10.783Z
-updated: 2024-09-20T23:13:26.771Z
+date: 2024-10-02T16:39:46.773Z
+updated: 2024-10-07T16:22:11.730Z
 tags: 
   - screen-recording
   - ai video
@@ -75,18 +75,38 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
@@ -118,10 +138,10 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### (3) Using Online Removers
@@ -131,10 +151,10 @@ Another alternative is to use any tool that **removes the image background onlin
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
@@ -160,13 +180,6 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### (3) Using Online Removers
 
@@ -208,5 +221,17 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[New] Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-uploading-youtube-vids-seamlessly-on-instagram/"><u>[New] Uploading YouTube Vids Seamlessly on Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-becoming-a-master-at-the-art-of-engaging-thumbnails/"><u>[Updated] Becoming a Master at the Art of Engaging Thumbnails</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-the-most-reliable-free-srt-translation-services-for-2024/"><u>[Updated] Exploring the Most Reliable Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-15-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 15</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-motion-animating-stories-on-instagram/"><u>In 2024, Mastering Motion Animating Stories on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastery-in-digital-media-srgb-preference/"><u>Mastery in Digital Media Srgb Preference</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-issues-when-attempting-to-play-avatar-frontiers-of-pandora/"><u>Overcoming Issues When Attempting to Play Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
+</ul></div>
 
