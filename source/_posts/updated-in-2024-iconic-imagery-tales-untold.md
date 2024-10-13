@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Iconic Imagery  Tales Untold\""
-date: 2024-10-06T16:52:30.394Z
-updated: 2024-10-07T16:25:38.003Z
+date: 2024-10-08T09:18:52.978Z
+updated: 2024-10-13T06:49:33.504Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part2: Distracted Boyfriend
@@ -66,10 +66,10 @@ The original photo is the work of Antonio Guillem, who uploaded it on iStock in 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -86,10 +86,10 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
@@ -118,13 +118,20 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
@@ -139,13 +146,6 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
 * Others use the meme as a reaction to when your relatives visit. The captions indicate your parent informing you that your uncle and aunt are visiting and they have brought presents.
@@ -153,14 +153,14 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
-## Part5: FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
 
@@ -208,16 +208,21 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-videobrill-studio-affordable-video-editors-guide/"><u>[New] In 2024, Videobrill Studio Affordable Video Editors Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-seeking-excellence-prime-free-srt-online-translators-guide-for-2024/"><u>[New] Seeking Excellence Prime Free SRT Online Translators Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[Updated] 2024 Approved From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-social-media-savvy-how-to-successfully-post-videos-on-fb/"><u>[Updated] 2024 Approved Social Media Savvy How to Successfully Post Videos on FB</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[Updated] In 2024, Building a Brand with Captivating Haul Videos and Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-podcast-title-craft-the-essential-handbook/"><u>2024 Approved Mastering Podcast Title Craft The Essential Handbook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/facebooks-vibe-todays-hot-ten-music-clips/"><u>Facebook’s Vibe Today’s Hot Ten Music Clips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/inaugural-zooid-creations-ranked-for-2024/"><u>Inaugural Zooid Creations Ranked for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-video-hosting-for-all-10-platforms-for-personal-business-and-everything-in-between/"><u>New In 2024, Free Video Hosting for All 10 Platforms for Personal, Business, and Everything in Between</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/total-physical-action-scrutiny-for-2024/"><u>Total Physical Action Scrutiny for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/"><u>[New] 2024 Approved Navigating Virtual Boards with Ease A Guide to Using Google Meet on Diverse Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-the-essential-secrets-of-morphvox-for-2024/"><u>[New] Discovering the Essential Secrets of MorphVOX for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-picsart-the-ultimate-2024-guide/"><u>[New] Exploring PicsArt The Ultimate 2024 Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>[New] From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-snapseed-simplified-the-photographers-first-toolkit/"><u>[Updated] 2024 Approved Snapseed Simplified The Photographer's First Toolkit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-content-with-insightful-channel-descriptions-for-2024/"><u>[Updated] Elevate Your Content with Insightful Channel Descriptions for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-impressive-display-innovations-top-10-mac-displays-of-the-year-for-2024/"><u>[Updated] Impressive Display Innovations - Top 10 Mac Displays of the Year for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-capturing-yesterdays-essence-your-path-from-pixel-to-playback/"><u>[Updated] In 2024, Capturing Yesterday's Essence Your Path From Pixel to Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>2024 Approved Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-the-compact-ps5-slim-find-out-its-launch-dates-cost-estimates-and-technical-spec-sheet/"><u>All About the Compact PS5 Slim: Find Out Its Launch Dates, Cost Estimates & Technical Spec Sheet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-methods-for-ios-photo-album-order-and-cloud-syncing-excellence/"><u>Cutting-Edge Methods for iOS Photo Album Order & Cloud Syncing Excellence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-why-openai-leads-the-charge-in-advocacy-for-stricter-ai-oversight/"><u>Deciphering Why OpenAI Leads the Charge in Advocacy for Stricter AI Oversight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-website-security-solutions-for-connection-is-unsecure-alerts/"><u>Enhancing Website Security: Solutions for 'Connection Is Unsecure' Alerts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-ace-3-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Ace 3 to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-conquering-consumer-attention-metaverse-marketing-tips/"><u>In 2024, Conquering Consumer Attention Metaverse Marketing Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-list-free-best-ios-video-editor-tools-for-2024/"><u>Ultimate List Free, Best iOS Video Editor Tools for 2024</u></a></li>
 </ul></div>
 

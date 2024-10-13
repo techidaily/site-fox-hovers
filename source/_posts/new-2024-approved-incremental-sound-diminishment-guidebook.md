@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Incremental Sound Diminishment Guidebook\""
-date: 2024-09-14T18:46:35.471Z
-updated: 2024-09-15T19:58:58.107Z
+date: 2024-10-08T23:08:50.432Z
+updated: 2024-10-13T04:27:39.652Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ After selecting that, there will be an addition of a new automation clip to the 
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. FL Studio Alternative to Fade Audio
 
 If you have the latest version of FL i.e., FL Studio 20, then it will allow you for multiple recordings. For this, you just have to build a looped region and then tap on ‘Record’. Now it will create new tracks of its own when it reaches the end region of the loop.
@@ -75,9 +82,29 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -93,25 +120,25 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
@@ -120,13 +147,6 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -154,5 +174,24 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-co-create-content-to-maximize-youtube-follower-count-for-2024/"><u>[New] Co-Create Content to Maximize YouTube Follower Count for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-iphone-podcast-listening-experiences/"><u>[New] Top iPhone Podcast Listening Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-veil-insta-story-exploration-without-trace-for-2024/"><u>[New] Unveiling the Veil Insta Story Exploration without Trace for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-visual-verdict-sj6-clash-with-xiaomis-yi-4k-geniuses/"><u>[New] Visual Verdict SJ6 Clash with Xiaomi’s Yi 4K Geniuses</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices-for-2024/"><u>[Updated] 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-effortless-transformation-how-to-convert-avis-to-gifs-via-filmora-for-2024/"><u>[Updated] Effortless Transformation How to Convert AVIs to GIFs via Filmora for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>[Updated] In 2024, Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-new-camera-recording-tech-overview/"><u>[Updated] In 2024, Ultimate Guide New Camera Recording Tech Overview</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>2024 Approved How to Make the Most Out of Spotify's Advertising Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-maximizing-4k-imaging-top-lens-choices/"><u>2024 Approved Maximizing 4K Imaging Top Lens Choices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/begin-with-no-cost-video-intro-tools-for-2024/"><u>Begin with No-Cost Video Intro Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-inquiries-prospective-buyers-should-make-about-evs/"><u>Crucial Inquiries Prospective Buyers Should Make About EVs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-note-50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Note 50 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel/"><u>In 2024, Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exclusive-list-elite-4k-tv-selection/"><u>In 2024, Exclusive List Elite 4K TV Selection</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://facebook.techidaily.com/sculpting-a-virtual-self-in-the-fb-realm/"><u>Sculpting a Virtual Self in the FB Realm</u></a></li>
+</ul></div>
 

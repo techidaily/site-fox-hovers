@@ -1,7 +1,7 @@
 ---
 title: "Engineer Eerie Gifs Using Giphy"
-date: 2024-10-04T17:17:13.381Z
-updated: 2024-10-07T16:11:05.271Z
+date: 2024-10-12T08:16:50.402Z
+updated: 2024-10-13T00:26:52.900Z
 tags: 
   - screen-recording
   - ai video
@@ -67,37 +67,24 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Include Music and Subtitles
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5 Publish or Save Your Meme
 
@@ -120,10 +107,10 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Include Music and Subtitles
@@ -132,22 +119,29 @@ The video file must then be included in the timeline. Another option is to play 
 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -177,22 +171,21 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ccess-the-archived-unique-methods-for-viewing-old-youtube-for-2024/"><u>[New] Access the Archived Unique Methods for Viewing Old YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-technology-of-nikon-d7500-reviewed-for-2024/"><u>[New] Cutting-Edge Technology of Nikon D7500 Reviewed for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-breaking-code-seeing-covert-user-reactions/"><u>[New] In 2024, Breaking Code Seeing Covert User Reactions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[New] In 2024, Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-depth-metaverse-engagement-examples/"><u>[New] In-Depth Metaverse Engagement Examples</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-bebop-unfurled-in-flight-form-the-secondary-parrot-review-for-2024/"><u>[Updated] Bebop Unfurled in Flight Form – The Secondary Parrot Review for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[Updated] Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-discover-10plus-lut-types-free-with-canon/"><u>[Updated] In 2024, Discover 10+ LUT Types, FREE with Canon</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-social-media-video-to-music-conversion-guide/"><u>[Updated] Social Media Video to Music Conversion Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-essentials-understanding-whatsapp-calls-for-2024/"><u>[Updated] The Essentials Understanding WhatsApp Calls for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-24-approaches-to-enhance-your-channels-popularity/"><u>[Updated] Top 24 Approaches to Enhance Your Channel's Popularity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-your-step-by-step-guide-to-ifunny-meme-usage/"><u>[Updated] Your Step-by-Step Guide to iFunny Meme Usage</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypassreset-motorola-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Motorola Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://techtrends.techidaily.com/configuracion-de-pantalla-y-camara-web-integrada-con-tecnologia-intellibus-winxvideo/"><u>Configuración De Pantalla Y Cámara Web Integrada Con Tecnología Intellibús WinxVideo</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-selection-of-mp4-devices/"><u>In 2024, Premium Selection of MP4 Devices</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-to-enhancing-your-pc-with-a-windows-pro-upgrade-from-home-edition-benefits-revealed/"><u>Step-by-Step Guide to Enhancing Your PC with a Windows Pro Upgrade From Home Edition - Benefits Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-configuring-ps4-for-windows-or-macos/"><u>Step-By-Step: Configuring PS4 for Windows or macOS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>[New] A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creating-captivating-youtube-openers-two-ways-for-2024/"><u>[New] Creating Captivating YouTube Openers - Two Ways for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-eliminating-errors-utilizing-photoshops-eraser-feature/"><u>[Updated] 2024 Approved Eliminating Errors Utilizing Photoshop's Eraser Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] 2024 Approved Portable Balance Enhancer for Shooting Blurs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discovering-2024s-premier-cameras-for-professional-use/"><u>[Updated] Discovering 2024'S Premier Cameras for Professional Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-spotifys-advertising-landscape/"><u>[Updated] In 2024, Navigating Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-the-unseen-assessing-your-facebook-past/"><u>[Updated] Reviewing the Unseen Assessing Your Facebook Past</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-protecting-your-privacy-a-curated-list-of-cam-covers/"><u>2024 Approved Protecting Your Privacy A Curated List of Cam Covers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/chortlechorus-choosing-the-happiest-websites-for-ringtones/"><u>ChortleChorus Choosing the Happiest Websites for Ringtones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examining-luminances-contribution-to-hdr-artscape-for-2024/"><u>Examining Luminance’s Contribution to HDR Artscape for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-big-on-insta-discover-these-10-secrets-to-viral-fame/"><u>Going Big on Insta: Discover These 10 Secrets to Viral Fame</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>In 2024, Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-a-comprehensive-guide-to-movie-maker-on-windows-11/"><u>In 2024, Unleash Creativity A Comprehensive Guide to Movie Maker on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/kiddie-koala-race-relays-for-2024/"><u>Kiddie Koala Race Relays for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-gopro-essentials-of-time-lapse-photography-for-2024/"><u>Mastering GoPro Essentials of Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigate-to-notoriety-on-facebook-with-10-effective-tactics/"><u>Navigate to Notoriety on Facebook with 10 Effective Tactics</u></a></li>
 </ul></div>
 

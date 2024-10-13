@@ -1,7 +1,7 @@
 ---
 title: "\"Enhance Your Photography Journey  Adding Music and Filters in Windows 10 Photos\""
-date: 2024-10-02T16:14:21.379Z
-updated: 2024-10-07T17:13:13.189Z
+date: 2024-10-08T05:42:41.235Z
+updated: 2024-10-12T23:17:09.263Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -71,10 +78,16 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -82,20 +95,13 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -104,10 +110,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -135,16 +141,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-virtual-lens-a-study-of-app-reviews/"><u>[New] 2024 Approved Virtual Lens A Study of App Reviews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-views-amplifying-impact-a-youtube-case-study-for-2024/"><u>[New] Elevating Views, Amplifying Impact A Youtube Case Study for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-from-script-to-screen-mastery-through-vida-writers-guide-for-2024/"><u>[New] From Script to Screen Mastery Through Vida’ Writers Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-2023-full-analysis-provideo-masters-edit-suite/"><u>[New] In 2024, 2023 Full Analysis ProVideo Master's Edit Suite</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-chucklecraft-sign-up-now-and-laugh-later/"><u>[New] In 2024, ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-inject-photos-with-focal-spread-outer-radius-adobe-psx/"><u>[Updated] In 2024, Inject Photos with Focal Spread Outer Radius Adobe PSX</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc/"><u>2024 Approved Freeze the Action! Find These Top 9 GIF Recipes on Windows PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-streamline-your-videos-a-guide-to-igtv-posting/"><u>2024 Approved Streamline Your Videos A Guide to IGTV Posting</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-13-miniwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 13 mini/Windows/Mac</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-short-form-video-popularity-on-youtube/"><u>In 2024, Maximizing Short Form Video Popularity on YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-roadmap-to-ad-excellence-navigating-the-top-20-fb-video-strategies-for-2024/"><u>The Roadmap to Ad Excellence Navigating the Top 20 FB Video Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tune-your-status-on-whatsapp/"><u>[New] 2024 Approved Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-boost-social-influence-with-these-15-snap-ideas/"><u>[New] Boost Social Influence with These 15 Snap Ideas</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enrich-your-photographic-expression-techniques-for-inserting-text-onto-images-for-2024/"><u>[New] Enrich Your Photographic Expression Techniques for Inserting Text Onto Images for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-competing-to-the-best-substitutes-for-samsungs-gear-360/"><u>[Updated] In 2024, Competing to the Best Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-bring-a-smile-simple-meme-creation-with-kapwing/"><u>2024 Approved Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bringing-volume-to-silent-messages-on-iphone-unveiling-20-secrets-to-restore-sounds/"><u>Bringing Volume to Silent Messages on iPhone: Unveiling 20 Secrets to Restore Sounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficient-obs-settings-for-thrifty-users/"><u>Efficient OBS Settings for Thrifty Users</u></a></li>
+<li><a href="https://win-news.techidaily.com/guide-detaille-pour-faire-fonctionner-un-appareil-usb-inexplicablement-ignore-dans-windows-11/"><u>Guide Détaillé Pour Faire Fonctionner Un Appareil USB Inexplicablement Ignoré Dans Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nimbusaieditor-soaring-edits-to-new-heights-for-2024/"><u>NimbusAiEditor Soaring Edits to New Heights for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-removing-photo-backdrops/"><u>Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-full-multitasking-in-apple-browsers/"><u>Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/video-sharing-giants-collide-will-likeeclipse-tiktok-in-popularity-wars/"><u>Video Sharing Giants Collide Will LikeEclipse TikTok in Popularity Wars?</u></a></li>
 </ul></div>
 

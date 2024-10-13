@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring the Pro 3 - The Latest in Action Cameras From ION\""
-date: 2024-10-04T17:05:31.900Z
-updated: 2024-10-07T16:02:00.888Z
+date: 2024-10-10T01:30:19.676Z
+updated: 2024-10-12T21:46:02.548Z
 tags: 
   - screen-recording
   - ai video
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  It is much simpler to access Wi-Fi settings with this device. Switch on your device as well as the Wi-Fi Podz then move to Wi-Fi setting of your tablet or smart phone. Here also select Podz from your network and then add password. The settings part is over and now you can control your device from remote location easily. Settings can be adjusted from camera application and it also provides facility to fast media transfers between both connected devices.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Recommend best video editing software for action camera users
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 7. **Battery life and Storage:**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,18 +141,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-expertise-in-cutting-edge-encoders-for-live-media/"><u>[New] Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-10-ways-to-optimize-instagram-highlights-for-your-business/"><u>[New] In 2024, 10 Ways to Optimize Instagram Highlights for Your Business</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-sony-a6400-screen-blackout-mystery-for-2024/"><u>[New] Sony A6400 Screen Blackout Mystery for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-iphone-x-animoji-blueprint-for-mastery-for-2024/"><u>[New] The Ultimate iPhone X Animoji Blueprint for Mastery for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-steps-to-record-voice-memo-on-iphone/"><u>[Updated] 2024 Approved Steps to Record Voice Memo on iPhone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-bright-ideas-maximizing-iphone-camera-exposure/"><u>[Updated] In 2024, Bright Ideas Maximizing iPhone Camera Exposure</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-10-best-gopro-cases-review/"><u>2024 Approved Top 10 Best GoPro Cases Review</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/adjusting-the-backdrop-of-your-flipbuilder-thumbnails-for-optimal-seo-performance/"><u>Adjusting the Backdrop of Your FlipBuilder Thumbnails for Optimal SEO Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decoding-modernity-learning-languages-with-contemporary-tools/"><u>Decoding Modernity: Learning Languages with Contemporary Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-homework-assistance-apps-for-kids-and-their-guardians/"><u>Discover the Best Homework Assistance Apps for Kids and Their Guardians</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-affordable-aethervault-substantial-file-safekeeping/"><u>In 2024, Affordable AetherVault Substantial File Safekeeping</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-audio-artists-approach-to-video-unboxing-for-2024/"><u>The Audio Artist's Approach to Video Unboxing for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-streaming-gadgets-for-ultimate-viewing-in-2/"><u>Top Rated Streaming Gadgets for Ultimate Viewing in 2#</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[New] In 2024, Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-zoom-into-clarity-a-comprehensive-checklist-for-youtube-broadcasts-for-2024/"><u>[New] Zoom Into Clarity A Comprehensive Checklist for YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-assessing-streaming-quality-vlc-versus-mx/"><u>[Updated] 2024 Approved Assessing Streaming Quality VLC versus MX</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-7-3d-modeling-software-for-animation-for-2024/"><u>[Updated] 7 3D Modeling Software for Animation for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovative-approaches-to-macos-subtitles-editing-for-2024/"><u>[Updated] Innovative Approaches to macOS Subtitles Editing for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamlining-your-meetings-using-zoom-with-win11/"><u>[Updated] Streamlining Your Meetings Using Zoom with Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ideal-mobile-editing-platforms-for-dji-imagery/"><u>2024 Approved Ideal Mobile Editing Platforms for DJi Imagery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-7-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 7 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-dell-wireless-card-driver-for-optimal-performance/"><u>How to Update Your Dell Wireless Card Driver for Optimal Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x8b-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X8b to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-start-screen-special-free-editing-tools/"><u>In 2024, Start Screen Special Free Editing Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-5-seascape-accessories-for-gopro-lenses/"><u>In 2024, Top 5 Seascape Accessories for GoPro Lenses</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-windows-10-sound-sensation-a-step-by-step-audio-capture-tutorial/"><u>In 2024, Windows 10 Sound Sensation A Step-by-Step Audio Capture Tutorial</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-mobile-technology-for-dji-visual-storytelling/"><u>Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-guide-video-cropping-techniques-using-windows-movie-maker-for-windows-10-users/"><u>Ultimate Guide: Video Cropping Techniques Using Windows Movie Maker for Windows 10 Users</u></a></li>
 </ul></div>
 

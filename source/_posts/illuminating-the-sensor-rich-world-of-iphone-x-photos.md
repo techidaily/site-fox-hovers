@@ -1,7 +1,7 @@
 ---
 title: "\"Illuminating the Sensor-Rich World of iPhone X Photos\""
-date: 2024-10-02T17:13:48.739Z
-updated: 2024-10-07T16:19:28.727Z
+date: 2024-10-08T06:59:23.665Z
+updated: 2024-10-12T17:29:29.729Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -49,10 +56,17 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -86,27 +100,7 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,21 +135,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-hype-booster-maker/"><u>[New] 2024 Approved Premier Hype Booster Maker</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>[New] In 2024, Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visual-virtuosity-mastering-the-craft-of-photographic-enhancement/"><u>[New] In 2024, Visual Virtuosity Mastering the Craft of Photographic Enhancement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-the-digital-landscape-free-tools-for-youtube-audio-to-text/"><u>[New] Navigating the Digital Landscape FREE Tools for YouTube Audio to Text</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-srt-extraction-procedure-from-zipped-contents-for-2024/"><u>[New] Srt Extraction Procedure From Zipped Contents for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-freeze-the-frame-overcoming-shake-phenomena/"><u>[Updated] Freeze the Frame Overcoming Shake Phenomena</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-best-terraria-map-viewers-to-find-treasure-for-2024/"><u>[Updated] Top 5 Best Terraria Map Viewers to Find Treasure for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-canons-power-explore-10-basic-free-luts-and-more/"><u>2024 Approved Harness Canon's Power Explore 10 Basic Free LUTs and More</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-tutorial-installing-the-newest-dell-g15-video-card-drivers-in-windows/"><u>Complete Tutorial: Installing the Newest Dell G15 Video Card Drivers in Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/effortless-online-subtitles-the-leading-free-services-for-2024/"><u>Effortless Online Subtitles The Leading Free Services for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-camon-20-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Camon 20 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-unexpected-pc-crashes-caused-by-stray-programs-top-6-methods/"><u>How to Resolve Unexpected PC Crashes Caused by Stray Programs - Top 6 Methods</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-your-printing-experience-with-the-latest-epson-wf-7720-drivers-compatible-with-windows-pcs/"><u>Improve Your Printing Experience with the Latest Epson WF-7720 Drivers Compatible with Windows PCs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-best-soundstage-networking/"><u>In 2024, Best Soundstage Networking</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-zero-cost-avi-video-editors-our-top-5-recommendations/"><u>New Zero-Cost AVI Video Editors Our Top 5 Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-designers-toolkit-free-mac-drawing-software-guide/"><u>[New] 2024 Approved Cutting-Edge Designer's Toolkit Free Mac Drawing Software Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevate-your-episodes-masterful-lighting-setups-explained/"><u>[New] 2024 Approved Elevate Your Episodes Masterful Lighting Setups Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-color-balance-in-gopro-editing/"><u>[New] In 2024, Perfecting Color Balance in GoPro Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-journey-to-the-core-of-instagram-finding-all-about-free-filters-for-2024/"><u>[New] Journey to the Core of Instagram Finding All About Free Filters for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-profiting-from-youtube-shorts-and-earning-potential/"><u>[New] The Ultimate Guide to Profiting From Youtube Shorts & Earning Potential</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-optimal-5-filters-for-deep-blue-cinematography/"><u>[Updated] 2024 Approved Optimal 5 Filters for Deep Blue Cinematography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cartooncast-comprehensive-24-guidebook/"><u>[Updated] In 2024, CartoonCast Comprehensive '24 Guidebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-clearer-photos-with-blur-effects-apps/"><u>[Updated] In 2024, Clearer Photos with Blur Effects Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-data-dispatch-simple-ways-to-shift-files-to-pc/"><u>2024 Approved Data Dispatch Simple Ways To Shift Files to PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-the-dji-phantom-4-vision-tech/"><u>In 2024, Analyzing the DJI Phantom 4 Vision Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-close-up-control-zooming-into-team-meetings-with-msteams/"><u>In 2024, Close-Up Control Zooming Into Team Meetings with MSTEAMS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-xr-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone XR</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/manage-your-kins-agenda-efficiently-the-ultimate-list-of-7-family-friendly-calendar-applications/"><u>Manage Your Kin's Agenda Efficiently: The Ultimate List of 7 Family-Friendly Calendar Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-enrollment-process-for-chatgpt-updates/"><u>Mastering the Enrollment Process for ChatGPT Updates</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/video-vanguard-showdown-which-is-worthier-obs-or-twitch-studio/"><u>Video Vanguard Showdown Which Is Worthier, OBS or Twitch Studio?</u></a></li>
 </ul></div>
 

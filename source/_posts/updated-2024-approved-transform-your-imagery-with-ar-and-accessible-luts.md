@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Transform Your Imagery with AR & Accessible LUTs\""
-date: 2024-10-04T16:10:47.248Z
-updated: 2024-10-07T16:54:44.226Z
+date: 2024-10-05T22:53:59.189Z
+updated: 2024-10-13T00:21:52.650Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -61,10 +54,10 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The color LUT patch graph**
@@ -73,6 +66,13 @@ The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
@@ -80,10 +80,16 @@ The patch graph that renders the color gradation effect looks like this:
 * Finally, the Screen Output patch renders the green color.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. Free LUTs resource for Spark AR
@@ -95,6 +101,13 @@ Here are the best free LUTs resources for Spark AR:
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Fur
 
@@ -109,6 +122,13 @@ Here are the key building principles.
 
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
@@ -116,17 +136,10 @@ Even while using large image sequences is frequently discouraged, you can still 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Transition Curves
@@ -134,13 +147,6 @@ Even while using large image sequences is frequently discouraged, you can still 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Realistic Smoke
 
@@ -188,21 +194,17 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-zones-for-cutting-edge-vr-viewing/"><u>[New] 2024 Approved Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-first-step-to-aerial-adventure-best-beginner-drones-for-2024/"><u>[New] First Step to Aerial Adventure Best Beginner Drones for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-easy-techniques-for-archiving-screen-conversations/"><u>[New] In 2024, Easy Techniques for Archiving Screen Conversations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-entry-level-insights-navigating-hd-and-uhd-video-standards/"><u>[Updated] 2024 Approved Entry-Level Insights Navigating HD & UHD Video Standards</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-overcoming-windows-10-photo-viewer-challenges-quick-fixes/"><u>[Updated] 2024 Approved Overcoming Windows 10 Photo Viewer Challenges Quick Fixes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unveiling-the-basics-of-vlogging-gear-and-software/"><u>[Updated] 2024 Approved Unveiling the Basics of Vlogging Gear & Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crack-the-code-top-10-hidden-iphone-x-functions/"><u>[Updated] Crack The Code Top 10 Hidden iPhone X Functions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-key-iphone-shot-design-guidelines-unveiled/"><u>[Updated] In 2024, Key iPhone Shot Design Guidelines Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-guide-to-saving-memories-as-videos-on-iphone-for-2024/"><u>[Updated] Ultimate Guide to Saving Memories as Videos on iPhone for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces-for-2024/"><u>[Updated] Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-barriers-with-the-latest-handheld-x-update/"><u>Breaking Barriers with the Latest Handheld X Update</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-s17-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo S17? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/convert-your-avi-videos-into-high-quality-mpeg-free-using-the-movavi-tool/"><u>Convert Your AVI Videos Into High-Quality MPEG Free Using the Movavi Tool</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhanced-hearing-and-health-the-bose-soundsport-frames-guide/"><u>Enhanced Hearing & Health - The Bose SoundSport Frames Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-steps-for-online-vhs-image-transformation/"><u>Essential Steps for Online VHS Image Transformation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-g54-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola G54 5G? Try These Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-streamline-your-twitter-videos-with-pro-convertors/"><u>[New] 2024 Approved Streamline Your Twitter Videos with Pro Convertors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-immersive-vr-experiences-with-adobe-premieres-360-editing-features/"><u>[New] Crafting Immersive VR Experiences with Adobe Premiere's 360° Editing Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform-for-2024/"><u>[New] Transform Your Virtual Meetings Using Zoom Within the Gmail Platform for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-tiktok-integrating-audio-narration-with-videos-for-2024/"><u>[Updated] Mastering TikTok Integrating Audio Narration with Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/10-top-free-online-photo-editor/"><u>10 Top Free Online Photo Editor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhance-visuals-with-audio-cutting-and-composing-music-for-canva/"><u>2024 Approved Enhance Visuals with Audio Cutting & Composing Music for Canva</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-a-family-guide-to-gpt/"><u>AI Unveiled: A Family Guide to GPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehve-solutions-for-stabilizing-robocop-rogue-city-when-running-on-pc-platforms/"><u>Comprehve Solutions for Stabilizing RoboCop: Rogue City When Running on PC Platforms</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-find-n3-flip-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Find N3 Flip to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-timelapse-magic-with-your-gopro/"><u>In 2024, Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/progressive-audio-softening-methods-for-2024/"><u>Progressive Audio Softening Methods for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-windows-1110-microphone-issues-in-google-meet/"><u>Troubleshooting Guide: Fixing Windows 11/10 Microphone Issues in Google Meet</u></a></li>
 </ul></div>
 
