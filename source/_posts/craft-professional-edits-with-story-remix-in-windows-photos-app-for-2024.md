@@ -1,7 +1,7 @@
 ---
 title: "Craft Professional Edits with Story Remix in Windows Photos App for 2024"
-date: 2024-09-12T19:46:43.493Z
-updated: 2024-09-15T18:59:23.440Z
+date: 2024-10-14T23:57:06.502Z
+updated: 2024-10-19T05:57:39.260Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ How to create a Story Remix project automatically –
 
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
 
@@ -86,25 +93,11 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
 
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding a new theme
 
@@ -115,6 +108,20 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -122,13 +129,6 @@ While adding media to the timeline in Story Mix, you will see that there is a de
 Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding custom text
 
@@ -138,6 +138,13 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -145,16 +152,23 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to add 3D effects to a Story Remix project
@@ -166,6 +180,13 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: How to export a Story Remix video
 
@@ -194,19 +215,6 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -230,5 +238,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-curating-an-in-depth-look-at-2023s-best-pc-vr-headsets/"><u>[New] 2024 Approved Curating an In-Depth Look at 2023'S Best PC VR Headsets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-direct-digital-delivery-streamlined-steps-for-files-for-2024/"><u>[New] Direct Digital Delivery Streamlined Steps for Files for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-innovation-in-iphone-filmmaking-virtual-worlds/"><u>[Updated] 2024 Approved Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-simple-steps-to-change-iphones-call-alert-sounds/"><u>[Updated] In 2024, Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-speedy-streams-ios-media-on-your-pc-for-2024/"><u>[Updated] Speedy Streams IOS Media on Your PC for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavimpeaac/"><u>使用Movavi直覺地在網路上無限制地將MPE格式轉為AAC - 免費編解碼器</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-cloud-notes-with-mematic/"><u>Cutting-Edge Cloud Notes with Mematic</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-inshot-is-it-the-pinnacle-of-editing-for-2024/"><u>Exploring InShot Is It the Pinnacle of Editing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>In 2024, Perfect Focus in Teams Meetings Mastering Background Blur</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>In 2024, Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intricacies-of-enhanced-digital-worlds/"><u>In 2024, The Intricacies of Enhanced Digital Worlds</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-the-critical-issue-of-error-code-107-a-step-by-step-guide/"><u>Resolving the Critical Issue of Error Code 107 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-getting-counter-strike-2-to-start-without-glitches/"><u>Unlock the Secrets: Getting Counter-Strike 2 to Start Without Glitches</u></a></li>
+</ul></div>
 

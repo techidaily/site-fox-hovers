@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Plating Palette  Techniques for Food Cinematography\""
-date: 2024-09-11T16:24:52.107Z
-updated: 2024-09-15T17:05:02.200Z
+date: 2024-10-17T16:51:05.096Z
+updated: 2024-10-19T06:52:54.006Z
 tags: 
   - screen-recording
   - ai video
@@ -95,6 +95,13 @@ Hold very still to prevent shaking, and simply hold the screen for autofocus and
 
 ![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Lens
 
 If you are going to shoot with a camera, you need either a mirrorless camera or DSLR. A standard click-and-shoot will not provide a high enough quality of video. Along with a high-quality camera comes the need for a high-quality lens.
@@ -105,6 +112,13 @@ As for the shooting itself, you can feel free to experiment with lenses that off
 
 ![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Tripod
 
 Another thing you’ll want when shooting with a camera is a tripod. A tripod is necessary because it holds the camera steady, as well as allows you to be present in the video if desired.
@@ -113,6 +127,13 @@ You can find a cheap tripod at many chain stores to get you started, although yo
 
 ![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
@@ -120,6 +141,13 @@ This basic guide should give you a solid start in creating top-of-the-line food 
 If you find your first video isn’t as amazing as you’d thought it would be, remember that it takes time to become a master at something. With practice, you will see the videos shot progressively becoming more professional.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -146,12 +174,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-engagement-with-weblink-content-in-instagram/"><u>[New] 2024 Approved Crafting Engagement with Weblink Content in Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dive-into-dynamic-artistry-explore-14-text-animation-showcases/"><u>[Updated] Dive Into Dynamic Artistry Explore 14 Text Animation Showcases</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>[Updated] In 2024, Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-windows-playback-system/"><u>[Updated] In 2024, Ultimate Windows Playback System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-transitions-in-audition-fade-in-basics/"><u>[Updated] Mastering Transitions in Audition Fade-In Basics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-standout-solo-podcast-experience/"><u>2024 Approved Crafting a Standout Solo Podcast Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-images-through-automated-dynamic-range-adjustments/"><u>Enhancing Images Through Automated Dynamic Range Adjustments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-conversion-transform-m4a-audio-files-into-itunes-compatible-m4r-format-with-movavi/"><u>Free Online Conversion: Transform M4A Audio Files Into iTunes-Compatible M4R Format with Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-snapmaster-z7-pro-excellence-in-picture-magnification/"><u>In 2024, SnapMaster Z7 Pro Excellence in Picture Magnification</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-music-and-background-music-to-video-on-desktoponlinemobile-phone/"><u>New 2024 Approved How to Add Music & Background Music to Video on Desktop/Online/Mobile Phone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stutters-in-assassins-creed-valhalla-pc-optimization-tips/"><u>Troubleshooting Stutters in Assassin's Creed Valhalla: PC Optimization Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-discord-performance-problems-expert-tips/"><u>Ultimate Fixes for Discord Performance Problems - Expert Tips</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unveiling-the-secrets-of-the-windows-11-snip-and-sketch-a-deep-dive-into-screen-captures/"><u>Unveiling the Secrets of the Windows 11 Snip & Sketch: A Deep Dive Into Screen Captures</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Flat to Framed  Achieving Realistic Text Effects in Photoshop\""
-date: 2024-09-09T19:44:43.599Z
-updated: 2024-09-15T17:27:21.564Z
+date: 2024-10-17T22:53:45.921Z
+updated: 2024-10-19T07:13:35.459Z
 tags: 
   - screen-recording
   - ai video
@@ -91,9 +91,23 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
@@ -103,14 +117,14 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
-That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
 ## Conclusion
 
@@ -128,16 +142,16 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
@@ -150,10 +164,10 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,5 +196,17 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-quick-camouflage-blurring-faces-on-demand/"><u>[New] Quick Camouflage Blurring Faces on Demand</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-gamers-guide-to-elite-streaming-platforms/"><u>[Updated] 2024 Approved Gamers' Guide to Elite Streaming Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-multitask-media-magic-employing-netflix-picture-in-picture/"><u>2024 Approved Multitask Media Magic Employing Netflix Picture-in-Picture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-guide-to-designing-spectacular-photo-tileworks/"><u>A Guide to Designing Spectacular Photo Tileworks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ace-tiktok-live-leveraging-zoom-capabilities-for-2024/"><u>Ace TikTok Live Leveraging Zoom Capabilities for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/all-about-bmp-image-files-exploring-opening-techniques-and-uses/"><u>All About BMP Image Files – Exploring Opening Techniques & Uses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/boxing-brilliance-versus-broadband-bonanza-for-2024/"><u>Boxing Brilliance versus Broadband Bonanza for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capture-with-purpose-iphones-10-commandments-of-image-design-for-2024/"><u>Capture with Purpose IPhone's 10 Commandments of Image Design for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/elevate-your-online-interactions-master-microsoft-teams-snap-for-2024/"><u>Elevate Your Online Interactions Master Microsoft Teams Snap for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/no-loss-mp4-video-transformation-rotating-your-clips-90-180-or-270-degrees/"><u>No-Loss MP4 Video Transformation - Rotating Your Clips 90, 180, or 270 Degrees</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step-by-Step Audio Fading in Lumafusion Software\""
-date: 2024-09-08T19:43:32.425Z
-updated: 2024-09-15T18:07:58.680Z
+date: 2024-10-13T23:58:50.393Z
+updated: 2024-10-19T00:46:02.528Z
 tags: 
   - screen-recording
   - ai video
@@ -67,6 +67,13 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -80,6 +87,13 @@ After finishing the method for editing audio in Filmora, click the Export button
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
 ## Part 3\. Related FAQs about LumaFusion
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
@@ -113,41 +127,26 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Share and export
 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
-
-### 1\. How do you fade in a title LumaFusion?
-
-Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 2\. How do you do transitions in LumaFusion?
-
-There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
@@ -155,6 +154,21 @@ There are several eye-catching transitions included with LumaFusion. The transit
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 1\. How do you fade in a title LumaFusion?
+
+Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. How do you do transitions in LumaFusion?
+
+There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -182,5 +196,24 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-seamless-background-extraction-in-picsart-editing/"><u>[New] In 2024, Seamless Background Extraction in Picsart Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>[New] Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>[Updated] 2024 Approved Unmasking the Giants of Live Broadcast Twitch Vs YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-list-android-3d-viewing-tools/"><u>[Updated] A-List Android 3D Viewing Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-deciphering-the-language-of-youtube-commenters-for-2024/"><u>[Updated] Deciphering the Language of YouTube Commenters for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-green-screen-skills-with-this-kinemaster-guide/"><u>[Updated] Elevate Your Green Screen Skills with This Kinemaster Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-record-audio-on-windows-11-for-2024/"><u>[Updated] How To Record Audio on Windows 11 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-amplifying-audio-with-tiktok-duets/"><u>[Updated] In 2024, Amplifying Audio with TikTok Duets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-humor-into-your-social-media-posts/"><u>[Updated] Infusing Humor Into Your Social Media Posts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-drone-flight-optimal-lipo-battery-selection/"><u>[Updated] Mastering Drone Flight Optimal LiPo Battery Selection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-primeplay-videoapp-inspection/"><u>[Updated] PrimePlay VideoApp Inspection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-a79-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo A79 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/prowess-in-phrasing-best-tags-for-gamer-videos-for-2024/"><u>Prowess in Phrasing Best Tags for Gamer Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-headphones-with-annoying-buzz-sounds-step-by-step-instructions/"><u>The Ultimate Fix for Headphones with Annoying Buzz Sounds: Step-by-Step Instructions</u></a></li>
+</ul></div>
 

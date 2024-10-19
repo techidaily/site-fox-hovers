@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Metaverse Marketing  Revolutionizing Customer Outreach for 2024\""
-date: 2024-10-11T01:21:35.467Z
-updated: 2024-10-12T17:39:14.324Z
+date: 2024-10-13T18:58:35.385Z
+updated: 2024-10-18T17:56:08.141Z
 tags: 
   - screen-recording
   - ai video
@@ -53,13 +53,6 @@ Source: searchenginejournal.com
 
 Each individual in a Metaverse environment can have a presence as well as experience data streaming live. This can pertain to objects, identity, entitlements, history, payments, and communications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What Is Metaverse Marketing?
 
 For marketers, there is much potential to explore. However, they need to understand it fully in order to know its potential to the fullest. Marketers need to understand how they can adapt as this world expands and different brands find opportunities to market and sell their products and services. In general, it is a platform suited to market to the Millenials as well as the Gen Zers. These generations are the most avid users of Metaverses. That is mainly pertaining to virtual gaming zones and technologies such as AR and VR.
@@ -90,13 +83,6 @@ Here are some examples of Metaverse marketing brands that are embracing the conc
 
 NASCAR has recently formed a multi-year program to increase awareness of its brand in the eyes of gamers, especially those of the young generation. This is specially planned for the Roblox product of NASCAR. The company has formed a digital car that is part of the Jailbreak video game. It is also selling apparel in Jailbreak that players can purchase, as per their avatars. There is also a fan contest planned in which players will be able to design their own uniforms. The company is collaborating with its developers to act as influencers. They are promoting the game and oncoming launches through different social media platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.GrandTheft Auto V
 
 Grand Theft Auto V is a sandbox game of the open world. It released different clothing options which were similar to what Hong Kong protestors wore. These protesters were able to take their fight to the Metaverse. Many artists also joined in who helped showcase their political expressions. In this way, the game increased its marketing as well as helped another segment to promote its cause.
@@ -115,6 +101,19 @@ Dimension Studio is another brand that has experimented with Metaverse successfu
 
 ## Part 4: Future of the Metaverse: Opportunities or Challenges?
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Opportunities That it Presents
 
 Many brands have joined the bandwagon by building virtual worlds. Many are selling NFTs or non-fungible tokens. These are designed based on blockchain methodology. This allows people to own unique digital items such as videos or images.
@@ -126,6 +125,13 @@ Source: xrtoday.com
 Many brands are also showcasing digital advertising on Metaverse platforms. Ads are being placed by different brands in games which are billboards or in the form of branded clothing. These are in-game ads, as they would appear in the real world. These ad slots are sold as CPMs that cost between $6 to $12 across different platforms.
 
 Another advantage is how Metaverse marketing strategies can open up opportunities in the world of education. Active participation in class can be increased through this new technology. Today much work is being done to incorporate immersive technology such as virtual reality in such spaces. Also, 3D environments are also being brought into the fold in this segment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Limitations
 
@@ -195,13 +201,6 @@ Grand Theft Auto V is a sandbox game of the open world. It released different cl
 
 ![Metaverse Marketing Grand Theft](https://images.wondershare.com/filmora/article-images/2021/metaverse-marketing-grand-theft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Source: nascar.com
 
 ### 3\. Houzz
@@ -254,6 +253,13 @@ Metaverse is a concept that is relatively new in the virtual world. It refers to
 
 ![Metaverse Marketing](https://images.wondershare.com/filmora/article-images/2021/metaverse-marketing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Source: searchenginejournal.com
 
 Each individual in a Metaverse environment can have a presence as well as experience data streaming live. This can pertain to objects, identity, entitlements, history, payments, and communications.
@@ -264,13 +270,6 @@ For marketers, there is much potential to explore. However, they need to underst
 
 Here we explore what **Metaverse marketing** is and what the concept means for brands as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: What Does Metaverse Mean for Brands?
 
 Metaverse is considered as a successor to what the present-day internet offers. Today mobile internet has predominance. This is a different era compared to broadband internet that came by in the nineties as well as in the early part of the new millennium.
@@ -278,13 +277,6 @@ Metaverse is considered as a successor to what the present-day internet offers. 
 Today there is the convergence of artificial intelligence, cloud processing as well as 5G technologies. These have been attributed to offering a cost-effective and enjoyable VR and AR experience. This is also due to increased connectivity that now exists across different devices.
 
 ![Metaverse Brand Marketing](https://images.wondershare.com/filmora/article-images/2021/metaverse-brand-marketing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Source: venturebeat.com
 
@@ -319,10 +311,16 @@ Among Metaverse marketing examples,Houzz is another brand that is able to use Me
 Dimension Studio is another brand that has experimented with Metaverse successfully. They have been able to raise as much as $6.5 million as a result of promoting fashion brands using this platform. They have created a virtual setup that allows users to be scanned by 100 different cameras and dropped into different virtual forums. They can then test out different garments. The brand Balenciaga had launched a game called Afterworld, designed to showcase their collections for the autumn and winter season of 2021\. The Metaverse technology of Dimension Studio came of much use then.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Future of the Metaverse: Opportunities or Challenges?
@@ -338,6 +336,13 @@ Source: xrtoday.com
 Many brands are also showcasing digital advertising on Metaverse platforms. Ads are being placed by different brands in games which are billboards or in the form of branded clothing. These are in-game ads, as they would appear in the real world. These ad slots are sold as CPMs that cost between $6 to $12 across different platforms.
 
 Another advantage is how Metaverse marketing strategies can open up opportunities in the world of education. Active participation in class can be increased through this new technology. Today much work is being done to incorporate immersive technology such as virtual reality in such spaces. Also, 3D environments are also being brought into the fold in this segment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Limitations
 
@@ -397,6 +402,13 @@ One of the pioneers to embrace this concept is Facebook. Mark Zuckerberg is CEO 
 
 Here are some examples of Metaverse marketing brands that are embracing the concept of a Metaverse in marketing:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. NASCAR
 
 NASCAR has recently formed a multi-year program to increase awareness of its brand in the eyes of gamers, especially those of the young generation. This is specially planned for the Roblox product of NASCAR. The company has formed a digital car that is part of the Jailbreak video game. It is also selling apparel in Jailbreak that players can purchase, as per their avatars. There is also a fan contest planned in which players will be able to design their own uniforms. The company is collaborating with its developers to act as influencers. They are promoting the game and oncoming launches through different social media platforms.
@@ -407,14 +419,14 @@ Grand Theft Auto V is a sandbox game of the open world. It released different cl
 
 ![Metaverse Marketing Grand Theft](https://images.wondershare.com/filmora/article-images/2021/metaverse-marketing-grand-theft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Source: nascar.com
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Houzz
 
@@ -432,18 +444,18 @@ Many brands have joined the bandwagon by building virtual worlds. Many are selli
 
 ![Metaverse Future](https://images.wondershare.com/filmora/article-images/2021/metaverse-future.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Source: xrtoday.com
 
 Many brands are also showcasing digital advertising on Metaverse platforms. Ads are being placed by different brands in games which are billboards or in the form of branded clothing. These are in-game ads, as they would appear in the real world. These ad slots are sold as CPMs that cost between $6 to $12 across different platforms.
 
 Another advantage is how Metaverse marketing strategies can open up opportunities in the world of education. Active participation in class can be increased through this new technology. Today much work is being done to incorporate immersive technology such as virtual reality in such spaces. Also, 3D environments are also being brought into the fold in this segment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Limitations
 
@@ -479,22 +491,24 @@ Marketing in the Metaverse is the next trending thing in the world of digital ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-integrating-social-networks-sharing-fb-videos-on-whatsapp/"><u>[New] Integrating Social Networks Sharing FB Videos on WhatsApp</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-precision-editing-for-professionalism-adding-chapter-breakpoints-on-youtube/"><u>[Updated] 2024 Approved Precision Editing for Professionalism Adding Chapter Breakpoints on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide/"><u>[Updated] In 2024, Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069747263-updated-in-2024-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[Updated] In 2024, Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10).</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tutorial-transforming-photos-into-works-of-art/"><u>[Updated] Tutorial Transforming Photos Into Works of Art</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1-how-to-access-and-use-bup-file-format-in-windows-operating-system-comprehensive-guide/"><u>1. How to Access and Use .BUP File Format in Windows Operating System - Comprehensive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-practical-guide-to-using-vsco-for-professionals/"><u>2024 Approved A Practical Guide to Using VSCO for Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-affordable-and-reliable-discover-the-best-online-passport-photo-apps/"><u>2024 Approved Affordable & Reliable Discover the Best Online Passport Photo Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-camera-kings-collide-sj6-powerhouse-vs-yi-4k-masterpiece/"><u>2024 Approved Camera Kings Collide SJ6 Powerhouse Vs. Yi 4K Masterpiece</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-fabricate-funny-faces/"><u>2024 Approved Fabricate Funny Faces</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-inshots-ultimate-tune-up-import-music-essentials/"><u>2024 Approved InShot's Ultimate Tune Up Import Music Essentials</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-the-latest-pro-cams-for-full-spheres/"><u>2024 Approved Navigating the Latest Pro Cams for Full Spheres</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-framessec-for-high-quality-slow-motion-cinematography/"><u>2024 Approved Optimal Frames/Sec for High-Quality Slow-Motion Cinematography</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>2024 Approved Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-v30t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme V30T to Roku | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-jpg-to-gif-tools-online-free-and-easy-for-2024/"><u>Best JPG to GIF Tools Online, Free and Easy for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-laserjet-1018-driver-software-compatible-and-free-downloads/"><u>HP LaserJet 1018 Driver Software - Compatible & Free Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-background-beats-guide-tunes-for-visuals/"><u>[New] Background Beats Guide Tunes for Visuals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iscovering-potential-youtubes-role-in-modern-education-strategies/"><u>[New] Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-speech-tuning-made-simple-on-sony-playstation-consoles-for-2024/"><u>[New] Speech Tuning Made Simple on Sony PlayStation Consoles for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-trending-memes-galore-unique-themes-for-any-event-for-2024/"><u>[New] Trending Memes Galore Unique Themes for Any Event for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-the-best-vr-camera-for-adventures/"><u>[Updated] 2024 Approved Discovering the Best VR Camera for Adventures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-buying-tips-for-high-end-360-camera-systems/"><u>[Updated] 2024 Approved Essential Buying Tips for High-End 360 Camera Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>[Updated] 2024 Approved The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-asmr-viewers-essentials-explained-for-2024/"><u>[Updated] ASMR Viewers' Essentials Explained for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-breathing-life-into-art-top-6-for-revolutionary-nftos-for-2024/"><u>[Updated] Breathing Life Into Art Top 6 for Revolutionary NFTOs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-beats-studio-mac-basics-for-2024/"><u>[Updated] Capturing Beats Studio Mac Basics for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-harmonizing-designs-using-color-principles-wisely-for-2024/"><u>[Updated] Harmonizing Designs Using Color Principles Wisely for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-laughlounge-app-join-the-meme-revolution/"><u>[Updated] In 2024, LaughLounge App - Join the Meme Revolution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-best-10-elements-that-enthrall-filmora-users/"><u>[Updated] In 2024, The Best 10 Elements That Enthrall Filmora Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-podcasters-at-universities/"><u>[Updated] Premium Podcasters at Universities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-winning-strategies-the-complete-vegas-pro-21-review/"><u>[Updated] Winning Strategies The Complete Vegas Pro '21 Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-timeline-expertise-crafting-custom-countdown-features/"><u>2024 Approved Obs Timeline Expertise Crafting Custom Countdown Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-vs-streamlabs-which-is-better/"><u>2024 Approved OBS vs Streamlabs Which Is Better?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-pc-hiccups-solutions-to-overcome-freezing-issues-effectively/"><u>Fixing PC Hiccups: Solutions to Overcome Freezing Issues Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
 </ul></div>
 

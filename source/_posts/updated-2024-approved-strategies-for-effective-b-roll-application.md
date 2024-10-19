@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Strategies for Effective B-Roll Application\""
-date: 2024-10-10T22:02:33.129Z
-updated: 2024-10-13T04:33:15.004Z
+date: 2024-10-11T19:40:24.671Z
+updated: 2024-10-19T01:52:21.367Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -57,10 +57,10 @@ On the other hand, cutaways can show how different people react to what is being
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
@@ -79,18 +79,18 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -103,10 +103,16 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -143,16 +149,20 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-central-luts-in-action-movie-visuals-enhancement/"><u>2024 Approved Central Luts in Action Movie Visuals Enhancement</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-comparative-analysis-is-pickup-the-best-editor-for-your-android-device/"><u>2024 Approved Comparative Analysis Is PickUp The Best Editor for Your Android Device?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-2023-guide-to-lg-360-cam-tech/"><u>2024 Approved Comprehensive 2023 Guide to LG 360 Cam Tech</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elemental-story-framework/"><u>2024 Approved Elemental Story Framework</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-groupview-downloader-for-fb-streams/"><u>2024 Approved GroupView Downloader for FB Streams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>2024 Approved Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-common-issues-reviving-iphone-dictation-functionality-with-easy-fixes/"><u>Bypass Common Issues: Reviving iPhone Dictation Functionality with Easy Fixes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-c33-2023-by-drfone-android/"><u>How to Bypass FRP from Realme C33 2023?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-reno-11-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Reno 11 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://facebook.techidaily.com/reels-and-rooms-on-the-rise-for-facebook-stories-panels/"><u>Reels and Rooms on the Rise for Facebook Stories Panels?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-15-plus-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 15 Plus and Android Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-best-meme-templates/"><u>[New] 2024 Approved Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>[New] 2024 Approved Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-advice-on-enhancing-vhs-images-using-technology/"><u>[Updated] Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>[Updated] In 2024, Mastering Mobile & DSLR Shooting IGTV with Perfection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-windows-10-key-additions-and-tweaks-in-focus/"><u>[Updated] In 2024, Windows 10 Key Additions and Tweaks in Focus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-chapter-integration-in-youtube-content/"><u>2024 Approved Innovative Techniques for Chapter Integration in YouTube Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-and-science-of-fb-video-ads-unveiling-20-crucial-steps/"><u>2024 Approved The Art and Science of FB Video Ads Unveiling 20 Crucial Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-galaxy-ring-price-analysis-spec-sheet-upcoming-debut-and-fresh-insights/"><u>All You Need to Know About Samsung Galaxy Ring: Price Analysis, Spec Sheet, Upcoming Debut & Fresh Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-realtek-network-issue-in-new-os-version/"><u>Corrected Realtek Network Issue in New OS Version</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/effective-ways-to-gain-access-to-cost-free-imagery/"><u>Effective Ways to Gain Access to Cost-Free Imagery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/harnessing-adobe-curves-to-shape-your-images-for-2024/"><u>Harnessing Adobe Curves to Shape Your Images for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-pro-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 14 Pro Max Without Apple ID Password?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-drone-lineages-and-lines/"><u>In 2024, Drone Lineages and Lines</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-narzo-60-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme Narzo 60 5G Devices</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wie-man-den-windows-ebenso-wie-das-bios-fur-asus-notebooks-mithilfe-einer-schrittweisen-anleitung-startet/"><u>Wie Man Den Windows Ebenso Wie Das BIOS Für ASUS Notebooks Mithilfe Einer Schrittweisen Anleitung Startet</u></a></li>
 </ul></div>
 

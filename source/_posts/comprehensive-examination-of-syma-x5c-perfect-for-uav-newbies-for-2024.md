@@ -1,7 +1,7 @@
 ---
 title: "\"Comprehensive Examination of Syma X5C  Perfect for UAV Newbies for 2024\""
-date: 2024-09-10T17:04:27.637Z
-updated: 2024-09-15T18:50:51.068Z
+date: 2024-10-13T17:29:57.195Z
+updated: 2024-10-18T22:59:11.536Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -96,11 +103,25 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
@@ -109,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -133,12 +161,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>[New] 2024 Approved Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-video-journey-beginnings-start-with-windows-11s-movie-maker/"><u>[New] 2024 Approved Video Journey Beginnings Start with Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-detecting-phony-instagram-connections-efficiently/"><u>[Updated] Detecting Phony Instagram Connections Efficiently</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>[Updated] In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-niche-to-noteworthy-the-ultimate-unboxing-strategy-on-instagram/"><u>[Updated] In 2024, From Niche to Noteworthy The Ultimate Unboxing Strategy on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-professionalizing-slides-with-youtube-videos/"><u>2024 Approved Professionalizing Slides with YouTube Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-akasa-gecko-hs-series-effective-blower-cooler-for-enhanced-ssd-performance/"><u>Comprehensive Review of the Akasa Gecko HS Series: Effective Blower Cooler for Enhanced SSD Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-tiff-images-to-jpg-for-free-using-movavis-web-tool/"><u>Convert TIFF Images to JPG for Free Using Movavi's Web Tool</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/essential-tips-for-instagram-photos-with-custom-watermarks/"><u>Essential Tips for Instagram Photos with Custom Watermarks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>In 2024, Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-sync-systems-swiftly-fastest-file-methods/"><u>In 2024, Sync Systems Swiftly Fastest File Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ey-to-greatness-top-10-travel-youtubers/"><u>Journey to Greatness Top 10 Travel Youtubers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiled-the-premier-places-to-obtain-snapchat-audio/"><u>Unveiled The Premier Places to Obtain Snapchat Audio</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-design-and-send-video-invites-with-these-top-ios-and-android-apps/"><u>Updated In 2024, Design and Send Video Invites with These Top iOS and Android Apps</u></a></li>
+</ul></div>
 

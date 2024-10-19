@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Amateurs to Pros  Learning Audio Recording in Audacity\""
-date: 2024-10-08T18:56:55.654Z
-updated: 2024-10-12T18:32:07.776Z
+date: 2024-10-17T21:50:12.815Z
+updated: 2024-10-18T19:35:14.592Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Recording using Mac
@@ -61,10 +61,16 @@ Step3In the "Device" section of the Audacity preferences box, choose "Soundflowe
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Export your audio
@@ -115,19 +121,19 @@ Simply select the necessary file format from the drop-down box that appears next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>[Updated] 2024 Approved Step Up Your Storytelling Effortless Text Addition for Video Clips with Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities-for-2024/"><u>[Updated] Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-exploring-fb-video-aspect-proportions/"><u>[Updated] Exploring FB Video Aspect Proportions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>[Updated] Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/10plus-video-presentation-ideas-to-delight-your-audience-for-2024/"><u>10+ Video Presentation Ideas to Delight Your Audience for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-critically-acclaimed-top-8-oculus-rift-games/"><u>2024 Approved Critically Acclaimed Top 8 Oculus Rift Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-systems-essential-tips-for-successful-upgrades/"><u>2024 Approved Elevating Systems Essential Tips for Successful Upgrades</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-exclusive-choice-premium-virtual-reality-experiences-on-google-cardboard/"><u>2024 Approved Exclusive Choice Premium Virtual Reality Experiences on Google Cardboard</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pro-gopro-filming-techniques-unveiled/"><u>2024 Approved Pro-Gopro Filming Techniques Unveiled</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oppo-reno-10-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo Reno 10 Pro 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c22-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C22 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-g24-power-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola G24 Power Black and White | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-12r-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus 12R</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-an-insightful-guide-to-determining-best-practices-for-audio-format-selection/"><u>Updated 2024 Approved An Insightful Guide to Determining Best Practices for Audio Format Selection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-guide-on-google-podcast-upload/"><u>[New] 2024 Approved Guide on Google Podcast Upload</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-hacks-to-dodge-digital-lessons-at-home-for-2024/"><u>[New] Hacks to Dodge Digital Lessons at Home for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unlock-the-art-of-snapchat-pins/"><u>[New] In 2024, Unlock the Art of Snapchat Pins</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-master-the-art-of-choosing-best-rated-church-streams/"><u>[Updated] Master the Art of Choosing Best-Rated Church Streams</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-for-the-widevine-cdm-not-found-error-in-windows/"><u>Fixes and Solutions for the 'Widevine CDM Not Found' Error in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-spark-10-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Spark 10 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-drone-deals-ready-to-buy/"><u>In 2024, Best Drone Deals Ready to Buy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-reno-10-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Reno 10 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-improving-frame-rate-in-warped-web-videos/"><u>In 2024, Improving Frame Rate in Warped Web Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pickus-impact-on-mobile-photography-a-comparative-study/"><u>In 2024, PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-is-now-how-generative-artificial-intelligence-reshapes-careers-in-7-pivotal-ways/"><u>The Future Is Now: How Generative Artificial Intelligence Reshapes Careers in 7 Pivotal Ways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iuodjplusodvoodieocpuocpplusocouocouocrplusocuplusodqeodroodvooctplusodpplusodszog5a6a576p44cb44k44kk44ox44cb5yip54k544cb44gd44gx44gm5l244gi44kl44gz44g544gm14/"><u>ハードウェアアクセラレーション: 定義、タイプ、利点、そして使えるすべてのソフトウェア - 深掘りガイド</u></a></li>
 </ul></div>
 

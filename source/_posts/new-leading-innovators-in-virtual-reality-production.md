@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Innovators in Virtual Reality Production"
-date: 2024-10-08T16:32:19.191Z
-updated: 2024-10-13T05:50:46.895Z
+date: 2024-10-15T08:52:26.634Z
+updated: 2024-10-18T17:57:27.695Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -119,22 +119,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-top-10-stealthy-story-audiences-for-2024/"><u>[New] Unveiling the Top 10 Stealthy Story Audiences for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>[Updated] Decision-Making in the Workplace A Neurological Approach to Efficacy and Ethics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-mp4-editing-on-mac-top-selections-for-youtubers-for-2024/"><u>[Updated] Mastering MP4 Editing on Mac Top Selections for YouTubers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-box-it-up-right-10-online-haunts-for-tailored-gift-boxes/"><u>2024 Approved Box It Up Right 10 Online Haunts for Tailored Gift Boxes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-diving-deep-into-quantum-hdr-basics/"><u>2024 Approved Diving Deep Into Quantum HDR Basics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-iphone-shots-the-live-photo-method/"><u>2024 Approved Enhancing iPhone Shots The Live Photo Method</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-automated-audio-transcription-with-azure/"><u>2024 Approved Mastering the Art of Automated Audio Transcription with Azure</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-professional-review-prime-drone-gimbals/"><u>2024 Approved Professional Review Prime Drone Gimbals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pull-the-right-strings-increasing-likes-on-unboxed-tiktoks/"><u>2024 Approved Pull the Right Strings Increasing Likes on Unboxed TikToks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-rated-recs-prime-websites-for-grabbing-snapalert-beats/"><u>2024 Approved Rated Recs Prime Websites for Grabbing SnapAlert Beats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-smooth-insertion-of-videos-into-your-custom-youtube-shelves/"><u>2024 Approved Smooth Insertion of Videos Into Your Custom YouTube Shelves</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-speed-up-your-file-format-shift-from-srt-to-text-txt/"><u>2024 Approved Speed-Up Your File Format Shift From SRT to Text (TXT)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/download-install-and-utilize-obs-effectively-on-a-macpc-for-2024/"><u>Download, Install, and Utilize OBS Effectively on a MacPC for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-google-pixel-7a-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Google Pixel 7a Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instaharmony-androidplusios-photo-video-alchemy/"><u>InstaHarmony Android+iOS Photo-Video Alchemy</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a78-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A78 5G FRP Without Computer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/g-money-fast-the-pathway-to-success-in-youtube-shorts-for-2024/"><u>Making Money Fast The Pathway to Success in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elevating-vistas-mastering-vertical-mobile-photography/"><u>[New] 2024 Approved Elevating Vistas Mastering Vertical Mobile Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-academy-for-storytellers-top-8-recommendations/"><u>[New] Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-the-fundamentals-of-skilled-interview-conduct/"><u>[New] Discovering the Fundamentals of Skilled Interview Conduct</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>[New] Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-perfect-resolution-for-immersive-vr-for-2024/"><u>[New] The Perfect Resolution for Immersive VR for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>[New] UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ultimate-video-experience-12-live-and-on-demand-app/"><u>[Updated] 2024 Approved Ultimate Video Experience 12 Live & On-Demand App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-overwatch-playback-techniques-explained/"><u>[Updated] Overwatch Playback Techniques Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-your-quick-and-easy-guide-removing-backgrounds-in-picsart/"><u>[Updated] Your Quick & Easy Guide Removing Backgrounds in Picsart</u></a></li>
+<li><a href="https://article-tips.techidaily.com/audio-ambiance-assembler-selecting-background-scores/"><u>Audio Ambiance Assembler Selecting Background Scores</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-video-assemblers-iphone-and-androids-best/"><u>Cutting-Edge Video Assemblers IPhone & Android's Best</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-v29-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo V29 Face Lock?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-display-sync-with-revived-freesync-features/"><u>Improving Display Sync with Revived FreeSync Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>In 2024, Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insightful-guide-to-the-samsung-galaxy-note20-ultras-cutting-edge-5g-experience/"><u>Insightful Guide to the Samsung Galaxy Note20 Ultra's Cutting-Edge 5G Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-iphone-1epro-vs-iphone-14-pro-max-which-device-wins-as-your-optimal-tech-upgrade/"><u>IPhone Showdown: IPhone 1ePro Vs. IPhone 14 Pro Max - Which Device Wins as Your Optimal Tech Upgrade?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/laugh-loom-robotic-deadlines/"><u>Laugh Loom Robotic Deadlines</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-12-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 12</u></a></li>
 </ul></div>
 

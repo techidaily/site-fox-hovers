@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques for Reversing Chronological Order"
-date: 2024-09-13T17:32:08.616Z
-updated: 2024-09-15T19:37:02.568Z
+date: 2024-10-16T22:30:11.048Z
+updated: 2024-10-19T08:06:46.538Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,6 @@ Find the best clips you have shotted for each dimension. Then follow the below s
 
 ![daytime clip on the bottom video track](https://images.wondershare.com/filmora/article-images/2023/04/daytime-clip-on-the-bottom-video-track.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After importing the daytime clip to the timeline, now it's time to add marks for better editing.
 
 ##### Step3Marks on the daytime clip
@@ -161,6 +154,13 @@ After marking the daytime clip, drag and drop the clip of the second round (i.e.
 
 ![nighttime clip in the second video track](https://images.wondershare.com/filmora/article-images/2023/04/nighttime-clip-in-the-second-video-track.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5Mark the nightime clip
 
 Find the spot where the subject steps over in the nighttime clip, and select the clip. Then mark it as marker three. This marker is shown when the character changes the transition.
@@ -174,19 +174,6 @@ After marking the points on the clips, then you have to align and adjust the cli
 To make sure that the video will play smoothly, you ensure the correct alignment of the clips. For this, grab the nighttime clip on the timeline and move it until marker three is roughly aligned with marker two.
 
 ![align markers 2 and 3 with each other](https://images.wondershare.com/filmora/article-images/2023/04/align-markers-2-and-3-with-each-other.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step7Trim the clips
 
@@ -217,6 +204,13 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 Play the video again and check out the smoothness of the actions. As we have already marked the points, that's why the actions match with each other and give an equivalent look!
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If your video actions are not aligning with each other, then adjust again according to the requirements.
 
@@ -263,13 +257,6 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 
 ![apply the laser effect](https://images.wondershare.com/filmora/article-images/2023/04/apply-the-laser-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
 
@@ -278,6 +265,13 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 Congratulations! You have all done with the time travel teleportation effects and get a bombing video. Check out the results below!
 
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
 
@@ -329,6 +323,13 @@ It is a very important step that you don't have to change the camera position du
 
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
 
 **Character position**
@@ -371,11 +372,25 @@ You can also create a marking by using anything in yours. We are using the midli
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Edit Teleportation Effects in Filmora
 
@@ -461,6 +476,13 @@ Play the video again and check out the smoothness of the actions. As we have alr
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If your video actions are not aligning with each other, then adjust again according to the requirements.
 
 ##### Step9Add effects to the timeline
@@ -493,13 +515,6 @@ To apply the chromatic effect after the power pack effect, follow the below step
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
 
 ##### Step11Apply the laser effects
@@ -523,10 +538,10 @@ Congratulations! You have all done with the time travel teleportation effects an
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
@@ -563,5 +578,20 @@ Create for you and add different effects and experiment with new features. You w
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-ace-your-messaging-must-know-advanced-tricks-and-techniques-in-whatsapp/"><u>[New] Ace Your Messaging Must-Know Advanced Tricks and Techniques in WhatsApp</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-comparative-analysis-of-two-streaming-superpowers-obs-studio-and-bandicam-for-2024/"><u>[Updated] Comparative Analysis of Two Streaming Superpowers OBS Studio and Bandicam for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-potential-in-media-production-via-xp/"><u>[Updated] Unleash Potential in Media Production via XP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-12-proplus-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme 12 Pro+ 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/complete-dell-system-restore-and-recovery-tutorial-for-windows-10-users/"><u>Complete Dell System Restore & Recovery Tutorial for Windows 10 Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-many-gb-is-a-24-hour-video-in-2024/"><u>How Many GB Is a 24-Hour Video, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-shoot-slow-motion-video-on-iphone-for-2024/"><u>How to Shoot Slow Motion Video on iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-google-photos-your-ultimate-tutorial/"><u>In 2024, Mastering Google Photos Your Ultimate Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/select-6-best-iphone-slide-show-creation-apps-for-2024/"><u>Select 6 Best iPhone Slide Show Creation Apps for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/switch-onoff-youtubes-pip-mode-on-your-iphone/"><u>Switch On/Off YouTube's PIP Mode on Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-13-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 13 5G can’t play AVCHD .mts video</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Learn to Cut Out the Unwanted  A Guide to Erasing Background\""
-date: 2024-09-11T16:24:59.065Z
-updated: 2024-09-15T17:51:01.542Z
+date: 2024-10-17T09:56:13.684Z
+updated: 2024-10-19T02:02:59.775Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ Step1 First, open a browser, visit the [Figma website](https://www.figma.com), a
 
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
 Step2 Next, search for **"**[**PixCut Background Remover**](https://www.figma.com/community/plugin/990188175789012011)**"** using the search option and select it from the result. Click **"Run,"** choose the **"Select App key"** option from the drop-down menu, and you will be asked for your **"Appkey."**
@@ -88,13 +95,6 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -117,18 +117,25 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
@@ -154,13 +161,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -168,15 +168,22 @@ Another alternative is to use any tool that **removes the image background onlin
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -208,5 +215,24 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-budget-aerial-photography-top-100-drones-compared/"><u>[New] Budget Aerial Photography Top $100 Drones Compared</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-comprehensive-list-8-top-android-mp3-downloads/"><u>[New] Comprehensive List 8 Top Android MP3 Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-focusflexzoom-7-detailed-resizing-at-a-glance/"><u>[New] FocusFlexZoom 7 Detailed Resizing at a Glance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-spectre-3-clash-mirage-4-unleashed/"><u>[New] In 2024, Spectre 3 Clash Mirage 4 Unleashed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-auroras-influence-on-modern-image-processing-techniques/"><u>[Updated] 2024 Approved Aurora's Influence on Modern Image Processing Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-android-and-iphone-collage-kings-the-best-montage-apps-for-2024/"><u>[Updated] Android & iPhone Collage Kings The Best Montage Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-oculus-rift-adventures-for-gamers/"><u>[Updated] Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>[Updated] In 2024, Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-virtual-reality-use-in-healthcare/"><u>[Updated] In 2024, Virtual Reality Use in Healthcare</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas/"><u>2024 Approved Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-step-by-step-pathway-to-youtube-mastery/"><u>2024 Approved The Step-by-Step Pathway to YouTube Mastery</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/complete-tutorial-on-securely-saving-dailymotion-content-offline-at-no-cost/"><u>Complete Tutorial on Securely Saving Dailymotion Content Offline at No Cost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-nokia-c210-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Nokia C210 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-the-integration-using-chatgpt-with-google-sheets-docs-and-more/"><u>Mastering the Integration: Using ChatGPT with Google Sheets, Docs & More</u></a></li>
+<li><a href="https://common-error.techidaily.com/swiftly-addressing-failure-to-respond-on-start-or-control-commands-system-service-error-1053/"><u>Swiftly Addressing Failure to Respond on Start or Control Commands (System Service Error 1053)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
+</ul></div>
 

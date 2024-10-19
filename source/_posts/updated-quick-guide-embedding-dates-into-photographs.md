@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Guide  Embedding Dates Into Photographs\""
-date: 2024-10-08T11:31:28.129Z
-updated: 2024-10-13T09:19:46.593Z
+date: 2024-10-13T05:21:37.163Z
+updated: 2024-10-18T19:47:58.475Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ Step3Add data/timestamps to both new and old pictures.
 
 You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
 You probably know that you can **edit photos on your phone** or tablet. With the updated technology, you can do much more with your photos. You can add new filters, crops, and other effects to make your pictures look their best.
@@ -197,23 +204,9 @@ Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3Click on the text button.
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4Proceed to add date and time into the text area manually.
 
@@ -233,6 +226,13 @@ Step2At the top of your screen, click on Edit & Create to get.
 
 ![click on edit create to get](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
 
 ### Add date stamps using Windows PC
@@ -251,6 +251,13 @@ Step4To create a text box, click and drag.
 
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
@@ -266,13 +273,6 @@ Step7Proceed to click on the Save option.
 ## Part 4\. Edit Photos Online to add date stamps
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. [Canva](https://www.canva.com/photo-editor/)
 
@@ -304,13 +304,6 @@ Canva is a standout online photo editor where you can edit your and **add date t
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
 
 ![pixlp](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-21.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key features**
 
@@ -354,19 +347,6 @@ Step3Add data/timestamps to both new and old pictures.
 
 You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
 You probably know that you can **edit photos on your phone** or tablet. With the updated technology, you can do much more with your photos. You can add new filters, crops, and other effects to make your pictures look their best.
@@ -415,13 +395,6 @@ Instasize is an app that you will find quite useful. The app was developed for i
 
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key features**
 
 * Collage maker
@@ -443,10 +416,10 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 ![adobe photoshop lightroom](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Key Features**
@@ -475,13 +448,6 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 * Swatch booker
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) and [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Edit Photos and Add Date Stamps On The Computer
 
@@ -521,6 +487,13 @@ Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Click on the text button.
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
@@ -528,6 +501,13 @@ Step3Click on the text button.
 Step4Proceed to add date and time into the text area manually.
 
 ![add data and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5When ready, drag and slide the date to the area of the image where you wish to stamp it.
 
@@ -544,6 +524,13 @@ Step2At the top of your screen, click on Edit & Create to get.
 ![click on edit create to get](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-12.jpg)
 
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add date stamps using Windows PC
 
@@ -582,6 +569,19 @@ Step7Proceed to click on the Save option.
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
 ![canva](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-19.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -646,20 +646,19 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-year-round-chronicles-top-20-youtubers-for-inspiring-tales/"><u>[New] 2024 Approved Year-Round Chronicles Top 20 YouTubers for Inspiring Tales</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-filmmaking-recording-video-across-various-platforms-for-2024/"><u>[New] Digital Filmmaking Recording Video Across Various Platforms for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-undo-motion-recapturing-video-from-mobile-devices/"><u>[Updated] Undo Motion Recapturing Video From Mobile Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-acclaimed-melody-hub-for-android-devices/"><u>2024 Approved Acclaimed Melody Hub for Android Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-advanced-text-tools-and-ae-plug-ins/"><u>2024 Approved Advanced Text Tools & AE Plug-Ins</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-hidden-silence-tracks-with-audacity/"><u>2024 Approved Crafting Hidden Silence Tracks with Audacity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-personal-aerial-companions-gps-drones-that-never-stray/"><u>2024 Approved Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pushing-the-limits-advanced-strategies-for-google-podcasting/"><u>2024 Approved Pushing the Limits Advanced Strategies for Google Podcasting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-simplified-screen-capture-methods-for-stories/"><u>2024 Approved Simplified Screen Capture Methods for Stories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlock-professional-techniques-for-coloring-gopro-videos/"><u>2024 Approved Unlock Professional Techniques for Coloring GoPro Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-magic-of-vr-environments/"><u>2024 Approved Unveiling the Magic of VR Environments</u></a></li>
-<li><a href="https://driver-download.techidaily.com/access-the-latest-version-of-hp-deskjet-ink-advantage-atur2691328148078288utmsourceuserandutmmediumemailandutmcampaignfree-downloads/"><u>Access the Latest Version of HP Deskjet Ink Advantage Atur:2691328/148078288?utm_source=user&utm_medium=email&utm_campaign=free-Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-insight-check-if-a-cpu-is-slowing-down-your-system/"><u>Quick Insight: Check if a CPU Is Slowing Down Your System</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-guide-unlocking-the-potential-of-your-electronics/"><u>Tom's Gadget Guide: Unlocking the Potential of Your Electronics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-navigating-lut-use-in-professional-video-editing/"><u>[New] 2024 Approved Navigating LUT Use in Professional Video Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>[New] Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-review-of-advanced-parrot-ar-drone/"><u>[New] Expert Review of Advanced Parrot AR Drone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hand-tracking-explained-types-and-applications/"><u>[New] Hand Tracking Explained Types and Applications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>[New] In 2024, Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mr-beasts-wealth-estimated-net-worth/"><u>[New] Mr. Beast's Wealth Estimated Net Worth</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-reality-camera-quest-wholl-win-in-2024/"><u>[New] Virtual Reality Camera Quest Who'll Win, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-securing-high-quality-sound-from-anywhere/"><u>[Updated] In 2024, Securing High-Quality Sound From Anywhere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments/"><u>[Updated] The Ultimate How-To Applying Captions to Pictures in PC/Mac Environments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-software-solutions-how-to-separate-and-save-audio-tracks-from-your-dvds-without-spending-a-penny/"><u>Best FREE Software Solutions: How to Separate and Save Audio Tracks From Your DVDs Without Spending a Penny</u></a></li>
+<li><a href="https://article-posts.techidaily.com/digital-clarity-the-1-tools-for-clearing-up-photos-on-screen-for-2024/"><u>Digital Clarity The #1 Tools for Clearing Up Photos on Screen for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-nintendo-switch-outshines-rivals-as-top-portable-game-system/"><u>Expert Evaluation: Nintendo Switch Outshines Rivals as Top Portable Game System</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-6s-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 6s Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-without-a-signal-discover-these-10-methods-to-restore-cellular-data-functionality/"><u>IPhones Without a Signal? Discover These 10 Methods to Restore Cellular Data Functionality</u></a></li>
 </ul></div>
 

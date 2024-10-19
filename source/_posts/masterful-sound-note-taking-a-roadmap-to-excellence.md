@@ -1,7 +1,7 @@
 ---
 title: "\"Masterful Sound Note-Taking  A Roadmap to Excellence\""
-date: 2024-09-09T16:30:02.339Z
-updated: 2024-09-15T18:59:57.698Z
+date: 2024-10-12T01:42:57.252Z
+updated: 2024-10-18T19:27:14.449Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ Let's first look into the basic recording feature of Voice Memos on iPhone and i
 
 ![record a voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to play the Voice Memos on iPhone and iPad?
 
 If you want to hear the previously recorded Voice Memos, please follow these steps:
@@ -46,22 +53,16 @@ If you want to hear the previously recorded Voice Memos, please follow these ste
 
 ![play the voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to edit and save Voice Memos on iPhone and iPad?
 
 How should you proceed if you find several voice clips that you want to remove? You can carry out some basic editing as follow:
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Rename the Voice Memos
 
@@ -71,10 +72,10 @@ How should you proceed if you find several voice clips that you want to remove? 
 ![choose the edit option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Duplicate a Voice Memos
@@ -83,13 +84,6 @@ How should you proceed if you find several voice clips that you want to remove? 
 2. Click the more options button and then choose the duplicate option.
 
 ![more options button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Trim Voice Memos
 
@@ -101,10 +95,10 @@ How should you proceed if you find several voice clips that you want to remove? 
 ![](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Replace Voice Memos
@@ -131,6 +125,13 @@ It's simple to use Voice Memos app on Mac:
 
 ![tap the start recording button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Once you've done recording, click the pause button and tap the done option to save it.
 
 ![click the pause button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-9.jpg)
@@ -139,14 +140,14 @@ It's simple to use Voice Memos app on Mac:
 
 ![share voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-10.jpg)
 
-If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
 
 ### Way 1\. Use QuickTime Player
 
@@ -174,6 +175,13 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 ## Part 5\. How to transcribe Voice Memos to text?
 
 Do you still type to organize meeting minutes or song lyrics after you have recorded them using Voice Memos? This requires a lot of effort and takes a lot of time. Being able to directly convert voice to text will significantly increase your productivity. Here we have introduced useful methods on 3 platforms to transcribe voice to text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On iPhone
 
@@ -212,6 +220,13 @@ Wondershare Filmora can also help you to transcribe your Voice Memos into text. 
 **[Dictation - Speech to text](https://apps.apple.com/us/app/dictation-speech-to-text/id1124772331)**
 
 Dictation Speech to text is also available for Mac devices. It works the same as in the iPhone to convert Voice Memos into text.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Online
 
@@ -267,5 +282,23 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-tools-for-free-web-conferencing-a-comprehensible-guide/"><u>[New] 2024 Approved Essential Tools for FREE Web Conferencing A Comprehensible Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-devices-for-capturing-stellar-videos-on-the-move/"><u>[New] Ideal Devices for Capturing Stellar Videos on the Move</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas [Easy Guide]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-xsplit-reviews-in-depth-game-split-analysis/"><u>2024 Approved XSplit Reviews In-Depth Game Split Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-step-by-step-guide-to-gain-more-likes-on-tiktok-unboxings/"><u>A Step-by-Step Guide to Gain More Likes on TikTok Unboxings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/achieve-stunning-visual-impact-top-color-grading-tutorials/"><u>Achieve Stunning Visual Impact - Top Color Grading Tutorials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/amplifying-visuals-android-video-guide-for-2024/"><u>Amplifying Visuals Android Video Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-c53-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Realme C53</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/blueprinting-a-buzz-creating-movie-snippet-for-2024/"><u>Blueprinting a Buzz-Creating Movie Snippet for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capture-and-conserve-top-picks-for-affordable-cloud-photo-storage/"><u>Capture and Conserve Top Picks for Affordable Cloud Photo Storage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-panoramic-views-fisheye-techniques/"><u>Capturing Panoramic Views Fisheye Techniques</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/come-risolvere-il-problema-di-importazione-dei-video-hevc-su-adobe-premiere-pro/"><u>Come Risolvere Il Problema Di Importazione Dei Video HEVC Su Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dragon-ball-fighterz-connectivity-issues-a-fix-for-the-network-failure-warning/"><u>Overcoming Dragon Ball FighterZ Connectivity Issues: A Fix for the Network Failure Warning</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveil-hidden-watch-visual-artwork/"><u>Unveil Hidden Watch Visual Artwork</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289938847-pc-10/"><u>제공자에게 가장 뛰어난 PC용 비디오 편집 픽스케이션 - 10대기 고립</u></a></li>
+</ul></div>
 
