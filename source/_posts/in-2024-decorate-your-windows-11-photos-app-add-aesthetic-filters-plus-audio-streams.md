@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Decorate Your Windows 11 Photos App  Add Aesthetic Filters + Audio Streams\""
-date: 2024-09-13T19:18:48.715Z
-updated: 2024-09-15T18:33:28.820Z
+date: 2024-10-20T00:40:45.750Z
+updated: 2024-10-25T00:22:46.347Z
 tags: 
   - screen-recording
   - ai video
@@ -65,17 +65,45 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -100,12 +128,18 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures/"><u>[New] 2024 Approved Cameras That Complement Best Hats for Capturing Motorcycle Adventures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-first-steps-to-enhanced-gopro-experience/"><u>[New] 2024 Approved First Steps to Enhanced GoPro Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-non-google-options-for-augmented-reality-embellishing/"><u>[New] Non-Google Options for Augmented Reality Embellishing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-step-by-step-strategy-for-dominating-the-digital-marketing-arena/"><u>[Updated] A Step-by-Step Strategy for Dominating the Digital Marketing Arena</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-facetime-audibility-capturing-clear-audio-calls-for-2024/"><u>[Updated] FaceTime Audibility Capturing Clear Audio Calls for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-complete-guide-to-digital-artistry-with-polarr-photo-tools/"><u>[Updated] The Complete Guide to Digital Artistry with Polarr Photo Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-strategy-with-the-wasteland-2-directors-cut-an-in-depth-review/"><u>Exploring The Depths of Strategy with The Wasteland 2 Director's Cut: An In-Depth Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/is-m1-suitability-for-professional-editing-confirmed-for-2024/"><u>Is M1 Suitability for Professional Editing Confirmed for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-apple-iphone-se-2020-a-review-of-a-more-reasonable-iphone-choice/"><u>The Apple iPhone SE (2020): A Review of a More Reasonable iPhone Choice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wi-fi-annoyance-constantly-disconnected/"><u>Wi-Fi Annoyance: Constantly Disconnected</u></a></li>
+</ul></div>
 

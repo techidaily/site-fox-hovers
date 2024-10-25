@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Dynamic Text Designs Ready to Go in After Effects"
-date: 2024-09-10T16:57:33.789Z
-updated: 2024-09-15T19:06:51.042Z
+date: 2024-10-19T03:13:42.196Z
+updated: 2024-10-25T03:17:05.975Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ If the regular stroke feature is not enough, you have tapered stroke preset that
 
 ![tapered stroke preset](https://images.wondershare.com/filmora/article-images/2022/09/tapered-stroke-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Stranger Things Text Preset
 
 This is a simple but highly effective text preset that gets the serious attention of the viewers. When you apply the effect, the text turns white to red with fade in effect and viewers are most likely to read the displayed text. There is no keyframe but you change the color as well as the fade-in time.
@@ -71,10 +78,10 @@ This is a simple but highly effective text preset that gets the serious attentio
 ![stranger things text preset](https://images.wondershare.com/filmora/article-images/2022/09/stranger-things-text-preset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Text Styles Preset
@@ -123,6 +130,13 @@ Step3Click on the text layer to expand it and you will see different parameters 
 
 ![adjust text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-text-layer-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Alternative Way to Create Text Effects for Video
 
 It is a fact that many find After Effects difficult to get used to as the user interface is not that friendly. If you are looking for the best alternative to After Effects, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The user interface is super intuitive and anyone without prior experience can create text effects for any video instantly. There are different categories of text effects and animations available to satisfy the requirements of video creators. Here are the steps to add After Effects and Premiere Pro text presets using Filmora.
@@ -135,27 +149,20 @@ Step1Install Wondershare Filmora and launch the application. Click on New Projec
 
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Drop the video clip onto timeline if you want to use it as a background to your text. If you want to use any stock background, go to Stock Media> Pexels/Pixabay> Video and drop any background onto the timeline.
 
 ![drop the video clip onto timeline](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3Go to Titles and you will see different categories of text effects on the left panel. Search for any text effect and select any desired template. Drop it onto the timeline above the background layer.
 
 ![select any desired template](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4Double-click on the text layer and edit the text. Place the text layer on the timeline where you want the text to appear. You can also change the text styles and parameters as per your requirements.
 
@@ -170,6 +177,13 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 * [Part 3\. Alternative Way to Create Text Effects for Video](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. Best 10 Text Presets for After Effects
 
@@ -200,10 +214,17 @@ If the regular stroke feature is not enough, you have tapered stroke preset that
 ![tapered stroke preset](https://images.wondershare.com/filmora/article-images/2022/09/tapered-stroke-preset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Stranger Things Text Preset
@@ -211,13 +232,6 @@ If the regular stroke feature is not enough, you have tapered stroke preset that
 This is a simple but highly effective text preset that gets the serious attention of the viewers. When you apply the effect, the text turns white to red with fade in effect and viewers are most likely to read the displayed text. There is no keyframe but you change the color as well as the fade-in time.
 
 ![stranger things text preset](https://images.wondershare.com/filmora/article-images/2022/09/stranger-things-text-preset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Text Styles Preset
 
@@ -230,6 +244,13 @@ You get 16 amazing text styles that you can use on your texts and titles to make
 You get 80 text presets in this pack that you can customize and make the texts and titles in your video project elegant. All the animations have studio-like quality and you can animate your text uniquely and randomly. Starting from standard text animations to some really cool and creative text animations, you get everything in one pack.
 
 ![text animation bundle preset](https://images.wondershare.com/filmora/article-images/2022/09/text-animation-bundle-preset.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Kinetic Text Animation
 
@@ -319,5 +340,20 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-key-tactics-procuring-premium-media-backdrops-with-ease/"><u>[New] 2024 Approved Key Tactics Procuring Premium Media Backdrops with Ease</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-first-steps-to-successful-vlogging-essentials/"><u>[New] In 2024, First Steps to Successful Vlogging Essentials</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-streamlining-video-editing-using-luts-with-obs-studio/"><u>[New] In 2024, Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-perfecting-narrative-scripts-dialogue-excellence-for-2024/"><u>[New] Perfecting Narrative Scripts Dialogue Excellence for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-skys-dynamic-range-masterpieces-website-roundup-for-2024/"><u>[New] Sky's Dynamic Range Masterpieces - Website Roundup for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-boost-creativity-tiktok-video-treatments/"><u>[Updated] 2024 Approved Boost Creativity TikTok Video Treatments</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-conveniently-altering-resolution-on-ios-devices/"><u>[Updated] 2024 Approved Conveniently Altering Resolution on iOS Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ten-practices-to-avoid-vr-motion-sickness-for-2024/"><u>[Updated] Ten Practices to Avoid VR Motion Sickness for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-pathway-to-download-wm6/"><u>Detailed Pathway to Download WM6</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/uploading-and-embedding-srt-text-in-social-media-videos/"><u>Uploading and Embedding SRT Text in Social Media Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-anywhere-with-these-12-free-mobile-movies-apps/"><u>Watch Anywhere with These 12 Free Mobile Movies Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wi-fi-proxy-setup-made-easy-for-w7/"><u>Wi-Fi Proxy Setup Made Easy for W7</u></a></li>
+</ul></div>
 

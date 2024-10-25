@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Mastery  Windows 11 Media Import Simplified\""
-date: 2024-10-13T10:02:46.339Z
-updated: 2024-10-19T00:49:48.744Z
+date: 2024-10-21T23:02:44.202Z
+updated: 2024-10-24T23:58:02.118Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,19 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 ## Part 1: Import Photos and Video from a Phone
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
@@ -47,35 +60,21 @@ If you are moving photos and video to Windows 10 from a smartphone, you will fir
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Enable File Exchange
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Import Photos and Videos
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Import
 
@@ -94,10 +93,10 @@ Click the Import button on the Photos app and choose the items that you want to 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Within the app, it is easy to see your photos and videos as they are organized based on the date they are imported. So you will be able to see exactly what you have added in the most recent imports and with future imports as well.
@@ -105,10 +104,10 @@ Within the app, it is easy to see your photos and videos as they are organized b
 **You may also like:** [How to Add Titles/Text to Video on Photos App in Windows 10 >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Troubleshooting the Phone to PC Connection
@@ -128,6 +127,13 @@ Those who are importing photos and videos from a camera rather than a smartphone
 Connect the camera to your phone and then follow the above steps to import your media content.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -160,18 +166,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-explore-youtube-rankings-seo-tools-for-peak-performance-for-2024/"><u>[New] Explore YouTube Rankings SEO Tools for Peak Performance for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-practices-for-zoom-engagement-on-win10-systems/"><u>[New] In 2024, Best Practices for Zoom Engagement on Win10 Systems</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-art-of-creating-youtube-video-thumbnails/"><u>[New] In 2024, The Art of Creating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-novice-cinematographers-initial-work-analysis-and-replacements/"><u>[Updated] 2024 Approved Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-first-steps-in-learning-av1-compression/"><u>[Updated] First Steps in Learning AV1 Compression</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-non-sport-spectacles-in-the-top-ten-front-rows/"><u>[Updated] Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>In 2024, Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-windows-11s-media-importer-tools/"><u>In 2024, Unleash the Power of Windows 11'S Media Importer Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-close-ups-quick-minecraft-enhancements-for-2024/"><u>Mastering Close-Ups Quick Minecraft Enhancements for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/smart-eco-friendly-screen-tech-compilation/"><u>Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-downloading-and-mastering-ez-grabber/"><u>The Ultimate Guide to Downloading & Mastering EZ Grabber</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-step-by-step-tutorial-converting-vimeo-content-into-high-quality-mp3-files/"><u>Ultimate Step-by-Step Tutorial: Converting Vimeo Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>[New] 2024 Approved Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>[New] 2024 Approved Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fundamentals-of-creating-persuasive-social-media-messages-for-2024/"><u>[New] Fundamentals of Creating Persuasive Social Media Messages for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus-for-2024/"><u>[New] Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pixels-and-power-revisiting-magix-manager-for-2024/"><u>[New] Pixels and Power Revisiting MAGIX Manager for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exclusive-apps-to-record-on-iphone/"><u>[Updated] 2024 Approved Exclusive Apps to Record on iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-timelapse-techniques-for-samsung-smartphones/"><u>[Updated] 2024 Approved Timelapse Techniques for Samsung Smartphones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-advanced-psd-color-grading-for-2024/"><u>[Updated] Advanced PSD Color Grading for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-image-edits-quick-tips-from-the-pixlr-pros/"><u>[Updated] In 2024, Elevate Image Edits Quick Tips From the Pixlr Pros</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-subtitle-tactics-for-instagrams-video-feed/"><u>2024 Approved Subtitle Tactics for Instagram's Video Feed</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-must-do-actions-for-xbox-hardware-longevity/"><u>5 Must-Do Actions for Xbox Hardware Longevity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-conscious-beats-the-oneplus-buds-journey/"><u>Budget-Conscious Beats: The OnePlus Buds Journey</u></a></li>
+<li><a href="https://discover-community.techidaily.com/error-404-webpage-missing/"><u>Error 404: Webpage Missing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/strategies-for-incorporating-b-roll-in-video-projects-for-2024/"><u>Strategies for Incorporating B-Roll in Video Projects for 2024</u></a></li>
 </ul></div>
 

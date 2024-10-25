@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, FPV Fantasy  A Closer Look at the Hubsan H501X4\""
-date: 2024-09-11T17:24:45.980Z
-updated: 2024-09-15T18:12:49.591Z
+date: 2024-10-22T04:10:50.636Z
+updated: 2024-10-25T04:22:57.092Z
 tags: 
   - screen-recording
   - ai video
@@ -108,17 +108,38 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
@@ -127,6 +148,19 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -151,12 +185,16 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-effortless-audio-capture-techniques-for-new-windows-11-users/"><u>[New] 2024 Approved Effortless Audio Capture Techniques for New Windows 11 Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-vanguard-of-radio-theatre-composition/"><u>[New] 2024 Approved The Vanguard of Radio-Theatre Composition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-rated-switch-capture-cards-revealed/"><u>[New] 2024 Approved Top-Rated Switch Capture Cards Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-action-camera-showdown-2022-gopro-vs-garmin-virb-face-off/"><u>[Updated] 2024 Approved Action Camera Showdown 2022 GoPro Vs. Garmin VIRB Face-Off</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-steps-get-bollywood-movies-hindi-songs-and-mp3-tracks-for-free/"><u>Easy Steps: Get Bollywood Movies' Hindi Songs & MP3 Tracks For Free</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevating-voice-quality-top-10-microphone-guide/"><u>Elevating Voice Quality Top 10 Microphone Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/macbook-webcam-filming-made-simple/"><u>MacBook Webcam Filming Made Simple</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-power-of-ai-thumbnail-generators/"><u>The Power of AI Thumbnail Generators</u></a></li>
+</ul></div>
 

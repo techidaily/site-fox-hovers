@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Digital Conversion  Old Photos to Video\""
-date: 2024-10-16T06:50:57.480Z
-updated: 2024-10-19T07:04:51.365Z
+date: 2024-10-21T17:20:35.373Z
+updated: 2024-10-25T02:26:13.058Z
 tags: 
   - screen-recording
   - ai video
@@ -83,6 +83,13 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -97,18 +104,18 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -122,22 +129,15 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 5\. Export your video
@@ -149,16 +149,10 @@ That’s it! After making all the changes, you can preview your video on the rig
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -218,14 +212,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-uncovering-top-tier-cloud-services-to-sustain-data/"><u>[New] In 2024, Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-game-changing-displays-the-creme-de-la-creme-of-4k-monitors/"><u>[Updated] 2024 Approved Game-Changing Displays The Crème De La Crème of 4K Monitors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-twilight-tones-adobe-premiere-blackouts/"><u>[Updated] 2024 Approved Twilight Tones Adobe Premiere Blackouts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-the-features-of-vimeos-innovative-recorder-for-2024/"><u>[Updated] Exploring the Features of Vimeo's Innovative Recorder for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-stealthy-content-consumption-top-5-apps/"><u>[Updated] In 2024, Stealthy Content Consumption - Top 5 Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-15-instagram-videophoto-downloaders-online-and-add-on-and-app-solutions/"><u>[Updated] In 2024, Top 15 Instagram Video/Photo Downloaders – Online & Add-On & App Solutions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-astral-adventures-with-your-luxury-sj4000-essential-accompaniments/"><u>In 2024, Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y36i-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y36i</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/step-by-step-creating-your-own-chat-signal-ios-and-android-edition-for-2024/"><u>Step-by-Step Creating Your Own Chat Signal - iOS & Android Edition for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-economical-audience-expansion-buy-subscribers-not-time/"><u>[New] 2024 Approved Economical Audience Expansion Buy Subscribers, Not Time</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-vr-360-video-players-for-pc-reviews/"><u>[New] 2024 Approved Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-beginners-guide-to-vimeo-caption-addition/"><u>[New] In 2024, A Beginner's Guide to Vimeo Caption Addition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-effortless-pubg-vocal-modifications-for-2024/"><u>[Updated] Effortless PUBG Vocal Modifications for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>[Updated] In 2024, Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-inside-the-new-windows-11-innovations-for-2024/"><u>[Updated] Inside the New Windows 11 Innovations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-eyeball-enticer-author/"><u>[Updated] Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube-for-2024/"><u>Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/capturing-virtual-conversations-in-real-time/"><u>Capturing Virtual Conversations in Real Time</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mavericks-video-creator-bringing-your-vision-to-life-for-2024/"><u>Mavericks Video Creator Bringing Your Vision to Life for 2024</u></a></li>
 </ul></div>
 

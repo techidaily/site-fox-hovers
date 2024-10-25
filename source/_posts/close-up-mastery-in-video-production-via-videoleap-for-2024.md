@@ -1,7 +1,7 @@
 ---
 title: "\"Close-Up Mastery in Video Production via Videoleap for 2024\""
-date: 2024-09-09T16:17:16.344Z
-updated: 2024-09-15T16:49:19.637Z
+date: 2024-10-19T19:35:22.221Z
+updated: 2024-10-25T04:39:21.358Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
@@ -77,17 +84,17 @@ If for some reason you are not able to install and use Videoleap on your system 
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -104,16 +111,23 @@ Videoleap is one of the leading video editing platforms available out there. The
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -145,5 +159,21 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-powerdirectors-complete-blueprint-for-success/"><u>[New] 2024 Approved PowerDirector's Complete Blueprint for Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-complete-guide-to-toolwiz-photography-software/"><u>[New] In 2024, Complete Guide to Toolwiz Photography Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-find-the-top-10-affordable-online-image-format-switchers/"><u>[New] In 2024, Find the Top 10 Affordable Online Image Format Switchers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-brand-collaboration-on-youtube/"><u>[New] In 2024, Mastering Brand Collaboration on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-art-of-yt-previews-making-a-lasting-first-impression/"><u>[New] In 2024, The Art of YT Previews Making a Lasting First Impression</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-methods-to-flip-video-content-in-android-for-2024/"><u>[New] Methods to Flip Video Content in Android for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-steer-clear-of-virtual-reality-sickness/"><u>[New] Steer Clear of Virtual Reality Sickness</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-imovie-tricks-for-perfecting-your-video-introduction-craft/"><u>[Updated] IMovie Tricks for Perfecting Your Video Introduction Craft</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-a-custom-google-cardboard-for-immersive-experience-for-2024/"><u>Building a Custom Google Cardboard for Immersive Experience for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-c53-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme C53</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-s18-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S18 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-samsung-camera-toolkit-review-2023-edition/"><u>In 2024, Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unraveling-the-secrets-to-effortlessly-record-seascapes/"><u>In 2024, Unraveling the Secrets to Effortlessly Record Seascapes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-s23-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy S23 Ultra and Browser | Dr.fone</u></a></li>
+</ul></div>
 

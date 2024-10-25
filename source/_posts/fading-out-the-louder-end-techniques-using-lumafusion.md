@@ -1,7 +1,7 @@
 ---
 title: "\"Fading Out the Louder End  Techniques Using Lumafusion\""
-date: 2024-09-14T16:30:32.307Z
-updated: 2024-09-15T16:48:40.330Z
+date: 2024-10-19T04:47:40.879Z
+updated: 2024-10-25T00:51:46.548Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Share and export
 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
@@ -77,16 +84,16 @@ In that window, you can select the MP3 format in the format customization box to
 ## Part 3\. Related FAQs about LumaFusion
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
@@ -96,6 +103,13 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -115,6 +129,13 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -129,13 +150,6 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -145,10 +159,10 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
@@ -177,5 +191,23 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-breaking-down-youtube-promotion-costs/"><u>[New] Breaking Down Youtube Promotion Costs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-igniting-interest-and-inviting-in-accelerating-audience-acquisition/"><u>[New] Igniting Interest and Inviting In Accelerating Audience Acquisition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-digital-enhancement-social-story-recorder/"><u>[New] In 2024, Digital Enhancement Social Story Recorder</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unboxing-viva-a-user-guide-to-its-videos/"><u>[New] In 2024, Unboxing Viva A User Guide to Its Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-perfect-for-every-task-our-choice-in-8-5k-displays/"><u>[New] Perfect for Every Task Our Choice in 8 5K Displays</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-notebooks-excellent-in-media-post-production/"><u>[Updated] In 2024, Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>[Updated] Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/backup-rapido-e-facile-delle-tue-email-di-outlook-con-modi-comuni-proteggi-il-tuo-spazio-cloud/"><u>Backup Rapido E Facile Delle Tue Email Di Outlook Con Modi Comuni - Proteggi Il Tuo Spazio Cloud!</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-your-older-consoles-games-seamlessly-transition-to-ps5/"><u>Can Your Older Console's Games Seamlessly Transition to PS5?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-n3-flip-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find N3 Flip by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-professional-strategies-for-inshot-edits/"><u>In 2024, Professional Strategies for Inshot Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/next-morning-analysis-fresh-insights/"><u>Next Morning Analysis Fresh Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/techniques-for-accelerating-playback-on-spotify/"><u>Techniques for Accelerating Playback on Spotify</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-embedding-soundtracks-in-mkv-format-a-comprehensive-guide-for-the-2023-update/"><u>Updated In 2024, Embedding Soundtracks in MKV Format A Comprehensive Guide for the 2023 Update</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Fixes  Adding Descriptive Texts to Videos via Photos App (Windows 11)\""
-date: 2024-10-15T02:18:12.209Z
-updated: 2024-10-18T18:02:41.660Z
+date: 2024-10-22T19:34:52.201Z
+updated: 2024-10-25T00:14:10.944Z
 tags: 
   - screen-recording
   - ai video
@@ -67,13 +67,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -81,23 +74,36 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -107,10 +113,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -138,18 +144,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-monetary-reality-of-being-a-podcaster/"><u>[New] 2024 Approved The Monetary Reality of Being a Podcaster</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-art-of-advertising-earning-navigating-vimeos-revenue-landscape/"><u>[New] The Art of Advertising Earning Navigating Vimeo's Revenue Landscape</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-deep-dive-inside-the-dji-inspire-2/"><u>[Updated] 2024 Approved Deep Dive Inside the DJI Inspire 2</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>[Updated] Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/asus-laptop-how-to-fix-unresponsive-fn-keys-problems/"><u>ASUS Laptop: How to Fix Unresponsive Fn Keys Problems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-video-transcoding-software-of-2023-optimized-for-windows-1110-guaranteed-safety/"><u>Best Video Transcoding Software of 2023: Optimized for Windows 11/10 [Guaranteed Safety]</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-santabanta-comedy-skits-as-mp4movavi-files-with-santabanta-downloader/"><u>Download SantaBanta Comedy Skits as MP4/MOV/AVI Files with SantaBanta Downloader</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/navigating-through-powerpoints-automatic-text-conversion-features/"><u>Navigating Through PowerPoint's Automatic Text Conversion Features</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-7-video-language-converter-online-free/"><u>New 2024 Approved Top 7 Video Language Converter Online Free</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/revolutionize-virtuality-top-7-devices-for-success-for-2024/"><u>Revolutionize Virtuality - Top 7 Devices for Success for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-connectivity-how-to-access-your-phone-number-from-various-devices-effortlessly/"><u>Seamless Connectivity: How to Access Your Phone Number From Various Devices Effortlessly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-syma-x8c-tech-specifications-study-for-2024/"><u>[New] Syma X8C Tech Specifications Study for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>[Updated] In 2024, Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-essential-details-on-creating-effective-yt-shorts/"><u>[Updated] In 2024, Essential Details on Creating Effective YT Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-flip-the-script-learning-to-negative-play-in-instagram/"><u>2024 Approved Flip the Script Learning to Negative Play in Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delicate-downgrades-of-decibels-in-garageband-for-2024/"><u>Delicate Downgrades of Decibels in Garageband for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-essential-android-and-ios-timers-your-guide-to-flawless-big-day-management/"><u>In 2024, Essential Android & iOS Timers Your Guide to Flawless Big Day Management</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Phone with Broken Screen</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-how-to-create-home-dvds-with-best-movie-making-software-for-2024/"><u>New How to Create Home DVDs with Best Movie Making Software for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-split-screen-video-makers-the-ultimate-guide-for-ios-and-android-users/"><u>New In 2024, Split Screen Video Makers The Ultimate Guide for iOS and Android Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/nighttime-tales-on-screen-insights-into-storytelling-videos-for-kids/"><u>Nighttime Tales on Screen Insights Into Storytelling Videos for Kids</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Exemplary Narratives Distributed by Category"
-date: 2024-09-12T18:58:21.547Z
-updated: 2024-09-15T17:05:30.049Z
+date: 2024-10-23T19:11:26.831Z
+updated: 2024-10-25T00:12:58.376Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Sure, we'd all love to write one of those big blockbusters, but it's going to ta
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -189,6 +196,13 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best action scripts
 
 **_1\. 2 Guns_**
@@ -239,6 +253,13 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
@@ -261,13 +282,6 @@ Like any child of the 90s, I admit to having a soft spot for The Lion King. The 
 
 **Download the script here:** <https://www.studiobinder.com/blog/the-lion-king-script-screenplay-pdf-download/>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Make your own short movie now
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -284,34 +298,28 @@ The key features offered by [Wondershare Filmora](https://tools.techidaily.com/w
 
 ![make a video with wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The 4K editing support feature enables users to edit and export videos at a resolution of up to 4K. The GIF support feature allows importing, editing, and exporting of GIF files. The noise removal feature facilitates removal of unwanted background noise readily.
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Creating video content that can potentially go viral is no longer a complicated process that takes an enormous amount of time and effort. Each of the scripts we featured in this article offers more than enough brilliant scripts that are going to impress your target audience. Make your own short movies and script plays using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and checks out additional features explained in the article.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1\. Why did we pick these films?
@@ -358,6 +366,13 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
 
 The script of 21 Jump Street gives a new twist to the Buddy action movie genre by giving comedy equal weight to action. It takes the premise of the original TV show but flips the tone from straightforward action to offbeat comedy. Always think, “How can I subvert genres? How can I mix genres and create something new?
@@ -369,13 +384,6 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 **_2\. The Edge of Seventeen_**
 
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Writer:** Kelly Fremon Craig
 
@@ -390,6 +398,13 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
 
@@ -495,13 +510,6 @@ _**2\. Casino Royale**_
 
 ![casino royale](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Writers:** Robert Wade and Paul Haggis
 
 Secret Agent James Bond sets out on a mission as 007 in a screenplay that can show writers how to keep audiences guessing.
@@ -541,6 +549,13 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 **_1\. Cinderella_(1950)**
 
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
 
@@ -606,5 +621,20 @@ Creating video content that can potentially go viral is no longer a complicated 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-glance-at-stars-contribution/"><u>[New] 2024 Approved Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-advanced-color-grading-techniques-with-luts-for-after-effects-users-for-2024/"><u>[New] Advanced Color Grading Techniques with LUTs for After Effects Users for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-crafting-engaging-content-for-facebook-live-for-2024/"><u>[New] Crafting Engaging Content for Facebook Live for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enhanced-reality-gaming-top-10-pc-vr-players-for-virtual-adventures/"><u>[New] In 2024, Enhanced Reality Gaming Top 10 PC VR Players for Virtual Adventures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>[New] In 2024, Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-secret-youtube-clips-a-step-by-step-guide-for-2024/"><u>[New] Unveiling Secret YouTube Clips A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-10-free-video-communication-tools-iphone-and-android-devices/"><u>2024 Approved Top 10 Free Video Communication Tools - iPhone and Android Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-dramatization-bestowing-motion-blur-onto-human-portraits-using-picsart/"><u>Dynamic Dramatization Bestowing Motion Blur Onto Human Portraits Using Picsart</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effortlessly-send-data-across-pcs-with-wifi-sharing-techniques/"><u>Effortlessly Send Data Across PCs with WiFi Sharing Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-c50-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco C50 to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/leading-lexar-ssd-duplication-applications-your-definitive-choice/"><u>Leading Lexar SSD Duplication Applications: Your Definitive Choice</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-calculator-your-video-monetization/"><u>Quick Calculator Your Video Monetization</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728473022060-hddhdd/"><u>データ移動:HDDからHDDへ - 理由と効果的なコピー手法ガイド</u></a></li>
+</ul></div>
 

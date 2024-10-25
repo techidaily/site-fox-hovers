@@ -1,7 +1,7 @@
 ---
 title: "\"From Basics to Advanced  Using Mac's Preview Like a Pro for 2024\""
-date: 2024-09-11T16:17:38.864Z
-updated: 2024-09-15T17:18:13.168Z
+date: 2024-10-23T19:18:17.069Z
+updated: 2024-10-24T16:20:03.049Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -63,13 +70,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -99,6 +99,13 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -114,6 +121,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -147,19 +161,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -171,6 +172,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -206,13 +214,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,5 +237,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximize-visual-and-auditory-impact-in-windows-10-photos-app/"><u>[Updated] In 2024, Maximize Visual & Auditory Impact in Windows 10 Photos App</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unleash-creativity-with-top-9-free-tools-to-craft-your-brand-for-2024/"><u>[Updated] Unleash Creativity with Top 9 Free Tools to Craft Your Brand for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-creative-potential-with-10-best-backdrop-modification-software/"><u>[Updated] Unlock Creative Potential with 10 Best Backdrop Modification Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-hidden-accessing-youtube-video-comments-for-2024/"><u>[Updated] Unveiling the Hidden Accessing YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-a-superior-livestream-with-top-providers/"><u>2024 Approved Crafting a Superior Livestream with Top Providers</u></a></li>
+<li><a href="https://article-files.techidaily.com/assembling-visual-slices-photo-montage-techniques-for-2024/"><u>Assembling Visual Slices Photo Montage Techniques for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-frozen-gameplay-in-rocket-league-expert-tips-and-solutions/"><u>Fixing Frozen Gameplay in Rocket League - Expert Tips & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ntrepreneurs-pathway-to-youtube-earning-success/"><u>The Entrepreneur's Pathway to YouTube Earning Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-virtual-quest-evaluating-current-progress-and-potential-hurdles-for-2024/"><u>The Virtual Quest Evaluating Current Progress & Potential Hurdles for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-potential-with-the-powerful-polaroid-xs-100i/"><u>Unleashing Potential with the Powerful Polaroid XS 100I</u></a></li>
+</ul></div>
 

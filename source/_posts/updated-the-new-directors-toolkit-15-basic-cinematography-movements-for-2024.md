@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The New Director’s Toolkit  15 Basic Cinematography Movements for 2024\""
-date: 2024-09-10T19:01:27.543Z
-updated: 2024-09-15T18:28:56.138Z
+date: 2024-10-22T23:24:31.457Z
+updated: 2024-10-25T04:36:00.109Z
 tags: 
   - screen-recording
   - ai video
@@ -62,10 +62,10 @@ You will also allow the audience to know the emotional relationship to the envir
 ![Extreme Long Shot](https://images.wondershare.com/filmora/filmorapro/extreme-long-shot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Long Shot
@@ -87,10 +87,10 @@ For instance, the audience must get the idea whether your character is confident
 ![Full Shot](https://images.wondershare.com/filmora/filmorapro/full-shot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Medium Shot
@@ -103,13 +103,6 @@ The purpose of this shot is to keep the character looking natural.
 
 ![Medium Shot](https://images.wondershare.com/filmora/filmorapro/medium-shot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Close-Up shot
 
 The name brings a crystal clear image of the type of shot itself. With this shot, one brings out the character’s face thereby helping the audience to understand the emotional thoughts of the character.
@@ -117,6 +110,13 @@ The name brings a crystal clear image of the type of shot itself. With this shot
 This shot basically provides what you miss in the [medium shot](https://tools.techidaily.com/wondershare/filmora/download/). Bringing the character’s shot more detailing, for instance tear or the frowning so that the audience can anticipate what the character is feeling in that particular shot.
 
 ![Close-Up shot](https://images.wondershare.com/filmora/filmorapro/close-up-shot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Extreme Close Up
 
@@ -127,6 +127,13 @@ This type of shot in films aims to fit the single feature on the entire screen. 
 **You may also like:** [10 Best Free Security Camera Software >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: Shots Angles for Camera
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Eye Shots
 
@@ -160,18 +167,18 @@ Also, the subject in these shots, faces the camera making their neck and shoulde
 
 ![Over-the-Shoulder Shot](https://images.wondershare.com/filmora/filmorapro/over-the-shoulder-shot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 13\. Cut-In
 
 This shot typically cuts the screen into two or three or sometimes four parts.
 
 It is helpful when you have multiple things to be shown as important in one scene. It takes close-up of the thing that you want to show your viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 14\. Master Shot
 
@@ -182,10 +189,10 @@ It is basically the complete dramatized shot and can be edited together with oth
 Also, this type of shot can be considered as the only shot to be used by a director for covering the scene. It can be a closer shot, full or long shot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 15\. Point of View Shot
@@ -197,6 +204,20 @@ The beauty of this type of shot is that the audience gets the picture of what’
 For example, looking through the binoculars and shooting only where the character is seeing.
 
 ![Point of View Shot](https://images.wondershare.com/filmora/filmorapro/point-of-view-shot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -231,5 +252,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cutting-to-perfection-the-science-of-online-photo-trimming/"><u>[New] 2024 Approved Cutting to Perfection The Science of Online Photo Trimming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-optimize-memory-retention-using-mematics-solution/"><u>[New] 2024 Approved Optimize Memory Retention Using Mematic's Solution</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/limbing-the-youtube-search-rankings-key-seo-strategies-unveiled/"><u>[New] Climbing the YouTube Search Rankings Key SEO Strategies Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-coders-showdown-which-codec-will-dominate-video-quality-in-2024/"><u>[New] Coders' Showdown Which Codec Will Dominate Video Quality, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ensuring-flawless-images-avoid-watermarks/"><u>[New] In 2024, Ensuring Flawless Images Avoid Watermarks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveil-your-video-potential-streaming-google-meet-to-youtube-guide/"><u>[New] Unveil Your Video Potential Streaming Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-focus-on-you-iphone-and-android-photo-trimmers/"><u>[Updated] 2024 Approved Focus On You IPhone & Android Photo Trimmers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>[Updated] 2024 Approved Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-leveraging-obs-for-high-quality-livestreams-youtube-and-twitch/"><u>[Updated] 2024 Approved Leveraging OBS for High-Quality Livestreams, YouTube & Twitch</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-find-your-favorite-skype-ringtones-with-these-4-websites-for-2024/"><u>[Updated] Find Your Favorite Skype Ringtones with These 4 Websites for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-premier-vhs-inspired-tricks-for-editing-excellence-for-2024/"><u>[Updated] Premier VHS-Inspired Tricks for Editing Excellence for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pitch-perfect-how-to-add-songs-to-your-snapchat-content/"><u>2024 Approved Pitch Perfect How to Add Songs to Your Snapchat Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>2024 Approved Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726224348687-mkvwma-movavi/"><u>免費移動網路 MKV到WMA - 使用 Movavi 轉換工具</u></a></li>
+<li><a href="https://win-able.techidaily.com/6ieq5yuv6luk44ks5pon5l2c44gz44kl44gf44kb44gu44op44kk44k744oz44k56kab5lu277ya44od44oq44k344o86kej6kqs/"><u>自動車を操作するためのライセンス要件：ポリシー解説</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-insight-into-how-dts-play-fi-transforms-your-music-listening/"><u>An Insight Into How DTS Play-Fi Transforms Your Music Listening</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-fixing-pc-gameplay-crashes-in-final-fantasy-xiv-online/"><u>Comprehensive Guide to Fixing PC Gameplay Crashes in Final Fantasy XIV Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capture-natural-motion-blur-for-pics/"><u>In 2024, Capture Natural Motion Blur for Pics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-guide-to-7-top-mac-vids-for-2024/"><u>Ultimate Guide to 7 Top Mac Vids for 2024</u></a></li>
+</ul></div>
 

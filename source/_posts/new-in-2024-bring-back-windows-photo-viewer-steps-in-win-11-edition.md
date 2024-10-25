@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bring Back Windows Photo Viewer  Steps in Win 11 Edition\""
-date: 2024-10-12T18:17:32.512Z
-updated: 2024-10-19T06:42:52.158Z
+date: 2024-10-18T03:52:50.222Z
+updated: 2024-10-24T19:02:24.046Z
 tags: 
   - screen-recording
   - ai video
@@ -71,15 +71,28 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -95,28 +108,15 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -125,14 +125,14 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,22 +159,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ai-powered-text-conversion-for-effective-presentations/"><u>[New] In 2024, AI-Powered Text Conversion for Effective Presentations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-stream-live-webcam-using-vlc-playback/"><u>[New] In 2024, Stream Live Webcam Using VLC Playback</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>[New] Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-6-video-downloaders-preserve-your-linkedin-media-masterfully/"><u>[New] Top 6 Video Downloaders Preserve Your LinkedIn Media Masterfully</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exciting-vr-technologies-shaping-gaming/"><u>[Updated] 2024 Approved Exciting VR Technologies Shaping Gaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-androids-photo-editor-showdown-can-pickup-claim-victory-in-2024/"><u>[Updated] Android's Photo Editor Showdown Can PickUp Claim Victory, In 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-final-impressions-how-to-design-a-standout-vimeo-end-screen-for-2024/"><u>[Updated] Final Impressions How to Design a Standout Vimeo End Screen for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-incorporating-yt-music-streams-into-videos/"><u>[Updated] Incorporating YT Music Streams Into Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-8-must-have-macbook-wallpaper-apps/"><u>2024 Approved 8 Must-Have MacBook Wallpaper Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-editsuite-evaluation-detailed-article/"><u>2024 Approved EditSuite Evaluation – Detailed Article</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-amd-graphics-and-cpu-drivers-compatible-with-windows-systems/"><u>Get the Newest AMD Graphics and CPU Drivers Compatible with Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-poco-f5-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Poco F5 Pro 5G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blueprint-for-building-a-graphic-design-business/"><u>In 2024, Blueprint for Building a Graphic Design Business</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-complete-haul-video-manual-from-shopping-to-screen-time-for-2024/"><u>The Complete Haul Video Manual From Shopping to Screen Time for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-5-video-recording-software-timelapse-edition/"><u>[New] 2024 Approved Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-the-pathway-to-photo-mosaic-brilliance/"><u>[New] Discover the Pathway to Photo Mosaic Brilliance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breath-of-ice-the-winter-olympics-in-china-2022/"><u>[New] In 2024, Breath of Ice The Winter Olympics in China 2022</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-make-a-splash-impressive-video-edits-with-windows-10s-tools/"><u>[New] In 2024, Make a Splash Impressive Video Edits with Windows 10'S Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-spruce-up-your-stories-with-effortless-animated-text-techniques-for-2024/"><u>[New] Spruce Up Your Stories With Effortless Animated Text Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[New] Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-seamless-igtv-and-fb-sharing-guide/"><u>[Updated] 2024 Approved Seamless IGTV and FB Sharing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-clear-and-consistent-slug-lines-for-2024/"><u>[Updated] Crafting Clear and Consistent Slug Lines for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-photo-magic-intro-to-snapseed-features-for-2024/"><u>[Updated] Unlocking Photo Magic Intro to Snapseed Features for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-tips-and-solutions-to-overcome-windows-update-error-code-0x8024002e/"><u>Definitive Tips and Solutions to Overcome Windows Update Error Code 0X8024002E</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-techniques-for-perfecting-your-green-screen-shots-for-2024/"><u>Essential Techniques for Perfecting Your Green-Screen Shots for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-yuva-2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Yuva 2 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-new-idt-audio-into-w7-operating-system/"><u>Integrate New IDT Audio Into W7 Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rationale-behind-wasd-configuration-in-windows/"><u>The Rationale Behind WASD Configuration in Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unveiling-the-art-of-social-media-video-magic-on-fb-for-2024/"><u>Unveiling the Art of Social Media Video Magic on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-hidden-fixes-for-fb-video-upload-woes/"><u>Unveiling the Hidden Fixes for Fb Video Upload Woes</u></a></li>
 </ul></div>
 

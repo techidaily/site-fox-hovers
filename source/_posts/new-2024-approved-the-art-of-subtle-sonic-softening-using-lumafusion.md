@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Art of Subtle Sonic Softening Using Lumafusion\""
-date: 2024-09-14T19:41:37.390Z
-updated: 2024-09-15T18:05:07.158Z
+date: 2024-10-19T17:17:59.405Z
+updated: 2024-10-24T18:23:57.385Z
 tags: 
   - screen-recording
   - ai video
@@ -81,15 +81,22 @@ In that window, you can select the MP3 format in the format customization box to
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -109,6 +116,13 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -116,10 +130,10 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Share and export
@@ -131,10 +145,10 @@ In that window, you can select the MP3 format in the format customization box to
 ## Part 3\. Related FAQs about LumaFusion
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
@@ -171,5 +185,23 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-capturing-the-moment-mobile-phone-snapchat-recordings/"><u>[New] 2024 Approved Capturing the Moment Mobile Phone Snapchat Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-android-trick-changing-media-order-sequence/"><u>[New] In 2024, Android Trick Changing Media Order Sequence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crystal-curtain-calls-olympic-showcase/"><u>[New] In 2024, Crystal Curtain Calls Olympic Showcase</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>[Updated] 2024 Approved PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-breaking-barriers-youtube-marketing-mastery/"><u>[Updated] In 2024, Breaking Barriers YouTube Marketing Mastery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>[Updated] In 2024, Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-inside-the-innovative-world-of-intova-x/"><u>[Updated] Inside the Innovative World of Intova X</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-optimal-techniques-for-verbal-note-taking-expertise/"><u>In 2024, Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-securely-downloading-youtube-audios-3-easy-and-reliable-methods/"><u>In 2024, Securely Downloading YouTube Audios 3 Easy & Reliable Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-6-platforms-facilitating-enterprise-social-synergy/"><u>In 2024, Top 6 Platforms Facilitating Enterprise-Social Synergy</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ps3-and-ps4-hdd-cloning-made-easy-a-two-pronged-approach-with-instructions/"><u>PS3 and PS4 HDD Cloning Made Easy - A Two-Pronged Approach with Instructions!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-art-of-haul-videography-pre-and-post-editing-processes-for-2024/"><u>The Art of Haul Videography Pre and Post Editing Processes for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-deciding-the-right-time-and-methods-for-leaving-former-twitter-accounts/"><u>The Ultimate Guide: Deciding the Right Time & Methods for Leaving Former Twitter Accounts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fix-battlenet-launcher-issues-on-pc/"><u>Troubleshooting: Fix Battle.net Launcher Issues on PC</u></a></li>
+</ul></div>
 

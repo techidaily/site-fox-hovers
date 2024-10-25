@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Craft Compelling Video Content Using Windows Photos & Story Remix"
-date: 2024-09-09T16:05:25.677Z
-updated: 2024-09-15T18:18:42.583Z
+date: 2024-10-23T01:30:32.295Z
+updated: 2024-10-25T03:13:55.492Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ How to create a Story Remix project automatically –
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -80,6 +87,13 @@ Here is the guide –
 
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to edit a Story Remix video
 
@@ -97,10 +111,16 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding image duration
@@ -111,13 +131,6 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
@@ -125,6 +138,13 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 3. Hit ‘Done’ after that.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding motion
 
@@ -134,10 +154,10 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Trimming video clips
@@ -155,6 +175,13 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: How to export a Story Remix video
 
 Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
@@ -170,13 +197,6 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -190,10 +210,10 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -219,5 +239,17 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-subtle-harmonies-on-desktop-systems/"><u>[New] Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-free-range-creativity-with-premium-ae-samples/"><u>[Updated] In 2024, Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-google-meet-directly-on-youtube-with-these-tips-for-2024/"><u>[Updated] Stream Google Meet Directly on YouTube with These Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-masterclass-in-vr-bikes-and-trails/"><u>In 2024, Masterclass in VR Bikes and Trails</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-most-reliable-platforms-to-gather-video-intro-templates/"><u>In 2024, Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-rapid-windows-revision-techniques-explored/"><u>In 2024, Rapid Windows Revision Techniques Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-trailblazers-in-virtual-reality-content-crafting/"><u>In 2024, Trailblazers in Virtual Reality Content Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-mental-discussions-ai-coaching-safety/"><u>Secure Mental Discussions: AI Coaching Safety</u></a></li>
+<li><a href="https://win-popular.techidaily.com/tutorial-passo-a-passo-fazer-um-disco-de-recuperacao-no-windows-teto-para-conserto-e-restauracao-do-sistema/"><u>Tutorial Passo-a-Passo: Fazer Um Disco De Recuperação No Windows Teto Para Conserto E Restauração Do Sistema</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win10-solution-lenovo-bt-driver-malfunction/"><u>Win10 Solution: Lenovo BT Driver Malfunction</u></a></li>
+</ul></div>
 

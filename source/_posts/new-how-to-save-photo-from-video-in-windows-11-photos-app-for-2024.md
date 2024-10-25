@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Save Photo From Video in Windows 11 Photos App for 2024"
-date: 2024-09-14T16:07:16.103Z
-updated: 2024-09-15T18:59:41.593Z
+date: 2024-10-23T19:12:31.980Z
+updated: 2024-10-24T23:33:21.176Z
 tags: 
   - screen-recording
   - ai video
@@ -64,20 +64,34 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -92,10 +106,10 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
@@ -130,5 +144,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cutting-to-perfection-the-science-of-online-photo-trimming/"><u>[New] 2024 Approved Cutting to Perfection The Science of Online Photo Trimming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-optimize-memory-retention-using-mematics-solution/"><u>[New] 2024 Approved Optimize Memory Retention Using Mematic's Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-essential-insights-into-using-color-grading-luts-with-pscc-for-2024/"><u>[New] Essential Insights Into Using Color Grading LUTs with PSCC for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-strategies-for-spotify-advertising-success/"><u>[New] In 2024, Essential Strategies for Spotify Advertising Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-focus-on-you-iphone-and-android-photo-trimmers/"><u>[Updated] 2024 Approved Focus On You IPhone & Android Photo Trimmers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>[Updated] 2024 Approved Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[Updated] Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-faulty-login-recover-your-account-today/"><u>[Updated] In 2024, Facebook Faulty Login? Recover Your Account Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instagram-enhancement-picture-posting-guide/"><u>[Updated] Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-premier-vhs-inspired-tricks-for-editing-excellence-for-2024/"><u>[Updated] Premier VHS-Inspired Tricks for Editing Excellence for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-free-live-streaming-apps-for-android-and-iphone/"><u>10 Best Free Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expressive-iphone-comicals-for-2024/"><u>Expressive iPhone Comicals for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-canon-image-masters-10plus-luts-some-are-free/"><u>In 2024, Canon Image Masters - 10+ LUTs, Some Are Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-how-t-series-earnings-growth-on-youtube-works/"><u>Unveiling How T-Series Earnings Growth on YouTube Works</u></a></li>
+<li><a href="https://windows11.techidaily.com/waking-up-off-screen-windows-mastering-6-strategies-in-win11/"><u>Waking Up Off-Screen Windows: Mastering 6 Strategies in Win11</u></a></li>
+</ul></div>
 

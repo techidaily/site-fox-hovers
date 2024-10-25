@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Virtuality’s Voyage  An Overview\""
-date: 2024-09-13T16:33:57.806Z
-updated: 2024-09-15T18:12:40.639Z
+date: 2024-10-22T21:59:13.741Z
+updated: 2024-10-25T02:12:13.019Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,29 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## VR development in 1960s
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VR development in 1990s
 
@@ -52,10 +72,10 @@ VR headsets begin to make their way into a few arcade games for simulations and 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
@@ -67,10 +87,10 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -96,5 +116,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-free-listening-transcription-tool-unveiled-for-2024/"><u>[New] Free Listening Transcription Tool Unveiled for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ideal-online-destinations-for-video-promotion/"><u>[New] Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>[New] In 2024, Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-reinstate-disappearing-watch-thumbnail/"><u>[New] In 2024, Reinstate Disappearing Watch Thumbnail</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-syma-x8c-tech-specifications-study-for-2024/"><u>[New] Syma X8C Tech Specifications Study for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-youtube-pros-tubebuddys-edge/"><u>[New] Unveiling YouTube Pros TubeBuddy's Edge</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drone-species-and-their-traits/"><u>[Updated] Drone Species & Their Traits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-3-best-nintendo-switch-emulators-you-can-find/"><u>[Updated] In 2024, Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-light-manipulation-for-captivating-gopro-time-lapse-scenes/"><u>[Updated] Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-finding-the-ideal-soundtrack-for-unboxing-content/"><u>2024 Approved Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-blue-screen-errors-with-microsoft/"><u>Decoding Windows 11 Blue Screen Errors with Microsoft</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delicate-downgrades-of-decibels-in-garageband-for-2024/"><u>Delicate Downgrades of Decibels in Garageband for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-a70-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel A70 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/illustration-giggles-memecrafterz/"><u>Illustration Giggles MemeCrafterz</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-essential-android-and-ios-timers-your-guide-to-flawless-big-day-management/"><u>In 2024, Essential Android & iOS Timers Your Guide to Flawless Big Day Management</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/nighttime-tales-on-screen-insights-into-storytelling-videos-for-kids/"><u>Nighttime Tales on Screen Insights Into Storytelling Videos for Kids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-x3daudiodll-file-not-found-or-missing-issues/"><u>Solutions for Resolving 'x3daudio.dll' File Not Found or Missing Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/surfs-up-best-surf-cameras-of-2023-for-2024/"><u>Surf's Up Best Surf Cameras of 2023 for 2024</u></a></li>
+</ul></div>
 

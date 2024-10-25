@@ -1,7 +1,7 @@
 ---
 title: "\"Enhancing Your Photos  Adding Text and Captions to Images in Microsoft Photos\""
-date: 2024-10-13T00:38:19.259Z
-updated: 2024-10-18T23:10:09.273Z
+date: 2024-10-21T23:15:39.278Z
+updated: 2024-10-24T21:40:41.103Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -74,37 +74,37 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -138,15 +138,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-embrace-a-new-identity-free-fire-sound-alteration-techniques-for-beginners/"><u>[New] Embrace a New Identity Free Fire Sound Alteration Techniques for Beginners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-essence-of-podcast-marketing-creating-effective-feeds/"><u>[New] In 2024, The Essence of Podcast Marketing Creating Effective Feeds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-profitability-initial-steps-to-earnings/"><u>[New] YouTube Profitability Initial Steps to Earnings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fast-funny-build-memes-with-kapwing/"><u>[Updated] 2024 Approved Fast, Funny Build Memes with Kapwing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unleashing-your-gaming-potential-with-win10-recordings/"><u>[Updated] Unleashing Your Gaming Potential with Win10 Recordings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-video-quality-new-logitech-c920-drivers-for-windows-11-10-and-8-users/"><u>Improve Your Video Quality: New Logitech C920 Drivers for Windows 11, 10 & 8 Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-complementary-behaviors-with-audio-tales-playing/"><u>In 2024, Ideal Complementary Behaviors with Audio Tales Playing</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New In 2024, Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/photo-motion-enhancement-via-adobe-tools/"><u>Photo Motion Enhancement via Adobe Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfect-habits-to-embrace-with-podcasts-playing/"><u>[New] 2024 Approved Perfect Habits to Embrace with Podcasts Playing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-picsart-tips-infusing-life-with-facial-motion-blur/"><u>[New] 2024 Approved Picsart Tips Infusing Life with Facial Motion Blur</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-groupview-downloader-for-fb-streams/"><u>[New] In 2024, GroupView Downloader for FB Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sdr-to-hdr-ultimate-guide-on-sdr-to-hdr-video-conversion/"><u>[New] SDR to HDR Ultimate Guide on SDR to HDR Video Conversion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-hubs-for-high-quality-vr-watching/"><u>[Updated] 2024 Approved Hubs for High-Quality VR Watching</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-xbox-one-optimizing-your-zoom-experience/"><u>[Updated] 2024 Approved Xbox One Optimizing Your Zoom Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-boosting-video-scale-in-youtube-recordings/"><u>[Updated] In 2024, Boosting Video Scale in YouTube Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximizing-video-moolah-anywhere-via-youtube-studios-tools/"><u>[Updated] In 2024, Maximizing Video Moolah Anywhere via YouTube Studio's Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-hdr-camera-connoisseurs-handbook/"><u>[Updated] In 2024, The HDR Camera Connoisseur's Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-time-tagging-in-picture-editing-software/"><u>[Updated] Time Tagging in Picture Editing Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-premier-monitors-photo-editings-future/"><u>[Updated] Unveiling the Premier Monitors Photo Editing's Future</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>2024 Approved Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-audio-sync-issues-with-airpods-turn-off-head-tracking/"><u>How to Stop Audio Sync Issues with AirPods: Turn Off Head Tracking</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-evaluating-dji-flying-visor-experience/"><u>In 2024, Evaluating DJI Flying Visor Experience</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/introducing-the-sharp-will-the-cutting-edge-naked-eye-3d-android-smartphone/"><u>Introducing the Sharp Will - The Cutting Edge Naked Eye-3D Android Smartphone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/making-the-most-out-of-video-calls-combining-skype-and-zoom/"><u>Making the Most Out of Video Calls Combining Skype & Zoom</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-beastly-symphony-capturing-giants-in-audio-form/"><u>New The Beastly Symphony Capturing Giants in Audio Form</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/start-urdu-learning-with-key-essentials/"><u>Start Urdu Learning with Key Essentials</u></a></li>
 </ul></div>
 

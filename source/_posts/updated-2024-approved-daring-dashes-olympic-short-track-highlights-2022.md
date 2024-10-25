@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Daring Dashes  Olympic Short Track Highlights, 2022\""
-date: 2024-09-14T17:25:11.484Z
-updated: 2024-09-15T19:12:02.951Z
+date: 2024-10-20T19:11:45.856Z
+updated: 2024-10-24T21:03:13.101Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
@@ -56,9 +63,23 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -75,10 +96,16 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -100,16 +127,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -143,5 +164,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-efficiently-transforming-ttml-and-xml-into-high-quality-srts-for-2024/"><u>[New] Efficiently Transforming TTML and XML Into High-Quality SRTs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-flawless-inshot-edit-transitions/"><u>[New] The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-resource-list-of-3d-fonts-online/"><u>[New] Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ensure-your-insta-pics-are-real-a-comprehensible-guide/"><u>[Updated] 2024 Approved Ensure Your Insta Pics Are Real - A Comprehensible Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>2024 Approved Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-installing-latest-ati-driver-versions-in-windows-os/"><u>Complete Guide: Installing Latest ATI Driver Versions in Windows OS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-android-guide-enhance-your-video/"><u>In 2024, Android Guide Enhance Your Video</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/next-gen-retail-experience-design/"><u>Next-Gen Retail Experience Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-old-games-steam-deck-and-emudeck-combo/"><u>Unlocking Old Games: Steam Deck & EmuDeck Combo</u></a></li>
+</ul></div>
 

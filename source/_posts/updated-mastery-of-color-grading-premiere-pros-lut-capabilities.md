@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery of Color Grading  Premiere Pro's LUT Capabilities\""
-date: 2024-09-10T17:01:15.928Z
-updated: 2024-09-15T17:11:12.826Z
+date: 2024-10-21T19:59:41.175Z
+updated: 2024-10-25T00:35:11.386Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,13 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -41,6 +48,13 @@ Step2Click OK after selecting New Item > Adjustment Layer in the Project window'
 Step3The first Basic Correction option in the right-hand panel of Lumetri Color is Input LUT. Choose this, click Browse, and then go to the location where your LUTs are stored.
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Why use LUTs in your project?
 
@@ -52,13 +66,6 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -66,6 +73,13 @@ There are no such modifications that can be made in a certain LUT or Look, and t
 The entire color panel in Premiere Pro is packed with all of the color grading tools that are required to adjust your film in the appropriate way. Investigating them can provide you with some understanding of how they function. You can get a sense of how these LUTs function by using the pre-installed LUTs that are accessible in Premiere Pro, which you can use at first to get a feel for the LUTs before moving on to using paid or free Color Grading profiles.
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Export LUTs
 
@@ -80,10 +94,10 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Where can you find LUTs?
@@ -133,5 +147,23 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-action-cam-showdown-gopro-vs-yi-technology-review/"><u>[New] 2024 Approved Action Cam Showdown GoPro Vs. Yi Technology Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-craft-stunning-designs-learn-to-cleanse-images-background-in-canva/"><u>[New] Craft Stunning Designs Learn to Cleanse Images' Background in Canva</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-av1-vs-vp9-which-video-codec-wins/"><u>[New] In 2024, AV1 Vs. VP9 Which Video Codec Wins?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-hatch-humorous-habits/"><u>[New] In 2024, Hatch Humorous Habits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-browser-snapshot-guide-for-tech-enthusiasts/"><u>[New] The Ultimate Browser Snapshot Guide for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-mystery-of-facebooks-hidden-activities/"><u>[New] Unlocking the Mystery of Facebook's Hidden Activities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-engaging-storytelling-podcasts-with-applee-devices/"><u>[Updated] 2024 Approved Crafting Engaging Storytelling Podcasts with Apple'e Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>[Updated] 2024 Approved The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-tips-best-10-ae-text-setups/"><u>[Updated] In 2024, Expert Tips Best 10 AE Text Setups</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-seamless-online-video-sharing-via-vimeo-for-2024/"><u>[Updated] Seamless Online Video Sharing via Vimeo for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-12-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 12 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 13 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-mac-slideshows-a-beginners-guide-to-ezvid/"><u>New In 2024, Create Stunning Mac Slideshows A Beginners Guide to Ezvid</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-minitool-movie-maker-a-detailed-review-user-manual-and-alternative-solutions/"><u>New Minitool Movie Maker A Detailed Review, User Manual, and Alternative Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-glitchy-vids-naturally/"><u>Resolving Glitchy Vids Naturally</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-homeowners-manual-to-ai-and-chatgpt/"><u>The Homeowner's Manual to AI & ChatGPT</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Monochrome to Masterpiece  Pro Photo Hue Harmony\""
-date: 2024-09-09T16:53:41.771Z
-updated: 2024-09-15T19:34:25.877Z
+date: 2024-10-21T03:40:40.754Z
+updated: 2024-10-24T16:54:02.391Z
 tags: 
   - screen-recording
   - ai video
@@ -34,9 +34,23 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Tips 2: Use Black and White Colors
 
@@ -55,10 +69,17 @@ If you want to add color to your black or white shirt, you can do it by “Hue a
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -68,6 +89,13 @@ Through the direct selection color picker, you can change the color of an object
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Tip 5: Choose Object Color Range
 
@@ -79,29 +107,15 @@ After clicking on the color range option, a pop-up window will appear from which
 
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Tip 6: Use Blend IF
@@ -111,19 +125,6 @@ If you want to change the color of leaves on a tree, you can use the “Blend IF
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
@@ -144,6 +145,13 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -171,5 +179,22 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>[New] 2024 Approved Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-immersion-tools-top-ten-innovative-vr-accessories-for-2024/"><u>[New] Immersion Tools Top Ten Innovative VR Accessories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-lush-backgrounds-a-compendium-of-free-screen-free-downloadables/"><u>[New] In 2024, Lush Backgrounds A Compendium of Free Screen-Free Downloadables</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-resource-list-of-3d-fonts-online/"><u>[New] Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-advanced-photo-editing-how-to-clean-up-unwanted-space/"><u>[Updated] 2024 Approved Advanced Photo Editing How to Clean Up Unwanted Space</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-complete-introduction-to-snapchats-new-feature-for-2024/"><u>[Updated] A Complete Introduction to Snapchat's New Feature for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-methods-for-subtle-volume-reduction-in-fl-studio/"><u>[Updated] In 2024, Methods for Subtle Volume Reduction in FL Studio</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a38-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A38 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-record-screen-with-ezvid-video-maker-for-2024/"><u>How to Record Screen with Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/next-gen-retail-experience-design/"><u>Next-Gen Retail Experience Design</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-y36-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y36? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-free-dvd-rip-tool-scan-through-your-dvds-at-lightning-speed/"><u>Quick & Easy Free DVD Rip Tool – Scan Through Your DVDs at Lightning Speed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-repairing-your-rust-mic-issues-2024-edition/"><u>The Definitive Guide to Repairing Your Rust Mic Issues - 2024 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformez-facilement-votre-mp3-en-format-flac-sans-frais-plateforme-dencodage-en-ligne-movavi/"><u>Transformez Facilement Votre MP3 en Format FLAC Sans Frais - Plateforme D'encodage en Ligne Movavi</u></a></li>
+</ul></div>
 
