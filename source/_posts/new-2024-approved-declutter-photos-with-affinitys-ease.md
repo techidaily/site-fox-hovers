@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Declutter Photos with Affinity's Ease\""
-date: 2024-10-23T19:02:00.722Z
-updated: 2024-10-24T22:51:08.972Z
+date: 2024-10-30T00:03:13.728Z
+updated: 2024-10-30T16:16:29.624Z
 tags: 
   - screen-recording
   - ai video
@@ -49,13 +49,6 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
 Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, and use the Selection Brush tool to manually correct the rough edges of your outline.
@@ -63,13 +56,6 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
@@ -103,20 +89,13 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
 
@@ -141,6 +120,19 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,6 +144,13 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -161,10 +160,10 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -182,6 +181,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,21 +223,24 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-amplify-your-brands-message-top-terminology-secrets/"><u>[New] 2024 Approved Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-capacity-card-for-a7s-professional-use/"><u>[New] 2024 Approved High-Capacity Card for A7S Professional Use</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-smart-approach-to-video-marketing-for-smbs/"><u>[New] 2024 Approved The SMART Approach to Video Marketing for SMBs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-a-simple-tutorial-starting-screen-recording-on-mac-for-2024/"><u>[New] A Simple Tutorial Starting Screen Recording on Mac for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-budget-friendly-ultra-panoramic-video-cameras/"><u>[New] In 2024, Budget-Friendly Ultra-Panoramic Video Cameras</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>[New] In 2024, Premium Power Supplies for GoPro Hero5 Genuine and 3Rd-Party</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-audio-outliers-best-sound-distortion-apps-for-your-device-for-2024/"><u>[Updated] Audio Outliers Best Sound Distortion Apps for Your Device for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-digital-photography-incorporating-accurate-dates-for-2024/"><u>[Updated] Digital Photography Incorporating Accurate Dates for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-viral-potential-in-tiktok-unboxer-videos/"><u>[Updated] Mastering Viral Potential in TikTok Unboxer Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>2024 Approved A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
-<li><a href="https://extra-information.techidaily.com/an-intuitive-approach-to-easily-observing-loved-youtube-feedback/"><u>An Intuitive Approach to Easily Observing Loved YouTube Feedback</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dynamic-hues-the-artists-toolkit-for-change-for-2024/"><u>Dynamic Hues The Artist's Toolkit for Change for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-storm-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Storm 5G</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-temporal-and-spatial-shifts-in-filmmaking/"><u>Mastering Temporal & Spatial Shifts in Filmmaking</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722997533276-qbittorrent-paused-or-not-responding-heres-how-to-fix-it/"><u>QBittorrent Paused or Not Responding? Here's How to Fix It</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-creativity-on-windows-11-desktops-with-drawing-tools/"><u>Unleash Creativity on Windows 11 Desktops with Drawing Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-10-igtv-channels-you-should-start-following/"><u>[New] 2024 Approved Top 10 IGTV Channels You Should Start Following</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-open-source-os-friendly-videography-software/"><u>[New] 2024 Approved Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-windows-10-and-zoom-a-comprehensive-guide-to-successful-use/"><u>[New] 2024 Approved Windows 10 and Zoom A Comprehensive Guide to Successful Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>[New] The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unmatched-fun-awaits-in-our-top-12-pc-clicker-games-list/"><u>[New] Unmatched Fun Awaits in Our Top 12 PC Clicker Games List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-go-pro-karma-drone-review-for-2024/"><u>[Updated] Go Pro Karma Drone Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-maximize-impact-with-onestreams-streaming-solutions-for-2024/"><u>[Updated] How to Maximize Impact with OneStream's Streaming Solutions for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-low-cost-high-quality-4k-capture-devices/"><u>[Updated] Low-Cost, High-Quality 4K Capture Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-overcome-blurred-images-the-best-online-enhancers-listed-for-2024/"><u>[Updated] Overcome Blurred Images The Best Online Enhancers Listed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-pc-capture-tool-apowersofts-latest-screen-recording-for-2024/"><u>[Updated] PC Capture Tool Apowersoft's Latest Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-live-recording-best-15-video-resources/"><u>[Updated] The Ultimate Guide to Live Recording - Best 15 Video Resources</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969862790-get-the-latest-version-of-your-samsung-960-evo-ssd-windows-drivers-here/"><u>Get the Latest Version of Your Samsung 960 EVO SSD Windows Drivers Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-fortnite-on-pc-solved/"><u>How to Download Fortnite on PC [SOLVED]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-guide-to-digitizing-and-saving-faded-frames/"><u>In 2024, The Ultimate Guide to Digitizing and Saving Faded Frames</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules-for-2024/"><u>Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-10-engaging-board-games-for-ultimate-entertainment-during-boring-moments/"><u>Top 10 Engaging Board Games for Ultimate Entertainment During Boring Moments</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-service-unavailable-errors/"><u>Troubleshooting Steam Service Unavailable Errors</u></a></li>
 </ul></div>
 

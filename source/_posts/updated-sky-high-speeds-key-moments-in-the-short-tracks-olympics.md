@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Speeds  Key Moments in the Short Tracks, Olympics\""
-date: 2024-10-18T20:18:41.921Z
-updated: 2024-10-24T19:16:01.647Z
+date: 2024-10-30T01:52:55.061Z
+updated: 2024-10-30T23:30:37.977Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,13 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -38,10 +45,10 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
@@ -52,20 +59,27 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -80,10 +94,10 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -118,13 +132,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -134,13 +141,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,16 +165,21 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-superior-window-calls-8-apps-ranked-1-8-for-2024/"><u>[New] Superior Window Calls 8 Apps Ranked #1-8 for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-transformative-tiktok-video-techniques-that-work-for-2024/"><u>[New] Transformative TikTok Video Techniques That Work for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-champion-avc-player-for-seamless-viewing/"><u>[Updated] 2024 Approved Champion AVC Player for Seamless Viewing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-8-youtube-fitness-hacks-that-energize-audiences/"><u>[Updated] 2024 Approved Exploring 8 YouTube Fitness Hacks That Energize Audiences</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sierra-users-meet-the-future-of-video-editing-tools/"><u>[Updated] 2024 Approved Sierra Users, Meet the Future of Video Editing Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-insightful-guide-to-sharex-critiques-and-counterparts/"><u>[Updated] Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-12-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi 12 FRP</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-joy-of-individuality-creating-tones-and-sounds-on-android-devices/"><u>In 2024, Discover the Joy of Individuality Creating Tones & Sounds on Android Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>In 2024, Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/speed-up-the-process-rapid-download-of-usb-to-rs232-control-software/"><u>Speed Up the Process: Rapid Download of USB to RS232 Control Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-enhance-discoverability-with-effective-video-tags/"><u>[New] 2024 Approved Enhance Discoverability with Effective Video Tags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevating-your-medical-ad-game-secrets-to-success-on-facebook-for-2024/"><u>[New] Elevating Your Medical Ad Game Secrets to Success on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-fb-video-sharing-tactics-for-desktop-and-handheld-devices-for-2024/"><u>[New] Expert FB Video Sharing Tactics for Desktop and Handheld Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-detailed-premiere-pro-full-screen-analysis-for-2024/"><u>[Updated] Detailed Premiere Pro Full Screen Analysis for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-setting-up-audio-on-modern-windows-10-for-2024/"><u>[Updated] Setting Up Audio on Modern Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-breaks-and-takes-from-snowspeedcross-games/"><u>2024 Approved Best Breaks & Takes From Snowspeedcross Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-low-cost-lift-offs-the-most-affordable-drone-options/"><u>2024 Approved Low-Cost Lift-Offs The Most Affordable Drone Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-a-yt-hub-pro-complete-guide-revealed/"><u>Become a YT Hub Pro Complete Guide Revealed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-7-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 7 Plus Smoothly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/loop-repeat-and-relax-top-10-free-video-looping-services/"><u>Loop, Repeat, and Relax Top 10 Free Video Looping Services</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/proven-techniques-to-acquire-superior-hdr-cameras/"><u>Proven Techniques to Acquire Superior HDR Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/red-eye-vanquished-swiftly-enhance-your-iphone-images-without-spending/"><u>Red Eye Vanquished Swiftly Enhance Your iPhone Images Without Spending</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sleep-aid-asmr-techniques-unveiled/"><u>Sleep Aid ASMR Techniques Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-tier-affordable-photo-enhancement-software-online-for-2024/"><u>Top-Tier Affordable Photo Enhancement Software Online for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
 

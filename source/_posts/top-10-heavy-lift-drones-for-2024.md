@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Heavy Lift Drones for 2024"
-date: 2024-10-22T17:46:29.785Z
-updated: 2024-10-24T17:59:53.451Z
+date: 2024-10-24T19:33:01.482Z
+updated: 2024-10-30T16:08:52.873Z
 tags: 
   - screen-recording
   - ai video
@@ -56,16 +56,10 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Heavy lifting Drones: Under-10kg payload
@@ -108,6 +102,13 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Heavy lifting Drones: Over-10kg payload
 
 #### 1\. Vulcan UAV Airlift
@@ -120,18 +121,18 @@ The Airlift series is one of Vulcan's heaviest lifting drones to date. With the 
 
 ![az 4k uhd camera drone green bee 1200](https://images.wondershare.com/filmora/article-images/az-4k-uhd-camera-drone-green-bee-1200.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As the need for drones that can do some seriously heavy lifting has increased, the AZ 4K UHD Camera Drone Green Bee 1200 has stepped up to fill these needs. Whether you are looking to do some heavy lifting in the realm of photography or cinema, or you need a drone that can move your research and development technology around your indoor or outdoor work area, this drone has you covered. With the ability to carry a payload of up to 20 kg, and a flight time of 20 min. per battery, the AZ 4K UHD Camera Drone Green Bee 1200 is going to allow you to master any heavy lifting work situation with ease.
 
 #### 3\. Vulcan UAV Raven
 
 ![vulcan uav raven](https://images.wondershare.com/filmora/article-images/vulcan-uav-raven.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
 
@@ -147,25 +148,18 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -192,18 +186,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-broadcast-vlogs-on-twitter-using-mobile-devices/"><u>[New] 2024 Approved How to Broadcast Vlogs on Twitter Using Mobile Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy-for-2024/"><u>[New] Be a Reddit Pro The 13 Best Ways to Make Cash Fast & Easy for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion/"><u>[New] Fading Sounds Gently A Guide to Softening Audibility in Lumafusion</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screencapturepro-review-expert-insights-and-comparisons/"><u>[Updated] 2024 Approved ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips/"><u>[Updated] Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-photobook-to-film-the-guide-for-digitizing-classic-photographs/"><u>[Updated] In 2024, Photobook to Film The Guide for Digitizing Classic Photographs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-launching-into-youtube-success-a-starter-guide-for-profit/"><u>[Updated] Launching Into Youtube Success A Starter Guide for Profit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-redefining-youtube-milestones-post-vidcon-spectacles/"><u>[Updated] Redefining YouTube Milestones Post-VidCon Spectacles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-techniques-for-vimeo-video-submission-from-mmc/"><u>In 2024, Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-top-10-best-4k-video-converters/"><u>In 2024, FREE Top 10 Best 4K Video Converters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/maximizing-view-quality-on-team-meetings-in-ms-teams/"><u>Maximizing View Quality on Team Meetings in MS Teams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023-for-2024/"><u>Modern Photo Editing Wonders Frame Integration Essentials, 2023 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-affordable-text-animation-strategies-webreal-world-for-2024/"><u>[New] Affordable Text Animation Strategies Web/Real World for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-free-rotate-and-merge-videos-on-android/"><u>[New] How to Free Rotate and Merge Videos on Android</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enrich-your-presentations-include-youtube-videos-in-slate-for-2024/"><u>[Updated] Enrich Your Presentations - Include YouTube Videos in Slate for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-color-filters-the-ultimate-15-look-up-table-picks-for-gopro-for-2024/"><u>Dynamic Color Filters The Ultimate 15 Look-Up Table Picks for GOPRO for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo F25 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/guide-to-premium-free-online-screen-recorders/"><u>Guide to Premium Free Online Screen Recorders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-streamlining-media-playback-with-vlc-mac/"><u>In 2024, Streamlining Media Playback with VLC (Mac)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors-for-2024/"><u>Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-creativity-with-the-reink-case-c1-the-ultimate-choice-in-customizable-color-e-ink-cell-phone-covers/"><u>Unleash Creativity with the ReiNK Case C1 - The Ultimate Choice in Customizable Color E-Ink Cell Phone Covers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone XR | Dr.fone</u></a></li>
 </ul></div>
 

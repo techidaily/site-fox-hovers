@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Windows Photos with Music and Custom Filters for 2024"
-date: 2024-10-21T23:29:48.392Z
-updated: 2024-10-25T03:45:31.870Z
+date: 2024-10-24T01:22:13.808Z
+updated: 2024-10-30T20:39:24.969Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -77,24 +77,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -104,10 +104,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -135,17 +135,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-screenplay-sage-answers-for-beginners/"><u>[New] 2024 Approved Screenplay Sage Answers for Beginners</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-digital-rights-unexpected-content-take-downs/"><u>[New] In 2024, Digital Rights Unexpected Content Take-Downs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ringtone-revelry-top-choices-for-laugh-inducing-calls/"><u>[New] Ringtone Revelry Top Choices for Laugh-Inducing Calls</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cognitive-conundrums-top-11-gk-video-hubs/"><u>[Updated] 2024 Approved Cognitive Conundrums Top 11 GK Video Hubs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premier-pastimes-away-from-sports-stadiums-ranked/"><u>[Updated] In 2024, Premier Pastimes Away From Sports Stadiums, Ranked</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-want-to-send-snaps-from-camera-roll-see-how-it-is-done-for-2024/"><u>[Updated] Want to Send Snaps From Camera Roll? See How It Is Done for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-clearing-focus-techniques-for-blurring-meeting-backdrops/"><u>2024 Approved Clearing Focus Techniques for Blurring Meeting Backdrops</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dive-deep-into-color-correction-top-11-resources/"><u>Dive Deep Into Color Correction Top 11 Resources</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-15-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 15 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ree-green-screen-effects-from-4-youtube-channels/"><u>Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-seamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>In 2024, Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-tier-cinematic-peeks-album-for-2024/"><u>Top-Tier Cinematic Peeks Album for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-beyond-reality-vr-movie-magic/"><u>[New] 2024 Approved Beyond Reality VR Movie Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-essential-ios-video-apps-iphoneipads-finest-selection/"><u>[New] 2024 Approved Essential iOS Video Apps IPhone/iPad's Finest Selection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>[New] 2024 Approved Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-facetune-photos-app-complete-review-and-guide/"><u>[New] Facetune Photos App Complete Review and Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-hdmi-radeon-revival-for-2024/"><u>[New] HDMI Radeon Revival for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/imelight-rhythms-the-creme-de-la-crop-of-yt-short-scores-for-2024/"><u>[New] Limelight Rhythms The Crème De La Crop of YT Short Scores for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-workshop-designers-app/"><u>[New] Ultimate Workshop Designer's App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visionary-8-tools-transforming-gameplay-for-2024/"><u>[New] Visionary 8 Tools Transforming Gameplay for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-list-best-microphones-for-4k-ultra-hd/"><u>[Updated] Essential List Best Microphones for 4K Ultra HD</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-delving-into-the-world-of-asmr-soundscapes/"><u>[Updated] In 2024, Delving Into the World of ASMR Soundscapes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-resolution-realm-for-rookies-exploring-picture-quality-nuances/"><u>[Updated] In 2024, Resolution Realm for Rookies Exploring Picture Quality Nuances</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029611796-dvdavi/"><u>DVD再生対応のAVIファイルへの変換手順</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/giroptic-360cam-complete-review/"><u>Giroptic 360Cam Complete Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>In 2024, The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-nord-ce-3-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus Nord CE 3 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-list-of-free-vfx-websites/"><u>The Ultimate List of FREE VFX Websites</u></a></li>
 </ul></div>
 

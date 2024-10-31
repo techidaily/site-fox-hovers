@@ -1,7 +1,7 @@
 ---
 title: "[New] Dynamic Distortions for Compelling Image Narratives"
-date: 2024-10-18T01:42:12.774Z
-updated: 2024-10-25T04:59:57.807Z
+date: 2024-10-27T23:23:50.627Z
+updated: 2024-10-30T16:39:43.833Z
 tags: 
   - screen-recording
   - ai video
@@ -71,13 +71,6 @@ Click the Window menu to open the Layers panel and click Layers.
 
 Click on the New Layer icon that resembles a bent-corner sticky note.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4\
 
 Click on the T icon located in the Tools panel. You can also click on the Window and select Tools if you don't see the Tools panel. After opening the Type toolbar, choose the text size, color, and font you'll use for the distorted text. Now, click the canvas, and then type the text you want to distort. The text appears in a non-distorted format when you type.
@@ -87,13 +80,6 @@ Click on the T icon located in the Tools panel. You can also click on the Window
 Check the list and right-click on the new text layer with a T icon symbol and the words you have typed. Select the Rasterize Layer option; this will turn the box with the T icon into a white and gray checkerboard.
 
 ![how to distort text in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 6\
 
@@ -112,13 +98,6 @@ Take one of the middleboxes and pull and drug them on either the bottom or top t
 ### Step 9\
 
 Tinker around with different changes mentioned above until you get the text distortion you want. Once you are satisfied with the results, hit Enter to set the change and get rid of the boxes and borders from the text.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 10\
 
@@ -191,10 +170,10 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
 ![online text distorter - Wavy Text Generator](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -268,6 +247,13 @@ Take one of the middleboxes and pull and drug them on either the bottom or top t
 ### Step 9\
 
 Tinker around with different changes mentioned above until you get the text distortion you want. Once you are satisfied with the results, hit Enter to set the change and get rid of the boxes and borders from the text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 10\
 
@@ -375,20 +361,27 @@ Start Photoshop, and then click on the File menu. Select the New option and set 
 
 ![text distortion in photo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2\
 
 Click the Window menu to open the Layers panel and click Layers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3\
 
 Click on the New Layer icon that resembles a bent-corner sticky note.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4\
 
@@ -405,13 +398,6 @@ Check the list and right-click on the new text layer with a T icon symbol and th
 Click on the Edit menu, then hover your cursor over Transform. From the fly-out menu, choose Distort. A border encircled with white boxes will surround the text on the canvas. Click and pull a corner box away from the text, like toward a corner of the Adobe Photoshop work area.
 
 Be sure to pull it in different directions and check how the text will become funhouse-style elongated in different ways; this will allow you to judge which look you prefer for your text distortion.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 7\
 
@@ -469,6 +455,13 @@ This online tool provides photo editing and graphic design tools, and you can us
 
 ![online text distorter - picmonkey](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.MockoFun
 
 Adding text along a curve is a great way to make a strong graphic statement. The tool lets you create a logo and include a circular distorted text. You can also add this effect to photos using MockoFun.com.
@@ -483,24 +476,24 @@ Zalgo Text Generator is an online tool that allows you to create glitch text. Th
 
 ![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-11.png)
 
+### 4\. GFTO
+
+EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
+
+![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-12.png)
+
 <!-- affiliate ads begin -->
-<span id="1983545">
+<span id="1982508">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### 4\. GFTO
-
-EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
-
-![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-12.png)
 
 ### 5\. Wavy Text Generator
 
@@ -624,13 +617,6 @@ This online tool provides photo editing and graphic design tools, and you can us
 
 ![online text distorter - picmonkey](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.MockoFun
 
 Adding text along a curve is a great way to make a strong graphic statement. The tool lets you create a logo and include a circular distorted text. You can also add this effect to photos using MockoFun.com.
@@ -645,6 +631,13 @@ Zalgo Text Generator is an online tool that allows you to create glitch text. Th
 
 ![online text distorter - Zalgo](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. GFTO
 
 EnGFTO.com is an online text distorter that allows you to choose the text size and color and choose one of the available fonts. It comes with hundreds of text templates. You can also upload fonts, change the text style, and apply gradients. What's more? Users can add an outline to their text, change the background, and select the color of their text edges.
@@ -656,6 +649,13 @@ EnGFTO.com is an online text distorter that allows you to choose the text size a
 This tool allows you to distort text by adding a wavy effect to it. To use this tool, you only have to head to nhttp://www.coding-dude.com/wp/wavy-text-generator/ and type your text in the field, then this text distorter will generate a preview showing the results of how your text will look like. The pink button allows you to copy your text's HTML/CSS code.
 
 ![online text distorter - Wavy Text Generator](https://images.wondershare.com/filmora/article-images/2022/04/text-distortion-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -685,17 +685,16 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-breaking-barriers-top-picks-of-virtual-reality-walkers/"><u>[New] Breaking Barriers Top Picks of Virtual Reality Walkers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-discovering-the-best-a-list-of-top-live-tv-streamers/"><u>[New] Discovering the Best A List of Top Live TV Streamers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-revolutionizing-art-into-nfts-top-7-tools-explored/"><u>[New] In 2024, Revolutionizing Art Into NFTs - Top 7 Tools Explored</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-finest-12-tycoons-your-pathway-to-gaming-enthusiasm/"><u>[New] In 2024, The Finest 12 Tycoons Your Pathway to Gaming Enthusiasm</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-seamless-technique-inserting-a-direct-url-into-tiktok-bio/"><u>[Updated] In 2024, Seamless Technique Inserting a Direct URL Into TikTok Bio</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-merge-movie-content-into-watchlist/"><u>[Updated] Merge Movie Content Into Watchlist</u></a></li>
-<li><a href="https://article-posts.techidaily.com/best-image-enlargers-making-photographs-larger-without-losing-quality-for-2024/"><u>Best Image Enlargers Making Photographs Larger Without Losing Quality for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/conquer-the-skies-and-landscapes-in-a-canon-time-lapse-for-2024/"><u>Conquer the Skies and Landscapes in a Canon Time-Lapse for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-a-step-by-step-approach-for-telegram-web-success/"><u>In 2024, A Step-By-Step Approach for Telegram Web Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-power-of-pacing-keeping-your-audience-glued-to-the-screen/"><u>The Power of Pacing Keeping Your Audience Glued to the Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>[New] 2024 Approved Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-8-web-archives-of-3d-letterforms-for-2024/"><u>[New] Top 8 Web Archives of 3D Letterforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-science-of-video-sizing-by-imovie/"><u>[Updated] The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-players-in-immersive-vision-sets-for-2024/"><u>[Updated] Top Players in Immersive Vision Sets for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-critical-considerations-against-incorporating-ray-tracing/"><u>7 Critical Considerations Against Incorporating Ray Tracing</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/a-step-by-step-guide-altering-text-styles-within-the-aldiko-ebook-player-on-android-systems/"><u>A Step-by-Step Guide: Altering Text Styles Within the Aldiko eBook Player on Android Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-guide-to-efficient-webp-jpeg-conversion/"><u>In 2024, Guide to Efficient WebP JPEG Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highpoint-craftsman-workspace-review/"><u>In 2024, Highpoint Craftsman Workspace Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-ace-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Ace 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-blockage-issue-on-win11/"><u>Resolving Microsoft Store Blockage Issue on Win11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
 </ul></div>
 
