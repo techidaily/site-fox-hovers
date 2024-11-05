@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Breaking Records  Olympics Showcase for Short Tracks\""
-date: 2024-10-28T02:32:01.654Z
-updated: 2024-10-31T01:34:19.318Z
+date: 2024-11-02T16:29:12.460Z
+updated: 2024-11-05T17:21:00.253Z
 tags: 
   - screen-recording
   - ai video
@@ -29,13 +29,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -52,13 +45,6 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
@@ -67,28 +53,15 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
@@ -98,6 +71,20 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -131,6 +118,13 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -142,10 +136,10 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -171,18 +165,19 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-channelart-essentials-10-digital-tools-to-design-logos-and-themes/"><u>[New] In 2024, ChannelArt Essentials 10 Digital Tools to Design Logos & Themes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-spots-unveiling-stunning-no-cost-tiktok-backgrounds/"><u>[New] Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-in-depth-analysis-the-power-of-quantum-hdr/"><u>[Updated] In 2024, In-Depth Analysis The Power of Quantum HDR</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-non-competitive-front-row-fun-ranking-the-top-ten/"><u>[Updated] In 2024, Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-tranquility-techniques-managing-in-system-sounds-for-2024/"><u>[Updated] Tranquility Techniques Managing In-System Sounds for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-tune-your-status-on-whatsapp/"><u>[Updated] Tune Your Status on WhatsApp</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-tools-to-transform-your-youtube-titling-skills/"><u>2024 Approved Cutting-Edge Tools to Transform Your YouTube Titling Skills</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>Capturing Seconds at a Time The Art of Phantom Slow Motion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-efficient-video-management-how-to-include-content-in-youtube-playlists/"><u>In 2024, Efficient Video Management How to Include Content in YouTube Playlists</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/reinitialiser-facilement-votre-lecteur-de-recuperation-sous-windows-10-et-11-un-guide-rapide/"><u>Réinitialiser Facilement Votre Lecteur De Récupération Sous Windows 10 Et 11 : Un Guide Rapide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/into-song-savvy-youtube-playlist-excellence-for-2024/"><u>Step Into Song Savvy YouTube Playlist Excellence for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-upcoming-transformation-7-key-ways-generative-ai-will-reshape-careers/"><u>The Upcoming Transformation: 7 Key Ways Generative AI Will Reshape Careers</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unlocking-the-secrets-of-serp-snippets-for-superior-search-engine-optimization-techniques/"><u>Unlocking the Secrets of SERP Snippets for Superior Search Engine Optimization Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-understanding-youtubes-user-interaction-options/"><u>[New] 2024 Approved Understanding YouTube's User Interaction Options</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unveiling-the-high-resolution-benq-sw320-monitor/"><u>[New] 2024 Approved Unveiling the High-Resolution BenQ SW320 Monitor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-ranked-choices-ideal-online-spots-for-grab-snapchat-ringtone/"><u>[New] High-Ranked Choices Ideal Online Spots for Grab Snapchat Ringtone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-decoding-shrouded-comments-in-video-platforms/"><u>[New] In 2024, Decoding Shrouded Comments in Video Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-videocutters-comprehensive-scrutiny-final-verdict/"><u>[New] VideoCutter's Comprehensive Scrutiny – Final Verdict</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-success-secrets-8-steps-to-becoming-a-top-poster/"><u>[Updated] Instagram Success Secrets 8 Steps to Becoming a Top Poster</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-integrating-picture-in-picture-the-essentials-of-ms-edge-for-2024/"><u>[Updated] Integrating Picture-in-Picture The Essentials of MS Edge for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-6-mac-methods-for-recording-live-tv-shows-like-netflix/"><u>[Updated] The Ultimate 6 Mac Methods for Recording Live TV Shows Like Netflix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>[Updated] Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-m2ts-online/"><u>AVI 크레이트를 M2TS로 자유성 대상에서 원활한 바이네틱스 전환 - Online웍스</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-access-the-latest-energy-efficient-updates-in-google-chrome-a-step-by-step-guide/"><u>How To Access the Latest Energy-Efficient Updates in Google Chrome: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-60-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo 60 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>In 2024, The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unrivaled-guide-to-no-cost-photography-archives/"><u>In 2024, Unrivaled Guide to No-Cost Photography Archives</u></a></li>
 </ul></div>
 

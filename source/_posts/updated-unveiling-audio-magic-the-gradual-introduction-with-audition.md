@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling Audio Magic  The Gradual Introduction with Audition\""
-date: 2024-10-28T23:51:54.542Z
-updated: 2024-10-30T17:20:31.400Z
+date: 2024-10-29T16:08:40.692Z
+updated: 2024-11-05T17:04:06.508Z
 tags: 
   - screen-recording
   - ai video
@@ -77,9 +77,23 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs
 
@@ -87,23 +101,9 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Adobe Audition fade-out greyed out?
 
@@ -120,10 +120,10 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
@@ -133,29 +133,29 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
-## Part 3\. Related FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -197,16 +197,18 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-5-effective-tricks-for-youtube-subscriber-surges/"><u>[New] 2024 Approved 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-picks-superior-iphone-tone-creators/"><u>[New] 2024 Approved Top Picks Superior iPhone Tone Creators</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-charting-your-course-in-the-world-of-youtube-tracking-success-and-monetary-value/"><u>[New] Charting Your Course in the World of YouTube Tracking Success & Monetary Value</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-windows-11-video-editing-simplified-utilizing-storyremix-features/"><u>[New] Windows 11 Video Editing Simplified Utilizing StoryRemix Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-arsenal-of-classics-top-7-precision-games/"><u>[Updated] Arsenal of Classics Top 7 Precision Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-captivating-conversations-opening-lines-in-audios/"><u>[Updated] Captivating Conversations Opening Lines in Audios</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/immersive-tech-the-best-vr-gadgets-rated/"><u>Immersive Tech The Best VR Gadgets Rated</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-minutes-four-innovative-ways-to-apply-chatgpt-in-time-management/"><u>Maximize Your Minutes: Four Innovative Ways to Apply ChatGPT in Time Management</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-curating-an-in-depth-look-at-2023s-best-pc-vr-headsets/"><u>[New] 2024 Approved Curating an In-Depth Look at 2023'S Best PC VR Headsets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-exploring-high-speed-action-a-top-5-game-list/"><u>[New] 2024 Approved Exploring High-Speed Action A Top 5 Game List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-filmoquery-your-guide-to-video-editing-insights/"><u>[New] 2024 Approved FilmoQuery Your Guide to Video Editing Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-recording-facebook-video-calls-4-methods/"><u>[New] Recording Facebook Video Calls [4 Methods]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-innovation-in-iphone-filmmaking-virtual-worlds/"><u>[Updated] 2024 Approved Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-speedy-streams-ios-media-on-your-pc-for-2024/"><u>[Updated] Speedy Streams IOS Media on Your PC for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-cloud-notes-with-mematic/"><u>Cutting-Edge Cloud Notes with Mematic</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fix-booting-issues-choose-right-boot-unit-on-windows-11-devices-4-essential-steps/"><u>Fix Booting Issues: Choose Right Boot Unit on Windows 11 Devices - 4 Essential Steps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 12 mini to Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/investing-wisely-in-subscribers-get-more-for-less/"><u>Investing Wisely in Subscribers Get More for Less</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-platforms-enlisted-in-joes-covid-19-quest/"><u>Social Platforms Enlisted in JOE'S COVID-19 Quest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-resolve-msstdfmtdll-cannot-be-found/"><u>Troubleshoot and Resolve 'Msstdfmt.dll Cannot Be Found'</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/trusted-iphone-software-for-permanently-clearing-out-private-files-and-personal-details/"><u>Trusted iPhone Software for Permanently Clearing Out Private Files and Personal Details</u></a></li>
 </ul></div>
 

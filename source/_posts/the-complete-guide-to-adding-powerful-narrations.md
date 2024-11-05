@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Adding Powerful Narrations"
-date: 2024-10-26T17:31:15.071Z
-updated: 2024-10-31T01:58:44.476Z
+date: 2024-10-30T17:50:33.346Z
+updated: 2024-11-05T17:27:18.953Z
 tags: 
   - screen-recording
   - ai video
@@ -50,10 +50,16 @@ But here's the good news: the way you add either option is the same in Filmora.
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add narration
@@ -68,18 +74,18 @@ You put the playhead where you want to start recording and hit the microphone ic
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
 You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
 
@@ -99,19 +105,6 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
@@ -119,13 +112,20 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -165,22 +165,22 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>[New] 2024 Approved Implementing LUTs in Photoshop CS6/CC An In-Depth Analysis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-infuse-vibrancy-in-presentations-via-audio/"><u>[New] In 2024, Infuse Vibrancy in Presentations via Audio</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-list-of-premium-windows-edits-apps/"><u>[Updated] Comprehensive List of Premium Windows Edits Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-increase-photographic-imagery-keeping-details-intact/"><u>[Updated] In 2024, Increase Photographic Imagery, Keeping Details Intact</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-moment-of-glory-snapshots-in-win-os/"><u>[Updated] Moment of Glory Snapshots in Win OS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-affordable-asmr-experience-awaits/"><u>[Updated] The Ultimate Affordable ASMR Experience Awaits</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211015364-9781633413245-alive-with-spirits/"><u>Alive with Spirits | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Samsung Galaxy F34 5G.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortlessly-update-your-windows-device-with-the-latest-synaptics-drivers-heres-how/"><u>Effortlessly Update Your Windows Device with the Latest Synaptics Drivers – Here's How</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-90-lite-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor 90 Lite Without PUK Codes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-avoiding-consequences-when-quitting-discord-spaces/"><u>In 2024, Avoiding Consequences When Quitting Discord Spaces</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-prime-edition-ai-graphic-mastery-software/"><u>In 2024, Prime Edition AI Graphic Mastery Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-selecting-the-perfect-drone-stabilizer-a-guide/"><u>In 2024, Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/infuse-photos-with-realism-facial-motion-blur-via-picsart/"><u>Infuse Photos with Realism Facial Motion Blur via Picsart</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-video-rankings-on-youtube-essential-seo-techniques-unveiled-for-2024/"><u>Mastering Video Rankings on YouTube Essential SEO Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/setting-adjustments-stored-effectively/"><u>Setting Adjustments Stored Effectively</u></a></li>
-<li><a href="https://fox-search.techidaily.com/what-happens-to-your-information-when-you-disconnect-from-your-apple-account/"><u>What Happens to Your Information When You Disconnect From Your Apple Account?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-harness-the-power-of-online-cropping-to-elevate-your-photos/"><u>[New] 2024 Approved Harness the Power of Online Cropping to Elevate Your Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-recommended-asmrists-for-nighttime-calmness/"><u>[New] 2024 Approved Top Recommended ASMRists for Nighttime Calmness</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-instantly-recover-lost-reddit-posts/"><u>[New] How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dynamic-editing-mastering-effects-on-tiktok-content/"><u>[New] In 2024, Dynamic Editing Mastering Effects on TikTok Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-waves-with-top-surf-cams/"><u>[New] Mastering Waves with Top Surf Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-iphone-user-manual-for-water-imagery-for-2024/"><u>[New] The Ultimate iPhone User Manual for Water Imagery for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-text-plugins-for-after-effects/"><u>[Updated] 2024 Approved Best Text Plugins For After Effects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-crossing-over-sound-the-blend-technique/"><u>[Updated] 2024 Approved Crossing Over Sound The Blend Technique</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-script-to-screen-animating-stories-using-wmm/"><u>[Updated] 2024 Approved From Script to Screen Animating Stories Using WMM</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-winning-in-media-creation-with-ease-movies-maker-secrets-for-windows-8-users/"><u>[Updated] 2024 Approved Winning in Media Creation with Ease Movies Maker Secrets for Windows 8 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-pioneers-the-power-of-crossfading/"><u>[Updated] Audio Pioneers The Power of Crossfading</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ae-text-and-title-styles-guide/"><u>[Updated] In 2024, AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-smile-and-share-easy-memes-via-kinemaster-for-2024/"><u>[Updated] Smile and Share Easy Memes via KineMaster for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-cutting-edge-tablet-tech-for-less-the-10gen-apple-ipad-now-just-299-post-prime-day-deal-insights-from-zdnet/"><u>Experience Cutting-Edge Tablet Tech for Less: The 10Gen Apple iPad Now Just $299 Post-Prime Day Deal | Insights From ZDNet!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unleash-creative-potential-top-10-sticker-enhancing-mobile-apps-for-2024/"><u>Unleash Creative Potential Top 10 Sticker-Enhancing Mobile Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-world-through-360-degree-fisheye-imaging/"><u>Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-curated-selection-of-platforms-offering-no-cost-ending-music-pieces-no-intellectual-property-rights/"><u>Updated 2024 Approved Curated Selection of Platforms Offering No-Cost Ending Music Pieces No Intellectual Property Rights</u></a></li>
 </ul></div>
 

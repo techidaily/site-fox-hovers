@@ -1,7 +1,7 @@
 ---
 title: "\"From Amateurs to Pros  Learning Audio Recording in Audacity\""
-date: 2024-10-25T17:55:55.681Z
-updated: 2024-10-30T18:11:04.714Z
+date: 2024-10-31T18:09:18.062Z
+updated: 2024-11-05T18:47:18.829Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Recording using Mac
@@ -61,10 +61,16 @@ Step3In the "Device" section of the Audacity preferences box, choose "Soundflowe
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Export your audio
@@ -115,19 +121,17 @@ Simply select the necessary file format from the drop-down box that appears next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-sonic-sweets-best-romantic-melodies-for-your-pledged-life/"><u>[New] Sonic Sweets Best Romantic Melodies for Your Pledged Life</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>[New] Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-tip-post-youtube-content-dont-twit/"><u>[Updated] 2024 Approved Social Media Tip Post YouTube Content, Don't Twit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-clear-picture-perfection-the-best-online-image-enhancers/"><u>[Updated] Clear Picture Perfection The Best Online Image Enhancers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-premier-android-vocal-mixer-app/"><u>[Updated] Premier Android Vocal Mixer App</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-captivating-creativity-with-advanced-tiktok-filters/"><u>2024 Approved Captivating Creativity with Advanced TikTok Filters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/for-newcomers-discover-these-essential-gopro-upgrades/"><u>For Newcomers, Discover These Essential GoPro Upgrades</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/from-phone-to-professional-recording-diy-tips-and-tricks/"><u>From Phone to Professional Recording DIY Tips and Tricks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>In 2024, Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>In 2024, From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v30-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V30 to Protect Your Individual Information</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-10-best-video-speed-changing-apps-for-free-ios-and-android-2022/"><u>New In 2024, Top 10 Best Video Speed Changing Apps for FREE iOS and Android, 2022</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unlocking-drone-knowledge-must-know-before-making-a-deal-for-2024/"><u>Unlocking Drone Knowledge Must-Know Before Making a Deal for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-imperator-rome-a-gritty-tale-of-conquest-and-kingdom-building/"><u>Unraveling Imperator: Rome - A Gritty Tale of Conquest and Kingdom Building</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>[New] 2024 Approved Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>[New] In 2024, Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>[Updated] Crafting a Superior FPV Drone Setup Choosing Right Propellers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-quick-guide-posting-podcast-on-instagram/"><u>[Updated] In 2024, Quick Guide Posting Podcast on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-wirecast-techniques-for-captivating-facebook-viewers/"><u>2024 Approved Wirecast Techniques for Captivating Facebook Viewers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/web-windows-10/"><u>効果的なWebミーティングの録画・録音: Windows 10による技術ガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitch-expert-strategies-to-successfully-start-division-2-on-your-pc/"><u>Beat the Glitch: Expert Strategies to Successfully Start Division 2 on Your PC !</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317703-9781848508798-change-your-words-change-your-world/"><u>Change Your Words, Change Your World | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-front-seat-recreation-10-non-athletic-delights/"><u>In 2024, Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-winning-windows-wisdom-quick-photo-mastery/"><u>In 2024, Winning Window's Wisdom Quick Photo Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/playful-puzzle-why-do-games-halt-windows/"><u>Playful Puzzle: Why Do Games Halt Windows?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/"><u>Your Journey Through Telegram's Web Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Unveiling the Syma X5C  A Beginner’s Prime Drone Choice\""
-date: 2024-10-29T17:00:41.065Z
-updated: 2024-10-30T20:47:17.238Z
+date: 2024-11-04T17:50:23.168Z
+updated: 2024-11-05T16:04:45.162Z
 tags: 
   - screen-recording
   - ai video
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review for Syma X5C
@@ -104,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -116,20 +116,14 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -169,19 +163,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-vrs-immersive-visual-experience/"><u>[New] 2024 Approved Unveiling VR's Immersive Visual Experience</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-leading-edge-computers-for-your-office-for-2024/"><u>[New] Leading-Edge Computers for Your Office for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-lullaby-videos-a-study-on-sleep-inducing-stories/"><u>[New] Lullaby Videos A Study on Sleep-Inducing Stories</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-maximize-creativity-top-10-secrets-from-canva-pros-for-2024/"><u>[New] Maximize Creativity - Top 10 Secrets From Canva Pros for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-image-saga-assembly-package/"><u>[New] Premier Image Saga Assembly Package</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-crafting-wide-angle-photos-with-a-fisheye-effect/"><u>[Updated] Crafting Wide-Angle Photos with a Fisheye Effect</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-tickle-tycoon-picture-builder-for-2024/"><u>[Updated] Tickle Tycoon Picture Builder for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-8-enhancement-packs-for-live-video-feeds/"><u>[Updated] Ultimate 8 Enhancement Packs for Live Video Feeds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/captivating-content-incorporate-these-20-magic-words/"><u>Captivating Content Incorporate These 20 Magic Words</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-engaging-visuals-after-effects-best-10-text-plans-for-2024/"><u>Crafting Engaging Visuals After Effect's Best 10 Text Plans for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-10-ultimate-websites-for-stunning-hdr-skies/"><u>In 2024, 10 Ultimate Websites for Stunning HDR Skies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-apex-design-hub-audit/"><u>In 2024, Apex Design Hub Audit</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>In 2024, Basic Approach Adjust Sea Creature Tones in Windows OS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-best-digital-audio-trimmer-tools-of-the-future/"><u>New The Best Digital Audio Trimmer Tools of the Future</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-drone-families-and-forms/"><u>[New] In 2024, Drone Families and Forms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>[New] Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>[New] The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>[New] Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transform-your-tapes-with-these-top-5-brighteners/"><u>[New] Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-gif-magic-on-mac-leading-tools-of-10/"><u>[Updated] 2024 Approved GIF Magic on Mac Leading Tools of 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-chortlechamber-personalize-everyday-humor-online/"><u>[Updated] ChortleChamber Personalize Everyday Humor Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-craft-your-own-story-10-best-cost-free-ios-photo-collage-tools/"><u>[Updated] In 2024, Craft Your Own Story 10 Best, Cost-Free iOS Photo Collage Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-exploration-of-distinct-video-camera-kinds/"><u>2024 Approved Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ergoheads-durable-and-cozy-desk-mat-a-thorough-review-for-extended-use-experience/"><u>Ergohead's Durable and Cozy Desk Mat: A Thorough Review for Extended Use Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dance-drumming-dodoes/"><u>In 2024, Dance Drumming Dodoes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/saving-on-space-tips-for-storing-mov-in-windows-10-devices-for-2024/"><u>Saving on Space Tips for Storing .mov in Windows 10 Devices for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-action-cam-battle-gopro-hero5-and-sj7-star/"><u>Top Action Cam Battle GoPro Hero5 & SJ7 Star</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-strategy-ensuring-peak-functionality-of-atheros-devices-in-windows-11/"><u>Update Strategy: Ensuring Peak Functionality of Atheros Devices in Windows 11</u></a></li>
 </ul></div>
 

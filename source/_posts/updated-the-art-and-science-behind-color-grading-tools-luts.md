@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art and Science Behind Color Grading Tools (LUTs)"
-date: 2024-10-24T20:00:12.120Z
-updated: 2024-10-31T02:05:12.614Z
+date: 2024-10-31T18:54:21.357Z
+updated: 2024-11-05T17:24:27.208Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -72,10 +79,10 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -87,10 +94,10 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Here's the first method
@@ -116,13 +123,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -134,16 +134,10 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -176,21 +170,17 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-ultimate-compilation-best-6-fb-lite-extractors/"><u>[New] 2024 Approved Ultimate Compilation Best 6 FB Lite Extractors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-a-hands-on-manual-to-easily-navigate-trending-youtube-comments/"><u>[New] A Hands-On Manual to Easily Navigate Trending YouTube Comments</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-igtv-presence-secrets-to-skyrocketing-subscribers/"><u>[New] Elevate Your IGTV Presence Secrets to Skyrocketing Subscribers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[New] In 2024, Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-guide-mastering-color-correction-and-grading/"><u>[New] In 2024, Ultimate Guide Mastering Color Correction & Grading</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-meme-mastery-in-the-metaverse-a-comedic-journey/"><u>[New] Meme Mastery in the Metaverse A Comedic Journey</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-strategizing-to-spot-and-capture-youtubes-hidden-markets/"><u>[New] Strategizing to Spot and Capture Youtube's Hidden Markets</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-captivating-visuals-for-digital-stagecraft/"><u>[Updated] 2024 Approved Captivating Visuals for Digital Stagecraft</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-dynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters/"><u>[Updated] In 2024, Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-efficient-tools-simplifying-the-task-of-feedback-erasure/"><u>[Updated] In 2024, Efficient Tools Simplifying the Task of Feedback Erasure</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-hero-4-black-or-x1000v-winner-in-cinematic-shots/"><u>[Updated] In 2024, Hero 4 Black or X1000V Winner in Cinematic Shots?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>[Updated] Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-c930e-hd-webcam-drivers-for-windows-11-users/"><u>Download Logitech C930e HD Webcam Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>In 2024, A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transferring-data-safely-a-step-by-step-guide-for-safe-mode-file-transfers-on-windows/"><u>Transferring Data Safely: A Step-by-Step Guide for Safe Mode File Transfers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zero-users-focus-enforcing-group-policy-on-individual-profiles/"><u>Zero-Users Focus: Enforcing Group Policy on Individual Profiles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-engineer-eliciting-gags/"><u>[New] 2024 Approved Engineer Eliciting Gags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visionary-tech-showcase-the-finest-oculus-experiences-for-2024/"><u>[New] Visionary Tech Showcase The Finest Oculus Experiences for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-asus-mg28uq-screen-a-4k-odyssey-of-immersion-and-fidelity/"><u>[Updated] In 2024, ASUS MG28UQ Screen - A 4K Odyssey of Immersion and Fidelity</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-navigating-the-copyright-seas-before-posting-on-tiktok-for-2024/"><u>[Updated] Navigating the Copyright Seas Before Posting on TikTok for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimal-viewport-adjustment-iphones-zooming-guide-for-2024/"><u>[Updated] Optimal Viewport Adjustment IPhone's Zooming Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-artisans-secret-to-viral-youtube-success/"><u>[Updated] The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-six-simplest-strategies-to-craft-your-mc-dwelling/"><u>2024 Approved Six Simplest Strategies to Craft Your MC Dwelling</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-g22-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia G22 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-techniques-for-writing-compelling-youtube-scripts-like-a-pro/"><u>ChatGPT Techniques for Writing Compelling YouTube Scripts Like a Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>In 2024, Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/initiating-understanding-of-screen-resolution-and-quality/"><u>Initiating Understanding of Screen Resolution and Quality</u></a></li>
 </ul></div>
 

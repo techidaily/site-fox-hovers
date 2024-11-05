@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Distort Image, Distance Worry  Photo Editing Trick\""
-date: 2024-09-09T10:52:22.789Z
-updated: 2024-09-10T10:52:22.789Z
+date: 2024-10-29T17:10:14.663Z
+updated: 2024-11-05T16:35:56.509Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -40,12 +34,6 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
@@ -58,12 +46,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
@@ -72,18 +54,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
@@ -99,17 +69,18 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -142,4 +113,23 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>[Updated] 2024 Approved From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-beginners-blueprint-mastering-movie-maker-with-windows-8/"><u>[Updated] In 2024, Beginner's Blueprint Mastering Movie Maker with Windows 8</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>[Updated] In 2024, Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-your-basketball-viewing-top-15-strategies-for-live-streams/"><u>[Updated] In 2024, Elevate Your Basketball Viewing Top 15 Strategies for Live Streams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-sizzling-shots-capturing-culinary-magic-for-2024/"><u>[Updated] Sizzling Shots Capturing Culinary Magic for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles/"><u>[Updated] Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/excellence-unleashed-the-pinnacle-fps-selections/"><u>Excellence Unleashed The Pinnacle FPS Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/idea-ink-the-top-10-iosandroid-image-writing-tools-for-2024/"><u>Idea Ink The Top 10 iOS/Android Image-Writing Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-achieving-perfect-picture-quality-on-zoom/"><u>In 2024, Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-chortle-chart-discovering-the-worlds-loudest-laughter/"><u>In 2024, Chortle Chart Discovering the Worlds Loudest Laughter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-play-7t-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Play 7T Phone Screen?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos/"><u>Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96455122-9781420935608-the-master-key-system/"><u>The Master Key System | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-the-10-leading-ai-video-improvement-software-august-update/"><u>The Ultimate Guide to the 10 Leading AI Video Improvement Software (August Update)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210170586-9781643344249-un-espiritu-se-es-y-un-alma-se-posee/"><u>Un Espíritu Se es y un Alma se Posee | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-mobile-network-providers-a-comprehensive-guide/"><u>Understanding Mobile Network Providers: A Comprehensive Guide</u></a></li>
+</ul></div>
 

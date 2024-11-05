@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone X Photography  Leveraging Latest Features for 2024\""
-date: 2024-10-24T02:23:31.823Z
-updated: 2024-10-30T22:05:32.692Z
+date: 2024-11-01T18:15:59.121Z
+updated: 2024-11-05T19:01:04.143Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: The importance of depth
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -80,26 +80,32 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,20 +141,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-relaxation-reigns-top-pc-titles/"><u>[New] 2024 Approved Relaxation Reigns Top PC Titles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras-for-2024/"><u>[New] Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-precision-photography-without-shake/"><u>[Updated] 2024 Approved Precision Photography without Shake</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-professional-gopro-filming/"><u>[Updated] 2024 Approved The Ultimate Guide to Professional GoPro Filming</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-30-voice-modification-solutions-vtubers-guidebook/"><u>[Updated] 2024 Approved Top 30 Voice Modification Solutions VTubers Guidebook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-images-the-novices-guide-to-snapseed/"><u>[Updated] Enhancing Images The Novice's Guide to Snapseed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-a-step-by-step-guide-to-soundtracks-on-social-feeds/"><u>[Updated] In 2024, A Step-by-Step Guide to Soundtracks on Social Feeds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-guidelines-for-choosing-the-right-podcast-name/"><u>[Updated] In 2024, Essential Guidelines for Choosing the Right Podcast Name</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ignite-passion-the-top-10-inspirational-films/"><u>[Updated] In 2024, Ignite Passion The Top 10 Inspirational Films</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-top-12-action-cameras-with-gps/"><u>[Updated] Top 12 Action Cameras with GPS</u></a></li>
-<li><a href="https://facebook.techidaily.com/fb-messenger-privacy-the-anticipated-rollout-of-e2ee/"><u>FB Messenger Privacy: The Anticipated Rollout of E2EE</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-12-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 12</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-c67-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme C67 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-face-off-iphone-15-plus-vs-pro-max-performance-and-capabilities-analyzed/"><u>Ultimate Face-Off: IPhone 15 Plus Vs. Pro Max Performance and Capabilities Analyzed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-advanced-techniques-for-proximity-viewing-in-roblox-for-2024/"><u>[New] Advanced Techniques for Proximity Viewing in Roblox for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-innovative-srt-conversion-tactics-for-pc-and-mac-for-2024/"><u>[New] Innovative SRT Conversion Tactics for PC and Mac for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ideas-to-maximize-gopro-battery-performance/"><u>[Updated] 2024 Approved Ideas to Maximize GoPro Battery Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-xsplit-collection-comprehensive-gaming-review/"><u>[Updated] In 2024, XSplit Collection Comprehensive Gaming Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>[Updated] In 2024, Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-unbiased-and-structured-interviews/"><u>[Updated] Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crafting-color-convincingness-like-a-pro/"><u>Crafting Color Convincingness Like a Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-charting-the-best-affordable-virtual-studio-technology-enhancers-for-todays-producers/"><u>In 2024, Charting the Best Affordable Virtual Studio Technology Enhancers for Todays Producers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-apple-watchs-battery-top-8-essential-setting-adjustments-revealed-by-zdnet/"><u>Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reviving-the-workspace-dive-into-windows-10s-innovations/"><u>Reviving the Workspace Dive Into Windows 10'S Innovations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-starting-starfield-fix-it-now-with-our-expert-guide-for-steam-and-xbox-users/"><u>Trouble Starting Starfield? Fix It Now with Our Expert Guide for Steam and Xbox Users!</u></a></li>
 </ul></div>
 

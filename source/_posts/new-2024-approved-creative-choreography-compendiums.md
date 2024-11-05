@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Creative Choreography Compendiums\""
-date: 2024-10-25T18:50:25.603Z
-updated: 2024-10-30T22:53:21.157Z
+date: 2024-11-01T18:59:12.450Z
+updated: 2024-11-05T16:37:12.152Z
 tags: 
   - screen-recording
   - ai video
@@ -33,11 +33,31 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Liquid Text Animation
 
 You get 110 animated elements that you can apply to the text in your video. The effects are perfectly suitable for videos where comedy is the main theme. The liquid text effect looks organic and natural, and the colors are eye-catching to grab everyone’s attention. There are 8 text scenes and one text preset present, along with 110 animated presets. The effects are HD in resolution, and they are modular and adjustable. It is time to download and use them to make your video dynamic.
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
 
@@ -46,10 +66,10 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -64,32 +84,11 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
 
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
 
@@ -98,10 +97,16 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -109,6 +114,13 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -144,16 +156,20 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-quality-acoustics-at-an-accessible-price-point/"><u>[New] 2024 Approved Quality Acoustics at an Accessible Price Point</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-download-pc-sound-logger-x-recorder-app/"><u>[New] Download Pc Sound Logger - X-Recorder App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-reel-in-viewers-with-these-best-twitch-cameras-and-webcams-for-2024/"><u>[New] Reel in Viewers with These Best Twitch Cameras and Webcams for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-leveraging-modern-ios-features-for-seamless-task-management/"><u>[Updated] 2024 Approved Leveraging Modern iOS Features for Seamless Task Management</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-live-youtube-streaming-unlocked-beginners-obs-tutorial/"><u>[Updated] 2024 Approved Live Youtube Streaming Unlocked Beginner's OBS Tutorial</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-skypes-premier-audio-capture-solutions/"><u>[Updated] 2024 Approved Skype's Premier Audio Capture Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/color-contrast-reimagined-choosing-hdr-for-better-videos-for-2024/"><u>Color Contrast Reimagined Choosing HDR for Better Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-best-cybersecurity-software-of-2024-pcmag/"><u>The Best Cybersecurity Software of 2024 | PCMag</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-new-era-of-capturing-life-with-updated-lg-360-cameras-for-2024/"><u>The New Era of Capturing Life with Updated LG 360 Cameras for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-osetupdll-file-issues-on-your-computer/"><u>Troubleshooting and Repairing osetup.dll File Issues on Your Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-top-strategies-for-mastering-subway-surfers/"><u>Ultimate Guide: Top Strategies for Mastering 'Subway Surfers'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-quell-the-quake-techniques-to-smooth-out-gopro-footage/"><u>[New] 2024 Approved Quell the Quake Techniques to Smooth Out GoPro Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-significant-tenets-of-interactive-storytelling/"><u>[New] Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-5-video-snapshot-recorders/"><u>[Updated] Elite 5 Video Snapshot Recorders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-budgeting-approach-to-making-music-videos/"><u>[Updated] In 2024, Budgeting Approach to Making Music Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>[Updated] In 2024, Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-connoisseurs-guide-to-adding-precise-dates-on-images/"><u>[Updated] In 2024, The Connoisseur's Guide to Adding Precise Dates on Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-podcast-sharing-instagram-stories-and-posts-tutorial/"><u>[Updated] Podcast Sharing Instagram Stories & Posts Tutorial</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-preparing-your-environment-zoom-room-configuration-tips/"><u>[Updated] Preparing Your Environment Zoom Room Configuration Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/complete-overview-bublcam-360-camera-explored-for-2024/"><u>Complete Overview Bublcam 360 Camera Explored for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/creating-auditory-immersion-with-canvas-soundscape-tools-for-2024/"><u>Creating Auditory Immersion with Canva's Soundscape Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/economical-skydrive-vault-mass-file-management-on-a-dime/"><u>Economical Skydrive Vault Mass File Management on a Dime</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-v30t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme V30T For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-resolving-issues-with-your-current-netflix-title-not-playing/"><u>Troubleshooting: Resolving Issues with Your Current Netflix Title Not Playing</u></a></li>
 </ul></div>
 
