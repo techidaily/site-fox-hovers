@@ -1,7 +1,7 @@
 ---
 title: "[New] Review of Syma X5C – The Ultimate Drone Guide for New Users for 2024"
-date: 2024-10-29T19:22:49.204Z
-updated: 2024-11-05T17:34:48.716Z
+date: 2024-11-12T17:25:45.964Z
+updated: 2024-11-15T16:44:47.173Z
 tags: 
   - screen-recording
   - ai video
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review for Syma X5C
@@ -103,26 +103,26 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -132,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -163,14 +163,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-subscriptions-the-value-of-youtube-premium/"><u>[New] 2024 Approved Exploring Subscriptions The Value of YouTube Premium</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-encompassing-explanation-what-is-googles-podcast-service-for-2024/"><u>[New] Encompassing Explanation What Is Google's Podcast Service for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-enhance-your-media-masterpiece-with-canvas-soundscape-edition/"><u>[New] Enhance Your Media Masterpiece with Canva's Soundscape Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories-for-2024/"><u>[New] Leveraging Likes and Comments Enhancing Engagement on Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-eye-twinkling-jokes-generate-on-kapwing/"><u>[Updated] Eye-Twinkling Jokes Generate on Kapwing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-preferred-mkv-player-choices-on-macos/"><u>[Updated] In 2024, Preferred MKV Player Choices on macOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/dissecting-disadvantages-a-vr-analysis/"><u>Dissecting Disadvantages A VR Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-pause-a-look-into-why-new-chatgpt-subscriptions-are-on-hold/"><u>Navigating the Pause: A Look Into Why New ChatGPT Subscriptions Are On Hold</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-online-video-smoothers-our-top-picks/"><u>New In 2024, Free Online Video Smoothers Our Top Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-notepad-delight-photography-enhancers/"><u>[New] 2024 Approved Digital Notepad Delight Photography Enhancers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-bio-link-addition-on-tiktok/"><u>[New] In 2024, Mastering Bio Link Addition on TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-4-free-tools-for-youtube-audio-conversion-to-wav/"><u>[New] Top 4 Free Tools for YouTube Audio Conversion to WAV</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-twisting-the-tale-a-comprehensively-dual-angled-approach-for-insta-posts-for-2024/"><u>[New] Twisting the Tale A Comprehensively Dual-Angled Approach for Insta Posts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images/"><u>[Updated] 2024 Approved Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-skill-enhancement-on-screen-top-10-android-drawing-app-list/"><u>[Updated] 2024 Approved Skill Enhancement on Screen Top 10 Android Drawing App List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>[Updated] 2024 Approved Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>[Updated] In 2024, Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-snapcutmaster-insights-full-video-editor-evaluation-for-2024/"><u>[Updated] SnapCutMaster Insights – Full Video Editor Evaluation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-mix-fold-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Mix Fold 3 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/all-encompassing-virtual-horizon-review/"><u>All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-t2x-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo T2x 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211322739--black-psychedelic-revolution/"><u>Black Psychedelic Revolution | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-pc-audio-quality-find-and-install-sound-card-drivers-in-windows/"><u>Enhance PC Audio Quality: Find and Install Sound Card Drivers in Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-your-media-best-ios-players-for-phones-and-tablets-for-2024/"><u>Master Your Media Best iOS Players for Phones & Tablets for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-13c-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi 13C Location | Dr.fone</u></a></li>
 </ul></div>
 

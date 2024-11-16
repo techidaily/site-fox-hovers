@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Night Sky Magic  Long-Exposure Photography on iPhone for 2024\""
-date: 2024-11-02T18:37:01.644Z
-updated: 2024-11-05T19:21:00.381Z
+date: 2024-11-10T21:22:07.856Z
+updated: 2024-11-15T18:50:10.869Z
 tags: 
   - screen-recording
   - ai video
@@ -42,18 +42,24 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image resource: imore
 
@@ -65,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Not a user of iOS 11?
 
  If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
@@ -79,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
  There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Long Exposure Photography Tips
 
@@ -90,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 * **Photograph moving objects:** Your Live Photo will translate better into a long exposure shot if you have something obviously moving in the image. Having a moving object against stationery surrounds works really well.
 
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What should you capture with your long exposure iPhone shots?
 
@@ -112,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image resource: Digital Photo Secrets
@@ -135,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -168,18 +180,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-ultimate-tutorial-customizing-the-final-frame-of-a-vimeo-video/"><u>[New] 2024 Approved Ultimate Tutorial Customizing the Final Frame of a Vimeo Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-freelance-warriors-guide-complimentary-psd-treasures/"><u>[New] Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-footage-borderless-exploration-for-2024/"><u>[Updated] Freeing Up YouTube Footage Borderless Exploration for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-starting-a-youtube-channel-the-ultimate-blueprint/"><u>[Updated] Starting a YouTube Channel The Ultimate Blueprint</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>2024 Approved Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-flexistabilizer-the-ultimate-videographers-tool/"><u>2024 Approved FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-color-palettes-applying-theories-effectively/"><u>2024 Approved Mastering Color Palettes Applying Theories Effectively</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>2024 Approved Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/"><u>2024 Approved Scouting Talent Top 5 Video Artists Who Create With Rhythm & Beat</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-vlc-mastery-unveiling-10-secret-capabilities/"><u>2024 Approved VLC Mastery Unveiling 10 Secret Capabilities</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>In 2024, Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-top-5-avant-garde-creators-in-digital-media/"><u>In 2024, Top 5 Avant-Garde Creators in Digital Media</u></a></li>
-<li><a href="https://solve-news.techidaily.com/simple-guide-mastering-the-art-of-selecting-the-perfect-dvd-name-from-the-complete-collection-series/"><u>Simple Guide: Mastering the Art of Selecting the Perfect DVD Name From 'The Complete Collection' Series</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-step-by-step-approach-to-enhanced-roblox-views-for-2024/"><u>[New] A Step-by-Step Approach to Enhanced Roblox Views for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>[New] Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-advanced-steps-to-record-silent-videos/"><u>[Updated] 2024 Approved Advanced Steps to Record Silent Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-2-screen-grab-tools/"><u>[Updated] In 2024, Master 2 Screen Grab Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-proven-methods-for-youtube-success-top-8-tools/"><u>[Updated] Proven Methods for YouTube Success - Top 8 Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovative-techniques-for-designing-attractive-vlog-narratives/"><u>2024 Approved Innovative Techniques for Designing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-laughing-in-the-metaverse-how-to-create-your-own-funny-memes/"><u>2024 Approved Laughing in the Metaverse How to Create Your Own Funny Memes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pushing-boundaries-advanced-iphone-silhouette-techniques/"><u>2024 Approved Pushing Boundaries Advanced iPhone Silhouette Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>2024 Approved Revolutionize Post-Production The Best 11 Tutorials on Color Workflow</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/"><u>2024 Approved Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-worlds-greatest-payloads-heavy-lift-drones-guide/"><u>2024 Approved World's Greatest Payloads Heavy Lift Drones Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-11s-failed-device-connection-attempts/"><u>Correcting Windows 11'S Failed Device Connection Attempts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-find-electric-vehicle-chargers-in-your-area-with-google-maps-a-comprehensive-guide/"><u>How to Find Electric Vehicle Chargers in Your Area with Google Maps: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/regain-access-to-vanished-picasa-pictures-with-these-proven-5-step-strategies/"><u>Regain Access to Vanished Picasa Pictures with These Proven 5-Step Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-smartwatch-functions-and-features/"><u>The Ultimate Guide to Smartwatch Functions & Features</u></a></li>
 </ul></div>
 

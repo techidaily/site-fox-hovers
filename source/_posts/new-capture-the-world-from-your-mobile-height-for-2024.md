@@ -1,7 +1,7 @@
 ---
 title: "[New] Capture the World From Your Mobile Height for 2024"
-date: 2024-09-05T00:14:54.812Z
-updated: 2024-09-06T00:14:54.812Z
+date: 2024-11-10T20:58:21.012Z
+updated: 2024-11-15T23:46:40.461Z
 tags: 
   - screen-recording
   - ai video
@@ -48,17 +48,25 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -69,29 +77,18 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -102,11 +99,12 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -130,4 +128,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-craft-your-story-leading-drawers-in-ipados/"><u>[New] 2024 Approved Craft Your Story Leading Drawers in iPadOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-behind-the-scenes-of-youtube-income-generation/"><u>[New] Behind the Scenes of YouTube Income Generation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-access-full-range-of-groups-shared-media-for-2024/"><u>[New] How to Access Full Range of Group's Shared Media for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>[New] In 2024, Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-sleepy-tales-in-visual-format-analysis/"><u>[New] In 2024, Sleepy Tales in Visual Format Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-online-broadcast-platforms/"><u>[New] In 2024, Ultimate Online Broadcast Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[New] In 2024, Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visual-storytelling-instagrams-photo-integration/"><u>[New] In 2024, Visual Storytelling Instagram's Photo Integration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-steam-playback-perfection-in-video-games/"><u>[New] Steam Playback Perfection in Video Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cultivating-connection-not-compulsion-in-subscriptions/"><u>[Updated] 2024 Approved Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>[Updated] 2024 Approved Fading Flourishes Invisible Audio Adjustments in Garageband</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-change-facebook-cover-photo-for-2024/"><u>[Updated] How to Change Facebook Cover Photo for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-perfect-photo-finishes-picarts-background-erase-method-for-2024/"><u>[Updated] Perfect Photo Finishes PicArt's Background Erase Method for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-instantly-recover-lost-reddit-posts/"><u>2024 Approved How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://facebook.techidaily.com/evaluating-trust-in-facebooks-safety-email-(securityfbcom)/"><u>Evaluating Trust in Facebook's Safety Email: <security@fb.com></u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco Devices</u></a></li>
+</ul></div>
 

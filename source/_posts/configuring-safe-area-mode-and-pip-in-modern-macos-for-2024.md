@@ -1,7 +1,7 @@
 ---
 title: "Configuring Safe Area Mode & PIP in Modern MacOS for 2024"
-date: 2024-10-29T17:23:37.597Z
-updated: 2024-11-05T16:03:05.027Z
+date: 2024-11-13T18:37:06.516Z
+updated: 2024-11-15T17:54:34.124Z
 tags: 
   - screen-recording
   - ai video
@@ -48,15 +48,22 @@ Let's have a look at how to use Picture in Picture in Safari on Mac:
 
 ![enter picture in picture](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Suppose you opened the video tab only; you will see the small sound icon in the address bar. But if you open other tabs, in that case, you will see the small sound icon on the right side of the tab.
 
 You can see that utilizing Picture in Picture in Safari for Mac is simple, straightforward, and adaptable. Let's look at how to get the most of this feature now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Picture in Picture (PiP) on Mac
@@ -64,13 +71,6 @@ You can see that utilizing Picture in Picture in Safari for Mac is simple, strai
 When you enable this feature, the video will shrink and move to a corner on Mac's screen while still playing. You can perform several tasks to your taste as you keep watching and working. If you feel the size is too small or big, you can resize it by dragging any corner of the video. Furthermore, you can click and pull it to any side of the window if it disturbs your view.
 
 There is a play and pause button available also as well as the forward and backward if you wish to perform any of these activities. And again, you can decide to turn off this feature by repeating the procedure where you locate the small sound icon. But here, you select the mute this tab instead or click the "**X"** button at the top left corner to stop the video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to enable and disable picture in picture in Safari for iPhone
 
@@ -82,21 +82,7 @@ As we have discussed earlier, users have a way to enable the picture in picture 
 
 ![start pip automatically](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** You perform the above procedure also to disable the feature. However, in the case of disabling the option, you turn **OFF** the toggle button for **Start PiP Automatically** to disable this function.
 
@@ -107,6 +93,13 @@ Once you lunch this feature on iOS 14 or greater versions, it automatically shri
 To move the window to any screen part, simply tap and hold the video to drag and place it on any part of the screen you want. Another fantastic feature the iPhone offers is that it allows you to minimize the picture-in-picture window, and you will keep listening to the audio part of the video while working on other apps.
 
 ![move the window to any screen part](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
 
@@ -141,15 +134,35 @@ To move the window to any screen part, simply tap and hold the video to drag and
 
 ![move the window to any screen part](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
 
 ![move the window to screen's edge](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. How to enable and disable picture in picture in Safari for iPad
@@ -162,13 +175,6 @@ The picture in picture mode has been available on the iPad long before it was in
 * Here, toggle picture in picture ON to enable this feature; otherwise, toggle picture in picture OFF to disable the feature.
 
 Above all, you need to have it in the back of your mind that regardless of how you enable this feature, the app or website needs to support the picture in picture mode to work correctly. However, almost all website supports this feature, with YouTube being the top supporter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -204,16 +210,24 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-10-proven-methods-for-boosting-fb-search-rankings/"><u>[New] 2024 Approved 10 Proven Methods for Boosting FB Search Rankings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-speedy-strategies-capturing-your-screen-in-a-flash-dell/"><u>[New] 2024 Approved Speedy Strategies Capturing Your Screen in a Flash (Dell)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-buzzing-the-net-with-humor-your-comprehensive-guide-to-9gag/"><u>[New] In 2024, Buzzing the Net with Humor Your Comprehensive Guide to 9GAG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-breaking-barriers-with-excellent-job-interview-techniques/"><u>[Updated] In 2024, Breaking Barriers with Excellent Job Interview Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instamixer-uniting-android-and-ios-photo-sessions/"><u>[Updated] InstaMixer Uniting Android & iOS Photo Sessions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-vivid-cutting-edge-m1-chips-transform-video-editing-landscape-for-2024/"><u>[Updated] Vivid Cutting Edge M1 Chips Transform Video Editing Landscape for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-timeless-stop-motion-films-a-celebratory-15-list/"><u>2024 Approved Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
-<li><a href="https://win11.techidaily.com/a-windows-users-guide-for-web-site-app-conversion/"><u>A Windows User's Guide for Web Site App Conversion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audiovisual-format-fusion-srt-to-ttml-and-ssa-mastery/"><u>In 2024, Audiovisual Format Fusion SRT to TTML & SSA Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-comprehensive-hardware-analysis-and-expert-advice/"><u>Tom's Comprehensive Hardware Analysis and Expert Advice</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ushering-bliss-in-unboxing-7-strategies-for-2024/"><u>Ushering Bliss in Unboxing 7 Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-10-leading-4k-displays/"><u>[New] In 2024, 10 Leading 4K Displays</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-your-slide-show-webcam-screen-capture-methods/"><u>[New] In 2024, Mastering Your Slide Show Webcam Screen Capture Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-optimal-use-of-zoom-on-chrome-os-devices/"><u>[New] In 2024, Optimal Use of Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-innovative-audio-dramatic-writing/"><u>[New] Innovative Audio Dramatic Writing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transform-your-podcasts-identity-with-ai-name-makers-for-2024/"><u>[New] Transform Your Podcast's Identity with AI Name Makers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-brand-potential-with-essential-phrases-for-2024/"><u>[New] Unleashing Brand Potential with Essential Phrases for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-discovering-disconnected-users-in-social-network/"><u>[Updated] 2024 Approved Discovering Disconnected Users in Social Network</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-switching-on-windows-11s-adaptive-hdr-option/"><u>[Updated] 2024 Approved Switching On Windows 11'S Adaptive HDR Option</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultra-fast-windows-view-for-pictures/"><u>[Updated] In 2024, Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazon-kindle-vs-fire-tablet-distinguishing-key-features-and-uses/"><u>Amazon Kindle Vs. Fire Tablet - Distinguishing Key Features and Uses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-gallery-upload-on-iphone-device-for-2024/"><u>Android Gallery Upload on iPhone Device for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battling-bugs-fixing-forest-guardians-crash-issues-on-your-computer/"><u>Battling Bugs - Fixing Forest Guardians Crash Issues on Your Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-decoding-the-best-android-photography-software-is-picku-king/"><u>In 2024, Decoding the Best Android Photography Software - Is PickU King?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211235653-9780645649598-intergenerational-blind-spots/"><u>Intergenerational Blind Spots | Free Book</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/multimedia-mac-recording-software-with-sound/"><u>Multimedia Mac Recording Software with Sound</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg-for-2024/"><u>Rapid Methods to Customize Your Soundscaping in PUBG for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-exactly-is-a-frunk-in-electric-cars-and-the-finest-models-offering-it/"><u>What Exactly Is a 'Frunk' In Electric Cars & The Finest Models Offering It</u></a></li>
 </ul></div>
 

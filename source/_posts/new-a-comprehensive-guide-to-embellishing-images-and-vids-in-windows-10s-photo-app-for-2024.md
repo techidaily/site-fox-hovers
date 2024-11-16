@@ -1,7 +1,7 @@
 ---
 title: "[New] A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App for 2024"
-date: 2024-11-02T18:36:16.168Z
-updated: 2024-11-05T18:56:30.671Z
+date: 2024-11-13T22:25:57.894Z
+updated: 2024-11-16T00:17:00.848Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -67,13 +74,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -81,10 +81,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -92,26 +92,26 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,17 +138,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-edit-youtube-videos-in-final-cut-pro/"><u>[New] How to Edit YouTube Videos in Final Cut Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-film-lovers-answers-repository/"><u>[New] In 2024, Film Lovers' Answers Repository</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-add-text-to-youtube-video/"><u>[New] In 2024, How to Add Text to YouTube Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-empowering-your-iphones-capture-with-full-screen-images/"><u>[Updated] In 2024, Empowering Your iPhone's Capture with Full-Screen Images</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-insiders-choice-the-best-fb-video-tools/"><u>2024 Approved Insider's Choice The Best FB Video Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-art-of-story-lensing-smart-zooms-on-instagram/"><u>2024 Approved The Art of Story Lensing Smart Zooms on Instagram</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>2024 Approved Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views-for-2024/"><u>Breaking Into the Livestream Scene on YouTube with Under a Thousand Views for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-x-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone X Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-fundamentals-of-gif-design-and-creation/"><u>In 2024, The Fundamentals of GIF Design and Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snappy-solution-seconds-for-ssgnature-bg-purge-for-2024/"><u>Snappy Solution Seconds for Ssgnature BG Purge for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-t2-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo T2 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-financial-projections-producing-a-music-video/"><u>[New] 2024 Approved Financial Projections Producing a Music Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>[New] 2024 Approved Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exquisite-background-melodies-for-edits/"><u>[New] Exquisite Background Melodies for Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlock-the-ultimate-windows-screen-snip-list-1-5/"><u>[New] In 2024, Unlock the Ultimate Windows Screen Snip List, #1-5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-smooth-film-making-with-your-macbook-cam/"><u>[Updated] 2024 Approved Smooth Film Making with Your MacBook Cam</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>[Updated] Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-corrections-for-iphone-shot-blur-issues/"><u>2024 Approved Quick Corrections for iPhone Shot Blur Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleash-creativity-premium-editors-for-mobile-and-desktop-oses-for-2024/"><u>Unleash Creativity Premium Editors for Mobile & Desktop OSes for 2024</u></a></li>
 </ul></div>
 

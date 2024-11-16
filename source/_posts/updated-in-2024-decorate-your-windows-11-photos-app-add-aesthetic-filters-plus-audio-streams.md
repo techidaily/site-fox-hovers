@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Decorate Your Windows 11 Photos App  Add Aesthetic Filters + Audio Streams\""
-date: 2024-09-05T00:16:05.386Z
-updated: 2024-09-06T00:16:05.386Z
+date: 2024-11-13T23:14:10.367Z
+updated: 2024-11-15T17:16:38.662Z
 tags: 
   - screen-recording
   - ai video
@@ -65,24 +65,39 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
@@ -90,11 +105,12 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -118,4 +134,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[New] 2024 Approved Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-eliminating-barriers-accessing-fcp-at-no-charge-for-2024/"><u>[New] Eliminating Barriers Accessing FCP at No Charge for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-graphic-design-journeys-from-passion-to-profession/"><u>[New] Graphic Design Journeys From Passion to Profession</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevate-your-ppt-shows-with-advanced-techniques/"><u>[New] In 2024, Elevate Your PPT Shows with Advanced Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-approaches-to-elevate-roi-in-your-fb-ads-with-animation/"><u>[New] Innovative Approaches to Elevate ROI in Your FB Ads with Animation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tips-for-unlocking-youtube-video-comments-for-2024/"><u>[New] Tips for Unlocking YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[Updated] 2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-social-to-storage-iphone-and-android-gif-savings/"><u>[Updated] From Social to Storage IPhone & Android GIF Savings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pixel-perfect-converter-max-resolution/"><u>[Updated] Pixel Perfect Converter Max Resolution</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-sound-selection-for-social-media-stars/"><u>[Updated] Ultimate Sound Selection for Social Media Stars</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-mediatek-vcom-driver-downloads-and-steps-for-quick-installation/"><u>Effortless MediaTek VCOM Driver Downloads and Steps for Quick Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eliminating-the-auto-populated-suggestions-on-your-instagram/"><u>Eliminating the Auto-Populated Suggestions on Your Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/hero-4-vs-x1000v-which-camera-delivers-more-professional-results-in-2024/"><u>Hero 4 Vs. X1000V Which Camera Delivers More Professional Results, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-5-ways-to-record-audio-on-windows-10/"><u>In 2024, 5 Ways to Record Audio on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-4k-screen-recorder-applications/"><u>In 2024, Best 4K Screen Recorder Applications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-podcast-prominence-with-powerful-seo-insights-and-strategies/"><u>In 2024, Podcast Prominence with Powerful SEO Insights and Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-art-of-online-photo-trimming/"><u>Navigating the Art of Online Photo Trimming</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-trim-and-shine-top-free-online-video-editors-revealed-for-2024/"><u>New Cut, Trim, and Shine Top Free Online Video Editors Revealed for 2024</u></a></li>
+</ul></div>
 

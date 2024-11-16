@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Ultimate Picture Narrative Craft - Pro Edition\""
-date: 2024-10-30T18:08:40.473Z
-updated: 2024-11-05T18:51:29.709Z
+date: 2024-11-14T20:30:46.764Z
+updated: 2024-11-15T19:07:55.307Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -65,13 +72,6 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -81,26 +81,19 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Supported Output Formats by Web Converter
@@ -115,13 +108,20 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -148,20 +148,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>[New] 2024 Approved Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-interface-intensity/"><u>[New] In 2024, Innovative Interface Intensity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhance-visuals-basic-ps-color-techniques/"><u>[Updated] 2024 Approved Enhance Visuals Basic PS Color Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-start-saving-smiles-on-youtube-a-beginners-mac-tutorial/"><u>[Updated] 2024 Approved Start Saving Smiles on YouTube A Beginner's Mac Tutorial</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-meetings-with-zooms-filter-capabilities/"><u>[Updated] Elevate Your Meetings with Zoom's Filter Capabilities</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-getting-real-broadcast-your-life-on-youtube-using-obs/"><u>[Updated] In 2024, Getting Real Broadcast Your Life on Youtube Using OBS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-picks-best-windows-phone-video-players-list-for-2024/"><u>[Updated] Prime Picks Best Windows Phone Video Players List for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-webcamsecure-silk-screen-sticker/"><u>2024 Approved WebCamSecure Silk Screen Sticker</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/a-viral-strategy-for-impressive-instagram-stories/"><u>A Viral Strategy for Impressive Instagram Stories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-run-android-apps-in-windows-10/"><u>How to Run Android Apps in Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-a54-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy A54 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-dynamic-dimensions-adobes-approach-to-photo-motion-effects/"><u>In 2024, Dynamic Dimensions Adobe's Approach to Photo Motion Effects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/stepping-up-advanced-techniques-for-w11-gamers/"><u>Stepping Up Advanced Techniques for W11 Gamers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/uncluttered-images-using-photopea-for-flawless-edits/"><u>Uncluttered Images Using Photopea for Flawless Edits</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unlock-your-live-feed-free-cam-recording-and-top-picks/"><u>Unlock Your Live Feed Free Cam Recording & Top Picks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>[New] 2024 Approved Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-thoroughly-assessing-the-performance-of-theta-s/"><u>[New] 2024 Approved Thoroughly Assessing the Performance of Theta S</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-demystifying-and-decollecting-gopros-fish-eye-photos/"><u>[New] Demystifying & Decollecting GoPro's Fish Eye Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-ar-creations-with-downloadable-color-lookup-tables-for-2024/"><u>[New] Elevate Your AR Creations with Downloadable Color Lookup Tables for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-optimal-accessories-for-your-high-quality-gopro/"><u>[New] In 2024, Optimal Accessories for Your High-Quality GoPro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-5-xbox-external-hard-drive-for-2024/"><u>[New] Top 5 Xbox External Hard Drive for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-jumpstart-your-virtual-engagement-with-these-tips-for-livestreams-for-2024/"><u>[Updated] Jumpstart Your Virtual Engagement with These Tips for Livestreams for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-stealthy-sound-suppression-techniques-for-fade-out/"><u>[Updated] Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>2024 Approved Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-sightline-in-roblox-playground/"><u>2024 Approved Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crafting-laughs-the-ultimate-resource-for-free-templates/"><u>Crafting Laughs The Ultimate Resource for Free Templates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-gaming-heaven-a-treasure-trove-of-superb-offline-ios-game-titles/"><u>In 2024, Gaming Heaven A Treasure Trove of Superb Offline iOS Game Titles</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-profit-from-publishing-shopping-reviews/"><u>In 2024, Profit From Publishing Shopping Reviews?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/metaversal-musings-a-preamble-of-inspirational-thoughts/"><u>Metaversal Musings A Preamble of Inspirational Thoughts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-landscape-capture-iphone-killer-secrets-revealed-for-2024/"><u>Pro Landscape Capture IPhone Killer Secrets Revealed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/riproduci-trimestre-3g2-in-formato-3gp-online-e-gratuito-movavi/"><u>Riproduci Trimestre 3G2 in Formato 3GP Online E Gratuito - Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts-for-2024/"><u>Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210656389-9781538155462-the-encyclopedia-of-parapsychology/"><u>The Encyclopedia of Parapsychology | Free Book</u></a></li>
 </ul></div>
 

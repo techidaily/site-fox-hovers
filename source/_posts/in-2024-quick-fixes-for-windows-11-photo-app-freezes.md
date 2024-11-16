@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Fixes for Windows 11 Photo App Freezes"
-date: 2024-11-02T17:56:31.351Z
-updated: 2024-11-05T19:17:56.775Z
+date: 2024-11-13T00:35:55.644Z
+updated: 2024-11-15T17:40:33.359Z
 tags: 
   - screen-recording
   - ai video
@@ -59,20 +59,20 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -86,19 +86,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
@@ -110,6 +97,13 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -140,10 +134,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -173,21 +167,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-closer-views-using-videoleap-software/"><u>[New] Closer Views Using Videoleap Software</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-best-choices-essential-support-gear-for-your-gopro-camera/"><u>[New] In 2024, Best Choices Essential Support Gear for Your GoPro Camera</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-money-all-fcp-unveiled-methods/"><u>[New] No Money, All FCP – Unveiled Methods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-sync-your-social-media-savvy-with-video-posting-tips-for-instagram-for-2024/"><u>[New] Sync Your Social Media Savvy with Video Posting Tips for Instagram for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-fcp-freedom/"><u>[Updated] 2024 Approved Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-easy-tips-to-create-a-funny-meme/"><u>[Updated] In 2024, Easy Tips to Create a Funny Meme</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-get-savvy-with-io-screener-a-primer/"><u>[Updated] In 2024, Get Savvy with IO Screener A Primer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>[Updated] In 2024, Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-snapseed-101-basic-editing-techniques-unveiled/"><u>[Updated] Snapseed 101 Basic Editing Techniques Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unleashing-potential-top-10-ai-tools-for-podcast-titles-for-2024/"><u>[Updated] Unleashing Potential Top 10 AI Tools for Podcast Titles for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-reno-11f-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Reno 11F 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-offer-enjoy-three-months-of-apple-tvplus-entertainment-at-only-599/"><u>Exclusive Offer: Enjoy Three Months of Apple TV+ Entertainment at Only $5.99</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-3-status-unraveling-downtime-mysteries/"><u>GPT-3 Status: Unraveling Downtime Mysteries</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/invisible-footprints-tech-review-for-2024/"><u>Invisible Footprints Tech Review for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-choice-for-affordable-virtual-meetings-online-for-2024/"><u>The Ultimate Choice for Affordable Virtual Meetings Online for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>[New] 2024 Approved Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-innovative-iphone-tactics-for-capturing-glass-surfaces-for-2024/"><u>[New] Innovative iPhone Tactics for Capturing Glass Surfaces for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-prowl-these-top-ranked-sites-for-generous-vector-imagery-access/"><u>[Updated] In 2024, Prowl These Top-Ranked Sites for Generous Vector Imagery Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>[Updated] The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations-for-2024/"><u>Dynamic Dividends Boosting Social Media ROI with FB Ad Animations for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>In 2024, Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-v2-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic V2 Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/live-action-sims-perfecting-your-videos-for-2024/"><u>Live-Action Sims Perfecting Your Videos for 2024</u></a></li>
 </ul></div>
 

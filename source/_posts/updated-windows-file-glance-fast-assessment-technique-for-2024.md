@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Window's File Glance  Fast Assessment Technique for 2024\""
-date: 2024-10-31T19:34:38.181Z
-updated: 2024-11-05T18:58:59.024Z
+date: 2024-11-13T01:36:48.325Z
+updated: 2024-11-15T16:48:28.401Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -60,26 +67,26 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
@@ -90,10 +97,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -109,19 +116,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -157,18 +151,17 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-cutting-edge-ways-to-tailor-your-igtv-content-size-for-2024/"><u>[New] Cutting-Edge Ways to Tailor Your IGTV Content Size for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-leveraging-windows-media-player-your-cd-conversion-companion-for-2024/"><u>[New] Leveraging Windows Media Player Your CD Conversion Companion for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-cinematography-tips-three-way-borders/"><u>[Updated] 2024 Approved Insta Cinematography Tips Three-Way Borders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-essential-guide-to-whatsapp-hacks-and-features/"><u>[Updated] 2024 Approved The Essential Guide to WhatsApp Hacks and Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-dive-into-iphone-x-animoji-the-complete-users-edition-for-2024/"><u>[Updated] Dive Into iPhone X Animoji The Complete User's Edition for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-disable-auto-recommended-podcast-features-in-spotify/"><u>[Updated] In 2024, How to Disable Auto-Recommended Podcast Features in Spotify</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-lut-techniques-for-professional-color-grading-and-correction/"><u>[Updated] LUT Techniques for Professional Color Grading and Correction</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-from-overflow-to-perfection-edit-large-tiktok-drafts-quickly-and-effectively/"><u>2024 Approved From Overflow to Perfection Edit Large TikTok Drafts Quickly & Effectively</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-iphone-hacks-for-minimalist-video-presentation/"><u>2024 Approved IPhone Hacks for Minimalist Video Presentation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ethereal-editing-in-extended-frame-rate-for-2024/"><u>Ethereal Editing in Extended Frame Rate for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-xr-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone XR With 7 Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-the-internet-effortlessly-using-searchgpt-the-advanced-chatgpt-enhanced-search-engine/"><u>Navigate the Internet Effortlessly Using SearchGPT - The Advanced, ChatGPT-Enhanced Search Engine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/shotcut-video-editing-software-free-2024-update-review-and-overview/"><u>Shotcut Video Editing Software - FREE 2024 Update Review & Overview</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pcandroid-friendly-methods-to-post-videos-on-facebook-successfully/"><u>[New] PC/Android-Friendly Methods to Post Videos on Facebook Successfully</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleashing-potential-current-vr-innovations-for-2024/"><u>[Updated] Unleashing Potential Current VR Innovations for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/advanced-android-photography-essentials/"><u>Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/boosting-participation-tips-for-fb-giveaway-posts-for-2024/"><u>Boosting Participation Tips for FB Giveaway Posts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/breathe-life-into-your-visual-narrative-free-text-animation/"><u>Breathe Life Into Your Visual Narrative Free Text Animation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/budgeting-approach-to-making-music-videos-for-2024/"><u>Budgeting Approach to Making Music Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/changing-frozen-moments-into-sequential-movies/"><u>Changing Frozen Moments Into Sequential Movies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>Desktop Capture Showdown Select Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-12-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 12 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unlocking-the-secrets-of-professional-srt-file-making/"><u>In 2024, Unlocking the Secrets of Professional SRT File Making</u></a></li>
 </ul></div>
 

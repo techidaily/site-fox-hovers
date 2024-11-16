@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  GoPro Karma Demystified  A Comprehensive Look\""
-date: 2024-11-04T17:28:11.559Z
-updated: 2024-11-05T16:47:49.301Z
+date: 2024-11-08T21:43:05.957Z
+updated: 2024-11-16T00:51:40.227Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -100,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -121,16 +115,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -158,24 +146,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube/"><u>[New] 2024 Approved A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-capturing-the-cloudscape-insights-into-gopro-karmas-operations-for-2024/"><u>[New] Capturing the Cloudscape Insights Into GoPro Karma's Operations for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-craft-corporate-emblems-from-available-graphic-samples/"><u>[New] Craft Corporate Emblems From Available Graphic Samples</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-dive-into-asmr-its-positive-effects-explored/"><u>[New] Dive Into ASMR Its Positive Effects Explored</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-dji-quadcopters-selection-entry-model-enhanced-edition-professional-uhd/"><u>[New] DJI Quadcopters Selection Entry Model, Enhanced Edition, Professional UHD</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>[New] Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>[New] Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-start-with-zoom-your-initial-steps-into-webinar-hosting/"><u>[Updated] In 2024, Start with Zoom Your Initial Steps Into Webinar Hosting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-transform-your-images-with-easy-color-changes/"><u>[Updated] In 2024, Transform Your Images with Easy Color Changes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-entertainment-localized-live-streams-in-the-digital-age-2024/"><u>[Updated] Top Entertainment Localized Live Streams in the Digital Age, 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/clipcomposers-journey-thorough-review-of-androvid-for-2024/"><u>ClipComposer's Journey – Thorough Review of AndroVid for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-the-mystery-quick-fixes-for-error-code-5-in-minecraft/"><u>Decode the Mystery: Quick Fixes for Error Code 5 in Minecraft</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-date-game-with-ai-innovation/"><u>Enhancing Your Date Game with AI Innovation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-key-steps-to-ace-zoom-with-a-chromebook/"><u>In 2024, Key Steps to Ace Zoom with a Chromebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-perfecting-youtube-videos-through-enhancement-tips/"><u>In 2024, Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/optimal-drone-cameras-film-and-snapshot-heroes-10-for-2024/"><u>Optimal Drone Cameras Film & Snapshot Heroes #10 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-programmers-dilemma-github-copilot-vs-chatgpt/"><u>The Programmer's Dilemma: GitHub Copilot Vs. ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-asus-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Asus without backup.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-lava-agni-2-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Lava Agni 2 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-creativity-a-comprehensive-guide-to-instagram-video-upload-via-desktop/"><u>[New] 2024 Approved Unleash Creativity A Comprehensive Guide to Instagram Video Upload via Desktop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-counterview-commentary-review/"><u>2024 Approved CounterView Commentary Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-tempo-detection-top-free-tools-unveiled/"><u>2024 Approved Cutting-Edge Tempo Detection Top Free Tools Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-editions-high-end-macpc-video-decode-tools/"><u>2024 Approved Elite Editions High-End Mac/PC Video Decode Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-full-assessment-of-slomo-application-trends/"><u>2024 Approved Full Assessment of SloMo Application - Trends</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-initiate-your-virtual-presence-with-ease-live-streaming-101/"><u>2024 Approved Initiate Your Virtual Presence with Ease Live Streaming 101</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-action-an-insight-into-sj-cam-s6/"><u>2024 Approved Mastering Action An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-time-lapse-android-tips-and-tricks/"><u>2024 Approved Mastering Time-Lapse Android Tips & Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>2024 Approved Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones-for-2024/"><u>Enhance Your Virtual Stage The Ultimate List of Top 6 Microphones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-making-your-logitech-mouse-scroll-wheel-operative-again/"><u>Expert Solutions: Making Your Logitech Mouse Scroll Wheel Operative Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msstdfmtdll-file-absence-on-windows-computers/"><u>How to Correctly Address Msstdfmt.dll File Absence on Windows Computers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/instant-resolution-for-caught-in-printer-jobs/"><u>Instant Resolution for Caught-In Printer Jobs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterpiece-makers-top-6-innovators-in-digital-art-space/"><u>Masterpiece Makers Top 6 Innovators in Digital Art Space</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/pixel-power-unveiling-youtubes-twitter-crew/"><u>Pixel Power Unveiling YouTube's Twitter Crew</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-crackdown-on-unreliable-information-spreaders/"><u>Social Media Crackdown on Unreliable Information Spreaders</u></a></li>
 </ul></div>
 

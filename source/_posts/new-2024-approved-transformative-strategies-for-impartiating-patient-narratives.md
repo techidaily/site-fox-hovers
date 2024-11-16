@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Transformative Strategies for Impartiating Patient Narratives\""
-date: 2024-11-02T18:12:25.834Z
-updated: 2024-11-05T19:19:48.440Z
+date: 2024-11-09T23:58:13.394Z
+updated: 2024-11-16T01:27:26.708Z
 tags: 
   - screen-recording
   - ai video
@@ -40,17 +40,17 @@ It may seem like a daunting task, but there are several ways you can go about de
 
 ![ask authentic questions](https://images.wondershare.com/filmora/article-images/2022/07/ask-authentic-questions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Open-ended questions are the best way to engage customers and get them to speak naturally.
 * Make your question relevant to the customer and your product or service.
 * The more specific you can be with these questions, the better. For example, if you're selling pet products online, ask about their pets' names, breed, and color (if applicable).
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Include Strong Opinions
 
@@ -63,10 +63,16 @@ It may seem like a daunting task, but there are several ways you can go about de
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep it All Short and Sweet
@@ -79,13 +85,6 @@ When asking someone for their thoughts on a topic or issue, there's always going
 
 Asking open-ended questions allows people greater freedom when responding—and while this may sound like an ideal situation when creating content, it often results in less-than-ideal responses when creating content at scale since you won't always get exactly what you want out of every shot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lighting, Sound, and Video Quality Matter
 
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
@@ -94,31 +93,44 @@ Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Skeptics and Negative Nellies
 
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
 
@@ -158,18 +170,16 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-the-art-of-voice-modification-the-ultimate-guide-to-morphvox/"><u>[New] In 2024, Mastering the Art of Voice Modification The Ultimate Guide to MorphVOX</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-tutorial-crafting-photo-videos-in-pixiz/"><u>[New] Step-by-Step Tutorial Crafting Photo Videos in Pixiz</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-craft-your-visual-narrative-top-10-iphoneandroid-screenshot-sticker-apps/"><u>[Updated] Craft Your Visual Narrative – Top 10 iPhone/Android Screenshot Sticker Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-media-interaction-with-smart-control-options/"><u>[Updated] Enhancing Media Interaction with Smart Control Options</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pixel-power-face-off-sj6-prodigy-meets-yi-4k-creator/"><u>[Updated] Pixel Power Face-Off SJ6 Prodigy Meets Yi 4K Creator</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>2024 Approved Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-premium-extensions-for-after-effects-magic/"><u>2024 Approved Premium Extensions for After Effects Magic</u></a></li>
-<li><a href="https://extra-information.techidaily.com/7-ideas-to-improve-the-unboxing-experience/"><u>7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/concoct-a-unique-digital-laugh-stick-for-2024/"><u>Concoct a Unique Digital Laugh Stick for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/flac-and-m4amovavi/"><u>FLAC & M4Aファイルを問わず、ワンクリックで変換！Movaviの無料ダウンロード</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973181284-get-your-free-nvidia-3d-vision-driver-update-installed-on-any-version-of-windows-today/"><u>Get Your Free Nvidia 3D Vision Driver Update Installed on Any Version of Windows Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>Image Editing Essentials The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
-<li><a href="https://discover-best.techidaily.com/step-by-step-tutorial-for-transforming-zoom-recordings-into-mp4-format/"><u>Step-by-Step Tutorial for Transforming Zoom Recordings Into MP4 Format</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-hurry-up-crafting-a-simple-google-photo-mosaic/"><u>[New] 2024 Approved Hurry Up! Crafting a Simple Google Photo Mosaic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ext-level-shooting-lens-selections-for-online-creators/"><u>[New] Next-Level Shooting Lens Selections for Online Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-into-pro-audio-recording-on-your-mac-using-audacity-for-2024/"><u>[Updated] Step Into Pro Audio Recording on Your Mac Using Audacity for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/10-superior-soundspeed-apps-for-devices-for-2024/"><u>10 Superior Soundspeed Apps for Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-1-to-10-superior-4k-screen-selections/"><u>2024 Approved 1 to #10 Superior 4K Screen Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-playlist-compiler-android-edition/"><u>2024 Approved Elite Playlist Compiler Android Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-immaculatepixels-prograde-background-elimination/"><u>2024 Approved ImmaculatePixels Prograde Background Elimination</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-ios-image-to-pdf-the-ultimate-guide-for-users/"><u>2024 Approved Mastering IOS Image-to-PDF The Ultimate Guide for Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-diagnosis-for-malfunctioning-mtp-drivers/"><u>Quick Diagnosis for Malfunctioning MTP Drivers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/racing-revelry-junior-edition/"><u>Racing Revelry Junior Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-text-animation-made-easy-top-mobile-video-editing-apps/"><u>Updated In 2024, Text Animation Made Easy Top Mobile Video Editing Apps</u></a></li>
 </ul></div>
 

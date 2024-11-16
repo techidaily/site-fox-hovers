@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Color Palettes  Applying Theories Effectively\""
-date: 2024-10-29T18:56:38.528Z
-updated: 2024-11-05T17:50:47.148Z
+date: 2024-11-09T20:28:44.879Z
+updated: 2024-11-15T22:24:27.606Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -49,16 +42,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -66,6 +53,13 @@ As you can see, we have every color available in this wheel and they are arrange
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -82,10 +76,16 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -95,10 +95,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
@@ -137,21 +137,24 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-7-ideal-monitors-for-digital-artists-for-2024/"><u>[New] 7 Ideal Monitors for Digital Artists for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-minimize-external-noise-find-a-quiet-environment-to-minimize-distractions-that-can-hinder-understanding-for-2024/"><u>[New] Minimize External Noise Find a Quiet Environment to Minimize Distractions that Can Hinder Understanding for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionize-your-video-content-with-vce-22-mastery/"><u>[New] Revolutionize Your Video Content with VCE 2.2 Mastery</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-explore-creativity-best-drawing-software-for-ipados-for-2024/"><u>[Updated] Explore Creativity Best Drawing Software for iPadOS for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-top-criteria-for-selecting-fpv-drones-propellers-for-2024/"><u>[Updated] Unveiling Top Criteria for Selecting FPV Drones' Propellers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplify-your-status-music-in-whatsapp/"><u>2024 Approved Amplify Your Status Music in WhatsApp</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-leading-mac-applications-expert-picks-from-zdnet/"><u>Discover the Leading Mac Applications - Expert Picks From ZDNet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox-for-2024/"><u>Facebook's New Era Select Addons & Browser Plugins to Optimize Video Viewing in Firefox for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-usbasp-driver-conflicts-in-various-os-versions-xp-win11/"><u>Fixing USBasp Driver Conflicts in Various OS Versions (XP-Win11)</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-note-12r-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi Note 12R Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-integrating-vsco-into-social-media-strategy/"><u>In 2024, Integrating VSCO Into Social Media Strategy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-optimizing-chromebook-prime-zoom-features/"><u>In 2024, Optimizing Chromebook Prime Zoom Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-your-full-potential-on-macos-monterey-tailoring-custom-concentration-settings-to-dodge-distractions-techniques-spotlighted-by-zdnet/"><u>Unlocking Your Full Potential on macOS Monterey: Tailoring Custom Concentration Settings to Dodge Distractions - Techniques Spotlighted by ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-to-use-intels-me/"><u>Upgrade Windows to Use Intel's ME</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-propel-your-youtube-presence-with-google-analytics-skills/"><u>[New] 2024 Approved Propel Your YouTube Presence with Google Analytics Skills</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-art-and-science-of-buying-profitable-yt-content/"><u>[New] 2024 Approved The Art and Science of Buying Profitable YT Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-watch-facebook-live/"><u>[New] How to Watch Facebook Live?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unparalleled-video-gear-top-5-slow-cams/"><u>[New] In 2024, Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] 2024 Approved Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlocking-the-secrets-pro-level-iphone-landscape-tips/"><u>[Updated] 2024 Approved Unlocking the Secrets Pro-Level iPhone Landscape Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-fabricate-funny-images-on-giphy-for-2024/"><u>[Updated] Fabricate Funny Images on Giphy for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-facebooks-potential-in-health-marketing-for-2024/"><u>[Updated] Mastering Facebook's Potential in Health Marketing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-to-heavy-duty-drone-powerhouses-for-2024/"><u>[Updated] The Ultimate Guide to Heavy-Duty Drone Powerhouses for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-you-saving-money-with-uber-or-should-you-stick-to-taxis/"><u>Are You Saving Money with Uber or Should You Stick to Taxis?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-ace-2-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus Ace 2</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elite-batteries-and-chargers-for-black-gopro-hero5-devices/"><u>In 2024, Elite Batteries & Chargers for Black GoPro Hero5 Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-through-photos-app-issues-in-windows-11/"><u>In 2024, Navigating Through Photos App Issues in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-zero-cost-maximum-impact-mastering-your-characters-voice-in-free-fire-gameplay/"><u>In 2024, Zero Cost, Maximum Impact Mastering Your Character's Voice in Free Fire Gameplay</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/prime-5-cameras-for-precision-slow-mo-for-2024/"><u>Prime 5 Cameras for Precision Slow-Mo for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/secure-your-space-an-in-depth-review-of-arlos-advanced-home-surveillance-tech/"><u>Secure Your Space: An In-Depth Review of Arlo’s Advanced Home Surveillance Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-easy-path-to-great-audio-recordings-in-windows-11-for-2024/"><u>The Easy Path to Great Audio Recordings in Windows 11 for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-oneplus-nord-n10-5g-smartphone-evaluation-a-must-see-comparison/"><u>Top Rated OnePlus Nord N10 5G Smartphone Evaluation – A Must-See Comparison</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/transform-live-streams-with-obsplusstreamlabs-mac-for-2024/"><u>Transform Live Streams with OBS+Streamlabs (Mac) for 2024</u></a></li>
 </ul></div>
 
