@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Craft Your Own Cinematic Magic  Making Slow Motion Video From Photo Apps\""
-date: 2024-11-12T16:07:28.763Z
-updated: 2024-11-15T17:43:21.538Z
+date: 2024-11-19T10:07:47.142Z
+updated: 2024-11-25T05:57:58.449Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,14 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2：Customizing the Slow Motion Effect
@@ -64,6 +65,10 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
@@ -75,10 +80,7 @@ You can even create multiple versions of the file with the slow motion effect ap
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -93,37 +95,21 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -150,18 +136,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-amp-up-your-pixel-with-top-download-links/"><u>[New] 2024 Approved Amp Up Your Pixel with Top Download Links</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>[New] 2024 Approved Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-uncovering-the-currency-behind-product-discussions/"><u>[New] 2024 Approved Uncovering the Currency Behind Product Discussions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-enhancing-your-photos-effective-use-of-luts-in-photoshop-cs6/"><u>[New] Enhancing Your Photos Effective Use of LUTs in Photoshop CS6</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-securely-archiving-your-google-voice-talks/"><u>[New] In 2024, Securely Archiving Your Google Voice Talks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files/"><u>[New] In 2024, Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-venture-outside-of-tiktok-with-these-top-video-app-picks/"><u>[New] In 2024, Venture Outside of TikTok with These Top Video App Picks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-iphones-guide-creating-your-first-music-video/"><u>[New] IPhone's Guide Creating Your First Music Video</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-top-gaming-talents-on-tiktok/"><u>[New] The Top Gaming Talents on TikTok</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-scaling-photography-with-no-detail-degradation/"><u>[Updated] Scaling Photography with No Detail Degradation</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-tutorial-on-how-to-reset-and-restore-an-iphone-x-from-its-backup-files/"><u>Complete Tutorial on How to Reset and Restore an iPhone X From Its Backup Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-proven-techniques-for-amplifying-tiktok-unboxing-success/"><u>In 2024, Proven Techniques for Amplifying TikTok Unboxing Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-flawless-fast-windows-picture-sight/"><u>[New] 2024 Approved Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-simplified-guide-posting-igtv-on-stories/"><u>[New] 2024 Approved Simplified Guide Posting IGTV on Stories</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-innovating-with-ideas-constructing-your-unique-tiktok-sequence/"><u>[New] In 2024, Innovating with Ideas Constructing Your Unique TikTok Sequence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visionary-equipment-best-4k-cameras-for-professionals-for-2024/"><u>[New] Visionary Equipment Best 4K Cameras for Professionals for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-explore-the-best-spots-for-acquiring-got-tones/"><u>[Updated] 2024 Approved Explore the Best Spots for Acquiring GoT Tones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-strategic-planning-aligning-research-with-business-objectives/"><u>[Updated] 2024 Approved Strategic Planning Aligning Research with Business Objectives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chic-crests-curating-the-best-websites-for-aesthetic-laptop-backgrounds/"><u>[Updated] Chic Crests Curating the Best Websites for Aesthetic Laptop Backgrounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-closer-look-detailed-test-on-lg-ud88-w-oled-screen/"><u>[Updated] In 2024, A Closer Look Detailed Test on LG UD88-W OLED Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-watch-time-and-reducing-churn-on-youtube-the-ultimate-list-of-methods/"><u>[Updated] In 2024, Boosting Watch Time and Reducing Churn on YouTube The Ultimate List of Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-exploring-all-facets-of-adobes-digital-data-vaulting-with-best-alternates-at-hand/"><u>[Updated] In 2024, Exploring All Facets of Adobe's Digital Data Vaulting, With Best Alternates at Hand</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>[Updated] InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-iphones-premier-videography-tools/"><u>[Updated] IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pro-level-chat-skills-inside-the-world-of-whatsapp-tips/"><u>[Updated] Pro-Level Chat Skills Inside the World of WhatsApp Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-beat-infused-videos-a-step-by-step-guide-to-adding-tunes-to-fb/"><u>2024 Approved Beat-Infused Videos A Step-by-Step Guide to Adding Tunes to FB</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-create-multiple-windows-11-backups-using-four-methods/"><u>How to Create Multiple Windows 11 Backups Using Four Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max Passcode Screen?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-strategies-for-improving-your-interview-prowess/"><u>In 2024, Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
 </ul></div>
 

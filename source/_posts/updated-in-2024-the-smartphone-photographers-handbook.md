@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Smartphone Photographer's Handbook"
-date: 2024-08-31T21:38:30.957Z
-updated: 2024-09-01T21:38:30.957Z
+date: 2024-11-19T04:46:29.737Z
+updated: 2024-11-25T06:57:14.586Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Contrastly
 
 **How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Macworld
 
 **How to Use the Diagonal Method of Image Composition:** Using the diagonal method of photo composition is also a fairly simple task, since you just need to follow a diagonal of the frame, and you can use this method on horizontally and vertically oriented images.
@@ -75,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 **How to Use Symetry on a Photo:** Symmetry is often used for the depiction of reflections because this method of photo composition enables you to show the real object or a scene and its reflections in equal measure. Symmetric photos are more pleasing to the human eye than asymmetric images, which is the reason why pictures that use symmetry as the guiding compositional principal have a better chance of being recognized as good or beautiful.
 
 ![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: PictureCorrect
 
@@ -98,9 +110,17 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
 ![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Makeuseof
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -125,8 +145,21 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-quick-method-stop-spotify-from-suggesting-podcasts/"><u>[New] Quick Method Stop Spotify From Suggesting Podcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-script-crafting-basics-for-2024/"><u>[New] Script Crafting Basics for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-innovation-at-its-peak-8-leaders-in-photogridding/"><u>[Updated] 2024 Approved Image Innovation at Its Peak 8 Leaders in Photogridding</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expertly-crafted-video-making-software-iphone-android-for-2024/"><u>[Updated] Expertly Crafted Video-Making Software (iPhone, Android) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-tips-on-mastering-the-preview-application-on-mac/"><u>[Updated] In 2024, Expert Tips on Mastering the Preview Application on Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-make-your-mark-personalized-brands-zero-price-tag/"><u>[Updated] Make Your Mark - Personalized Brands, Zero Price Tag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminated-visual-glitches-in-dell-ultrabook/"><u>Eliminated Visual Glitches in Dell Ultrabook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-a2plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi A2+ on Mac?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-market-opening-innovations/"><u>In 2024, Market-Opening Innovations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-mobile-film-world-thumbnail-creation-essentials/"><u>In 2024, Navigating the Mobile Film World Thumbnail Creation Essentials</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>In 2024, YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/kinemaster-app-for-android-complete-review-2023/"><u>KineMaster App for Android - Complete Review 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-home-entertainment-with-playnite-fullscreen-tv/"><u>Transform Home Entertainment with Playnite Fullscreen TV</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/videographers-freelancer-form-for-2024/"><u>Videographer's Freelancer Form for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

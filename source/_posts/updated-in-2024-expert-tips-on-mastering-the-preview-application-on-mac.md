@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Expert Tips on Mastering the Preview Application on Mac"
-date: 2024-11-08T20:45:31.476Z
-updated: 2024-11-15T17:36:29.337Z
+date: 2024-11-22T18:28:45.620Z
+updated: 2024-11-24T16:26:36.769Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
@@ -85,6 +89,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -96,6 +104,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -114,10 +126,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -136,13 +145,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -159,13 +161,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -177,6 +172,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -212,13 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -244,16 +236,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-effortless-ways-to-grab-high-quality-images-at-no-cost/"><u>[New] Effortless Ways To Grab High Quality Images at No Cost</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-chronological-clarity-in-your-photographic-work/"><u>[Updated] Chronological Clarity in Your Photographic Work</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-organizing-virtual-gatherings-setting-up-zoom-on-android/"><u>[Updated] In 2024, Organizing Virtual Gatherings Setting Up Zoom on Android</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-navigating-dual-display-the-netflix-floating-window-guide-for-2024/"><u>[Updated] Navigating Dual Display The Netflix Floating Window Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-tvs-features-a-beginners-guide/"><u>2024 Approved Mastering YouTube TV's Features A Beginner's Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/emphasis-on-the-importance-of-electrical-resistivity-in-determining-how-well-particles-can-be-charged-and-collected-without-causing-operational-issues/"><u>Emphasis on the Importance of Electrical Resistivity in Determining How Well Particles Can Be Charged and Collected without Causing Operational Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-gionee-easily-by-drfone-android/"><u>How To Unlock a Gionee Easily?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-itel-p55-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Itel P55 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-mp4-playback-errors-in-vlc-media-player-a-step-by-step-guide/"><u>Resolving MP4 Playback Errors in VLC Media Player: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unintended-tiktok-reset-how-to-get-back-old-videos/"><u>Unintended TikTok Reset – How to Get Back Old Videos?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-find-out-video-editors-work-smoothly-on-m1-chip/"><u>[New] In 2024, Find Out Video Editors Work Smoothly on M1 Chip</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-inside-look-how-does-vr-headgear-work/"><u>[New] In 2024, Inside Look How Does VR Headgear Work?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-reverse-video-techniques-for-android-devices/"><u>[New] Reverse Video Techniques for Android Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-profiles-visual-appeal/"><u>[Updated] 2024 Approved Elevate Your Profile's Visual Appeal</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>[Updated] 2024 Approved PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-soundstage-networking-for-2024/"><u>[Updated] Best Soundstage Networking for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-10-best-portable-dvd-player/"><u>[Updated] In 2024, 10 Best Portable DVD Player</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-10plus-proven-methods-to-enhance-zoom-session-captures/"><u>[Updated] In 2024, 10+ Proven Methods to Enhance Zoom Session Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-shrinking-volume-levels-seamlessly-in-lumafusion-for-2024/"><u>[Updated] Shrinking Volume Levels Seamlessly in Lumafusion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-fundamentals-of-av1-encoding-for-2024/"><u>Exploring the Fundamentals of AV1 Encoding for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-11-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 11 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-full-spectrum-screen-recording-az-analyses-and-backups/"><u>In 2024, Full Spectrum Screen Recording - AZ Analyses & Backups</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-perfect-perspective-optimal-cropping-with-iphone-apps/"><u>In 2024, The Perfect Perspective Optimal Cropping with iPhone Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-productive-with-solid-fixes-for-file-explorer-woes-in-win11/"><u>Stay Productive With Solid Fixes For File Explorer Woes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-desktop-adding-functional-widgets-to-window-11/"><u>Transforming Your Desktop: Adding Functional Widgets to Window 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Your Windows 10 Experience  Crash-Free Photos Viewing\""
-date: 2024-08-31T21:39:52.722Z
-updated: 2024-09-01T21:39:52.722Z
+date: 2024-11-18T20:01:57.365Z
+updated: 2024-11-25T09:47:07.842Z
 tags: 
   - screen-recording
   - ai video
@@ -56,9 +56,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -70,7 +67,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -82,9 +87,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -97,8 +99,9 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -111,8 +114,9 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -120,14 +124,11 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -151,4 +152,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>[New] 2024 Approved Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-camera-test-hero5-meets-sjcam/"><u>[New] 2024 Approved Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budget-videography-choosing-the-best-panoramic-cameras/"><u>[New] Budget Videography Choosing the Best Panoramic Cameras</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-easy-to-follow-setting-up-snapchat-on-a-mac-for-2024/"><u>[New] Easy to Follow Setting up Snapchat on a Mac for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-viral-potential-in-digital-content-creation/"><u>[Updated] 2024 Approved Unlocking Viral Potential in Digital Content Creation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-zooms-visual-clarity-tips-and-tricks/"><u>[Updated] Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-effortless-voice-customization-secrets-in-pubg/"><u>[Updated] In 2024, Effortless Voice Customization Secrets in PUBG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparative-study-samsung-vs-traditional-photo-tools/"><u>Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-spark-20-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Spark 20 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-guide-leading-4k-uhd-blu-ray-devices/"><u>Ultimate Guide Leading 4K UHD Blu-Ray Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211457837-9798330408948-diaisthhsh/"><u>Διαίσθηση | Free Book</u></a></li>
+</ul></div>
 

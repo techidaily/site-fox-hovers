@@ -1,7 +1,7 @@
 ---
 title: "\"Faces Under Scrutiny  How iPhone X and Galaxy Unlock Tech Compare\""
-date: 2024-08-31T21:41:02.206Z
-updated: 2024-09-01T21:41:02.206Z
+date: 2024-11-23T05:01:46.620Z
+updated: 2024-11-25T11:04:20.567Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
@@ -56,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -68,16 +77,6 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -89,24 +88,23 @@ No advertising on the website.
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -130,4 +128,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-maximize-your-laptops-dvd-potential-easily/"><u>[New] In 2024, Maximize Your Laptop's DVD Potential Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-5-reddit-marketing-tips-that-will-turn-beginners-into-experts/"><u>[Updated] 5 Reddit Marketing Tips that Will Turn Beginners Into Experts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-obscurity-to-the-limelight-the-proven-methods-of-changing-your-tiktok-username/"><u>[Updated] From Obscurity to the Limelight The Proven Methods of Changing Your TikTok Username</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mac-centric-review-the-complete-guide-to-screenflow-v4/"><u>[Updated] In 2024, Mac-Centric Review The Complete Guide to ScreenFlow V4</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-windows-drawing-powerhouses-exploring-free-and-fees/"><u>[Updated] In 2024, Windows Drawing Powerhouses Exploring FREE & Fees</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precision-in-capturing-movie-moments/"><u>[Updated] Precision in Capturing Movie Moments</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-copyright-safe-techniques-for-youtube-to-mp4/"><u>In 2024, Copyright-Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-industry-standards-prime-gimbals-for-drones/"><u>In 2024, Industry Standards Prime Gimbals for Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>In 2024, The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sal-techniques-a-new-perspective-on-youtube-videos-for-2024/"><u>Reversal Techniques A New Perspective on YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-the-4k-display-lgs-31mu97-b-model-for-2024/"><u>The Ultimate Guide to the 4K Display - LG's 31MU97-B Model for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unmatched-gameplay-viewing-the-philips-evnia-49-oled-monitor/"><u>Unmatched Gameplay Viewing: The Philips Evnia 49 OLED Monitor</u></a></li>
+</ul></div>
 

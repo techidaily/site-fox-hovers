@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Solo Journey Through the World of 3D Printing in '3DR'"
-date: 2024-08-31T21:38:56.229Z
-updated: 2024-09-01T21:38:56.229Z
+date: 2024-11-24T05:51:05.879Z
+updated: 2024-11-25T10:36:46.940Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -96,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -120,8 +140,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-find-the-good-iphone-photography-angles/"><u>[New] How to Find the Good iPhone Photography Angles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-extended-scope-camera-platforms/"><u>[New] In 2024, Extended Scope Camera Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-selecting-audio-for-your-movie-trailer/"><u>[New] In 2024, Selecting Audio for Your Movie Trailer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ensuring-your-pictures-endure-top-rated-cloud-storage-services/"><u>[Updated] In 2024, Ensuring Your Pictures Endure Top-Rated Cloud Storage Services</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-rated-asmr-gear-high-quality-priced-right/"><u>[Updated] Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/arlo-pro/"><u>Arlo Pro 지속성: 판매중 정기화제라는 가장 좋은 선택에 다가차</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-the-signs-when-an-imessage-becomes-a-text-message-and-the-blocking-question/"><u>Decoding the Signs: When an iMessage Becomes a Text Message and the Blocking Question</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-v29e-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo V29e Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-the-top-4-barriers-in-your-gpt-account/"><u>Overcoming the Top 4 Barriers in Your GPT Account</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/quick-guide-capturing-your-screen-with-windows-11-top-9-methods-revealed/"><u>Quick Guide: Capturing Your Screen with Windows ˈ11 - Top 9 Methods Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/total-command-mastery-powerdirector-review-and-guide/"><u>Total Command Mastery PowerDirector Review & Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/umwandlung-von-dvd-videos-in-digitale-formate-unter-verwendung-von-windows-10mac-effizientes-handling-mit-diesen-schritten/"><u>Umwandlung Von DVD-Videos in Digitale Formate Unter Verwendung Von Windows 10/Mac - Effizientes Handling Mit Diesen Schritten</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-apples-powerhouses-the-m1-pro-and-m1-max-analysis/"><u>Unveiling Apple's Powerhouses The M1 Pro and M1 Max Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/why-are-my-instagram-videos-playing-sideways-seeking-answers/"><u>Why Are My Instagram Videos Playing Sideways - Seeking Answers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->

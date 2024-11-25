@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Best Practices for Incorporating B-Footage in Projects\""
-date: 2024-11-15T00:20:29.437Z
-updated: 2024-11-15T19:18:18.532Z
+date: 2024-11-23T21:44:22.578Z
+updated: 2024-11-25T09:10:53.060Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,7 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Methods to use b roll
@@ -56,9 +53,17 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -68,22 +73,12 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -99,10 +94,7 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
@@ -143,17 +135,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-visual-mastery-to-professional-standards/"><u>[New] 2024 Approved Elevating Visual Mastery to Professional Standards</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere-for-2024/"><u>[New] Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-meme-creation-app/"><u>[New] Cutting-Edge Meme Creation App</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-gopro-start-up-must-haves-decoded/"><u>[Updated] 2024 Approved GoPro Start-Up Must-Haves Decoded</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebook-cover-video-best-practices-and-setup/"><u>[Updated] In 2024, Facebook Cover Video | Best Practices and Setup</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-learn-how-to-build-youtube-backlinks-for-your-channel-for-2024/"><u>[Updated] Learn How to Build YouTube Backlinks for Your Channel for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skyrocket-your-skill-set-in-windows-photoshop/"><u>[Updated] Skyrocket Your Skill Set in Windows Photoshop</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-become-a-pic-pro-the-top-10-iphonesandroid-apps-with-stickers/"><u>In 2024, Become a Pic Pro The Top 10 iPhones/Android Apps with Stickers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ultimate-collection-top-16-free-video-platforms/"><u>Ultimate Collection Top 16 Free Video Platforms</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/worldcasters-select-local-channels-for-global-watchers/"><u>WorldCasters Select Local Channels for Global Watchers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clearview-techniques-for-superior-video-with-vce-2-written-by-john-doe-phd/"><u>[New] ClearView Techniques for Superior Video with VCE 2 Written by John Doe, PhD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-duel-for-motorsport-dominance-black-gopro-vs-ghost-s-drift-for-2024/"><u>[New] Duel for Motorsport Dominance Black GoPro Vs. Ghost-S Drift for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ensuring-accurate-subtitles-the-dos-and-donts-for-social-media/"><u>[New] Ensuring Accurate Subtitles The Do's and Don'ts for Social Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg/"><u>[Updated] Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-picture-perfect-zero-cost-photo-enhancement-app-for-2024/"><u>[Updated] Picture Perfect Zero Cost Photo Enhancement App for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[Updated] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-synergy-integrating-linktree-into-your-tiktok-profile-for-2024/"><u>Achieving Synergy Integrating Linktree Into Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-enhanced-privacy-start-secure-conversations-using-duckduckgos-advanced-ai-chat-with-gpt-powered-features/"><u>Discover Enhanced Privacy: Start Secure Conversations Using DuckDuckGo's Advanced AI Chat with GPT-Powered Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>In 2024, Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-microsoft-gro-artificial-intelligence-processor-war-with-the-macbook-insights/"><u>Inside Microsoft' Gro Artificial Intelligence Processor War with the MacBook | Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successfully-downloading-and-setting-up-latest-apple-ios-update/"><u>Step-by-Step Guide: Successfully Downloading & Setting up Latest Apple iOS Update</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo without backup.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-gif-speed-controllers-online-ios-and-android/"><u>Updated The Ultimate GIF Speed Controllers Online, iOS, and Android</u></a></li>
 </ul></div>
 

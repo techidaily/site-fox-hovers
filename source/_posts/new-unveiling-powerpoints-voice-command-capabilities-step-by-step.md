@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling PowerPoint's Voice Command Capabilities Step by Step"
-date: 2024-11-13T01:26:18.484Z
-updated: 2024-11-15T18:03:05.882Z
+date: 2024-11-22T23:17:54.641Z
+updated: 2024-11-25T02:56:23.878Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Speech-to-text is not new, especially if you are used to the internet and many a
 Using speech-to-text in PowerPoint is the same principle guiding other platforms like Microsoft Words. Also, PowerPoint presentation on a windows device is similar to a Mac. However, some control and key functions differ in the two devices. The only thing you should note when you want to use the speech-to-text function is the type of device you are using. You can enable “speech-to-text” on devices like Mac, Windows, and mobile phones.
 
 Please note that “enabling speech-to-text” in PowerPoint differs from “using speech-to-text.” For example, you have to enable the speech-to-text first before you can use it. Also, how you enable speech-to-text in PowerPoint is based on the selected devices. Let's discuss enabling speech-to-text on Mac and Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Enable speech-to-text on Mac**
 
@@ -76,52 +80,45 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 
 ![reselect the option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * From “all commands,” locate the speak option and add the option. Upon selection, the microphone button appears on the home screen of the PowerPoint.
 
 ![locate the speak option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Use the speak option**
 
 Now you can click on the microphone button and speak to add text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Speak clearly, but conversationally**
 
 The smart engine needs to hear you clearly before interpreting the speech into text. Do not mumble or speak fast. Each word should be audible and clearly stated. You can use the keyboard to edit or remove excess words.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Reduce background noise**
 
 Ensure the background noise does not interrupt your speech.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Use the user dictionary**
 
 Exploit the user dictionary. Visit Settings > **Languages**, and info > **Advanced** \> Personal word reference, and you can add last names and other “unofficial” words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to enable real-time speech-to-text translation in PowerPoint
 
@@ -136,10 +133,7 @@ Real-time display and translation are suitable for the multi-language purpose. Y
 ![click on the slide show](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * After setting the spoken language, move on to set the **subtitle/caption language.** The subtitle or caption language is the translated language. PowerPoint allows you to translate speech without using an application. You can make a multi-language selection without much involvement - just settings.
@@ -164,6 +158,10 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make PPT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Filmora STT to make PowerPoint videos translation
 
 ##### Step 1
@@ -179,17 +177,7 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -198,28 +186,12 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 
 No, it doesn't. However, you may need the internet to set up some settings.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Does speech-to-text come with a subscription?**
 
 No. The feature is free for all registered users on PowerPoint.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Do you need an additional microphone?**
@@ -257,20 +229,22 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visionupgrade-pro-universal-platform-edition/"><u>[New] In 2024, VisionUpgrade Pro – Universal Platform Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-produce-personalized-internet-chuckles/"><u>[New] Produce Personalized Internet Chuckles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-synthesize-film-selections-on-platform-playlist/"><u>[Updated] 2024 Approved Synthesize Film Selections on Platform Playlist</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-no-pressure-pc-games-guide/"><u>[Updated] Best No-Pressure PC Games Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-demystifying-av1-a-first-time-guide/"><u>[Updated] Demystifying AV1 A First-Time Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ideal-complementary-behaviors-with-audio-tales-playing/"><u>[Updated] In 2024, Ideal Complementary Behaviors with Audio Tales Playing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>[Updated] Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlock-10-passport-images-at-no-cost-desktopweb-for-2024/"><u>[Updated] Unlock 10 Passport Images at No Cost – Desktop/Web for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-youtube-engagement-top-11-seo-strategies-revealed-for-2024/"><u>Boosting YouTube Engagement Top 11 SEO Strategies Revealed for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-understanding-watermarks-and-protecting-fb-pics/"><u>In 2024, Understanding Watermarks & Protecting FB Pics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/innovative-visual-tools-of-2024-the-ultimate-monitors-list/"><u>Innovative Visual Tools of 2024 The Ultimate Monitors List</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/professional-strategies-boosting-your-fps-in-escape-from-tarkov/"><u>Professional Strategies: Boosting Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-your-muted-windows-start-button-icon/"><u>Resurrecting Your Muted Windows Start Button Icon</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-msvcr100dll-missing-error-a-comprehensive-guide/"><u>Solving the MSVCR100.DLL Missing Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/transform-your-photos-into-dynamic-time-lapses-the-gopro-way/"><u>Transform Your Photos Into Dynamic Time-Lapses The GoPro Way</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>[New] 2024 Approved Film Finishing Finesse Download Personalized Epilogues, No Money</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>[New] 2024 Approved Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[New] 2024 Approved Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-seamless-soundscape-design-with-expert-crossfading-techniques-audacity/"><u>[New] 2024 Approved Seamless Soundscape Design with Expert Crossfading Techniques (Audacity)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cutting-edge-video-playback-on-windows-mobile/"><u>[Updated] 2024 Approved Cutting-Edge Video Playback on Windows Mobile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhance-playstation-2-experience-top-5-android-emulators/"><u>[Updated] 2024 Approved Enhance PlayStation 2 Experience Top 5 Android Emulators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-zoom-enhancement-online/"><u>[Updated] 2024 Approved Mastering the Art of Zoom Enhancement Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-secrets-to-producing-visually-appealing-fb-promos/"><u>[Updated] In 2024, Secrets to Producing Visually Appealing FB Promos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-innovative-tips-for-powerful-podcast-openings-for-2024/"><u>[Updated] Innovative Tips for Powerful Podcast Openings for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-experience-surpassing-expectations-insights-from-a-new-user-on-zdnet/"><u>Apple Vision Pro Experience: Surpassing Expectations - Insights From a New User on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-realtek-not-connected-error-in-high-definition-audio-devices/"><u>Effective Fixes for 'Realtek Not Connected' Error in High Definition Audio Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/halt-the-discord-gaming-interface/"><u>Halt the Discord Gaming Interface</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>In 2024, Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>In 2024, The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/precision-and-playfulness-building-high-quality-gifs/"><u>Precision and Playfulness Building High-Quality GIFs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138592008-9781462400973-talking-dogs/"><u>Talking Dogs | Free Book</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-6-benefits-of-being-bilingual/"><u>Top 6 Benefits of Being Bilingual</u></a></li>
 </ul></div>
 

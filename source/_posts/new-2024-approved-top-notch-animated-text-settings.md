@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Top-Notch Animated Text Settings\""
-date: 2024-11-14T16:32:44.456Z
-updated: 2024-11-15T23:16:44.368Z
+date: 2024-11-18T09:10:47.875Z
+updated: 2024-11-25T03:53:10.549Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,7 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Liquid Text Animation
@@ -52,6 +49,10 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
@@ -59,10 +60,7 @@ If you want to add texts and titles in your video that looks like the games mean
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
@@ -72,16 +70,7 @@ In this pack, you will find unique text effects, and you can animate text with k
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Text Library
@@ -96,25 +85,19 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -150,19 +133,22 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-boost-youtube-video-spacing/"><u>[New] 2024 Approved How to Boost YouTube Video Spacing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-melody-in-motion-iphones-role-in-making-music-videos-for-2024/"><u>[New] Melody in Motion IPhone's Role in Making Music Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-highlights-of-short-track-speed-skating-olympics-2022/"><u>[Updated] 2024 Approved Highlights of Short Track Speed Skating Olympics 2022</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-dji-inspire-2-complete-evaluation-for-2024/"><u>[Updated] DJI Inspire 2 Complete Evaluation for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevate-live-streaming-on-mac-a-guide-to-1-5-tools/"><u>[Updated] In 2024, Elevate Live Streaming on Mac A Guide to #1-5 Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-mac-from-live-classroom-to-recorded-session-for-2024/"><u>[Updated] Mastering Mac From Live Classroom to Recorded Session for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premium-pcmac-screen-capture-application-for-2024/"><u>[Updated] Premium PC/Mac Screen Capture Application for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-youtubes-full-potential-top-6-tactics-for-improved-viewership-retention/"><u>2024 Approved Unlock YouTube's Full Potential Top 6 Tactics for Improved Viewership Retention</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bluetooth-speaker-connection-woes-fix-them-with-this-guide-for-windows-users/"><u>Bluetooth Speaker Connection Woes? Fix Them with This Guide for Windows Users!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/complete-tutorial-resolve-fifa-21-crashes-on-your-pc-efficiently/"><u>Complete Tutorial: Resolve FIFA 21 Crashes on Your PC Efficiently</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-captivating-audiences-in-real-time-broadcasting/"><u>In 2024, Secrets to Captivating Audiences in Real-Time Broadcasting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/sleeksky-saver-the-frugal-file-nest-for-2024/"><u>SleekSky Saver - The Frugal File Nest for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-service-unavailable-503-message-on-websites/"><u>Troubleshooting the 'Service Unavailable (503)' Message on Websites</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visionaries-crafting-next-gen-vr-worlds-for-2024/"><u>Visionaries Crafting Next-Gen VR Worlds for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-flawless-fast-windows-picture-sight/"><u>[New] 2024 Approved Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visionary-equipment-best-4k-cameras-for-professionals-for-2024/"><u>[New] Visionary Equipment Best 4K Cameras for Professionals for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-book-trailers-reviewed-top-5-picks-revealed/"><u>[Updated] 2024 Approved Book Trailers Reviewed Top 5 Picks Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-explore-the-best-spots-for-acquiring-got-tones/"><u>[Updated] 2024 Approved Explore the Best Spots for Acquiring GoT Tones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-strategic-planning-aligning-research-with-business-objectives/"><u>[Updated] 2024 Approved Strategic Planning Aligning Research with Business Objectives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-iphones-premier-videography-tools/"><u>[Updated] IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>[Updated] The Art of Patience Transform Your Reels Through Slow-Motion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweak-twitter-video-clip-cover-for-2024/"><u>[Updated] Tweak Twitter Video Clip Cover for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-pova-5-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Pova 5 FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a15-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A15 4G Phone Screen?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-strategies-for-improving-your-interview-prowess/"><u>In 2024, Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/real-time-netflix-watching-the-ultimate-guide-to-screen-broadcasts/"><u>Real-Time Netflix Watching: The Ultimate Guide to Screen Broadcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-threefold-way-to-extract-and-save-youtubes-subtitles-srt-for-2024/"><u>The Threefold Way to Extract and Save YouTube's Subtitles (SRT) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-verified-journey-on-social-media-accelerate-followers-with-these-six-tips/"><u>The Verified Journey on Social Media Accelerate Followers with These Six Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-zoom-quality-addressing-code-1132-concerns/"><u>Win 10/11 Zoom Quality: Addressing Code 1132 Concerns</u></a></li>
 </ul></div>
 

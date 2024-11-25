@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unlocking Creative Potential with New iPhone X Camera"
-date: 2024-11-12T16:31:55.481Z
-updated: 2024-11-16T00:04:08.464Z
+date: 2024-11-19T20:34:43.758Z
+updated: 2024-11-24T16:29:06.175Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
@@ -49,10 +53,11 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -74,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -86,20 +88,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,18 +127,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-zones-for-cutting-edge-vr-viewing/"><u>[New] 2024 Approved Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tracking-payment-for-consumer-feedback-vlogs/"><u>[New] In 2024, Tracking Payment for Consumer Feedback Vlogs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>[Updated] CastWithEase How to Make Livestreaming Your Podcast Effortless</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-obs-use-in-android-broadcasting/"><u>[Updated] Cutting-Edge OBS Use in Android Broadcasting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-showcase-a-dialogue-in-one-instagram-post/"><u>[Updated] In 2024, Showcase a Dialogue in One Instagram Post</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-guide-to-saving-memories-as-videos-on-iphone-for-2024/"><u>[Updated] Ultimate Guide to Saving Memories as Videos on iPhone for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces-for-2024/"><u>[Updated] Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-global-markets-through-english-mastery/"><u>Conquer Global Markets Through English Mastery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/decoding-fb-lives-multiscreen-mastery-techniques-for-2024/"><u>Decoding FB Live's Multiscreen Mastery Techniques for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-steps-for-online-vhs-image-transformation/"><u>Essential Steps for Online VHS Image Transformation</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-camon-20-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Camon 20 Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-ultimate-list-of-leading-graphic-design-monitors-in-2eightyfour-expertly-tested-and-recommended/"><u>ZDNet's Picks: Ultimate List of Leading Graphic Design Monitors in 2Eightyfour - Expertly Tested and Recommended</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dial-up-your-facebook-video-faster-essential-software-revealed/"><u>[New] 2024 Approved Dial-Up Your Facebook Video Faster Essential Software Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-amateur-to-expert-crafting-professional-gopro-content/"><u>[New] In 2024, From Amateur to Expert Crafting Professional Gopro Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elite-educational-event-emitter/"><u>[Updated] 2024 Approved Elite Educational Event Emitter</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-charting-a-new-course-for-creative-vr-content-for-2024/"><u>[Updated] Charting a New Course for Creative VR Content for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2010-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2010 document online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-7-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 7 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oneplus-nord-ce-3-lite-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on OnePlus Nord CE 3 Lite 5G Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pathways-to-gaining-premium-image-content-without-payment/"><u>In 2024, Pathways to Gaining Premium Image Content Without Payment</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-mov-video-combiner-software-top-picks/"><u>New 2024 Approved Free MOV Video Combiner Software Top Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-applying-luts-in-film-color-grading/"><u>Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/uniting-friends-across-operating-systems-with-skype-groups/"><u>Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
 </ul></div>
 

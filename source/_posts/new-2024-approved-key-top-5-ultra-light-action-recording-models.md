@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Key Top 5 Ultra-Light Action Recording Models\""
-date: 2024-08-31T21:37:26.876Z
-updated: 2024-09-01T21:37:26.876Z
+date: 2024-11-20T03:34:40.392Z
+updated: 2024-11-24T23:35:16.648Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
 ![Backpacking/Hiking Cameras - Garmin Virb Elite](https://images.wondershare.com/filmora/article-images/garmin_virb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=d4c86edc07888f1a73f2696e417da1e1)
 
  This camera unit possess GPS and WiFi facility along with water resistant body so that you can mount it anywhere as per need. It can record videos with 1080p resolution and for images you will have 16MP clarity. Maximum storage offered by microSD card is 64GB whereas Remote + ANT compatibility makes it much easier to monitor and control. The water resistant design along with flexible mounting options make it more suitable for hiking needs. With advanced digital image stabilization feature you can mount this camera on vehicle, bicycle, quadcopter and any other moving object. Automatic noise correction filters are activated on lens surface to create breathtaking results for each footage.
@@ -68,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 #### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
 
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
 )
@@ -78,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
 )
 
@@ -87,12 +99,20 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
 )
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -117,8 +137,17 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-adobe-advances-bringing-text-into-three-dimensional-space/"><u>[New] 2024 Approved Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-can-image-smoothing-simplify-photo-editing/"><u>[Updated] 2024 Approved Can Image Smoothing Simplify Photo Editing?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-content-savings-top-5-techniques-to-download-igtv-videos-for-2024/"><u>[Updated] Navigating Content Savings Top 5 Techniques to Download IGTV Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-picart-tips-effortless-face-blurring-trick/"><u>[Updated] PicArt Tips Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-psd-effects-guide/"><u>Cutting-Edge PSD Effects Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/envisioning-elegance-da-vincis-latest-image-inspirations/"><u>Envisioning Elegance: Da Vinci's Latest Image Inspirations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-prime-day-savings-on-the-latest-roku-devices/"><u>Exclusive Prime Day Savings on the Latest Roku Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-vision-for-virtual-reality-the-call-for-10k-developers/"><u>Facebook's Vision for Virtual Reality: The Call for 10K Developers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-start-to-mastering-io-screen-recording/"><u>In 2024, Quick Start to Mastering IO Screen Recording</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
