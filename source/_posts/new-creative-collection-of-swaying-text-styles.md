@@ -1,7 +1,7 @@
 ---
 title: "[New] Creative Collection of Swaying Text Styles"
-date: 2024-11-18T11:09:00.227Z
-updated: 2024-11-25T08:28:27.884Z
+date: 2024-11-29T20:40:27.129Z
+updated: 2024-12-04T23:53:06.258Z
 tags: 
   - screen-recording
   - ai video
@@ -40,7 +40,7 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
@@ -50,7 +50,7 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -59,19 +59,15 @@ If you want to add texts and titles in your video that looks like the games mean
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. CounterPro Preset
 
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Text Library
 
@@ -80,7 +76,7 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
@@ -89,6 +85,10 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
@@ -96,7 +96,7 @@ You get eleven styles of elements in the pack, and you can customize the designs
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -133,15 +133,17 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-tailored-brand-symbols-turn-basic-templates-into-logos/"><u>[New] Tailored Brand Symbols Turn Basic Templates Into Logos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-deciphering-the-legacy-of-free-visual-works/"><u>[Updated] Deciphering the Legacy of Free Visual Works</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-extracting-stills-for-windows-11-video-projects/"><u>[Updated] In 2024, Extracting Stills for Windows 11 Video Projects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-snickel-and-snicker-5-best-meme-generating-apps/"><u>[Updated] Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>In 2024, Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>In 2024, The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-turbocharged-windows-content-assessment/"><u>In 2024, Turbocharged Windows Content Assessment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-through-toms-critiques/"><u>Unveiling the Latest in Hardware Through Tom's Critiques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/your-go-to-places-for-no-fee-gamers-music-online-for-2024/"><u>Your Go-To Places for No-Fee Gamers' Music Online for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-final-cut-pros-essential-toolkit-the-top-10-plugin-list-for-2024/"><u>[New] Final Cut Pro's Essential Toolkit The Top 10 Plugin List for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-magic-in-managing-photos-with-magix/"><u>[New] In 2024, Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-instagram-accessing-free-filters-via-searches-for-2024/"><u>[New] Maximizing Instagram Accessing Free Filters via Searches for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-starting-your-own-platform-a-guide-to-critiquing-home-essentials/"><u>[New] Starting Your Own Platform A Guide to Critiquing Home Essentials</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-selecting-superior-5k-displays-the-top-eight-for-2024/"><u>[Updated] Selecting Superior 5K Displays The Top Eight for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-quintessential-quest-for-stories-worlds-best-1-8-schools-for-2024/"><u>[Updated] The Quintessential Quest for Stories – World's Best #1-#8 Schools for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y100 by Name | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-to-artistic-expression-opening-ms-paint-in-win11/"><u>First Steps to Artistic Expression: Opening MS Paint in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-direct-x-flaw-now-patched-in-lol/"><u>Hidden Direct X Flaw Now Patched in LoL</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-gaming-excellence-with-kinemaster-on-android/"><u>In 2024, Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/steer-clear-of-virtual-reality-sickness/"><u>Steer Clear of Virtual Reality Sickness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-ai-powered-tools-revolutionizing-presentation-creation/"><u>Top 7 AI-Powered Tools Revolutionizing Presentation Creation</u></a></li>
 </ul></div>
 

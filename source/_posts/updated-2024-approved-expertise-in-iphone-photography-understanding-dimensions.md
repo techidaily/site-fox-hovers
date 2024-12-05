@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Expertise in iPhone Photography  Understanding Dimensions\""
-date: 2024-08-27T15:44:55.366Z
-updated: 2024-08-28T15:44:55.366Z
+date: 2024-12-01T16:07:56.566Z
+updated: 2024-12-04T19:44:51.779Z
 tags: 
   - screen-recording
   - ai video
@@ -48,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Despite being relatively easy, this method of resizing images doesn't allow you to enter the new size of a photo manually which may limit your options.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Using apps to resize your photos
 
  Even though apps for iPhones that allow you to resize your photos require you to spend some money, this method is still much more effective than resizing images via email.
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 ![](https://images.wondershare.com/filmora/article-images/image-size-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  iPhone photographers can resize their photos in three simple steps with this app. The Image Size app is free to download but if you want to get rid of the adds you must pay $3,99\. However, all you need to do to change the size of an image with this app is to open the photo you want to resize and select the output size. Removing the parts of the image is made possible by the Cropping tool so you can even decide which parts of the photo you want to remove. Once you've completed the process of resizing the picture you can choose whether you want to Save, Send or Share your photo.
 
 #### 2\. [PhotoShrinker](https://itunes.apple.com/us/app/photoshrinker/id928350374?mt=8)
@@ -68,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 ![](https://images.wondershare.com/filmora/article-images/photo-shrink-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There aren't many better options for resizing images with an iPhone because this powerful tool allows you to change the size of an image within seconds. PhotoShrinker automatically compresses the photo to one-tenth of its original size, which means that you can free up a lot of space if you choose to invest $3,99 in this app. The latest version of the app also enables you to delete photos you don't like, but its users shouldn't count on it for any other kind of photo editing activity.
 
 #### 3\. [Reduce](https://itunes.apple.com/us/app/reduce-batch-resize-images-and-photos-for-iphone-ipad/id580474806?mt=8)
@@ -77,13 +80,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 ![](https://images.wondershare.com/filmora/article-images/reduce-image-size-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
  Preserving the quality of your photos is important and for that reason, you should only use methods of resizing photos on your iPhone that allow you to produce good images, regardless of their size. Using apps to resize photos may cost you some money, but it will provide you with powerful tools that will allow you to have control over the photo resizing process.
@@ -92,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -118,4 +120,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-hands-on-crafting-unique-movie-closures-for-pennies/"><u>[New] 2024 Approved Hands-On Crafting Unique Movie Closures for Pennies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-complete-checklist-for-internet-broadcast-preservation/"><u>[Updated] The Complete Checklist for Internet Broadcast Preservation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-visual-filmmaking-tools-environmentally-friendly/"><u>[Updated] Visual Filmmaking Tools Environmentally Friendly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/astronomy-on-demand-using-your-smartphone-apps-to-locate-and-recognize-nighttime-stars/"><u>Astronomy on Demand: Using Your Smartphone Apps to Locate and Recognize Nighttime Stars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726224613055-avi-m4v-movavi/"><u>AVI 및 M4V 영상을 무료로 액션화: Movavi의 인터넷 바이트 리소스</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-hdmi-audio-issues-on-windows-7-complete-guide/"><u>How to Fix HDMI Audio Issues on Windows 7 - Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-storytelling-youtube-channels-to-follow-this-year/"><u>In 2024, Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T to Outlook | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unmissable-vr-storytelling-masterpieces/"><u>In 2024, Unmissable VR Storytelling Masterpieces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlocking-spotify-promotion-potential/"><u>Unlocking Spotify Promotion Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unrivaled-dramas-from-the-eightfold-storytelling-sphere-for-2024/"><u>Unrivaled Dramas From the Eightfold Storytelling Sphere for 2024</u></a></li>
+</ul></div>
 

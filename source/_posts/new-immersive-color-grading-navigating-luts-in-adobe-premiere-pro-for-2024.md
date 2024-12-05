@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Immersive Color Grading  Navigating LUTs in Adobe Premiere Pro for 2024\""
-date: 2024-11-21T01:05:30.573Z
-updated: 2024-11-25T10:41:24.990Z
+date: 2024-12-01T21:31:04.588Z
+updated: 2024-12-04T20:18:30.669Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ you grab the camera, follow your idea, and acquire your pictures, then transfer 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to install LUTs in Premiere Pro
@@ -42,7 +42,7 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to add LUTs to your footage
@@ -55,10 +55,6 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -70,7 +66,7 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -80,6 +76,10 @@ There are no such modifications that can be made in a certain LUT or Look, and t
 The entire color panel in Premiere Pro is packed with all of the color grading tools that are required to adjust your film in the appropriate way. Investigating them can provide you with some understanding of how they function. You can get a sense of how these LUTs function by using the pre-installed LUTs that are accessible in Premiere Pro, which you can use at first to get a feel for the LUTs before moving on to using paid or free Color Grading profiles.
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Export LUTs
 
@@ -93,6 +93,10 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -105,10 +109,6 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Complete Cinema LUTs
 * Filmic Tone LUTs
 * Urban Dark Creative LUTs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,19 +146,16 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-creative-choreography-compendiums/"><u>[New] 2024 Approved Creative Choreography Compendiums</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-backdrop-to-your-podcasts-success-story/"><u>[New] The Ultimate Backdrop to Your Podcast's Success Story</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-insights-into-audio-memos/"><u>[New] The Ultimate Insights Into Audio Memos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocked-design-potential-100-free-pp-templates/"><u>[New] Unlocked Design Potential 100% Free PP Templates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-bridging-still-life-with-moving-picture-magic/"><u>[Updated] 2024 Approved Bridging Still Life with Moving Picture Magic</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-extreme-sports-gopro-vs-star-sj7-comparison/"><u>[Updated] 2024 Approved Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-direct-technique-swap-film-direction-in-media-player/"><u>[Updated] Direct Technique Swap Film Direction in Media Player</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-seamless-shift-from-imovie-to-youtube-broadcasts/"><u>[Updated] Navigating the Seamless Shift From iMovie to YouTube Broadcasts</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-80-pro-straight-screen-edition-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor 80 Pro Straight Screen Edition Phone without Any Data Loss</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/pause-unrequested-youtube-video-selections/"><u>Pause Unrequested YouTube Video Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-stuck-grammarly-service-on-pcs/"><u>Reactivating Stuck Grammarly Service on PCs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/visual-virtuosos-the-ultimate-resource-for-filters-perfection/"><u>Visual Virtuosos The Ultimate Resource for Filters Perfection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/zoom-video-enhancement-from-blur-to-clarity-for-2024/"><u>Zoom Video Enhancement From Blur to Clarity for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-enhance-your-vision-a-compreeved-guide-to-tiktok-video-captioning-for-2024/"><u>[New] Enhance Your Vision A Compreeved Guide to TikTok Video Captioning for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-easy-speech-alteration-for-sony-playstation-devices/"><u>[New] In 2024, Easy Speech Alteration for Sony PlayStation Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-clearing-digital-photo-borders-for-2024/"><u>[New] The Ultimate Guide to Clearing Digital Photo Borders for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-expert-strategies-for-vocal-identity-on-instagram/"><u>[Updated] Expert Strategies for Vocal Identity on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-art-of-capturing-human-gestures-an-in-depth-guide/"><u>[Updated] In 2024, The Art of Capturing Human Gestures An In-Depth Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/decades-best-car-surveillance-camera-list/"><u>Decade's Best Car Surveillance Camera List</u></a></li>
+<li><a href="https://solve-news.techidaily.com/descifrar-las-medidas-de-seguridad-de-disney-una-guia-para-extraer-copias-de-dvd-facilmente/"><u>Descifrar Las Medidas De Seguridad De Disney: Una Guía Para Extraer Copias De DVD Fácilmente</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-tricks-to-eliminate-latency-in-pc-gaming-for-a-smoother-experience/"><u>Latest Tricks to Eliminate Latency in PC Gaming for a Smoother Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-at-console-stability-preventing-sudden-severance-of-ps4-connection/"><u>Winning at Console Stability: Preventing Sudden Severance of PS4 Connection</u></a></li>
 </ul></div>
 

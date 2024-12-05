@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Lengthy iPhone Photo Captures\""
-date: 2024-11-18T00:42:14.756Z
-updated: 2024-11-25T00:45:19.794Z
+date: 2024-11-30T20:58:38.299Z
+updated: 2024-12-04T21:00:47.965Z
 tags: 
   - screen-recording
   - ai video
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Users on iOS 11
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: imore
 
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  Image resource: iPhoneMod
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Not a user of iOS 11?
 
@@ -82,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What should you capture with your long exposure iPhone shots?
@@ -105,27 +113,15 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: Digital Photo Secrets
 
 * **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To conclude
 
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,14 +160,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-grasp-the-typical-earning-curve-for-podcasters-for-2024/"><u>[New] Grasp the Typical Earning Curve for Podcasters for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-seamlessly-shift-focus-with-picart-clear-borders/"><u>[New] Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-perfect-places-to-procure-pixel-ringers-online/"><u>[Updated] Perfect Places to Procure Pixel Ringers Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-sunny-side-up-videography-for-android-for-2024/"><u>[Updated] Sunny Side-Up Videography for Android for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tutorial-how-to-enjoy-multimedia-content-on-amazons-kindle-fire-devices/"><u>Easy Tutorial: How to Enjoy Multimedia Content on Amazon's Kindle Fire Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/emulate-macos-style-5-methods-to-revamp-windows/"><u>Emulate macOS Style: 5 Methods to Revamp Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-and-subtle-how-to-blur-iphone-images-for-free-and-easy/"><u>In 2024, Smooth and Subtle How to Blur iPhone Images for Free & Easy</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-directory-for-free-visual-treasures/"><u>In 2024, Ultimate Directory for Free Visual Treasures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-great-gimbal-debate-hero-black-vs-km-170/"><u>The Great Gimbal Debate HERO Black vs KM-170</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-asus-proart-4k-ultra-a-pro-artists-dream-display/"><u>[New] 2024 Approved ASUS ProArt 4K Ultra A Pro Artist's Dream Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-annual-compilation-of-premium-free-lut-choices/"><u>[Updated] 2024 Approved Annual Compilation of Premium Free LUT Choices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tricks-for-recording-online-discussions-easily/"><u>[Updated] 2024 Approved Tricks for Recording Online Discussions Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cutting-edge-performance-in-your-palm-sonys-4k-smartphone/"><u>[Updated] In 2024, Cutting Edge Performance in Your Palm Sony's 4K Smartphone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lone-audio-device-repair-manual/"><u>[Updated] Lone Audio Device Repair Manual</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-tech-analysis-elite-parrot-ar-drone-20-for-2024/"><u>[Updated] Tech Analysis Elite Parrot AR Drone 2.0 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-uncover-the-best-5-ios-applications-for-easy-podcasting-for-2024/"><u>[Updated] Uncover the Best 5 iOS Applications for Easy Podcasting for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breakdown-of-electric-vehicle-power-up-options-exploring-the-variances-between-level-1-2-and-3-charging/"><u>Breakdown of Electric Vehicle Power-Up Options: Exploring the Variances Between Level 1, 2 & 3 Charging</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/centralized-management-of-windows-settings-within-corporate-environments/"><u>Centralized Management of Windows Settings Within Corporate Environments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dive-deep-into-gesture-recognition-systems/"><u>In 2024, Dive Deep Into Gesture Recognition Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-10-most-admirable-photo-frame-apps/"><u>In 2024, The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-x4-wi-fi-mesh-extender-review-it-meshes-very-well/"><u>Netgear Nighthawk X4 Wi-Fi Mesh Extender Review: It Meshes Very Well</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-quality-free-fb-image-and-video-designer/"><u>Top Quality FREE FB Image & Video Designer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips-for-2024/"><u>Updated The Ultimate Guide to Video Making on Mac Top Tools and Tips for 2024</u></a></li>
 </ul></div>
 

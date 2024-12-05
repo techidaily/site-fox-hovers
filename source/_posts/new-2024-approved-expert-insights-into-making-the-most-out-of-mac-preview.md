@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expert Insights Into Making the Most Out of Mac Preview\""
-date: 2024-11-18T17:44:47.312Z
-updated: 2024-11-24T22:26:33.002Z
+date: 2024-11-30T19:30:02.212Z
+updated: 2024-12-04T16:35:40.567Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -58,10 +58,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -94,7 +90,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -108,6 +104,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -125,10 +125,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -144,6 +140,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -161,6 +161,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -172,10 +176,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -236,17 +236,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-game-aids-vrs-top-picks/"><u>[New] 2024 Approved Innovative Game Aids VR's Top Picks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-color-palettes-applying-theories-effectively/"><u>[New] Mastering Color Palettes Applying Theories Effectively</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-whatsapp-for-2024/"><u>[New] Unlocking the Full Potential of WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-boost-your-tiktok-reach-with-attention-grabbing-unboxings/"><u>[Updated] Boost Your TikTok Reach with Attention-Grabbing Unboxings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] In 2024, Eliminate Camera Sway No Tripods, Allowed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/dashboard-directions-entering-google-meet-pcmobile-for-2024/"><u>Dashboard Directions Entering Google Meet (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/efficient-techniques-for-editing-account-numbers-on-tiktok-for-2024/"><u>Efficient Techniques for Editing Account Numbers on TikTok for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-repairing-your-itunes-sound-setup-errors-efficiently/"><u>Expert Tips for Repairing Your iTunes Sound Setup Errors Efficiently</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/from-the-old-to-the-new-master-iphone-os-15/"><u>From the Old to the New: Master iPhone OS 15</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-access-to-trending-tiktok-backdrops-for-2024/"><u>Quick Access to Trending TikTok Backdrops for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultra-portable-and-stylish-the-moko-adaptive-foldable-bluetooth-keyboard-experience/"><u>Ultra-Portable and Stylish: The MoKo Adaptive Foldable Bluetooth Keyboard Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cutting-edge-4k-recordings-our-choice-of-the-best/"><u>[New] 2024 Approved Cutting-Edge 4K Recordings Our Choice of the Best</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dji-phantom-3-the-pro-drone-experience-explored/"><u>[New] In 2024, DJI Phantom 3 The Pro Drone Experience Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ideal-selection-of-cost-effective-4k-projection-screens/"><u>[New] In 2024, Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-psd-design-transformations/"><u>[New] Superior PSD Design Transformations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetvidtowebm-easy-streaming-tools/"><u>[New] TweetVidToWebM Easy Streaming Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-avoid-missing-out-on-these-1-5-iphone-podcast-apps/"><u>[Updated] 2024 Approved Avoid Missing Out on These #1-#5 iPhone Podcast Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-art-of-warmth-in-winter-top-5-video-backdrop-choices/"><u>[Updated] 2024 Approved The Art of Warmth in Winter Top 5 Video Backdrop Choices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-10-budget-friendly-cloud-service-providers/"><u>[Updated] 2024 Approved Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades/"><u>2024 Approved Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-8-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 8 Plus iOS System? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-audacity-automation-implementing-auto-tune-effectively-in-your-projects/"><u>In 2024, Audacity Automation Implementing Auto-Tune Effectively in Your Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-balancing-main-and-supplemental-filmmaking-elements/"><u>In 2024, Balancing Main & Supplemental Filmmaking Elements</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-complete-analysis-breaking-down-the-google-podcast-app/"><u>In 2024, Complete Analysis Breaking Down the Google Podcast App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-quickfix-for-podcast-broadcasts-for-2024/"><u>Master Quickfix for Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-the-isarcextract-bug-on-your-w11-system/"><u>Resolving the ISArcExtract Bug on Your W11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-streaming-fix-the-lack-of-sound-on-netflix-with-these-steady-steps/"><u>Silent Streaming? Fix the Lack of Sound on Netflix with These Steady Steps</u></a></li>
 </ul></div>
 

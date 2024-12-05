@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Navigating the World of LUT Filters for OBS Mastery\""
-date: 2024-11-20T20:54:04.012Z
-updated: 2024-11-24T21:27:42.006Z
+date: 2024-11-30T21:57:11.044Z
+updated: 2024-12-04T22:41:57.986Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ However, you still want to provide a good project; color grading might take a lo
 
 Lookup tables might save you time when editing, but for many creative filmmakers and editors, LUTs are a way of polishing the final appearance of a film. When color grading is poorly done, it can impair the aesthetic of a movie and distract the audience. The beautiful thing about LUTs is that most of them on the market are created by other videographers, so you know they'll work on your movies right out of the box; all you have to do is make little tweaks to match the vision you have in your brain. If you've never used LUTs before but want to take your short films to an extraordinary level, try cinematic LUTs, which will give you that blockbuster vibe on a budget.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. A command to adaptability
 
 They're highly adaptable. LUTs can be utilized to convert Log film back to the Rec709 standard, making the Log color profile more approachable to users who don't have years of color grading expertise. Professionals generally employ log color space to increase dynamic range and sustain shadows and highlights in contrasting scenes. Conversion LUTs now assist in getting over the arduous task of color grading Log footage.
@@ -69,13 +65,25 @@ For more easy-to-use effects and filters to make your video cinematic, have a tr
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use LUTs in OBS Studio
 
@@ -87,29 +95,17 @@ To create your LUT, follow the instructions below.
 
 ![obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 How to use LUTs in Lumafuison
 
 1. Go to Effect Filters. Then click "+" located on the bottom left, click apply LUT, then give your LUT a name in the Filters panel.
 
 ![how to use obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Add Luts to OBS
 
 1. Select the LUT you wish to add to your webcam using the browse button.
 2. You can then modify the quantity slider to choose how powerful you want your LUT to be.
 3. You've just finished installing a LUT on your webcam. If you use the right LUT, you can radically transform the tone of your stream.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free LUTs resource for OBS studio
 
@@ -121,6 +117,10 @@ Gaming Careers has created a LUT package that includes 30 free webcam filters th
 
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gaming careers
 
 ### 2\. [OBS forums free LUTs](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
@@ -131,21 +131,17 @@ This package contains 76 ready-to-use LUT filter files for OBS. Use these filter
 
 OBS forums
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [Video Mark free LUTs](https://videomark.net/obs-studio-cinematic-lut-pack-free-download/)
 
 You'll get 18 cinematic LUTs with this Video Mark package. This filter set focuses more on a film effect. We suggest watching the accompanying demo film, which walks you through some of the LUTs included in this package and how to use them. Because this is an older video, it will use an older version of OBS, but the method should be the same.
 
 ![free obs luts - Video Mark](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-5.png)
 
-Video Mark
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Video Mark
 
 ### 4\. [Rocket stock free LUTs](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
 
@@ -160,6 +156,10 @@ Rocket stock
 Then there's Christian Mate Grab's LUT. It's only a single LUT filter with an orange and teal grade to give it a more cinematic appearance. This one likewise requires you to join their email list. You may color grade your films in real-time using straight in OBS.
 
 ![free obs luts - Christian Mate Grab](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Christian Mate Grab
 
@@ -179,14 +179,6 @@ As a result, adding professionalism to your talents is now even easier and more 
 
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use LUTs in OBS Studio
 
 To create your LUT, follow the instructions below.
@@ -220,7 +212,7 @@ Gaming Careers has created a LUT package that includes 30 free webcam filters th
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Gaming careers
@@ -233,6 +225,10 @@ This package contains 76 ready-to-use LUT filter files for OBS. Use these filter
 
 OBS forums
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Video Mark free LUTs](https://videomark.net/obs-studio-cinematic-lut-pack-free-download/)
 
 You'll get 18 cinematic LUTs with this Video Mark package. This filter set focuses more on a film effect. We suggest watching the accompanying demo film, which walks you through some of the LUTs included in this package and how to use them. Because this is an older video, it will use an older version of OBS, but the method should be the same.
@@ -240,6 +236,10 @@ You'll get 18 cinematic LUTs with this Video Mark package. This filter set focus
 ![free obs luts - Video Mark](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-5.png)
 
 Video Mark
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Rocket stock free LUTs](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
 
@@ -249,15 +249,15 @@ For your next video production, you can get 35 FREE LUTs. Add one of these retro
 
 Rocket stock
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Christian Mate Grab free LUT
 
 Then there's Christian Mate Grab's LUT. It's only a single LUT filter with an orange and teal grade to give it a more cinematic appearance. This one likewise requires you to join their email list. You may color grade your films in real-time using straight in OBS.
 
 ![free obs luts - Christian Mate Grab](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Christian Mate Grab
 
@@ -291,24 +291,16 @@ As a result, adding professionalism to your talents is now even easier and more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[New] 2024 Approved Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ink-your-imagination-a-critical-review-of-the-bestiarys-8-iphone-drawing-apps/"><u>[New] Ink Your Imagination A Critical Review of the Bestiary's 8 iPhone Drawing Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>[New] The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium/"><u>[Updated] 2024 Approved Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>[Updated] In 2024, Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-taking-flight-in-edits-top-9-choices-for-every-drone-enthusiast/"><u>[Updated] In 2024, Taking Flight in Edits Top 9 Choices for Every Drone Enthusiast</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-path-to-professional-pictures-with-video-enhance-v22/"><u>[Updated] In 2024, The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-gopro-4k-essential-editing-tips/"><u>[Updated] Mastering GoPro 4K Essential Editing Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-value-in-streaming-in-depth-analysis-of-the-roku-express-edition/"><u>Best Value in Streaming: In-Depth Analysis of the Roku Express Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/create-visual-narratives-install-microsofts-movie-maker-on-w11/"><u>Create Visual Narratives Install Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-deep-into-system-building-with-toms-hardware-guides/"><u>Dive Deep Into System Building with Tom's Hardware Guides</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-boost-your-pc-editing-game-with-inshot-techniques/"><u>In 2024, Boost Your PC Editing Game with Inshot Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/micro-movie-maker-for-2024/"><u>Micro Movie Maker for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11-video-tdr-issues-atikmpagsys-error-explained-and-solved/"><u>Resolving Windows 11 Video TDR Issues: atikmpag.sys Error Explained & Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-audio-over-hdmi-for-your-windows-7-laptopdesktop/"><u>Step-by-Step Guide: Restoring Audio Over HDMI for Your Windows 7 Laptop/Desktop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8 Plus</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-essentials-of-professional-level-audio-crossfade-for-2024/"><u>The Essentials of Professional-Level Audio Crossfade for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-artistarc-complete-assessment-and-tutorial-series-24/"><u>[New] 2024 Approved ArtistArc Complete Assessment & Tutorial Series '24</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-strategies-for-structuring-an-efficient-collaborative-office-environment-for-2024/"><u>[New] Strategies for Structuring an Efficient, Collaborative Office Environment for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>[New] Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-high-speed-windows-photoviewer/"><u>[Updated] High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-device-sharing-techniques-for-seamless-user-experience-on-steam-deck/"><u>Efficient Device Sharing Techniques for Seamless User Experience on Steam Deck</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-online-houses-purchasing-unique-tailored-boxed-gifts/"><u>In 2024, Best Online Houses Purchasing Unique, Tailored Boxed Gifts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-crescent-casts-the-art-of-shaping-focal-points-with-light/"><u>In 2024, Crescent Casts The Art of Shaping Focal Points with Light</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-media-professional-solutions-for-mpeg-video-recovery/"><u>Revive Your Media: Professional Solutions for MPEG Video Recovery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-picks-8-outstanding-cost-free-3d-video-player-tools/"><u>Top Picks 8 Outstanding, Cost-Free 3D Video Player Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-from-discord-dilemma-essential-tips-when-it-refuses-to-start/"><u>Unstuck From Discord Dilemma: Essential Tips When It Refuses to Start</u></a></li>
 </ul></div>
 

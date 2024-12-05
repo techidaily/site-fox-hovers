@@ -1,7 +1,7 @@
 ---
 title: "How to Incrementally Lower Decibels in Logic Pro"
-date: 2024-11-21T00:06:20.679Z
-updated: 2024-11-25T05:23:50.530Z
+date: 2024-11-29T18:30:14.659Z
+updated: 2024-12-05T01:19:00.475Z
 tags: 
   - screen-recording
   - ai video
@@ -45,21 +45,17 @@ Step1 Locate the section Region Inspector on the left top side of your screen af
 
 ![region inspector logic pro](https://images.wondershare.com/filmora/article-images/2022/07/region-inspector-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Enter the required value for your fade in the Fade Out section by clicking More and then finding it. If you're uncertain, experiment with various figures until you find the ideal one.
 
 ![fade out section logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-section-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Create an automation curve on the produced fade using the Curve section if you'd like. For greater control, you may add a curve to your fading automation. To achieve this, choose the Automation Curve Tool by clicking on the Tool Selector at the top of the Arrangement View. Then, left-click and drag your automation point up or down between the points.
 
 ![automation curve logic pro](https://images.wondershare.com/filmora/article-images/2022/07/automation-curve-logic-pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Employ the Fade-Out Tool
 
@@ -68,10 +64,6 @@ The fading-out process has additional option in Logic Pro. An audio track will f
 Step1 Navigate to the Tool Selector located at the Region View's top. Select the Fade Tool by expanding it.
 
 ![fade tool logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-tool-logic-pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Select the fade tool, then left-click on the beginning point of your fading while still in the appropriate audio zone. Till the conclusion of your fade, drag the mouse.
 
@@ -92,12 +84,16 @@ Step2 To generate a seamless fade while dealing with audio, you must utilize the
 ![fade out funtions logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-funtions-logic-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Additionally, you will always have the option to change the level, which is a terrific method to avoid having too much background noise in your music as shown here:
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Logic Pro X Alternative to Fade Audio
 
@@ -118,7 +114,7 @@ You must first download and install this application on your computer before you
 ![install filmora and import audio](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, you must import your files, which is easy with Filmora since you just need to do it once from your device as seen below. To import your music and video files, use the Import button from the software's main screen as shown below:
@@ -129,6 +125,10 @@ You must drag the media files into the program's timeline after importing them i
 
 ![launch audio editor in filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Use the Audio Fade-in/Fade-out
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline.
@@ -137,6 +137,10 @@ To achieve this, focus on the audio file that you want to change in the timeline
 
 ![use audio fade out](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Export Your Fade Out Video
 
 In the final touch, if you are content with the way your voice has evolved, now may be the ideal time to maintain it or even record it. There is support for all widely used video and audio formats, including MP3\. Click "Export" and choose the appropriate file format from the Local menu as shown below to do this. The parameters as indicated below allow you to alter the ultimate location of the altered audio file:
@@ -144,6 +148,10 @@ In the final touch, if you are content with the way your voice has evolved, now 
 ## Conclusion
 
 Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, if you want the Logic Pro experience on Windows and Mac as well, you have [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as an alternate choice. Everything in the suite, including various effects and composition tools, is included. In conclusion, Filmora is highly feature-rich and enables you to carry out a range of activities, such as crossfading, composition, recording, editing, mixing, and posting to social media sites. Therefore, Filmora is your best option if you want to completely experience a DAW on Windows and Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Ways to Fade Audio with Logic Pro X
 
@@ -161,13 +169,17 @@ Step2 Enter the required value for your fade in the Fade Out section by clicking
 
 ![fade out section logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-section-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Create an automation curve on the produced fade using the Curve section if you'd like. For greater control, you may add a curve to your fading automation. To achieve this, choose the Automation Curve Tool by clicking on the Tool Selector at the top of the Arrangement View. Then, left-click and drag your automation point up or down between the points.
 
 ![automation curve logic pro](https://images.wondershare.com/filmora/article-images/2022/07/automation-curve-logic-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Employ the Fade-Out Tool
 
@@ -178,7 +190,7 @@ Step1 Navigate to the Tool Selector located at the Region View's top. Select the
 ![fade tool logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-tool-logic-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Select the fade tool, then left-click on the beginning point of your fading while still in the appropriate audio zone. Till the conclusion of your fade, drag the mouse.
@@ -203,10 +215,6 @@ Step3 Additionally, you will always have the option to change the level, which i
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Logic Pro X Alternative to Fade Audio
 
 Logic Pro has long been the preferred choice for audio editors who can afford a Mac, but what if your whole workflow is dependent on Microsoft Windows? Logic Pro X isn't now and won't likely be anytime soon accessible for Windows. As a result, you must consider Logic Pro alternatives for Windows, and [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is among the top Logic Pro X replacements. It has one of the nicest user interfaces out there.
@@ -224,10 +232,6 @@ Regardless of the screen you are using, the scalable interface keeps your proces
 You must first download and install this application on your computer before you can use it to crossfade audios. By accessing the official links, start by obtaining the most current version of this software. It's now time to install it on your computer when you've completed that. Launch Filmora easily from your desktop or the search bar and launch it as follows to begin:
 
 ![install filmora and import audio](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then, you must import your files, which is easy with Filmora since you just need to do it once from your device as seen below. To import your music and video files, use the Import button from the software's main screen as shown below:
 
@@ -248,10 +252,6 @@ To achieve this, focus on the audio file that you want to change in the timeline
 ##### Step4 Export Your Fade Out Video
 
 In the final touch, if you are content with the way your voice has evolved, now may be the ideal time to maintain it or even record it. There is support for all widely used video and audio formats, including MP3\. Click "Export" and choose the appropriate file format from the Local menu as shown below to do this. The parameters as indicated below allow you to alter the ultimate location of the altered audio file:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -281,21 +281,16 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-determining-the-price-to-film-a-melody-on-camera/"><u>[New] 2024 Approved Determining the Price to Film a Melody on Camera</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-fading-forward-ingenious-techniques-for-soft-echos-in-audacity-for-2024/"><u>[New] Fading Forward Ingenious Techniques for Soft Echos in Audacity for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-podcasts-versus-youtube-the-ultimate-content-battle/"><u>[New] Podcasts Versus YouTube The Ultimate Content Battle</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unparalleled-vr-game-setups-top-8-edition-for-2024/"><u>[New] Unparalleled VR Game Setups Top 8 Edition for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-budget-friendly-4k-imaging-sources/"><u>[Updated] 2024 Approved Budget-Friendly 4K Imaging Sources</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-faithful-melodies-downloaded-tips-for-personalization/"><u>[Updated] 2024 Approved Faithful Melodies Downloaded Tips for Personalization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-no-license-plenty-of-melodies-top-10-online-websites/"><u>[Updated] 2024 Approved No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] 2024 Approved Ten Practical Ways to Prevent VR Sickness</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-smart-approach-to-video-marketing-for-smbs/"><u>[Updated] The SMART Approach to Video Marketing for SMBs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-screen-capture-mastery-on-iphone-7-for-2024/"><u>[Updated] Unlocking Screen Capture Mastery on iPhone 7 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-by-setting-up-custom-alerts-on-your-mac-a-guide-for-macos-monterey-users/"><u>Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970401-9781088252499-heart-impulses/"><u>Heart Impulses | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improve-your-drive-enhancing-car-journeys-with-your-iphone/"><u>Improve Your Drive: Enhancing Car Journeys with Your iPhone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-market-leading-6-social-channels-for-business-advancement/"><u>In 2024, Market-Leading 6 Social Channels for Business Advancement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ios-vs-android-a-deep-dive-analysis-of-their-official-stores/"><u>IOS Vs. Android: A Deep-Dive Analysis of Their Official Stores</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[New] 2024 Approved Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-editors-pathway-for-diminishing-sound-levels/"><u>[New] The Editor's Pathway for Diminishing Sound Levels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecting-your-makeup-mastery/"><u>[Updated] 2024 Approved Perfecting Your Makeup Mastery</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-tools-to-screen-capture-discord-online-interactions/"><u>[Updated] 2024 Approved Top Tools to Screen-Capture Discord Online Interactions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-checklist-for-incorporating-srt-in-mp4-files/"><u>[Updated] Comprehensive Checklist for Incorporating SRT in MP4 Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-ensuring-accurate-age-on-tiktok-for-2024/"><u>[Updated] Step-by-Step Ensuring Accurate Age on TikTok for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-bandicam-key-takeaways-and-tips/"><u>2024 Approved Mastering Bandicam - Key Takeaways and Tips</u></a></li>
+<li><a href="https://win-tips.techidaily.com/android-auf-iphone-ubertragen-funf-moglichkeiten-ohne-computer/"><u>Android Auf iPhone Übertragen: Fünf Möglichkeiten Ohne Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-compilation-of-top-tier-free-iphone-composition-software/"><u>The Ultimate Compilation of Top-Tier Free iPhone Composition Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-stunning-android-background-apps-to-revitalize-your-mobile-experience/"><u>Top 5 Stunning Android Background Apps to Revitalize Your Mobile Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ranked-spots-for-boosting-youtube-videos/"><u>Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
 </ul></div>
 
