@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Effortless Audio Volume Reduction in Garageband"
-date: 2024-12-01T02:24:06.477Z
-updated: 2024-12-05T03:00:16.871Z
+date: 2024-12-08T22:30:48.238Z
+updated: 2024-12-11T01:24:59.814Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ In the article, we will educate you on various topics related to GarageBand; if 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. How to Fade Audio with Garageband on Mac?
 
 We all know that Garageband is a program that allows its users to produce music and podcasts on iOS, macO, and ipadOS devices. It has many in-built audio effects that can enhance your music. Fade-out and fade-in are two of the most used products in Garageband. Many beginners face trouble on **how to fade out in Garageband** as it is not a popular feature that everyone practices.
@@ -43,6 +39,10 @@ Step1 Turn on the application and open the song from the home screen.
 
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
 
 Step3 Choose the mix> produce volume fade out on the main output option.
@@ -50,10 +50,6 @@ Step3 Choose the mix> produce volume fade out on the main output option.
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
@@ -70,10 +66,6 @@ Step2 Go to the setting option at the top right corner and open the song set.
 Step3 Scroll down to the fade-out option and turn it.
 
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Hit the done icon.
 
@@ -107,11 +99,19 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Save the video
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -120,6 +120,10 @@ According to the survey, one of the most searched topics is **how to fade music 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
 
@@ -144,11 +148,7 @@ Choose the create option to save the new file if you are done with the adjusting
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -179,24 +179,22 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-unsubscribing-disconnecting-desktop-discords/"><u>[New] In 2024, Unsubscribing Disconnecting Desktop Discords</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigating-content-sharing-youtube-standards-vs-creative-commons/"><u>[Updated] 2024 Approved Navigating Content Sharing YouTube Standards Vs. Creative Commons</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>2024 Approved Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-liberating-your-media-experience-free-movplay-software/"><u>2024 Approved Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-moments-made-perfect-expert-techniques-for-iphone-photo-editing/"><u>2024 Approved Moments Made Perfect Expert Techniques for iPhone Photo Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quip-quarterly-event-oriented-joke-anthology/"><u>2024 Approved Quip Quarterly Event-Oriented Joke Anthology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-stunning-appraisal-and-alternative-suggestions/"><u>2024 Approved Stunning Appraisal & Alternative Suggestions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-definitive-srt-file-generation-manual/"><u>2024 Approved The Definitive SRT File Generation Manual</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-imagination-drought-hindering-vr-development/"><u>2024 Approved The Imagination Drought Hindering VR Development</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-list-of-prime-15-cameras-for-vloggers/"><u>2024 Approved The Ultimate List of Prime 15 Cameras for Vloggers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-zero-to-hero-your-step-by-step-adventure-in-meme-magic-on-9gag/"><u>2024 Approved Zero to Hero Your Step-by-Step Adventure in Meme Magic on 9GAG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/5-best-360-degree-action-cameras-you-should-use-for-2024/"><u>5 Best 360-Degree Action Cameras You Should Use for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/choreographed-insta-videos-with-a-musical-backdrop/"><u>Choreographed Insta-Videos with a Musical Backdrop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/de-kleine-kijkopenervaders-gids-3-efficient-methoden-om-een-memepositie-te-kreeren/"><u>De Kleine Kijkopenervader's Gids: 3 Efficiënt Methoden Om Een Memepositie Te Kreëren</u></a></li>
-<li><a href="https://win-able.techidaily.com/emerging-from-shadows-resolving-elden-rings-perplexing-boot-blackout-problem/"><u>Emerging From Shadows: Resolving Elden Ring's Perplexing Boot Blackout Problem</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 12 Pro? How to Fix it?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f04-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F04 Phone Hassle-Free</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-constructing-mc-neighborhoods/"><u>The Ultimate Guide to Constructing MC Neighborhoods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant/"><u>[New] 2024 Approved Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[New] 2024 Approved Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tailor-your-own-memetic-masterpiece-now/"><u>[New] 2024 Approved Tailor Your Own Memetic Masterpiece Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-easy-download-unique-video-opening-lines-for-2024/"><u>[New] Easy Download Unique Video Opening Lines for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-interface-mastery-with-these-less-known-windows-11-strategies-for-2024/"><u>[New] Elevate Your Interface Mastery with These Less-Known Windows 11 Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-boosting-gopro-power-endurance-tips-and-tricks/"><u>[New] In 2024, Boosting GoPro Power Endurance Tips & Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[New] Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-rapid-film-techniques-make-your-own-studio-at-home-for-2024/"><u>[New] Rapid Film Techniques Make Your Own Studio At Home for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>[New] Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-altering-mac-screenshot-format-on-the-fly/"><u>[Updated] 2024 Approved Altering Mac Screenshot Format on the Fly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-boosting-video-engagement-using-zooms-snap-feature-for-2024/"><u>[Updated] Boosting Video Engagement Using Zoom's Snap Feature for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[Updated] In 2024, Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-sharing-videos-on-tweet-no-retweets-just-phones-for-2024/"><u>[Updated] Sharing Videos on Tweet No Retweets, Just Phones for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comparing-flac-vs-wav-which-audio-file-type-is-best-for-your-needs/"><u>Comparing FLAC Vs. WAV: Which Audio File Type Is Best for Your Needs?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-effortless-viewing-tackling-instagram-video-issues/"><u>In 2024, Effortless Viewing Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>In 2024, The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726222769963-mkv-wma-movavi/"><u>MKV 및 WMA를 무료로 웹에서 이동하기 위한 꼼꼼한 가이드: Movavi의 선별</u></a></li>
 </ul></div>
 

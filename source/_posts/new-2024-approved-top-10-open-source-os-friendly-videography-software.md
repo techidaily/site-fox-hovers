@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Top 10 Open-Source OS-Friendly Videography Software\""
-date: 2024-08-27T15:38:46.171Z
-updated: 2024-08-28T15:38:46.171Z
+date: 2024-12-09T17:48:37.464Z
+updated: 2024-12-10T17:54:06.700Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Although, you can find lots of software tools for playing videos on your desktop
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [1\. VLC:](http://www.videolan.org/vlc/index.html)
 
@@ -74,9 +78,6 @@ MPV users can enjoy improved media management tools on their digital devices wit
 
 ![mpv-player ](https://images.wondershare.com/filmora/article-images/mpv-player.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 [](http://banshee.fm/)
 
 ## [4\. Banshee:](http://banshee.fm/)
@@ -93,6 +94,10 @@ It is now much easier to play videos and music and stay tuned to all new stuff w
 
 [](http://audacious-media-player.org/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [5\. Audacious:](http://audacious-media-player.org/)
 
 This open source, decent audio player that can perform all playback related tasks without overloading your CPU. Users will love to access their media files via simple drag and drop tools and it also allow search on the basis of artists names, albums etc. Once can develop a personalized library on Audacious with ease and further they can listen music directly from internet and CDs.
@@ -107,8 +112,9 @@ This open source, decent audio player that can perform all playback related task
 [](https://kodi.tv/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [6\. Kodi:](https://kodi.tv/)
 
 Here is a popular open source, 100% free video player that is developed by community to serve community. Kodi can fill your device platform with endless features and you can easily customize its platform to reflect your personality. There is weide range of ad-ons available for Kodi platform and they allow easy access to all media files.
@@ -123,9 +129,6 @@ Here is a popular open source, 100% free video player that is developed by commu
 
 [](https://sourceforge.net/projects/apprenticevideo/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [7\. Apprentic:](https://sourceforge.net/projects/apprenticevideo/)
 
 ¬¬This recently launched player works on giant and powerful shoulders of FFmpeg. Here users can accomplish audio rendering via portaudio V19 and video rendering is completed with the help if OpenGL.
@@ -139,10 +142,11 @@ Here is a popular open source, 100% free video player that is developed by commu
 
 ![apprentice ](https://images.wondershare.com/filmora/article-images/apprentice.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 [](https://ffmpeg.org/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [8\. FFmpeg:](https://ffmpeg.org/)
 
@@ -157,23 +161,12 @@ Here is a well designed, complete solution for cross platform needs. It can easi
 
 ![ffmpeg ](https://images.wondershare.com/filmora/article-images/ffmpeg.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 [](http://smplayer.sourceforge.net/)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [9\. SMPlayer:](http://smplayer.sourceforge.net/)
 
 SMPlayer is compatible with Linux and Windows platform and it can be accessed for free with lots o built in type codecs. You can easily play wide range of media file formats on this tool without messing up with new codec packs or additional plugins. The best thing to know about SMPlayer is that it is capable enough to remember your app settings.
@@ -190,8 +183,9 @@ SMPlayer is compatible with Linux and Windows platform and it can be accessed fo
 [](https://www.xine-project.org/home)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [10\. Xine:](https://www.xine-project.org/home)
 
 Here is one more free multimedia player tool that can be interactively used with VCDs, DVDs and CDs. Xine can easily decode all multimedia files such as MP3, WMV, MOV, AVI etc from local disk drives and can easily display streamed content on internet. There is wide range of plugins available over internet that offers impressive compatibility with Xine.
@@ -204,11 +198,12 @@ Here is one more free multimedia player tool that can be interactively used with
 
 ![xine](https://images.wondershare.com/filmora/article-images/xine.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -232,4 +227,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pro-level-motion-capture-cameras-with-satellite-position-tracking/"><u>[New] 2024 Approved Pro-Level Motion Capture Cameras with Satellite Position Tracking</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-iconic-photographs-the-true-story-for-2024/"><u>[New] Iconic Photographs The True Story for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-discover-the-leading-free-srt-translators-of-today/"><u>[New] In 2024, Discover the Leading Free SRT Translators of Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-effortlessly-integrating-obs-into-your-mac-step-by-step-guide/"><u>[New] In 2024, Effortlessly Integrating OBS Into Your Mac Step by Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-graphic-animation-basic-knowledge-and-practices/"><u>[New] In 2024, Graphic Animation Basic Knowledge & Practices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-tips-for-erasing-backgrounds-in-figma-design/"><u>[New] In 2024, Ultimate Tips for Erasing Backgrounds in Figma Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smiling-photos-and-videos-iphones/"><u>[New] Smiling Photos & Videos (iPhones)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-set-the-mood-music-for-whatsapp-status/"><u>[Updated] 2024 Approved Set the Mood Music for WhatsApp Status</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-clearest-waves-premier-mic-selection/"><u>[Updated] 2024 Approved The Clearest Waves Premier Mic Selection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[Updated] 2024 Approved Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reconnaissance-from-above-deciphering-gopro-karmas-offering/"><u>[Updated] In 2024, Reconnaissance From Above Deciphering GoPro Karma's Offering</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>[Updated] In 2024, Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-journey-to-joyrides-top-6-essential-mc-house-plans-for-2024/"><u>[Updated] Journey to Joyrides Top 6 Essential MC House Plans for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-your-full-potential-in-the-metaverse-for-2024/"><u>[Updated] Unleash Your Full Potential in the Metaverse for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-safe-and-respectful-strategies-for-growing-on-tiktok/"><u>2024 Approved Safe and Respectful Strategies for Growing on TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-soundstage-shows/"><u>Exclusive Soundstage Shows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quick-tips-for-capturing-online-video-conversations/"><u>In 2024, Quick Tips for Capturing Online Video Conversations</u></a></li>
+</ul></div>
 
