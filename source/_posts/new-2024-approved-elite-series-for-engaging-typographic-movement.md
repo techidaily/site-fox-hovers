@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Elite Series for Engaging Typographic Movement\""
-date: 2024-12-06T04:57:03.344Z
-updated: 2024-12-11T04:04:43.545Z
+date: 2024-12-16T05:33:36.643Z
+updated: 2024-12-17T02:46:43.933Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ After Effects have a wide range of text presets to make the texts and titles in 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Glitch Text Effect Toolkit
 
 Glitch text effect is a trendy effect that gets the viewers’ attention immediately. In this pack, you get 30 glitch text effects that you can apply to the text in your video to make them stand out. These effects are highly adjustable and you can time them in and out of your text as per your preference. Along with glitch text effects, you get glitch sound effects to make the animation impactful. You can experiment with Random seed as well as Glitch maps you get in the pack.
@@ -34,7 +38,11 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Liquid Text Animation
@@ -49,10 +57,6 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
@@ -60,7 +64,7 @@ If you want to add texts and titles in your video that looks like the games mean
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
@@ -69,25 +73,21 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
 
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Kinetic Text Animation
 
 Kinetic text effect is a part of dynamic text effects and there is a high demand for kinetic text animation. In this pack, you get 56 text animations and all the effects have full HD resolution. The effect will literally transform your video content and help you to get a proper branding on the video. There are different types of animations available and you videos will not look boring by any chance.
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
 
@@ -96,7 +96,7 @@ You get eleven styles of elements in the pack, and you can customize the designs
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -133,16 +133,15 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-4-pro-strategies-to-record-facebook-calls-professionally-for-2024/"><u>[New] 4 Pro Strategies to Record Facebook Calls Professionally for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-expressive-satire-kapwings-memetic-tool/"><u>[New] Expressive Satire Kapwing’s Memetic Tool</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breaking-down-the-science-behind-green-screen-filmmaking-for-starters/"><u>[New] In 2024, Breaking Down the Science Behind Green Screen Filmmaking for Starters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-precision-editing-unveiled-harnessing-the-potential-of-ps-background-erasure-feature/"><u>[New] In 2024, Precision Editing Unveiled Harnessing the Potential of PS Background Erasure Feature</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-master-iphone-multitasking-how-to-toggle-pip-on-youtube-app-for-2024/"><u>[New] Master iPhone Multitasking How to Toggle PIP on YouTube App for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-saving-game-moments-with-fbx-recorder/"><u>[New] Saving Game Moments with FBX Recorder</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-educational-transformation-the-vr-revolution/"><u>[Updated] 2024 Approved Educational Transformation The VR Revolution</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-earnings-from-a-million-youtube-globals/"><u>[Updated] Earnings From a Million YouTube Globals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-layers-intricate-analysis-of-vegas-pro-21/"><u>[Updated] Unveiling the Layers Intricate Analysis of Vegas Pro '21</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/lens-lineup-leaders-a-comprehensive-1-10-list-for-2024/"><u>Lens Lineup Leaders A Comprehensive #1-10 List for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-gathered-greetings-grabber/"><u>[New] 2024 Approved Gathered Greetings Grabber</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-copyright-free-audio-treasury-for-gamers-online/"><u>[New] Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pivot-producer-system/"><u>[New] Pivot Producer System</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-conquering-export-errors-for-srt-in-premiere-pro-for-2024/"><u>[Updated] Conquering Export Errors for SRT in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-explore-the-best-ai-naming-software-for-podcasters-for-2024/"><u>[Updated] Explore the Best AI Naming Software for Podcasters for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-import-audio-tracks-in-premiere-pro-for-2024/"><u>[Updated] Import Audio Tracks in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-hand-tracking-insights-detailed-exploration/"><u>[Updated] In 2024, Hand Tracking Insights Detailed Exploration</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-mini-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 mini without the Previous Owner?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-huawei-p60-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Huawei P60 Phone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-winning-tools-the-top-five-windows-screen-cutters/"><u>In 2024, Winning Tools The Top Five Windows Screen Cutters</u></a></li>
 </ul></div>
 

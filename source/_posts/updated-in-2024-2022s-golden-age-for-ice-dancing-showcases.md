@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, 2022'S Golden Age for Ice Dancing Showcases"
-date: 2024-12-07T23:24:29.739Z
-updated: 2024-12-11T02:35:14.123Z
+date: 2024-12-15T05:35:49.729Z
+updated: 2024-12-17T05:40:40.878Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
@@ -46,6 +46,10 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -59,13 +63,13 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
@@ -90,7 +94,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -99,10 +103,6 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
@@ -110,7 +110,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -136,24 +136,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-20plus-digital-hubs-unlimited-image-access-for-all/"><u>[New] 20+ Digital Hubs Unlimited Image Access for All</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] 2024 Approved Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unrecognizable-images-with-picarts-feature/"><u>[New] 2024 Approved Unrecognizable Images with PicArt's Feature</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-become-a-text-meme-wizard-harnessing-genrator-power-for-2024/"><u>[New] Become a Text Meme Wizard Harnessing Gen'rator Power for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-prime-pick-ultimate-action-cam-mics-guide-for-2024/"><u>[New] Prime Pick Ultimate Action Cam Mics Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-closing-the-distance-zoom-in-for-a-clearer-picture/"><u>[Updated] In 2024, Closing the Distance Zoom in for a Clearer Picture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-vector-image-fundamentals-introduction-and-categories/"><u>[Updated] In 2024, Vector Image Fundamentals Introduction & Categories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-social-media-rhythms-to-mobile-melodies-setting-up-your-tiktok-ringtone-for-2024/"><u>[Updated] Social Media Rhythms to Mobile Melodies Setting Up Your TikTok Ringtone for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-embarking-on-your-ifunny-meme-adventure/"><u>2024 Approved Step-By-Step Embarking on Your iFunny Meme Adventure</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-steps-to-record-a-timelapse-video-on-ipad/"><u>2024 Approved Steps to Record a Timelapse Video on iPad</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-and-applying-luts-to-ae-projects/"><u>2024 Approved Understanding and Applying LUTs to AE Projects</u></a></li>
-<li><a href="https://article-files.techidaily.com/apex-elite-comprehensive-4k-touch-desktops/"><u>Apex Elite Comprehensive 4K Touch Desktops</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-itel-p40plus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Itel P40+</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-uniting-videos-on-ios-step-by-step-methods/"><u>In 2024, Uniting Videos on iOS Step-by-Step Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-call-of-duty-wwii-issue-fix-error-code-4220/"><u>Resolving Call of Duty WWII Issue: Fix Error Code 4220</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/sauvegarde-et-acces-aux-documents-en-cloud-top-logiciels-libres-pour-les-professionnels/"><u>Sauvegarde Et Accès Aux Documents en Cloud : Top Logiciels Libres Pour Les Professionnels</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-window-11s-missing-clickables-problem/"><u>Solving Window 11'S Missing Clickables Problem</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/switch-up-digital-ordering-with-android-methods/"><u>Switch Up Digital Ordering with Android Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-your-linkedin-summary-statement/"><u>[New] 2024 Approved Perfecting Your LinkedIn Summary Statement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-craft-a-masterpiece-techniques-for-engaging-viral-tiktok-unpacks-for-2024/"><u>[New] Craft a Masterpiece Techniques for Engaging, Viral TikTok Unpacks for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigating-to-sonic-treasures-downloading-app-based-audio-content/"><u>[New] In 2024, Navigating to Sonic Treasures Downloading App-Based Audio Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-seamless-shift-in-music-production/"><u>[New] In 2024, The Seamless Shift in Music Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>[New] JestJamboree Discover a Sea of Memes at Your Feet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-use-periscope-the-complete-guide/"><u>[Updated] 2024 Approved How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-finding-value-in-cheap-gopro-sales-online-for-2024/"><u>[Updated] Finding Value in Cheap GoPro Sales Online for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-make-reels-on-facebook/"><u>[Updated] How to Make Reels on Facebook?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-decreasing-decibels-a-comprehensive-guide-to-audio-fades-in-adobe-premiere-pro/"><u>[Updated] In 2024, Decreasing Decibels A Comprehensive Guide to Audio Fades in Adobe Premiere Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ps5-expansion-leading-external-drives-unveiled-for-2024/"><u>[Updated] Ps5 Expansion Leading External Drives Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/20plus-fresh-collages-elevate-your-environment-for-2024/"><u>20+ Fresh Collages Elevate Your Environment for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-tuning-into-fm-stations-with-ios-and-android-devices/"><u>A Step-by-Step Guide: Tuning Into FM Stations with iOS and Android Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-macbook-pro-16-inch-m1-2021-review/"><u>Apple MacBook Pro 16-Inch (M1, 2021) Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g22-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia G22 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastermakers-ranking-the-top-5-digital-titling-pros-for-2024/"><u>Mastermakers Ranking the Top 5 Digital Titling Pros for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unbranded-and-unbeatable-the-best-free-online-video-editors/"><u>New In 2024, Unbranded and Unbeatable The Best Free Online Video Editors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcome-your-hp-sound-troubles-successful-fix-for-beats-audio-drivers-in-windows-systems/"><u>Overcome Your HP Sound Troubles: Successful Fix for Beats Audio Drivers in Windows Systems</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-strategies-for-upgrading-videos-to-high-definition/"><u>Top Strategies for Upgrading Videos to High Definition</u></a></li>
 </ul></div>
 

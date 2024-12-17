@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Detailed Guide to Advanced Usage in Mac's Preview App"
-date: 2024-08-27T15:36:50.152Z
-updated: 2024-08-28T15:36:50.152Z
+date: 2024-12-14T05:23:28.807Z
+updated: 2024-12-17T07:21:56.802Z
 tags: 
   - screen-recording
   - ai video
@@ -30,11 +30,19 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -51,8 +59,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -67,9 +76,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -86,9 +92,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -102,9 +105,9 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -153,9 +156,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -169,8 +169,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -228,4 +229,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quick-guide-sharing-multiple-images-and-movies-on-instagram/"><u>[New] 2024 Approved Quick Guide Sharing Multiple Images & Movies on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-audience-wow-factor-best-stream-cameras-for-your-twitch-channel/"><u>[Updated] 2024 Approved Audience Wow Factor Best Stream Cameras for Your Twitch Channel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-4k-gaming-laptops/"><u>[Updated] Best 4K Gaming Laptops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximizing-velocity-in-real-time-periscope-livestreams/"><u>[Updated] In 2024, Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-easily-through-trending-youtube-comments/"><u>[Updated] In 2024, Navigating Easily Through Trending YouTube Comments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-olympic-sprint-spotlight-year-2022/"><u>[Updated] In 2024, Olympic Sprint Spotlight Year 2022</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-perfect-ringtones-leading-download-pages-for-2024/"><u>[Updated] Perfect Ringtones Leading Download Pages for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-spring-screens-a-deep-dive-into-desktop-capturing-pro-for-2024/"><u>[Updated] Spring Screens A Deep Dive Into Desktop Capturing Pro for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-twilight-tones-adobe-premiere-blackouts/"><u>[Updated] Twilight Tones Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/edit-efficiently-to-minimize-your-overflowing-drafter-points/"><u>Edit Efficiently to Minimize Your Overflowing Drafter' Points</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-creativity-with-these-top-6-instagram-reel-tools-for-2024/"><u>Enhance Creativity with These Top 6 Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-non-responsive-file-explorer-issues-on-windows-11/"><u>Fixes for Non-Responsive File Explorer Issues on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigglegraphs-designing-delightful-memes-for-2024/"><u>GiggleGraphs Designing Delightful Memes for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-archive-guide-10-top-methods-to-capture-online-music/"><u>In 2024, Comprehensive Archive Guide 10 Top Methods to Capture Online Music</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>In 2024, Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+</ul></div>
 

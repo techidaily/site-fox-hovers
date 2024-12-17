@@ -1,7 +1,7 @@
 ---
 title: "\"Revenue Rundown  The Profit of YouTube Star PewDoPeep for 2024\""
-date: 2024-12-04T06:20:52.466Z
-updated: 2024-12-11T02:40:48.475Z
+date: 2024-12-15T03:44:00.833Z
+updated: 2024-12-17T03:25:45.763Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Let’s first start with the basic identity and financial information of Felix A
 
 ![felix arvid ulf kjellberg aka pewdiepie](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 | Name                   | Felix Arvid Ulf Kjellberg aka PweDiePie.                                                                                                                                                                             |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Name             | Felix Arvid Ulf                                                                                                                                                                                                      |
@@ -53,7 +57,7 @@ The above table was just a short summary of PewDiePie. If you are interested to 
 ![pewdiepie](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Interesting stats about PewDiePie YouTube earning
@@ -88,6 +92,10 @@ To give you an idea, about how **much money does PewDiePie make** and how the ch
 
 ![pewdiepie bar chart](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The popularity of PewDiePie over other social media sites**
 
 By now, we already know that PewDiePie is the king of YouTube but here we would also like to throw some light on his fanbase over other social media sites.
@@ -95,10 +103,6 @@ By now, we already know that PewDiePie is the king of YouTube but here we would 
 * PewDiePie has more than 520K followers on [Twitter](https://twitter.com/pewdiepie).
 * On [Facebook](https://www.facebook.com/PewDiePie), the number of people who follow PewDiePie is over 9.2 million.
 * [Instagram](https://www.instagram.com/pewdiepie/) leads the list with followers of over 21.9 million.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: PewDiePie’s success story: Why he is trending on YouTube?
 
@@ -142,11 +146,19 @@ This is an interesting video of PewDiePie that features a collection of funny mo
 
 ![funny gaming montage](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. [Jabba the Hutt ( PewDiePie song by Schmoyoho)](https://www.youtube.com/watch?v=lxw3C5HJ2XU&feature=emb%5Fimp%5Fwoyt)
 
 This is another popular video of PewDiePie that features a song which is dedicated to one of PewDiePie’s pet dogs- Maya. The video also has a collection of moments from his videos.
 
 ![jabba the hutt](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to be a YouTuber and make videos like PewDiePie
 
@@ -172,10 +184,6 @@ Step1 Launch the software and open the Auto Reframe function. The tool offers mu
 
 ![wondershare filmora auto reframe 1a](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Add the media file by clicking File > Import Media, and then right-click and select the Auto Reframe function.
 
 ![wondershare filmora auto reframe 1b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-10.jpg)
@@ -198,10 +206,6 @@ Step4 After all the settings are done, click on the Analysis option and the soft
 
 ![wondershare filmora auto reframe 4a](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The tool will reframe the video automatically as per the speed and the aspect ratio selected. Clicking on the Restart button will let you change the aspect ratio and the speed.
 
 ![wondershare filmora auto reframe 4b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-15.jpg)
@@ -210,9 +214,17 @@ Step5 Preview of the video can now be checked and if further editing is needed, 
 
 ![wondershare filmora auto reframe 5](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Finally, tap on the Export button, and choose the desired file and the destination to save the video.
 
 ![wondershare filmora auto reframe 6](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can check the other AI Editing and more features at [Wondershare Filmora Guide.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -252,25 +264,13 @@ The revenue earned from YouTube depends on multiple factors like daily video vie
 
 ![youtube money calculator](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bar-chart depicting the annual income of PewDiePie over the years**
 
 To give you an idea, about how **much money does PewDiePie make** and how the channel has grown over the years in terms of revenue or income, below given are the charts and a table.
 
 ![pewdiepie wealth growth](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![pewdiepie bar chart](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The popularity of PewDiePie over other social media sites**
 
@@ -279,10 +279,6 @@ By now, we already know that PewDiePie is the king of YouTube but here we would 
 * PewDiePie has more than 520K followers on [Twitter](https://twitter.com/pewdiepie).
 * On [Facebook](https://www.facebook.com/PewDiePie), the number of people who follow PewDiePie is over 9.2 million.
 * [Instagram](https://www.instagram.com/pewdiepie/) leads the list with followers of over 21.9 million.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: PewDiePie’s success story: Why he is trending on YouTube?
 
@@ -319,6 +315,10 @@ PewDiePie has uploaded multiple gaming and other comic content videos that are p
 This is one of the most viewed videos of PewDiePie that has a compilation of the moments from Let’s Play-Styled content of PewDiePie.
 
 ![a funny montage](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. [Funny Gaming Montage](https://www.youtube.com/watch?v=dt3BvMyHjlc&feature=emb%5Fimp%5Fwoyt)
 
@@ -360,6 +360,10 @@ Add the media file by clicking File > Import Media, and then right-click and sel
 
 ![wondershare filmora auto reframe 1b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And the last option is to choose Auto reframe from the Tools section on the menu bar.
 
 ![wondershare filmora auto reframe 1c](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-11.jpg)
@@ -382,23 +386,19 @@ The tool will reframe the video automatically as per the speed and the aspect ra
 
 ![wondershare filmora auto reframe 4b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Preview of the video can now be checked and if further editing is needed, it can be done using Undo, redo Next Edit Point, and Previous Edit Point features.
 
 ![wondershare filmora auto reframe 5](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6 Finally, tap on the Export button, and choose the desired file and the destination to save the video.
 
 ![wondershare filmora auto reframe 6](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-17.jpg)
 
 You can check the other AI Editing and more features at [Wondershare Filmora Guide.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -432,22 +432,18 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-photoshop-simplified-beginner-friendly-editing-secrets/"><u>[New] 2024 Approved Photoshop Simplified Beginner-Friendly Editing Secrets</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-boosting-social-reach-share-tiktoks-with-a-twist-of-twitter/"><u>[New] Boosting Social Reach Share TikToks with a Twist of Twitter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exemplary-cloud-services-for-biz-needs/"><u>[New] Exemplary Cloud Services for Biz Needs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-moneyminded-cloud-vault-capacious-cost-effective-for-2024/"><u>[New] MoneyMinded Cloud Vault - Capacious, Cost-Effective for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-potential-top-tactics-for-medical-ads-on-social-networks-for-2024/"><u>[New] Unlocking Potential Top Tactics for Medical Ads on Social Networks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cinema-craftsmanship-guide-top-tips-for-the-pros/"><u>[Updated] 2024 Approved Cinema Craftsmanship Guide Top Tips for the Pros</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ipad-timelapse-essentials-for-beginners-for-2024/"><u>[Updated] IPad Timelapse Essentials for Beginners for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-promotional-planning-perfection/"><u>[Updated] Promotional Planning Perfection</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-snippet-income-breakdown-whats-your-profit-share/"><u>[Updated] YouTube Snippet Income Breakdown What's Your Profit Share?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/guida-passo-passo-per-il-miglioramento-della-qualita-dei-tuoi-video-su-pc-mac-android-e-iphone/"><u>Guida Passo-Passo per Il Miglioramento Della Qualità Dei Tuoi Video Su PC, Mac, Android E iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-concurrent-frame-rate-reduction-issues-in-your-pc-games/"><u>How to Resolve Concurrent Frame Rate Reduction Issues in Your PC Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-the-art-of-trimming-tamil-melodies-best-practices/"><u>In 2024, Mastering the Art of Trimming Tamil Melodies Best Practices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-rejuvenated-dialogue-ideas-to-hook-listeners/"><u>In 2024, Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unveiling-identity-simple-facial-blur-tactics/"><u>In 2024, Unveiling Identity Simple Facial Blur Tactics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-to-a-new-default-google-account-on-your-android-device/"><u>Step-by-Step Guide: Switching to a New Default Google Account on Your Android Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-examining-wirecasts-features-against-competitors/"><u>[New] 2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-recommendation-best-iphone-ringtone-makers/"><u>[New] In 2024, Recommendation Best iPhone Ringtone Makers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-the-potential-of-onestream-live-streaming/"><u>[New] In 2024, Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visionary-layout-overhauls/"><u>[New] In 2024, Visionary Layout Overhauls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>[Updated] 2024 Approved Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>[Updated] Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-revolutionize-your-videos-with-360-degrees-a-step-by-step-guide-for-youtube-enthusiasts/"><u>2024 Approved Revolutionize Your Videos with 360 Degrees A Step-by-Step Guide for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-upgrade-your-audiovideo-step-by-step-guide-on-ogg-to-mp4-without-losing-quality/"><u>Effortlessly Upgrade Your Audio/Video: Step-by-Step Guide on OGG to MP4 without Losing Quality</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guide-successfully-opening-image-files-with-yl-computings-expert-solutions/"><u>Guide: Successfully Opening Image Files with YL Computing's Expert Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-list-of-free-vfx-websites/"><u>In 2024, The Ultimate List of FREE VFX Websites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-server-errors-is-battlenet-down-or-personal-connection-problems/"><u>Understanding Server Errors: Is Battle.net Down or Personal Connection Problems?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unite-through-harmony-mastering-the-art-of-simultaneously-streaming-music-on-spotify-as-a-group/"><u>Unite Through Harmony: Mastering the Art of Simultaneously Streaming Music on Spotify as a Group</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-laughter-and-tears-the-best-instagram-meme-picks/"><u>Unleash Laughter and Tears The Best Instagram Meme Picks</u></a></li>
 </ul></div>
 

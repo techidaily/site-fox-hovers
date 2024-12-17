@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Cinema Craftsmanship Guide  Top Tips for the Pros\""
-date: 2024-12-06T02:56:55.267Z
-updated: 2024-12-10T22:23:08.624Z
+date: 2024-12-11T19:58:26.720Z
+updated: 2024-12-16T19:46:05.892Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ You can use common household items to uplift the quality of your videos. But how
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tip 1\. Smooth Camera Movement
 
 Smooth camera movement is the most basic and vital part of the video-making process. Expensive equipment is used to get smooth camera movements on a professional level.
@@ -43,19 +39,15 @@ Step 1 Attach your phone to the side of a door using duct tape or any strong tap
 
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
 
-Step 2 Now open and close the door to get smooth camera movement.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 2 Now open and close the door to get smooth camera movement.
 
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### DIY LED Panel
 
@@ -74,10 +66,6 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 Alright! Let's check out how it looks in the video below.
 
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### DIY Light Flag
 
@@ -120,11 +108,7 @@ Here is a GIF attached for a better understanding of the steps.
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DIY Light Reflector
@@ -145,9 +129,17 @@ There is a GIF attached below to understand the steps visually.
 
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Diffuse Lights With a Desk Mat
 
@@ -167,13 +159,13 @@ For a better understanding of the steps, watch the GIF attached below.
 
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reveal Movement
 
@@ -192,6 +184,10 @@ Step 4 Locking mode is best for recording reveal movement shots.
 Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 180° Presentation Movement
 
@@ -212,7 +208,11 @@ A sample video attached below shows how to record 180 presentation movements.
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tip 5\. Create a Barrel Roll Shot
@@ -271,17 +271,21 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-smirk-sculptor-image-maker/"><u>[New] 2024 Approved Smirk Sculptor Image Maker</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-guide-to-youtubes-latest-income-strategies/"><u>[New] Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigating-through-gopros-time-lapse-potential/"><u>[New] In 2024, Navigating Through GoPro's Time-Lapse Potential</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-online-persona-transformation-rendering-your-cartoon-self/"><u>[New] In 2024, Online Persona Transformation Rendering Your Cartoon Self</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform/"><u>[New] Transform Your Virtual Meetings Using Zoom Within the Gmail Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] 2024 Approved Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-chromebooks-best-vocal-transformers-the-top-5-chrome-apps/"><u>[Updated] In 2024, Chromebook's Best Vocal Transformers The Top 5 Chrome Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-from-external-to-inshot-your-tunes-transformation-guide/"><u>[Updated] In 2024, From External to InShot Your Tunes Transformation Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-window-warriors-elite-video-editor-picks/"><u>[Updated] In 2024, Window Warriors Elite Video Editor Picks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-camera-showdown-2022-gopro-vs-garmin-virb-face-off/"><u>Action Camera Showdown 2022 GoPro Vs. Garmin VIRB Face-Off</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/embrace-video-creation-integrating-windows-movie-maker/"><u>Embrace Video Creation Integrating Windows Movie Maker</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-deskjet-2652-printer-driver-downloads-compatible-with-windows-111087/"><u>HP DeskJet 2652 Printer Driver Downloads Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-deciding-audio-platforms-podcasts-or-youtube/"><u>[New] 2024 Approved Deciding Audio Platforms Podcasts or YouTube?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>[New] 2024 Approved Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-digital-self-expression-the-guide-to-metaverse-avatars/"><u>[Updated] 2024 Approved Digital Self-Expression The Guide to Metaverse Avatars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-analysis-comprehensive-camstudio-recorder/"><u>[Updated] In 2024, Expert Analysis Comprehensive CamStudio Recorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-vivid-images-ps-hue-harmony-tips/"><u>2024 Approved Crafting Vivid Images PS Hue Harmony Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-fostering-duets-tiktok-vocal-pairings/"><u>2024 Approved Fostering Duets TikTok Vocal Pairings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-linguistic-linkers-the-premier-list-for-offline-recognition-devices/"><u>In 2024, Linguistic Linkers The Premier List for Offline Recognition Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>In 2024, Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-stable-garrys-mod-experience-overcoming-persistent-crashing-issues-with-new-techniques/"><u>Master the Stable Garry's Mod Experience: Overcoming Persistent Crashing Issues with New Techniques</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-your-pcs-energy-efficiency-expert-tips-on-managing-power-settings-by-yl-computing/"><u>Master Your PC's Energy Efficiency: Expert Tips on Managing Power Settings by YL Computing</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-the-meta-search-realm-key-definitions-and-advanced-seo-techniques-for-optimized-visibility/"><u>Mastering the Meta Search Realm: Key Definitions and Advanced SEO Techniques for Optimized Visibility</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/picperfect-upgrade-mobile-photography-no-money-down/"><u>PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/set-up-effortless-file-backups-how-to-use-your-seagate-external-drive-for-automatic-protection/"><u>Set Up Effortless File Backups: How to Use Your Seagate External Drive for Automatic Protection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spectral-skillset-professionals-pathway-to-change/"><u>Spectral Skillset Professionals' Pathway to Change</u></a></li>
+<li><a href="https://blog-min.techidaily.com/superior-handbrake-replacement-found-flawless-dvd-and-video-format-shift/"><u>Superior Handbrake Replacement Found: Flawless DVD and Video Format Shift</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-painters-touch-mastering-color-artistry-for-2024/"><u>The Painter's Touch Mastering Color Artistry for 2024</u></a></li>
 </ul></div>
 

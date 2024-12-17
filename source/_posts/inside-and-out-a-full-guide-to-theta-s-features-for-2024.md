@@ -1,7 +1,7 @@
 ---
 title: "\"Inside & Out  A Full Guide to Theta S Features for 2024\""
-date: 2024-08-27T15:35:22.497Z
-updated: 2024-08-28T15:35:22.497Z
+date: 2024-12-10T22:54:40.302Z
+updated: 2024-12-17T01:05:27.066Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Large numbers of people are talking about Ricoh these days so it becomes essenti
 * [Part 3: Basic specs of Ricoh Theta S](#part3)
 * [Part 4: Should I buy](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1 Complete Review of Ricoh Theta S
 
 **Brief Introduction about Ricoh Theta S**
@@ -52,6 +56,10 @@ Theta S is going to serve like a push button to the growing world of spherical i
 
 ![Ricoh Theta S - How to use](https://images.wondershare.com/filmora/article-images/ricoh-theta-S-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This Theta S camera unit can be easily used by beginners as well as professional photographers because of its incredibly interactive features. Simply turn on your camera by pressing the button provided and release the shutter; as it used to cover spherical images so you are advised to hold camera till the time it captures scene around you. The Wi-Fi facility as well as the self-timer feature is very handy so you need not to worry about anything. It can be directly connected to Android as well as iOS devices with available wireless network and one can change the settings of device as per need. It is possible to enjoy live previews of captured photographs but this facility is not available for videos; however, it is possible to transfer everything to PC via USB or HDMI port so that direct streaming can be enjoyed.
 
 **Where to use**
@@ -63,6 +71,10 @@ This device is ideal to use for gatherings, functions such as weddings, birthday
 **Image and Video Quality**
 
 ![Ricoh Theta S image quality](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-image-quality.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The picture quality is simply outstanding and is rated to be much better than all mid-range Smartphone. It captures colors in very dynamic and decent manner with more numbers if pixels in every frame. This device is known for its ability to capture the 1080p type footage with 30fps quality and the resulting images are easy to edit with the latest applications.
 
@@ -84,8 +96,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3 Basic specs of Ricoh Theta S
 
 | **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
@@ -103,8 +116,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4 Should I buy Ricoh Theta S
 
 Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
@@ -113,9 +127,6 @@ Theta S is one of the most useful products for photography lovers whether they a
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -139,4 +150,21 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[New] In 2024, Giggles Galore 7 Entertaining Video Sets for Chuckleheads</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-pinpointing-the-10-most-discreet-story-advocates/"><u>[New] In 2024, Pinpointing the 10 Most Discreet Story Advocates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-voice-recording-essentials-the-filmmakers-key-to-excellence/"><u>[New] Voice Recording Essentials The Filmmaker's Key to Excellence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-effortlessly-enhance-your-watchlist-mastering-dual-display-in-netflix/"><u>[Updated] 2024 Approved Effortlessly Enhance Your Watchlist - Mastering Dual Display in Netflix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expert-recommendations-free-and-paid-hd-playback-for-pcmacos/"><u>[Updated] 2024 Approved Expert Recommendations Free & Paid HD Playback for PC/macOS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>[Updated] 2024 Approved Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-visual-treasures-top-10-free-image-stores-for-2024/"><u>[Updated] Unlocking Visual Treasures – Top 10 FREE Image Stores for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-narzo-60-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme Narzo 60 Pro 5G FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-stop-hyper-v-service-in-windows-11/"><u>Guide: Stop Hyper-V Service in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/high-resolution-drone-flights-a-mi-examination/"><u>High-Resolution Drone Flights A MI Examination</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20with/without a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-absent-remove-button-for-windows-11-pins/"><u>Reinstating Absent 'Remove' Button for Windows 11 PINs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/thrustmaster-t300-steering-wheel-driver-installation-guide-for-win10-and-win11/"><u>Thrustmaster T300 Steering Wheel Driver Installation Guide for Win10 & Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>Unveiling Elite Choices A Guide to HDR Cameras</u></a></li>
+</ul></div>
 

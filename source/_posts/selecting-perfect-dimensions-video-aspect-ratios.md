@@ -1,7 +1,7 @@
 ---
 title: "\"Selecting Perfect Dimensions  Video Aspect Ratios\""
-date: 2024-12-09T18:19:40.560Z
-updated: 2024-12-10T20:42:04.351Z
+date: 2024-12-16T07:14:25.809Z
+updated: 2024-12-17T02:18:00.366Z
 tags: 
   - screen-recording
   - ai video
@@ -33,9 +33,17 @@ With that said, let's dive right into it!
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 16:9 Widescreen
 
@@ -52,6 +60,10 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Which aspect ratio should I choose?
 
@@ -70,7 +82,7 @@ Facebook is one of the most used website across the world on both computer and t
 9:16 for Facebook stories
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### YouTube
@@ -84,10 +96,6 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 16:9 for regular HD videos
 
 21:9 for cinematic videos/shortfilms
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Instagram
 
@@ -108,7 +116,7 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 9:16 for IGTV
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### TikTok
@@ -125,17 +133,9 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cropping
 
@@ -175,14 +175,21 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-copyright-concerns-with-recording-youtube-content/"><u>[New] In 2024, Copyright Concerns with Recording YouTube Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/imple-guide-youtube-to-mp3-on-mac/"><u>[New] Simple Guide YouTube to MP3 on Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-list-meme-design-masterpieces-for-2024/"><u>[New] Ultimate List Meme Design Masterpieces for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premier-ios-tools-replicating-ps2-games/"><u>[Updated] 2024 Approved Premier iOS Tools Replicating PS2 Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-dissecting-high-quality-visuals-with-benqs-27-inch-ultra-hd-display-for-2024/"><u>[Updated] Dissecting High-Quality Visuals with BenQ's 27 Inch Ultra HD Display for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-winning-conversations-top-20-marketing-terms-explained/"><u>[Updated] In 2024, Winning Conversations Top 20 Marketing Terms Explained</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-optimizing-your-periscope-stream-experience-for-2024/"><u>[Updated] Optimizing Your Periscope Stream Experience for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-meizu-21-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Meizu 21 Pro FRP?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/zero-cost-maximum-impact-mastering-your-characters-voice-in-free-fire-gameplay-for-2024/"><u>Zero Cost, Maximum Impact Mastering Your Character's Voice in Free Fire Gameplay for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-balancing-main-footage-with-b-roll-to-avoid-overkill/"><u>[New] 2024 Approved Balancing Main Footage with B-Roll to Avoid Overkill</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-beyond-traditional-viewing-vr-movies-alteration/"><u>[New] Beyond Traditional Viewing VR Movies Alteration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-comprehensive-insight-into-high-end-hdr-cameras/"><u>[New] In 2024, Comprehensive Insight Into High-End HDR Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-synergy-of-slack-and-filmora-for-effective-scheduling/"><u>[New] The Synergy of Slack and Filmora for Effective Scheduling</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-witness-the-magic-top-14-text-animation-pieces-for-2024/"><u>[New] Witness the Magic Top 14 Text Animation Pieces for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhance-creativity-top-ai-tools-to-generate-podcast-names/"><u>[Updated] 2024 Approved Enhance Creativity Top AI Tools to Generate Podcast Names</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-cut-to-connect-advanced-editing-with-kinemaster/"><u>[Updated] 2024 Approved From Cut to Connect Advanced Editing with Kinemaster</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-tutorial-on-professional-looking-youtube-introsends/"><u>[Updated] In 2024, Affordable Tutorial on Professional Looking YouTube Intros/Ends</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-beginners-path-to-screen-casting-with-apple-devices/"><u>[Updated] In 2024, Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-srt-mastery-free-and-best-websites-in-top-8-lists/"><u>[Updated] SRT Mastery Free & Best Websites in Top 8 Lists</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-agile-in-depth-analysis-of-the-propella-7s-4-paddleboard-reviews/"><u>Affordable & Agile: In-Depth Analysis of the Propella 7S 4 Paddleboard Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-your-audiovid-creations-here/"><u>In 2024, Stream Your AudioVid Creations Here</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-live-participation-in-tiktok-a-step-by-step-guide/"><u>Mastering Live Participation in TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-ease-toms-hardware-wisdom/"><u>Navigating Gadgets with Ease - Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructional-guide-on-navigating-the-apowersoft-photo-viewer-interface/"><u>Step-by-Step Instructional Guide on Navigating the Apowersoft Photo Viewer Interface</u></a></li>
+<li><a href="https://driver-download.techidaily.com/transform-your-audio-with-m-audios-fast-track-ultra-driver-download-for-free/"><u>Transform Your Audio with M-Audio's Fast Track Ultra Driver (Download for Free)</u></a></li>
 </ul></div>
 

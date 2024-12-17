@@ -1,7 +1,7 @@
 ---
 title: "[New] Innovative Scripting for Advanced Typography in After Effects"
-date: 2024-12-04T03:58:40.110Z
-updated: 2024-12-11T05:04:49.299Z
+date: 2024-12-14T17:22:34.010Z
+updated: 2024-12-17T07:51:22.193Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextExploder
@@ -46,7 +46,7 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iExpressions 2
@@ -57,6 +57,10 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -65,10 +69,6 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -76,10 +76,6 @@ Link: <https://aescripts.com/font-manager/>
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Cartoon Moblur
 
@@ -95,6 +91,10 @@ If you are looking for shadow styles that will go very well with your project, S
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -104,7 +104,11 @@ This is a bundle of more than 80 different templates to add text effects to any 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Artificial Intelligence Titles
@@ -115,10 +119,6 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -128,7 +128,7 @@ This is another great text animation bundle with different options for just abou
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -165,17 +165,24 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-pioneering-techniques-youtube-to-facebook-amplification-for-2024/"><u>[New] Pioneering Techniques YouTube to Facebook Amplification for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-solve-windows-11-photos-app-crashes-effectively/"><u>[Updated] How to Solve Windows 11 Photos App Crashes Effectively</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-insiders-guide-to-metaverse-salesmanship/"><u>[Updated] In 2024, The Insider's Guide to Metaverse Salesmanship</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-laughter-lane-top-7-comedy-content-concepts-for-vloggers/"><u>2024 Approved Laughter Lane Top 7 Comedy Content Concepts for Vloggers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/free-visual-magic-for-your-videos-online/"><u>Free Visual Magic for Your Videos Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-ask-chatgpt-to-help-modify-your-car/"><u>How to Ask ChatGPT to Help Modify Your Car</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11f-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11F 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-premium-free-fb-imagemotion-graphics-builder/"><u>In 2024, Premium Free FB Image/Motion Graphics Builder</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-tips-for-transforming-your-wma-tracks-into-high-quality-wav-files/"><u>Quick Tips for Transforming Your WMA Tracks Into High-Quality WAV Files!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cket-traffic-with-the-top-12-youtube-growth-methods/"><u>Skyrocket Traffic with the Top 12 YouTube Growth Methods</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211265069-9780062125231-the-twelve-wild-swans/"><u>The Twelve Wild Swans | Free Book</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unlocking-potential-with-apples-m1-max-clip-for-2024/"><u>Unlocking Potential with Apple's M1 Max Clip for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-prime-business-sky-storage-choice/"><u>[New] 2024 Approved Prime Business Sky-Storage Choice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-companion-for-podcast-name-crafting-top-10-tools/"><u>[New] 2024 Approved The Ultimate Companion for Podcast Name Crafting Top 10 Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-gratuitous-access-to-top-digital-editing-suites/"><u>[New] Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leading-transformation-software-spectrashift-series/"><u>[New] In 2024, Leading Transformation Software SpectraShift Series</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-personal-tones-androids-ringtone-and-sound-guide/"><u>[New] In 2024, Mastering Personal Tones Android's Ringtone & Sound Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-undead-lore-weaver/"><u>[New] Undead Lore Weaver</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unlocking-the-full-potential-of-morphvox-alchemy/"><u>[New] Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-into-tomorrow-with-2023s-lg-bp550/"><u>[Updated] 2024 Approved Step Into Tomorrow with 2023'S LG BP550</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-broadcast-easily-3-steps-to-post-mp3-on-youtube/"><u>[Updated] Broadcast Easily 3 Steps to Post MP3 on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies-for-2024/"><u>[Updated] Grip It Right Tips for Eliminating Jitter in Action Cam Movies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-invest-in-quality-top-5-handhoced-stabilizers-review/"><u>[Updated] Invest in Quality Top 5 Handhoced Stabilizers Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>[Updated] Mastering Adventure The Best 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crafting-wisdom-for-the-virtual-realm-30plus-metaverse-quotes-for-2024/"><u>Crafting Wisdom for the Virtual Realm 30+ Metaverse Quotes for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/create-professional-pc-video-clips-for-free-master-these-10-techniques-using-movavi/"><u>Create Professional PC Video Clips for Free? Master These 10 Techniques Using Movavi!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/five-strategies-for-recovering-erased-or-missing-files-from-your-xbox-one-console/"><u>Five Strategies for Recovering Erased or Missing Files From Your Xbox One Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-car-sector-boosts-green-tech-and-digital-shift-with-ev-push-insights-by-zdnet/"><u>How the Car Sector Boosts Green Tech & Digital Shift with EV Push – Insights by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/impending-closure-of-t-mobiles-2g-cellular-service/"><u>Impending Closure of T-Mobile's 2G Cellular Service</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-success-with-instagrams-business-platform/"><u>Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-approaches-to-disable-audio-elements-within-a-video/"><u>Updated Approaches to Disable Audio Elements Within a Video</u></a></li>
 </ul></div>
 

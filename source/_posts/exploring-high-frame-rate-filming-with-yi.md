@@ -1,7 +1,7 @@
 ---
 title: "Exploring High Frame Rate Filming with YI"
-date: 2024-08-27T15:34:00.092Z
-updated: 2024-08-28T15:34:00.092Z
+date: 2024-12-14T17:31:00.843Z
+updated: 2024-12-17T00:17:41.081Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Specifications
 
@@ -74,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Features
 
@@ -131,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -154,9 +170,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pathways-to-identifying-outstanding-video-artists/"><u>[New] 2024 Approved Pathways to Identifying Outstanding Video Artists</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-essentials-of-whatsapp-call-messages/"><u>[New] 2024 Approved The Essentials of WhatsApp Call Messages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-impactful-journey-with-gopro-hero5/"><u>[New] 2024 Approved The Impactful Journey with GoPro Hero5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>[New] 2024 Approved Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-creating-stunning-time-lapses-using-gopro-studio/"><u>[Updated] Creating Stunning Time Lapses Using GoPro Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>[Updated] In 2024, Crafting Compelling Spotify Campaigns A Practical Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-money-savers-budget-priced-vr-devices-china-for-2024/"><u>[Updated] Money Savers Budget-Priced VR Devices (China) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-proven-methods-to-secure-costless-illustrations-for-2024/"><u>[Updated] Proven Methods to Secure Costless Illustrations for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-reviving-the-gone-retrieving-former-reddit-discussions/"><u>[Updated] Reviving the Gone Retrieving Former Reddit Discussions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/re-chuckles-quickly-efficient-methods-for-exciting-youtube-reaction-videos-3-tips-for-2024/"><u>Capture Chuckles Quickly Efficient Methods for Exciting YouTube Reaction Videos (3 Tips) for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-quiet-issue-how-to-restore-audio-in-apex-legends/"><u>Fixing the Quiet Issue: How to Restore Audio in Apex Legends</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/narrative-noble-order-honors-hexagon/"><u>Narrative Noble Order - Honor's Hexagon</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-avs-video-editor-for-mac-video-editing-tool-for-mac/"><u>Updated AVS Video Editor for Mac Video Editing Tool for Mac</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

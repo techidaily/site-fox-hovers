@@ -1,7 +1,7 @@
 ---
 title: "\"High-Resolution Drone Flights  A MI Examination\""
-date: 2024-12-04T17:26:46.630Z
-updated: 2024-12-10T16:23:36.277Z
+date: 2024-12-10T02:04:55.986Z
+updated: 2024-12-17T03:30:22.947Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,12 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 
 * Its aesthetics are not much appealing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Features
 
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Design
@@ -66,7 +62,7 @@ Even with a reasonable price tag, this advanced drone unit has several features 
 Xiaomi Mi has impressive aesthetics and most of its features are comparable to DJI Phantom 4 Drone. The best part is that this drone unit is designed with light weight structure so you can easily carry it to your tour. Even, the propeller guards as well as the gimbal unit are detachable so that you can put this drone easily inside your backpack. The overall weight of Xiaomi Mi is only 149 grams due to carbon fiber and polycarbonate material.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Battery Life
@@ -80,19 +76,23 @@ Like most of the advanced drone units, Xiaomi Mi also features autonomous flying
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Camera
 
 Xiaomi Mi Drone unit comes with two different variants where the professional one carries 4K camera unit with it and another variant is able to handle 1080P resolution level. Note that the 4K camera comes with 12.4MP sensor from Sony and it works with the Ambarella image processor. You can set its frame rate up to 30fps. Another option is 1080p resolution setting that comes with 16.4 megapixel sensor from Sony along with Ambarella Image Processor. In this case frame rate can go as high as up to 60 fps. The 2.4GHz transmitter further ensures interference free recording in air.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -126,15 +126,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-10-ae-text-setups/"><u>2024 Approved Unleash Creativity with These 10 AE Text Setups</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/acid-pro-insights-and-looking-for-alternatives/"><u>ACID Pro Insights & Looking for Alternatives</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/avoiding-motion-illusions-tips-for-vr-users/"><u>Avoiding Motion Illusions Tips for VR Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/boost-engagement-optimal-title-strategies-for-2024/"><u>Boost Engagement Optimal Title Strategies for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/changing-video-pace-on-your-instagram-feed/"><u>Changing Video Pace on Your Instagram Feed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-gtx-980-ti-drivers-for-windows-and-mac/"><u>Get the Latest GeForce GTX 980 Ti Drivers for Windows and Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-camon-20-premier-5g-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Camon 20 Premier 5G Lock Screen Password?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/masterclass-flawless-powerpoint-screen-recordings-for-2024/"><u>Masterclass Flawless PowerPoint Screen Recordings for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/monetizing-digital-coins-for-everyday-use-the-essential-guide-by-yl-software-experts/"><u>Monetizing Digital Coins for Everyday Use: The Essential Guide by YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cutting-edge-video-editing-software-guide-for-windows-creatives/"><u>[New] 2024 Approved Cutting-Edge Video Editing Software Guide for Windows Creatives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-peakquality-resizer-cross-platform-edition/"><u>[New] 2024 Approved PeakQuality Resizer – Cross-Platform Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-upgrade-iphone-photographyfilm-expertise-with-essential-gear/"><u>[New] 2024 Approved Upgrade iPhone Photography/Film Expertise With Essential Gear</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pushing-the-boundaries-of-fb-video-speed/"><u>[New] In 2024, Pushing the Boundaries of FB Video Speed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-removing-obscured-display-issues-in-recording/"><u>[New] In 2024, Removing Obscured Display Issues in Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-free-to-download-star-performances-release/"><u>[Updated] 2024 Approved Free-to-Download Star Performances Release</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-master-the-melodies-secrets-to-adding-soundtracks-on-insta/"><u>[Updated] In 2024, Master the Melodies Secrets to Adding Soundtracks on Insta</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfecting-eq-adjustments-in-ableton/"><u>[Updated] In 2024, Perfecting EQ Adjustments in Ableton</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-periscope-understanding-features-pricing-and-registration-steps-for-2024/"><u>[Updated] Navigating Periscope Understanding Features, Pricing & Registration Steps for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-essential-powerdirector-handbook-24-for-2024/"><u>[Updated] The Essential PowerDirector Handbook '24 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/groundwork-for-animate-infographic-creation-for-2024/"><u>Groundwork for Animate Infographic Creation for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/iberian-language-puzzle-solving-spanish-and-portuguese-distinctions/"><u>Iberian Language Puzzle: Solving Spanish and Portuguese Distinctions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50i-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor X50i Bootloader Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-astro-a50-headphones-sound-problem-expert-advice-on-fixing-the-mic/"><u>Solving Your Astro A50 Headphones Sound Problem – Expert Advice on Fixing the Mic</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-mickey-mouse-voice-generators/"><u>Updated 2024 Approved Top 6 Mickey Mouse Voice Generators</u></a></li>
 </ul></div>
 

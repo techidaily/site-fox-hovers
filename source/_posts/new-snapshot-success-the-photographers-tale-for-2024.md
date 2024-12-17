@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snapshot Success  The Photographer's Tale for 2024\""
-date: 2024-12-09T00:50:31.813Z
-updated: 2024-12-11T03:48:40.961Z
+date: 2024-12-12T16:23:16.200Z
+updated: 2024-12-17T04:53:13.496Z
 tags: 
   - screen-recording
   - ai video
@@ -27,12 +27,16 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -43,7 +47,7 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -65,6 +69,10 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
@@ -91,19 +99,11 @@ However, subsequent memes feature satirical themes. Here are some of the most po
 
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -114,7 +114,7 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
@@ -138,10 +138,14 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part5: FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Can you use stock photos for memes?
@@ -149,10 +153,6 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Does copyright law protect memes?
 
@@ -194,24 +194,16 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ins-and-outs-of-podcasting-with-powerpoint/"><u>[New] 2024 Approved The Ins and Outs of Podcasting with PowerPoint</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools-for-2024/"><u>[New] Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-innovative-approaches-to-capturing-skype-calls-on-obs/"><u>[Updated] In 2024, Innovative Approaches to Capturing Skype Calls on OBS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-18-steps-to-make-your-instagram-unboxing-content-stand-out/"><u>2024 Approved 18 Steps to Make Your Instagram Unboxing Content Stand Out</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-guide-to-picking-top-quality-free-srt-translation-platforms/"><u>2024 Approved A Guide to Picking Top-Quality, Free SRT Translation Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-5-drones-perfect-choices-for-experts/"><u>2024 Approved Elite 5 Drones Perfect Choices for Experts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>2024 Approved From Concept to Click An In-Depth Look at GIF Memes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-3d-animation-with-elite-design-applications/"><u>2024 Approved Mastering the Art of 3D Animation with Elite Design Applications</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-snap-happy-with-hero5-black-tips-for-stunning-visuals/"><u>2024 Approved Snap-Happy with Hero5 Black Tips for Stunning Visuals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-spotlight-techniques-for-android-videography/"><u>2024 Approved Spotlight Techniques for Android Videography</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-future-unfolds-analyzing-the-shift-from-m1-pro-to-m1-max/"><u>2024 Approved The Future Unfolds Analyzing The Shift From M1 Pro To M1 Max</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-visionaries-of-synthetic-environment-tech/"><u>2024 Approved Visionaries of Synthetic Environment Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-pdf-splitting-techniques-3-simple-ways-to-divide-your-pdf-document/"><u>Effortless PDF Splitting Techniques: 3 Simple Ways to Divide Your PDF Document</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-overcoming-error-code-rununk13-on-your-hulu-streams/"><u>Expert Advice: Overcoming Error Code RUNUNK13 on Your Hulu Streams</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-a15-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy A15 4G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-basic-techniques-for-effective-color-grading-in-ps/"><u>In 2024, Basic Techniques for Effective Color Grading in PS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A24</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-blueprint-of-writing-appealing-vlog-storylines/"><u>The Blueprint of Writing Appealing Vlog Storylines</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-the-perfect-geeky-gifts-the-top-12-picks-by-zdnet/"><u>Ultimate Guide to Selecting the Perfect Geeky Gifts - The Top 12 Picks by ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-expedition-tools-for-storytelling-through-lenses/"><u>[New] 2024 Approved Expedition Tools for Storytelling Through Lenses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-4k-brilliance-top-tips-for-selecting-a-superior-monitor/"><u>[New] 4K Brilliance Top Tips for Selecting a Superior Monitor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-android-gaming-delight-with-kinemaster-app-explored/"><u>[New] Android Gaming Delight with KineMaster App Explored</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prime-mobile-hd-video-playback-androids-top-picks/"><u>[New] Prime Mobile HD Video Playback Android's Top Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevating-your-gopro-footage-through-color-grading/"><u>[Updated] 2024 Approved Elevating Your GoPro Footage Through Color Grading</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expertise-amplified-10-must-know-canva-techniques-for-2024/"><u>Expertise Amplified 10 Must-Know Canva Techniques for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/premium-choices-for-group-video-and-voice-calls-online/"><u>Premium Choices for Group Video and Voice Calls Online</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/repairing-mouse-issues-effective-techniques-provided-by-yl-software-experts/"><u>Repairing Mouse Issues: Effective Techniques Provided by YL Software Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-infinix-note-30i-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Infinix Note 30i to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-scan-related-problems-in-your-device-expert-advice-from-yl-computing/"><u>Troubleshooting Scan-Related Problems in Your Device - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 
