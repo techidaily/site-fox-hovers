@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Snapshots From Videos Within Windows 11 Photos App\""
-date: 2024-08-22T23:30:00.568Z
-updated: 2024-08-23T23:30:00.568Z
+date: 2024-12-21T21:54:11.015Z
+updated: 2024-12-25T20:21:00.028Z
 tags: 
   - screen-recording
   - ai video
@@ -65,22 +65,21 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 We are explaining the solutions here –
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -94,14 +93,16 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -109,8 +110,9 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -134,4 +136,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers-for-2024/"><u>[New] Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>[New] Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-synchronized-system-apple-watch-and-mac-unlocking-for-2024/"><u>[New] Synchronized System Apple Watch and Mac Unlocking for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-amp-up-your-audio-game-with-top-4-budget-convert-apps/"><u>[Updated] 2024 Approved Amp Up Your Audio Game with Top 4 Budget Convert Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-youtube-feedback-a-user-guide/"><u>[Updated] Navigating YouTube Feedback A User Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-racers-dilemma-gopro-hero-4-or-ghost-s-in-2024/"><u>[Updated] The Ultimate Racer's Dilemma GoPro Hero 4 or Ghost-S, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-your-shorts-videos-thumbnail-shows-up-for-2024/"><u>Ensuring Your Shorts Video's Thumbnail Shows Up for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-picks-5-superior-video-call-recording-tools/"><u>Expert Picks 5 Superior Video Call Recording Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-disable-youtube-preview-across-platforms/"><u>In 2024, Disable Youtube Preview Across Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-final-step-guide-free-yourself-from-youtube-shorts/"><u>In 2024, Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-20mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 20Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-a54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy A54 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-nuances-the-artists-hue-harmony-handbook/"><u>In 2024, Navigating Nuances The Artist’s Hue Harmony Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>Speedy Drawing in Photos A Win10 Guide to Efficient Edits</u></a></li>
+<li><a href="https://win-tips.techidaily.com/test-your-browsers-with-emeditor-a-comprehensive-text-editor-for-macros/"><u>Test Your Browsers with EmEditor: A Comprehensive Text Editor for Macros</u></a></li>
+</ul></div>
 

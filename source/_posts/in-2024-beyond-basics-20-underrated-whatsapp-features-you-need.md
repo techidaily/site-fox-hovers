@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Beyond Basics  20 Underrated WhatsApp Features You Need\""
-date: 2024-12-12T19:41:44.159Z
-updated: 2024-12-16T17:36:53.734Z
+date: 2024-12-24T19:53:00.505Z
+updated: 2024-12-25T21:21:25.620Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ With more than a billion active users worldwide, WhatsApp is now among the prima
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cool WhatsApp Text Tricks to Make You Look Edgy
 
 You can do a lot of things with your WhatsApp fonts, appearance, and texts that will make your messages look oh-so-edgy! From italics, bold, strikethrough to monospace there are plenty of text formatting tricks to dress up your epic announcements, festive greetings et al. Rounding it all, here are the best WhatsApp Typing Tricks you can use right away.
@@ -63,15 +59,15 @@ Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is al
 
 ![Whatsapp Text Tricks Strikethrough](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-strikethrough.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4.Monospace
 
 The monospace is a font stylization now available in WhatsApp that allows you to write fixed-width content. These WhatsApp writing tricks are useful when sharing any sort of coding or technical formulas. It will help distinguish special content from regular content. To insert it, use 3 backticks (\`\`\`text\`\`\`) at the beginning and end of your sentence without spacing.
 
 ![Whatsapp Text Tricks Monospace](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-monospace.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 5.Disable Read Recipients
 
@@ -85,10 +81,6 @@ Many times, we have just one or a few people whose texts matter the most. So, av
 
 ![Whatsapp Pin Prioritized Contacts](https://images.wondershare.com/filmora/article-images/whatsapp-pin-prioritized-contacts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Source: techmesto.com
 
 #### 7.Export Chat Logs
@@ -97,10 +89,6 @@ If you wish to save the chats that you exchanged with someone special, you can e
 
 ![Whatsapp Export Chat Logs](https://images.wondershare.com/filmora/article-images/whatsapp-export-chat-logs.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 8.WhatsApp Font Tricks for Formatting
 
 Though we have already mentioned the shortcuts for bold, italics, and other text formatting features, there is another way to format your texts if you forget the shortcuts - go for the Native Settings Strip. Once you are done typing, then tap and hold the text sections you want to format, this will open all the options in a list. You can scroll it to select your formatting command.
@@ -108,7 +96,7 @@ Though we have already mentioned the shortcuts for bold, italics, and other text
 ![Whatsapp Font Tricks Formatting](https://images.wondershare.com/filmora/article-images/whatsapp-font-tricks-formatting.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 9.You Can Apply All WhatsApp Font Tricks on One Word or Sentence
@@ -137,6 +125,10 @@ There are many ways how you can save mobile data consumed by WhatsApp. First, yo
 
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Source: androidauthority.com
 
 #### 3.Share Your Location Without Ado
@@ -148,6 +140,10 @@ If there is confusion with a location, where sharing addresses is not an option,
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5.Restore Your Chat History, and Deleted Chats
 
@@ -165,6 +161,10 @@ Not every message thread is important, and many people have the habit of deletin
 
 ![Whatsapp Auto Delete Messages](https://images.wondershare.com/filmora/article-images/whatsapp-auto-delete-messages.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 8.Mute Stories that You Don’t Want to See
 
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
@@ -172,7 +172,7 @@ If it is annoying to open a loved one’s story and then automatically sliding i
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
@@ -206,7 +206,7 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -218,7 +218,7 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -246,18 +246,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elite-expeditions-and-epic-quests-the-ultimate-gaming-journeys-top-ten/"><u>[New] 2024 Approved Elite Expeditions & Epic Quests – The Ultimate Gaming Journey's Top Ten</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mobile-tools-optimize-and-enhance-audio-faster/"><u>[New] 2024 Approved Mobile Tools Optimize and Enhance Audio Faster</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-pro-level-7-dslrs-that-transform-your-digital-storytelling/"><u>[New] In 2024, Pro-Level 7 DSLRs That Transform Your Digital Storytelling</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-optimizing-zoom-videos-essential-3-part-methodology/"><u>[Updated] In 2024, Optimizing Zoom Videos Essential 3-Part Methodology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-step-by-step-approach-for-verifying-your-age-on-tiktok/"><u>[Updated] In 2024, Step-by-Step Approach for Verifying Your Age on TikTok</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/combatting-the-rise-of-gps-interference-in-transport-and-aerial-vehicles-expert-tips-from-zdnet/"><u>Combatting the Rise of GPS Interference in Transport and Aerial Vehicles | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>In 2024, Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>In 2024, Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/resolving-hdd-problems-on-windows-11-three-effective-methods-for-restoring-disk-health/"><u>Resolving HDD Problems on Windows 11: Three Effective Methods for Restoring Disk Health</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-lost-keys-with-2e-top-sound-wave-tracker-picks-for-a-hassle-free-2024/"><u>Say Goodbye to Lost Keys with 2E – Top Sound Wave Tracker Picks for a Hassle-Free 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/startup-strategies-for-making-money-on-periscope-for-2024/"><u>Startup Strategies for Making Money on Periscope for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-dilemma-of-disconnected-airpods-on-windows-11/"><u>Troubleshooting Guide: Solving the Dilemma of Disconnected AirPods on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-astrological-flair-crafting-bios-for-each-zodiac-house-for-2024/"><u>[New] Astrological Flair Crafting Bios for Each Zodiac House for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-drone-families-and-forms/"><u>[New] In 2024, Drone Families and Forms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-podcast-openings-unveiled-scripted-appeals-for-2024/"><u>[New] Podcast Openings Unveiled Scripted Appeals for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hythmic-reactions-10-mobile-music-rippers-for-2024/"><u>[New] Rhythmic Reactions 10 Mobile Music Rippers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-step-by-step-guide-to-phantoms-slow-mo-magic/"><u>[New] Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>[New] The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transform-your-tapes-with-these-top-5-brighteners/"><u>[New] Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-freememogen-your-guide-to-free-memes-for-2024/"><u>[Updated] FreeMemoGen Your Guide to FREE Memes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-athletic-free-front-rows-for-relaxing/"><u>10 Athletic-Free Front Rows for Relaxing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audacitys-secrets-creating-smooth-soundscapes/"><u>In 2024, Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-date-placement-on-visual-memories/"><u>In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
+<li><a href="https://win-net.techidaily.com/resetting-your-laptop-to-original-state-guides-for-windows-1187-systems/"><u>Resetting Your Laptop to Original State: Guides for Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://solve-info.techidaily.com/resolving-incessant-reboots-guidance-from-yl-software-professionals/"><u>Resolving Incessant Reboots: Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-amazon-s3-archiving-a-comprehensive-guide/"><u>Understanding Amazon S3 Archiving: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210277068-9781722526276-wake-up-and-live/"><u>Wake Up and Live! | Free Book</u></a></li>
 </ul></div>
 

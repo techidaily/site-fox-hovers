@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Innovating Human Interface  A Guide to Hand Perception\""
-date: 2024-08-22T23:27:45.599Z
-updated: 2024-08-23T23:27:45.599Z
+date: 2024-12-19T18:10:19.610Z
+updated: 2024-12-26T00:50:44.452Z
 tags: 
   - screen-recording
   - ai video
@@ -69,10 +69,6 @@ Optical motion capture systems emit infrared light from the camera. The markers 
 
 The more cameras used, the more accurate the results. While this technology is very precise, it can be limited by factors such as body position and movement.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Tracking Without Interface
 
 Also known as Markerless Hand Tracking, this type of Hand Tracking allows users to track their hand movements without the need for any external markers or data gloves, meaning more spontaneous interaction and freedom of movement. This could hugely impact everything from gaming to virtual reality to human-computer interaction.
@@ -89,9 +85,6 @@ Before we go further about them, let us learn about Python quickly. Python is a 
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -102,6 +95,10 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 2. **Hand Landmarks Identification**: In the second stage, the framework works with the cropped image of the hand to find 21 hand landmarks.
 
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Guidance With Steps
 
@@ -114,22 +111,21 @@ Click the **“New Project”** option and select **“Create”** on the next W
 ![install and launch the pycharm app on your pc](https://images.wondershare.com/filmora/article-images/2022/07/install-and-launch-the-pycharm-app-on-your-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now, to install **MediaPipe**, copy and paste the following command:
 
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 **Coding**
 
 A _main.py_ file for writing code will be automatically created in _Pycharm_ app once you create a new project.
@@ -140,9 +136,6 @@ First, import the OpenCV and MediaPipe to use their dependencies. Once done, cre
 
 ![importing the libraries](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step2 Capturing And Processing An Image Input
 
 Copy and paste the following line of code to take the image input from your PC webcam.
@@ -157,16 +150,14 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ![working with both hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Afterward, use the above code to create a method for using specifically to identify hands in the input image. The code will also draw hand landmarks and hand connections.
 
 ##### Step5 Locate The ‘X’ and ‘Y’ Coordinates Of Each Hand Point
@@ -216,9 +207,6 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 * [Guidance With Steps](#part3-3)
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -232,11 +220,9 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -271,17 +257,14 @@ Above we have learned what is Hand Tracking and the two types of it. Now let’s
 
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -307,16 +290,14 @@ Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Now, to install **MediaPipe**, copy and paste the following command:
 
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Coding**
 
 A _main.py_ file for writing code will be automatically created in _Pycharm_ app once you create a new project.
@@ -333,6 +314,10 @@ Copy and paste the following line of code to take the image input from your PC w
 
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
 
 ##### Step3 Working With Both Hands
@@ -341,9 +326,6 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ![working with both hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
@@ -356,9 +338,6 @@ To create a method for finding the x and y coordinates of the z21 hand points an
 
 ![locate x and y coordinate of hand point](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 In this method, use the code that you used to find the ID and hand landmark of each hand point. Moreover, put the code you will use to circle the hand point.
 
 ##### Step6 Main Method
@@ -367,21 +346,19 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 ![](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##### Step7 Main Method Execution
 
 To execute the main method, copy and paste the following code lines:
 
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
@@ -394,6 +371,10 @@ Learn more about Filmora:
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -423,4 +404,16 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-craft-a-compelling-metaverse-presence-with-these-tools/"><u>[New] 2024 Approved Craft a Compelling Metaverse Presence with These Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-synchronized-system-apple-watch-and-mac-unlocking-for-2024/"><u>[New] Synchronized System Apple Watch and Mac Unlocking for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-best-free-photo-collage-apps-for-iphone/"><u>[Updated] 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-5-helmet-action-cameras-for-motorcycle-2023-update-for-2024/"><u>[Updated] Top 5 Helmet Action Cameras For Motorcycle -2023 Update for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/6-essential-strategies-to-fix-common-windows-11-problems-and-restore-performance/"><u>6 Essential Strategies to Fix Common Windows 11 Problems and Restore Performance</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-steps-to-apply-a-creative-commons-copyright/"><u>Essential Steps to Apply a Creative Commons Copyright</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srs-mastery-innovative-conversion-techniques/"><u>In 2024, SRS Mastery Innovative Conversion Techniques</u></a></li>
+<li><a href="https://win-guides.techidaily.com/selecting-the-ideal-user-account-for-windows-11-installation-a-guide-on-making-the-right-choice-tips-and-advice-from-zdnet/"><u>Selecting the Ideal User Account for Windows 11 Installation: A Guide on Making the Right Choice - Tips & Advice From ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>Speedy Drawing in Photos A Win10 Guide to Efficient Edits</u></a></li>
+</ul></div>
 

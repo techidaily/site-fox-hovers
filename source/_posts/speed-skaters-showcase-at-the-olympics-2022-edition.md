@@ -1,7 +1,7 @@
 ---
 title: "Speed Skaters' Showcase at the Olympics, 2022 Edition"
-date: 2024-08-22T23:25:04.011Z
-updated: 2024-08-23T23:25:04.011Z
+date: 2024-12-19T18:50:46.084Z
+updated: 2024-12-25T17:57:36.544Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
@@ -48,9 +52,17 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
@@ -60,9 +72,6 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -78,17 +87,9 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -107,9 +108,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -121,8 +119,9 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -144,4 +143,26 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlock-hidden-details-the-ultimate-guide-to-minecraft-zooming/"><u>[New] 2024 Approved Unlock Hidden Details The Ultimate Guide to Minecraft Zooming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-keep-your-linkedin-videos-at-the-fingertips-top-6-professional-downloader-apps/"><u>[New] In 2024, Keep Your LinkedIn Videos at the Fingertips Top 6 Professional Downloader Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-iphone-7-perfect-screen-recording-setup/"><u>[New] IPhone 7 Perfect Screen Recording Setup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-market-precision-strategic-package-interpretations/"><u>[New] Market Precision Strategic Package Interpretations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-tiktok-videos-with-strategic-zoom-use/"><u>[New] Professional TikTok Videos with Strategic Zoom Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-inspirational-recruiter-playlist/"><u>[New] The Ultimate Inspirational Recruiter Playlist</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>[New] Unleashing Potential Top 10 AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-low-res-to-hd-your-first-foray-into-frame-rates-for-2024/"><u>[Updated] From Low-Res to HD Your First Foray Into Frame Rates for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-puzzles-to-peril-the-gaming-genres-progression-for-2024/"><u>[Updated] From Puzzles to Peril The Gaming Genre's Progression for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-novice-to-expert-pro-gopro-filming-made-easy/"><u>[Updated] In 2024, From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-fine-art-of-focusing-enhanced-zoom-on-roblox-games-for-2024/"><u>[Updated] The Fine Art of Focusing Enhanced Zoom on Roblox Games for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-selection-free-photo-enhancement-tools-for-iphones/"><u>[Updated] Ultimate Selection Free Photo Enhancement Tools for iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-techniques-to-record-your-gameplay-on-a-ps4-platform/"><u>Expert Techniques to Record Your Gameplay on a PS4 Platform</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/ideal-spots-for-phone-shopping-a-comprehensive-guide/"><u>Ideal Spots for Phone Shopping: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-11-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 11 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pro-graphic-rigs-mastering-4k-titles/"><u>Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-issues-with-steams-payment-system/"><u>Resolving Issues with Steam's Payment System</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/simple-solutions-easily-recover-images-a-beginners-guide-to-rejuvenating-your-pictures-folder-in-windows-11/"><u>Simple Solutions] Easily Recover Images: A Beginner's Guide to Rejuvenating Your Pictures Folder in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens-for-2024/"><u>The Best Approach to Enhancing Your 4K Vision with a New Lens for 2024</u></a></li>
+</ul></div>
 

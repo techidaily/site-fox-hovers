@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Crafting Wide-Angle Photos with a Fisheye Effect\""
-date: 2024-08-22T23:30:45.934Z
-updated: 2024-08-23T23:30:45.934Z
+date: 2024-12-21T03:24:45.271Z
+updated: 2024-12-25T23:36:17.270Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,14 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
@@ -43,11 +51,9 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -61,9 +67,9 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -72,9 +78,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -86,18 +89,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -121,4 +121,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>[New] 2024 Approved Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[New] 2024 Approved Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-visual-storytelling-with-youtube-videos/"><u>[New] In 2024, Streamlining Visual Storytelling with YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-lightning-share-youtube-playlist-hacks/"><u>[Updated] 2024 Approved Lightning Share YouTube Playlist Hacks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-debunking-youtube-premium-benefits-vs-costs-for-2024/"><u>[Updated] Debunking YouTube Premium Benefits Vs. Costs for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ideal-equipment-for-animation-photography/"><u>[Updated] Ideal Equipment for Animation Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mac-users-top-5-mkv-decoders/"><u>[Updated] Mac Users Top 5 MKV Decoders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-narrative-nooks-the-leading-10-rogues/"><u>2024 Approved Narrative Nooks The Leading 10 Rogues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-google-meet-professionally-free-of-charge/"><u>2024 Approved Navigating Google Meet Professionally, Free of Charge</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-blending-beats-and-imagery-music-tips-for-instagram/"><u>In 2024, Blending Beats and Imagery Music Tips for Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/innovation-unleashed-leading-professionals-360cameras-for-2024/"><u>Innovation Unleashed Leading Professionals’ 360°Cameras for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96190509-9781507209516-love-signs/"><u>Love Signs | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-the-art-of-text-insertion-in-digital-pictures/"><u>Mastering the Art of Text Insertion in Digital Pictures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mirthful-melodies-top-downloads-for-tones-for-2024/"><u>Mirthful Melodies Top Downloads for Tones for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-media-streamlining-iphoneandroid-tips-for-effective-feeds-for-2024/"><u>Social Media Streamlining IPhone/Android Tips for Effective Feeds for 2024</u></a></li>
+</ul></div>
 

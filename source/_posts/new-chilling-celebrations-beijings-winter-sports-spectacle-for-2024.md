@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Chilling Celebrations  Beijing's Winter Sports Spectacle for 2024\""
-date: 2024-08-15T13:27:17.636Z
-updated: 2024-08-16T13:27:17.636Z
+date: 2024-12-23T19:10:34.199Z
+updated: 2024-12-25T21:57:34.111Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
 
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
@@ -35,9 +32,6 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Nathan Chen Breaks World Record
 
 Nathan Chen of the United States set a world-record score in men's figure skating short program held at Beijing Olympics. Chen scored 113.97 at Capital Indoor Stadium in Beijing. Four years after his dreams were shattered, Chen has not only come back stronger in his performance but managed to break the world record.
@@ -46,14 +40,15 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
@@ -62,30 +57,29 @@ She lost her balance before she could cross the finishing line and she slid acro
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Van der Poel Breaks the World Record
 
 Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year-old Swede started strongly and crossed the finish line in 12 minutes 30.74 seconds to set the world record. His victory also made Sweden taste an Olympic medal after 1988\. The victory also made him the tenth man to win both the 10,000 races and 5,000 races in the same event. It is also the largest Olympic victory as he triumphed the record set by Johan Olav Kloss in 1994 by 18.70 seconds.
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
@@ -99,8 +93,9 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
 
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
@@ -113,13 +108,18 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. American Favorite Out of the Tournament
 
 US skater Vincent Zhou has tested positive for coronavirus and therefore, he is out of the Winter Olympics. Naturally, Zhou was in tears and extremely emotional as he was a top medal contender. He did take part in the team free skate event but he struggle to perform at his best even though the US team managed to win silver at the event.
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
@@ -129,9 +129,6 @@ Zhou is considering the silver win as a consolation prize but he could not showc
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
@@ -152,4 +149,26 @@ However, due to some miscommunication, she was allowed to be a participant in th
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-benq-bl2711u-the-artisans-choice-for-high-end-4k-display-enthusiasts/"><u>[New] 2024 Approved BenQ BL2711U - The Artisan's Choice for High-End 4K Display Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-20-auto-surveillance-cams-reviews/"><u>[New] 2024 Approved Top 20 Auto Surveillance Cams Reviews</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-software-bundles-for-animation-modelers/"><u>[New] Best Software Bundles for Animation Modelers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-free-passport-photography-made-simple-our-top-10-picks-list/"><u>[New] Free Passport Photography Made Simple Our Top 10 Picks List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-screen-capture-software-top-picks-ranked/"><u>[Updated] 2024 Approved Essential Screen Capture Software - Top Picks Ranked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-game-hall-fame-celebrating-top-10-action-adventure-favorites/"><u>[Updated] 2024 Approved Game Hall Fame Celebrating Top 10 Action-Adventure Favorites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-the-best-metaverse-vr-headsets-and-wearables/"><u>[Updated] 2024 Approved Unveiling the Best Metaverse VR Headsets & Wearables</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-graphical-glimpse-radeons-resurgence-for-2024/"><u>[Updated] Graphical Glimpse Radeon's Resurgence for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-360-degree-panoramic-shot-systems/"><u>[Updated] In 2024, 360 Degree Panoramic Shot Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-simplifying-onestream-techniques-for-effective-streaming/"><u>[Updated] In 2024, Simplifying OneStream Techniques for Effective Streaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ensuring-profitability-in-youtube-with-correct-monetization/"><u>2024 Approved Ensuring Profitability in YouTube with Correct Monetization</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ice-warriors-unleashed-at-2022-games/"><u>Ice Warriors Unleashed at 2022 Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-uncover-agencies-with-superior-cinematic-crews/"><u>In 2024, How to Uncover Agencies with Superior Cinematic Crews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/next-gen-intelligence-in-paperwork-automation-how-abbyy-stacks-up-against-pegasystems/"><u>Next-Gen Intelligence in Paperwork Automation: How ABBYY Stacks Up Against Pegasystems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/soundtracks-for-snickers-ringtones-best-online-sources/"><u>Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-top-30-for-timeless-telephone-chimes/"><u>The Top 30 for Timeless Telephone Chimes</u></a></li>
+<li><a href="https://discover-community.techidaily.com/understanding-your-fiscal-responsibilities-do-you-need-to-pay-tax-on-crypto-transactions/"><u>Understanding Your Fiscal Responsibilities: Do You Need to Pay Tax on Crypto Transactions?</u></a></li>
+</ul></div>
 

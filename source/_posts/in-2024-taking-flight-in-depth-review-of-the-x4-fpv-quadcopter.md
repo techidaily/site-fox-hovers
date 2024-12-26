@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Taking Flight  In-Depth Review of the X4 FPV Quadcopter\""
-date: 2024-08-22T23:29:44.313Z
-updated: 2024-08-23T23:29:44.313Z
+date: 2024-12-23T01:37:43.703Z
+updated: 2024-12-26T02:25:56.491Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons
 
  **Pros:**
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 #### Verdict
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Complete Review for Hubsan H501S X4
 
@@ -108,17 +116,29 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
@@ -151,8 +171,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-embrace-mematic-your-personal-digital-diary/"><u>[New] 2024 Approved Embrace Mematic Your Personal Digital Diary</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-webcams-for-peak-twitch-performance/"><u>[New] 2024 Approved Essential Webcams for Peak Twitch Performance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-stepwise-guide-to-conducting-video-chats-on-laptop-via-whatsapp/"><u>[New] 2024 Approved Stepwise Guide to Conducting Video Chats on Laptop via WhatsApp</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cyber-cracked-joke-creator-for-2024/"><u>[New] Cyber Cracked Joke Creator for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevating-visual-mastery-to-professional-standards/"><u>[Updated] 2024 Approved Elevating Visual Mastery to Professional Standards</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[Updated] 2024 Approved Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-art-of-podcast-hooks-compelling-beginnings/"><u>[Updated] 2024 Approved The Art of Podcast Hooks Compelling Beginnings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-gpus-for-high-res-media-production/"><u>[Updated] Optimal GPUs for High Res Media Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-editors-edge-insider-strategies-to-supercharge-your-photos-for-2024/"><u>[Updated] The Editor's Edge Insider Strategies to Supercharge Your Photos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>[Updated] The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-make-a-photomontage/"><u>How to Make a PhotoMontage</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/premium-platforms-for-virtual-shows-for-2024/"><u>Premium Platforms for Virtual Shows for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-to-address-dota-2s-valve-anti-cheat-error-of-2022/"><u>The Ultimate Fixes to Address Dota 2'S Valve Anti-Cheat Error of 2022</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-your-first-adobe-presenter-video-for-2024/"><u>The Ultimate Guide to Your First Adobe Presenter Video for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-iphone-audio-applications-ranked/"><u>Top iPhone Audio Applications Ranked</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

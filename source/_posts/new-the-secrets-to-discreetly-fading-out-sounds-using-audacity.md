@@ -1,7 +1,7 @@
 ---
 title: "[New] The Secrets to Discreetly Fading Out Sounds Using Audacity"
-date: 2024-08-22T23:24:36.982Z
-updated: 2024-08-23T23:24:36.982Z
+date: 2024-12-20T17:49:51.590Z
+updated: 2024-12-25T17:52:35.006Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Free, open-source freeware for Windows and Mac, Audacity, is a powerful toolkit 
 
 You can easily apply professional fades to your audio files with Audacity fade out effect. The audio in the chosen portion will progressively get quieter when the fade out effect is applied, ending in stillness. The fade out tool is nearly totally automated, making it simple and understandable for both novices and experts. Along with the other several tools under Audacity's Effects menu, the fade out tool may be found there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Linear Fade in/out
 
 You may apply linear fades, a straightforward fade option, to any segment of your music. Alternatively, you might apply it to the full audio file. Linear fades come in two varieties. Fade-in and Fade-out are the two varieties. Any section of your audio that you apply a fade-in to will get muted and return to its original volume. Additionally, if you activate the fade-out feature in your audio, the audio will transition from its original volume to total quiet.
@@ -37,15 +41,13 @@ By selecting the audio segment, you wish to fade out and selecting Effect > Fade
 ![liner fade in audacity](https://images.wondershare.com/filmora/article-images/2022/07/liner-fade-in-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. Studio Fade Out
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
@@ -64,18 +66,17 @@ A dialog box will show up on the screen when you choose the customizable fade op
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
+
 ## Part 4\. Crossfades Audacity
 
 There are two choices available when using this effect. You have two options: either manually make a crossfade of your own, or utilize one of the pre-existing crossfades in Audacity. In Audacity, there are two crossfades that are accessible. Crossfade clips and Crossfade tracks are what they are. Crossfade clips make it easier to switch between two distinct clips. Additionally, crossfade tracks aid in crossfading between two audio tracks and are more exact.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Steps to Use Crossfades:**
 
 Using the Time Shift Tool, place your two clips adjacent to one another in order to apply a crossfade across them on the same track.
@@ -84,14 +85,12 @@ Select the area to be crossfaded using the Selection tool, and then click Effect
 
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5\. Alternative Way to Fade Audio
 
 Even though it's still thought of as difficult, time-consuming work, audio editing is really pretty easy with the correct program or tool. The quality of audio tracks in a video is often disregarded by amateur video producers. In addition to having advanced features like 4K editing support, GIF support, noise removal, color tuning, an advanced text editor, an audio mixer, video stabilization, scene detection, and an audio equalizer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is fairly simple to use and allows for extensive customization of pre-existing templates.
@@ -110,9 +109,6 @@ In the step that follows, we'll show you how to use this platform to fade in and
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
 ##### Step3 Open the Audio Editor in Filmora
@@ -121,18 +117,12 @@ You must drag the files into Filmora's timeline after importing your media files
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step4 Fade-in/fade-out audio
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline. To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. Drag the first one to the desired duration for the audio fade-in option, as demonstrated:
 
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 To finish the fade-out, click and drag the other icon in Filmora to the necessary duration. You may hear the music by playing the file within the timeline of the Filmora preview layout.
 
 ##### Step5 Export the Modified File
@@ -140,6 +130,10 @@ To finish the fade-out, click and drag the other icon in Filmora to the necessar
 The last step consists of downloading your modified file to your PC and storing it there in the appropriate place and format. To simply do so, use the Export button in the top right corner of your software's main interface. You may also quickly submit the modified audio clip to your YouTube channel. To post and share your audio-altered file right away, go to the YouTube menu bar at the top of your Export window as follows, select Sign in, and then input your YouTube channel in Filmora:
 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,6 +159,10 @@ You must drag the files into Filmora's timeline after importing your media files
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Fade-in/fade-out audio
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline. To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. Drag the first one to the desired duration for the audio fade-in option, as demonstrated:
@@ -178,6 +176,10 @@ To finish the fade-out, click and drag the other icon in Filmora to the necessar
 The last step consists of downloading your modified file to your PC and storing it there in the appropriate place and format. To simply do so, use the Export button in the top right corner of your software's main interface. You may also quickly submit the modified audio clip to your YouTube channel. To post and share your audio-altered file right away, go to the YouTube menu bar at the top of your Export window as follows, select Sign in, and then input your YouTube channel in Filmora:
 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -205,4 +207,22 @@ You may access a variety of tools and services on the platform known as Audacity
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-deciding-to-display-understanding-and-managing-off-facebook-activity/"><u>[New] 2024 Approved Deciding to Display Understanding and Managing Off-Facebook Activity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhancing-reels-perfecting-sound-in-instagram-videos/"><u>[New] 2024 Approved Enhancing Reels Perfecting Sound in Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-whats-new-in-vr/"><u>[New] 2024 Approved What's New in VR?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crafting-impactful-medical-messages-in-social-media/"><u>[New] In 2024, Crafting Impactful Medical Messages in Social Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-encompassing-explanation-what-is-googles-podcast-service/"><u>[New] In 2024, Encompassing Explanation What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-uploading-basics-for-2024/"><u>[New] Twitter Video Uploading Basics for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-warping-letters-in-photographyvideo/"><u>[New] Warping Letters in Photography/Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-imageharmony-pro-8-version-visualizer/"><u>[Updated] 2024 Approved ImageHarmony Pro 8-Version Visualizer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-audible-allure-choosing-background-beats-for-videos/"><u>[Updated] In 2024, Audible Allure Choosing Background Beats for Videos</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/free-mp3-audio-file-converter-software-with-movavi-quick-and-easy-downloads/"><u>Free MP3 Audio File Converter Software with Movavi - Quick and Easy Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/fusiontv-services-international-and-home-viewing-unite-for-2024/"><u>FusionTV Services International & Home Viewing Unite for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-repair-update-apple-authorizes-second-hand-components-for-certain-fixes-tech-news/"><u>IPhone Repair Update: Apple Authorizes Second-Hand Components for Certain Fixes - Tech News</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-time-manipulation-in-vlc-how-to-control-audiovideo-speed-precisely-for-enhanced-viewing-experience/"><u>Mastering Time Manipulation in VLC: How to Control Audio/Video Speed Precisely for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994543080-scavenger-race-victory-guide-master-your-match-on-pc/"><u>Scavenger Race Victory Guide - Master Your Match on PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-future-is-here-free-innovative-fb-story-enhancers-for-2024/"><u>The Future Is Here Free, Innovative FB Story Enhancers for 2024</u></a></li>
+</ul></div>
 

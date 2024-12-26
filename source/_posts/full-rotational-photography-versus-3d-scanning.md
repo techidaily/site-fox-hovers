@@ -1,7 +1,7 @@
 ---
 title: "\"Full-Rotational Photography versus 3D Scanning\""
-date: 2024-08-22T23:25:34.632Z
-updated: 2024-08-23T23:25:34.632Z
+date: 2024-12-24T03:06:17.310Z
+updated: 2024-12-26T04:32:52.615Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
 ![Virtual reality image](https://images.wondershare.com/filmora/article-images/virtual-reality-immersion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  <www.businesswire.com>
 
  Both 3D and 360 degrees cameras can be used for creating virtual reality videos, but with the former, there will be need for additional processing in the form of stitching to bring the images together in the creation of the VR. However, the latter requires no stitching at all in the creation of VR videos or images due to its comprehensive nature.
@@ -47,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  wallpaperfolder.com
 
  Also known as a stereo camera, 3D cameras record images which will appear in three dimensions. The cameras are fitted with two or more lenses, with each lens having a separate film frame or image sensor. This makes it possible for 3D cameras to simulate the human binoculars vision, leading to the rendition of three dimensional images. Such cameras are suitable for taking stereoviews as well as 3D pictures for range imaging or for movies.
@@ -56,24 +61,17 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2. How Do 3D Cameras Work
 
 ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  <www.reddit.com>
 
  The basic operation of 3D camera is to recreate what the normal human eyes see. It is important to remember that the human eyes are stationed just about two and a half inches apart and this leads to different perspectives of what the eyes see and different interpretation by the brain. With 3D cameras, the brains combine two images so that it can create a sense of depth – usually the third dimension.
@@ -86,14 +84,8 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
  It is also important to note that most of the 3D cameras take photos or images and save them in the standard MPO format to make it possible for the images to be played back in 3D photo frames or TVs, but to view such images in 3D, a special 3D glass may be needed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## About 360-Degree Cameras
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1.What is 360-Degree Camera
 
  A 360-degree camera, also known as omnidirectional camera refers to a camera with a 360-degree field of view in horizontal plane or simply a camera with a visual field of view which can cover an entire sphere. 360-degree cameras are widely used in instances when the photographer needs to cover large visual fields such as when dealing with robotics or panoramic photography.
@@ -105,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -130,4 +123,23 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>[New] 2024 Approved A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-tiktok-crafting-video-content-with-background-melodies/"><u>[New] 2024 Approved Mastering TikTok Crafting Video Content with Background Melodies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-tweet-to-snap-showcase-video-posting-techniques-for-2024/"><u>[New] A Tweet-to-Snap Showcase Video Posting Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-laughter-layouts-design-meme-magic-on-kapwing-for-2024/"><u>[New] Laughter Layouts Design Meme Magic on Kapwing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>[Updated] 2024 Approved Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-online-recording-of-webcamplusscreen/"><u>[Updated] 2024 Approved Streamlining Online Recording of Webcam+Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>[Updated] In 2024, Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-revival-artisan-selection-for-2024/"><u>[Updated] Revival Artisan Selection for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-how-to-promote-telegram-marketing-a-beginners-guide/"><u>2024 Approved How to Promote Telegram Marketing A Beginner's Guide?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-recording-guide-visuals-plus-vibrant-melodies/"><u>2024 Approved Ultimate Recording Guide Visuals + Vibrant Melodies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dissecting-inshot-an-elite-video-editor-examined-for-2024/"><u>Dissecting InShot An Elite Video Editor Examined for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-dim-issue/"><u>How to Fix Lenovo Laptop Screen Dim Issue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-10plus-list-of-online-church-streaming/"><u>In 2024, The Ultimate 10+ List of Online Church Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/magical-image-maker-turning-pictures-into-cartoons-on-devices-for-2024/"><u>Magical Image Maker Turning Pictures Into Cartoons on Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-full-facetune-experience-from-novice-to-expert-photographer-for-2024/"><u>The Full Facetune Experience From Novice to Expert Photographer for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210770098-9781638145448-the-truth-about-your-healing/"><u>The Truth About Your Healing | Free Book</u></a></li>
+</ul></div>
 

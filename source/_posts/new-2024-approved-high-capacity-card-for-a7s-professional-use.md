@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  High-Capacity Card for A7S Professional Use\""
-date: 2024-08-22T23:23:25.305Z
-updated: 2024-08-23T23:23:25.305Z
+date: 2024-12-19T00:59:42.486Z
+updated: 2024-12-25T21:02:23.660Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
  Sony A7S II is well known for its abilities to process all media file formats along with 4K resolution levels. But note that you will need huge storage capacity to work with all advanced features of this camera so here is a need to go through available memory cards. Note that Sony A7S II is highly dependent upon type of memory card and when it find that memory card is not meeting desired requirements then card type it simply disables few important features. It is good to ensure that you have bought right card so that your camera can function properly.
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to choose the right memory card for your Sony A7S II
 
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 * You will be able to minimize the risks of sudden card failures. Because when cards are not able to support higher bitrates then they often lose most of the information. It is good to choose a card that can easily record footage up to 1 or 2 hours.
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Memory Cards for Sony A7S II
 
@@ -107,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -130,8 +142,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-ordinary-snaps-to-captivating-creations-editing-on-snapchat/"><u>[New] 2024 Approved From Ordinary Snaps to Captivating Creations Editing on Snapchat</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-precision-photography-leading-tripods-for-smartphones/"><u>[New] 2024 Approved Precision Photography Leading Tripods for Smartphones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-compreenas-guide-to-auto-and-advanced-camera-exposure-methods-for-2024/"><u>[New] A Compreenas Guide to Auto and Advanced Camera Exposure Methods for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures-for-2024/"><u>[New] Cameras That Complement Best Hats for Capturing Motorcycle Adventures for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>[New] Chorus Climaxes Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cinematic-quality-the-leading-10-smartphones-with-outstanding-4k-cameras/"><u>[New] Cinematic Quality The Leading 10 Smartphones with Outstanding 4K Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-guide-to-simple-curvature-alteration-in-pics/"><u>[New] Guide to Simple Curvature Alteration in Pics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-tiktok-videos-editing-hacks-revealed/"><u>[New] In 2024, Mastering TikTok Videos Editing Hacks Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimizing-live-recording-with-chromebooks-and-hp/"><u>[New] In 2024, Optimizing Live Recording with Chromebooks & HP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capture-perfection-reviewing-the-best-5-hd-webcams-with-audio/"><u>[Updated] 2024 Approved Capture Perfection Reviewing The Best 5 HD Webcams with Audio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cutting-edge-easy-to-use-mastering-magix-vpxs-capabilities-for-2024/"><u>[Updated] Cutting Edge, Easy to Use Mastering Magix VPX's Capabilities for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mastering-seamless-inshot-video-cuts/"><u>[Updated] In 2024, Mastering Seamless Inshot Video Cuts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-setup-17-tools-for-swift-image-enhancement-and-cleaning-for-2024/"><u>Ideal Setup 17 Tools for Swift Image Enhancement and Cleaning for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-a-comprehensive-guide-to-earnings-from-youtube-short-videos/"><u>In 2024, A Comprehensive Guide to Earnings From YouTube Short Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-thumbnail-101-phones-edition/"><u>In 2024, YouTube Thumbnail 101 Phones Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-blue-screen-on-windows-11/"><u>Quick Fix for Blue Screen on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11photodisc-dvd/"><u>Windows 11を使いPhotodisc DVD作りができない？！代わりにおすすめフリーソフトウェア</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

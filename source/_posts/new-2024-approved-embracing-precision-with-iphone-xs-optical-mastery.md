@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Embracing Precision with iPhone X's Optical Mastery\""
-date: 2024-12-12T00:53:47.314Z
-updated: 2024-12-16T21:44:02.858Z
+date: 2024-12-24T17:55:33.795Z
+updated: 2024-12-26T02:13:43.357Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: TrueDepth Camera
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The importance of depth
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -127,16 +127,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-comprehensive-guide-to-screenshot-excellence/"><u>[New] In 2024, The Comprehensive Guide to Screenshot Excellence</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fixing-the-quake-tips-for-steadying-gopro-videos/"><u>[Updated] 2024 Approved Fixing the Quake Tips for Steadying GoPro Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>[Updated] 2024 Approved For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-a-list-films-must-watch-channel-compilation-for-2024/"><u>[Updated] A-List Films Must-Watch Channel Compilation for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-augment-your-design-abilities-the-10-most-powerful-android-graphics-tools/"><u>[Updated] Augment Your Design Abilities The 10 Most Powerful Android Graphics Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-skills-for-proficient-use-of-gdoc-transcription-service/"><u>[Updated] In 2024, Essential Skills for Proficient Use of GDoc Transcription Service</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-professional-photoshop-guide-to-crafting-hdr-images/"><u>[Updated] In 2024, Professional Photoshop Guide to Crafting HDR Images</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/macx-mediatrans-itunes-mac/"><u>新型 MacX MediaTransが登場! ITunes に匹敵する性能で、Macユーザーのための最速変換・転送ソリューション</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Yuva 2 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-inshot-adding-your-favorite-tunes/"><u>In 2024, Mastering InShot Adding Your Favorite Tunes</u></a></li>
-<li><a href="https://os-tips.techidaily.com/passing-down-your-apple-watch-a-smart-choice-for-reuse-and-recycle/"><u>Passing Down Your Apple Watch - A Smart Choice for Reuse and Recycle</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-recording-internet-radios-simplified-tips-and-tricks/"><u>[New] Recording Internet Radios Simplified Tips and Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unwind-and-capture-your-games-in-peace/"><u>[New] Unwind and Capture Your Games in Peace</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fading-audio-tips-for-better-mixes-in-ableton/"><u>[Updated] 2024 Approved Fading Audio Tips for Better Mixes in Ableton</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-first-row-leisure-10-alternatives-to-sports/"><u>[Updated] 2024 Approved First Row Leisure 10 Alternatives to Sports</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-step-by-step-guide-to-mastering-quick-scrubbing-for-2024/"><u>[Updated] A Step-by-Step Guide to Mastering Quick Scrubbing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-brighten-your-video-with-android-tricks/"><u>[Updated] In 2024, Brighten Your Video with Android Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descargas-gratuitas-de-conversion-de-archivos-como-transformar-tu-video-mp3-en-formato-mov-sin-coste/"><u>Descargas Gratuitas De Conversión De Archivos: Cómo Transformar Tu Vídeo MP3 en Formato MOV Sin Coste</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29e Bootloader Easily</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mac-video-editor-reviews-the-best-of/"><u>Mac Video Editor Reviews The Best Of</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-huawei-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Huawei .</u></a></li>
 </ul></div>
 

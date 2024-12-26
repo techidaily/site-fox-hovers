@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Exploring Every Corner of YouTube  A Detailed Comment Guide\""
-date: 2024-08-22T23:30:57.663Z
-updated: 2024-08-23T23:30:57.663Z
+date: 2024-12-20T17:22:12.205Z
+updated: 2024-12-25T21:06:48.362Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ If you are a content creator who makes product reviews, the comment section is a
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is YouTube Comment
 
@@ -56,6 +60,10 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -75,15 +83,13 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -91,15 +97,13 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -127,11 +131,9 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -166,4 +168,18 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-celebrating-clickers-channel-and-buttons-incentives/"><u>[New] 2024 Approved Celebrating Clickers Channel & Buttons Incentives</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-iphone-photography-secrets-unveiled/"><u>[New] 2024 Approved IPhone Photography Secrets Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-complete-look-into-razers-streaming-hardware/"><u>[Updated] Complete Look Into Razer's Streaming Hardware</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-critical-vr-movies-you-cant-skip-for-2024/"><u>[Updated] Critical VR Movies You Can't Skip for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhance-projects-no-cost-templates-for-pp-prodigies-for-2024/"><u>[Updated] Enhance Projects No-Cost Templates for PP Prodigies for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-digital-diary-keepers-securely-download-tweets-videos/"><u>2024 Approved Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-journey-through-the-lens-of-life-and-technology/"><u>Facebook’s Journey Through the Lens of Life and Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-expert-picks-the-finest-photo-frame-software/"><u>In 2024, Expert Picks The Finest Photo Frame Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance/"><u>In 2024, Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-unresponsive-laptop-pad-on-any-window-version-top-strategies-fixed/"><u>Troubleshoot and Fix Unresponsive Laptop Pad on Any Window Version – Top Strategies [FIXED]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-mss32dll-error-missing-or-not-detected/"><u>Troubleshooting Steps: Dealing with mss32.dll Error - Missing or Not Detected</u></a></li>
+</ul></div>
 

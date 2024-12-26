@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fading Sounds Gently  A Guide to Softening Audibility in Lumafusion\""
-date: 2024-08-22T23:23:53.531Z
-updated: 2024-08-23T23:23:53.531Z
+date: 2024-12-23T03:35:02.267Z
+updated: 2024-12-25T17:52:47.830Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,15 @@ Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transit
 
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
@@ -74,11 +82,16 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Related FAQs about LumaFusion
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -88,8 +101,9 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -108,9 +122,6 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -123,25 +134,19 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -169,4 +174,21 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-reconnecting-with-iphone-x-reviving-facial-biometrics-for-2024/"><u>[New] Reconnecting with iPhone X Reviving Facial Biometrics for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-places-for-accessible-photography-loot/"><u>[New] Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-realms-deconstructed-insights-into-vr-ar-and-mr-for-2024/"><u>[New] Virtual Realms Deconstructed Insights Into VR, AR, and MR for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-beginners-pathway-to-effective-video-tag-usage/"><u>[Updated] 2024 Approved A Beginner's Pathway to Effective Video Tag Usage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-capture-and-save-fb-videos-on-windows-mac/"><u>[Updated] 2024 Approved Capture and Save FB Videos on Windows, Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cutting-edge-guide-streamlining-your-gopro-studio-workflow-for-2024/"><u>[Updated] Cutting-Edge Guide Streamlining Your GoPro Studio Workflow for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-5-playstation-vr-games-to-look-forward-to/"><u>[Updated] In 2024, Top 5 Playstation VR Games to Look Forward To</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-nextgen-youtuber-tools-studio-vs-beta-version-for-2024/"><u>[Updated] NextGen YouTuber Tools Studio Vs. Beta Version for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decode-and-defeat-your-ultimate-guide-to-fixing-steam-error-code-130/"><u>Decode and Defeat: Your Ultimate Guide to Fixing Steam Error Code 130</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strives-launch-setback-explained-implications-for-gamers-and-developers-alike/"><u>Guilty Gear Strive's Launch Setback Explained: Implications for Gamers and Developers Alike</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-zoom-on-apple-tv-with-airplay-a-step-by-step-guide-for-seamless-video-conferencing/"><u>How To Fix Zoom on Apple TV with AirPlay: A Step-By-Step Guide for Seamless Video Conferencing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-dall-e-apples-latest-innovation-delivers-magical-image-generation-right-on-your-device-master-the-art-of-digital-wizardry-today/"><u>Say Goodbye to DALL-E: Apple's Latest Innovation Delivers Magical Image Generation Right on Your Device – Master the Art of Digital Wizardry Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/why-integrate-hdr-into-your-film-and-video-workflow-for-2024/"><u>Why Integrate HDR Into Your Film and Video Workflow for 2024</u></a></li>
+</ul></div>
 

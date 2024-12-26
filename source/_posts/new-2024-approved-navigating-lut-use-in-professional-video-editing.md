@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Navigating LUT Use in Professional Video Editing\""
-date: 2024-08-22T23:26:07.619Z
-updated: 2024-08-23T23:26:07.619Z
+date: 2024-12-18T17:20:47.060Z
+updated: 2024-12-26T02:29:14.348Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -43,8 +47,9 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -56,8 +61,9 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -66,9 +72,6 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Export LUTs
 
 An awesome feature of Premiere Pro enables you store and reuse your color modifications in multiple projects or programs. You have the option of exporting color grading information as either a.look file or a .cube LUT file, which may then be used in Adobe Premiere Pro or another application. Here's how you export them:
@@ -82,8 +85,9 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -98,8 +102,9 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Additionally, check to see if you have inadvertently downloaded any viruses. There is a strong temptation to simply conduct a search for cinematic LUTs on Google, then download all free files that we come across.
@@ -134,4 +139,21 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>[New] In 2024, Mirth Mechanics Gratis Tools to Amuse and Entertain</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>[New] In 2024, Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>[New] In 2024, Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-streamlined-approach-to-virtual-meeting-setup-zooming-on-android-devices/"><u>[Updated] In 2024, A Streamlined Approach to Virtual Meeting Setup Zooming on Android Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-blueprint-for-virtual-business-growth/"><u>[Updated] In 2024, The Blueprint for Virtual Business Growth</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-descriptive-power-for-3-engaging-instagram-video-stories-for-2024/"><u>[Updated] Leveraging Descriptive Power for 3 Engaging Instagram Video Stories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-understanding-magixs-acid-pro-and-its-market-rivals/"><u>[Updated] Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>2024 Approved Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/efficient-subtitling-strategies-for-facebook-media-posts-for-2024/"><u>Efficient Subtitling Strategies for Facebook Media Posts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-mass-download-tiktok-videos/"><u>In 2024, How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-outstanding-asmr-audio-experience-for-minimal-spending/"><u>In 2024, Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-preparing-for-a-mobile-cinematic-experience/"><u>In 2024, Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Lava Yuva 2 | Dr.fone</u></a></li>
+</ul></div>
 
