@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Harness the Full Potential of Your Videos with Simple Cuts on Windows\""
-date: 2024-08-15T13:26:43.188Z
-updated: 2024-08-16T13:26:43.188Z
+date: 2025-01-03T10:23:26.840Z
+updated: 2025-01-04T05:21:32.791Z
 tags: 
   - screen-recording
   - ai video
@@ -49,11 +49,12 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to trim video in Windows 10 with VLC
 
 Well, as we promised you in the beginning, it's time for the bonus tip! You have understood how to trim videos in Windows 10 Photos, let's explore VLC's magic. When Windows 10 Photos allows you basic level easy trimming for advanced features you can try [VLC](https://www.videolan.org/). For operating systems other than Windows, such as Fedora, Ubuntu, or Mac you won't be able to use Windows 10 Photos, so VLC is a good option for cross-platform video editing.
@@ -65,8 +66,9 @@ Here comes the step by step guide to trim video in VLC –
 1. Once you update and install the latest version of the VLC media player on your Windows or another computer, launch it and go to the 'View' menu for activating the 'Advanced controls' option.
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
@@ -76,21 +78,23 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -116,4 +120,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-12-methods-to-posted-facebook-videos-not-showing-up-for-2024/"><u>[New] 2023 | 12 Methods to Posted Facebook Videos Not Showing Up for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-laughter-lane-navigating-to-the-top-15-funny-youtubers/"><u>[Updated] 2024 Approved Laughter Lane Navigating to the Top 15 Funny YouTubers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-kids-camera-guide-top-11-easy-waterproof-options/"><u>[Updated] 2024 Approved The Ultimate Kids' Camera Guide - Top 11 Easy, Waterproof Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-detailed-overview-of-lightroom-on-android-devices/"><u>[Updated] In 2024, Detailed Overview of Lightroom on Android Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>[Updated] In 2024, The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mobile-screening-guide-gogooglemeetrecorder-tips-for-2024/"><u>[Updated] Mobile Screening Guide GoGoogleMeetRecorder Tips for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-3d-blu-ray-players/"><u>2024 Approved Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>2024 Approved ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-video-space-understanding-64128gb-limits/"><u>2024 Approved Video Space Understanding 64/128GB Limits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/customize-your-videos-closing-music-without-costs/"><u>Customize Your Video's Closing Music Without Costs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/entering-metaverse-essential-vr-headset-picks-for-2024/"><u>Entering Metaverse Essential VR Headset Picks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-haunting-solutions-for-non-functional-phasmophobia-vr/"><u>Get Back to Haunting: Solutions for Non-Functional Phasmophobia VR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-10-text-tools-elevating-creative-compositions/"><u>In 2024, Top 10 Text Tools Elevating Creative Compositions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/photobooth-video-glitch-understanding-the-halt/"><u>Photobooth Video Glitch - Understanding the Halt</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quick-fix-for-disabled-photo-viewer-back-on-win-11/"><u>Quick Fix for Disabled Photo Viewer Back on Win 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-disk-overflow-a-comprehensive-fix-for-windows-10-storage-glitches/"><u>Tackling Disk Overflow: A Comprehensive Fix for Windows 10 Storage Glitches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/utilizing-alternate-shots-to-elevate-film-quality/"><u>Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
+</ul></div>
 

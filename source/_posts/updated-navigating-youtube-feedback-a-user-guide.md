@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating YouTube Feedback  A User Guide\""
-date: 2024-12-15T17:47:38.600Z
-updated: 2024-12-17T08:57:15.675Z
+date: 2024-12-30T18:37:47.198Z
+updated: 2025-01-04T04:46:07.775Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Want to become the master of moderation? Read on for everything you need to know
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is YouTube Comment
@@ -65,6 +65,10 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -84,7 +88,7 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -97,16 +101,12 @@ Step4 On the right side under the “Manage all history” section, click on “
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
@@ -116,10 +116,6 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -138,6 +134,10 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,22 +175,22 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-horizon-to-heavens-photo-taking-on-mobile/"><u>[New] 2024 Approved Horizon to Heavens Photo-Taking on Mobile</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/onthly-income-for-content-creators-on-youtube-for-2024/"><u>[New] Monthly Income for Content Creators on YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premiere-pro-rapid-transitions/"><u>[New] Premiere Pro Rapid Transitions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-seamless-methodology-viewing-favorited-and-well-liked-youtube-remarks-for-2024/"><u>[New] Seamless Methodology Viewing Favorited and Well-Liked YouTube Remarks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-efficient-techniques-for-modifying-playback-rate-of-tracks-for-2024/"><u>[Updated] Efficient Techniques for Modifying Playback Rate of Tracks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-meetings-a-comprehensive-guide-to-zoom-filters/"><u>[Updated] In 2024, Elevating Meetings A Comprehensive Guide to Zoom Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-insta-meets-tiktok-connectors-handbook/"><u>[Updated] Insta Meets TikTok Connector's Handbook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-quick-tutorial-for-top-memes-kinemaster/"><u>[Updated] Quick Tutorial for Top Memes KineMaster</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-lurkers-to-leaders-top-30-strategies-for-facebook-pros/"><u>From Lurkers to Leaders Top 30 Strategies for Facebook Pros</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-corsair-void-microphone-quickly-and-effectively/"><u>How to Fix a Non-Functional Corsair Void Microphone Quickly & Effectively</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/peering-through-the-printer-one-persons-3dr-story-for-2024/"><u>Peering Through the Printer One Person’s '3DR' Story for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/polarr-editor-unveiled-ultimate-visual-transformation-for-2024/"><u>Polarr Editor Unveiled Ultimate Visual Transformation for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/professional-screen-capture-tools-reviewed-bandicam-and-camtasia/"><u>Professional Screen Capture Tools Reviewed Bandicam & Camtasia</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-process-for-downloading-and-updating-lenovo-t420-drivers-on-windows-systems/"><u>Step-by-Step Process for Downloading & Updating Lenovo T420 Drivers on Windows Systems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-digital-revolution-todays-vr-landscape-and-tomorrows-trials-for-2024/"><u>The Digital Revolution Today's VR Landscape & Tomorrow's Trials for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-better-your-video-with-premiere-pro-try-transitions-this-article-will-give-you-10-best-premiere-pro-transitions-and-let/"><u>Updated 2024 Approved Do You Want to Better Your Video with Premiere Pro? Try Transitions. This Article Will Give You 10 Best Premiere Pro Transitions and Let You Know How to Add Transitions in Premiere. Check It Out</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[New] 2024 Approved Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-cameras-for-athletic-spectacle/"><u>[New] In 2024, Ultimate Cameras for Athletic Spectacle</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unlock-full-potential-of-zoom-in-windows-10/"><u>[New] Unlock Full Potential of Zoom in Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-experts-choice-top-8-proven-video-marketing-actions/"><u>[Updated] 2024 Approved Expert's Choice Top 8 Proven Video Marketing Actions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-accelerated-file-format-change-from-srt-to-simple-txt-for-2024/"><u>[Updated] Accelerated File Format Change From SRT to Simple TXT for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology/"><u>[Updated] Digital Stagecraft Unlocking Voice Manipulation with Affordable Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hearing-the-norths-call-top-spots-to-download-tts-files/"><u>[Updated] Hearing the North's Call Top Spots to Download TTS Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-iphone-photo-angles-flip-and-tilt-with-skill/"><u>[Updated] Mastering iPhone Photo Angles Flip & Tilt with Skill</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-polaroid-cubeplus-camera-insight-for-fans-of-live-action/"><u>2024 Approved Polaroid Cube+ Camera Insight for Fans of Live-Action</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-buying-bonanza-for-gamers-top-11-low-cost-video-game-retailers/"><u>Bargain Buying Bonanza for Gamers - Top 11 Low-Cost Video Game Retailers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/cloud-server-revolution-how-alibabas-yitian-710-outpaces-competitors-in-speed-and-efficiency/"><u>Cloud Server Revolution: How Alibaba's Yitian 710 Outpaces Competitors in Speed and Efficiency</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimum-locations-magnifying-youtube-videos/"><u>Optimum Locations Magnifying YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pros-and-cons-ranking-the-best-7-aqua-cameras/"><u>Pros & Cons Ranking the Best 7 Aqua Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-nier-automata-remastered-initialization-errors-effectively/"><u>Resolving NieR: Automata Remastered Initialization Errors Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/soft-shadows-on-smiles-introducing-motion-blur-to-faces-in-photos-with-picsart-for-2024/"><u>Soft Shadows on Smiles Introducing Motion Blur to Faces in Photos with Picsart for 2024</u></a></li>
 </ul></div>
 
