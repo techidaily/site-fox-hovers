@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Taking It Upward  Panning High with Your Phone\""
-date: 2024-08-15T13:18:23.910Z
-updated: 2024-08-16T13:18:23.910Z
+date: 2025-01-10T00:07:27.565Z
+updated: 2025-01-11T01:46:53.734Z
 tags: 
   - screen-recording
   - ai video
@@ -34,15 +34,15 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -51,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 * Make sure to hold the device horizontally and hit the camera button.
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -61,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -71,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 * Hit on "Vertical" and begin the process.
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -82,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -92,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -119,4 +120,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-income-through-the-science-of-youtube-trailer-creation/"><u>[New] Enhancing Income Through the Science of YouTube Trailer Creation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-lively-user-onboarding-pathway/"><u>[New] In 2024, Lively User Onboarding Pathway</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-chuckle-crafting-tool/"><u>[Updated] 2024 Approved Chuckle Crafting Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-supercharge-videos-with-dynamic-titles/"><u>[Updated] 2024 Approved Supercharge Videos with Dynamic Titles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>[Updated] 2024 Approved Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-forging-strategic-alliances-on-youtube-through-famebit-wisdom-for-2024/"><u>[Updated] Forging Strategic Alliances on YouTube Through FameBit Wisdom for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-guide-for-the-finest-travel-movie-tools/"><u>[Updated] In 2024, Essential Guide for the Finest Travel Movie Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>2024 Approved Crafting an Authentic Online Presence in the World of FB</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-in-depth-look-screen-capture-tools-for-mac/"><u>2024 Approved In-Depth Look Screen Capture Tools for Mac</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-step-by-step-tutorial-on-performing-a-clean-reset-of-windows-11-while-preserving-your-personal-files-and-applications/"><u>Complete Step-by-Step Tutorial on Performing a Clean Reset of Windows 11 While Preserving Your Personal Files and Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-find-x7-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/revamping-subtitles-from-srt-with-ease-for-2024/"><u>Revamping Subtitles From SRT with Ease for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/ultra-hd-background-imagery-and-wallpapers-for-screens-at-4480x2520-resolution-curated-selection-from-yl-software/"><u>Ultra HD Background Imagery & Wallpapers for Screens at 4480X2520 Resolution - Curated Selection From YL Software</u></a></li>
+</ul></div>
 

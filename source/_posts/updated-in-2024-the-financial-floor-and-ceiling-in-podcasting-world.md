@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Financial Floor and Ceiling in Podcasting World"
-date: 2024-12-10T21:23:02.032Z
-updated: 2024-12-17T01:09:20.587Z
+date: 2025-01-05T07:30:36.268Z
+updated: 2025-01-10T22:40:37.085Z
 tags: 
   - screen-recording
   - ai video
@@ -45,7 +45,7 @@ As a bonus, podcasts aren't expensive, and you can produce a high-quality episod
 The secret? Make sure your podcast is something that people want to listen to. If people are listening, you can make money selling ads and subscriptions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How Much Money Do Podcasters Make?
@@ -80,11 +80,19 @@ If you have 5000 download/listeners per episode:
 
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: All Possible Income Sources for Podcasters
 
 Many people would love to get paid to talk about their passions. That's pretty much how it started for every podcaster. Yet, even though it may be easy to start a podcast, it's not always so easy to make a living at it.
 
 We'll show you a bunch of ways podcasters earn a living doing something they love. Let's take a look…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sponsorship
 
@@ -93,14 +101,6 @@ In a podcast, a sponsor is the first thing you need to think about when seeking 
 You need at least 5,000 listeners per month to be accepted by Midroll or Authentic. Suppose you don't have a minimum number of listeners, you can always connect directly with sponsors, but your niche audience must be a perfect fit to get accepted.
 
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Complementary products
 
@@ -111,10 +111,6 @@ You don't have to sell everything; start small and grow. Promoting complementary
 It’s important to know the best ways to market your brand through various platforms like, selling through a third party like eBay or Etsy that allow podcasters to sell their wares at wholesale pricing.
 
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Listeners' donations
 
@@ -127,7 +123,7 @@ The downside is that, if you reach your fundraising goal, your funds may run out
 ![indiegogo funds](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Affiliate
@@ -139,10 +135,6 @@ You could sell a related product, share your affiliate link through social media
 In addition to the many affiliate marketing programs, some are specifically for podcasting, such as Amazon and ShareASale.
 
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Popular Podcasts Earnings in 2024
 
@@ -160,6 +152,10 @@ So many people are trying to figure out the best ways to make money online. So w
 | [Dave Ramsey Show](https://www.ramseysolutions.com/shows/the-ramsey-show)       | $10 million/annually  |
 | [Karen Kilgariff and Georgia Hardstark](https://myfavoritemurder.com/)          | $15 million/annually  |
 | [Joe Rogan](https://open.spotify.com/artist/0bawsIe2P8ykB6psGv81P9)             | $30 million/annually  |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -207,13 +203,13 @@ If you have 5000 download/listeners per episode:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** These numbers are only speculative and assumptions. Depending on various factors, you could make anywhere from $1,000-$50,000 or more. That includes your reputation, strategy, and niche.
 
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: All Possible Income Sources for Podcasters
 
@@ -229,10 +225,6 @@ You need at least 5,000 listeners per month to be accepted by Midroll or Authent
 
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Complementary products
 
 As a podcaster, you are your merchant. There are some obvious items that you need to sell, such as t-shirts, caps, mugs and more.
@@ -242,6 +234,10 @@ You don't have to sell everything; start small and grow. Promoting complementary
 It’s important to know the best ways to market your brand through various platforms like, selling through a third party like eBay or Etsy that allow podcasters to sell their wares at wholesale pricing.
 
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Listeners' donations
 
@@ -264,7 +260,7 @@ In addition to the many affiliate marketing programs, some are specifically for 
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Popular Podcasts Earnings in 2024
@@ -283,6 +279,10 @@ So many people are trying to figure out the best ways to make money online. So w
 | [Dave Ramsey Show](https://www.ramseysolutions.com/shows/the-ramsey-show)       | $10 million/annually  |
 | [Karen Kilgariff and Georgia Hardstark](https://myfavoritemurder.com/)          | $15 million/annually  |
 | [Joe Rogan](https://open.spotify.com/artist/0bawsIe2P8ykB6psGv81P9)             | $30 million/annually  |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -318,15 +318,19 @@ Many podcasters start as amateurs and make a living doing what they love. You ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-backdrop-changer-toolkit-unveiled/"><u>[New] 2024 Approved Innovative Backdrop Changer Toolkit Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-5-must-try-websites-for-cost-free-effects/"><u>[Updated] 2024 Approved 5 Must-Try Websites for Cost-Free Effects</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-get-more-engagement-on-fb-video-content/"><u>[Updated] How to Get More Engagement on FB Video Content</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/hddssdcwindows-11/"><u>HDD/SSD間でCドライブをクローニングするためのWindows 11ガイド</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-pushing-boundaries-with-enhanced-exposure-controls/"><u>In 2024, Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g23-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G23 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pickus-impact-on-mobile-photography-a-comparative-study/"><u>PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia .</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s21-fe-5g-2023-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S21 FE 5G (2023) Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-cutting-edge-avi-video-cutters-top-16-picks-for-professionals-and-beginners-for-2024/"><u>Updated Cutting-Edge AVI Video Cutters Top 16 Picks for Professionals and Beginners for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-sow-seeds-of-smile-inducing-images-for-2024/"><u>[New] Sow Seeds of Smile-Inducing Images for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-complementing-narratives-with-skillful-b-roll-usage/"><u>[Updated] 2024 Approved Complementing Narratives with Skillful B-Roll Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>2024 Approved Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-flexistabilizer-the-ultimate-videographers-tool/"><u>2024 Approved FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-color-palettes-applying-theories-effectively/"><u>2024 Approved Mastering Color Palettes Applying Theories Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>2024 Approved Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vlc-mastery-unveiling-10-secret-capabilities/"><u>2024 Approved VLC Mastery Unveiling 10 Secret Capabilities</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-a59-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from A59 5G</u></a></li>
+<li><a href="https://discover-great.techidaily.com/expert-advice-on-boosting-your-systems-performance-with-yl-software-registry-optimization/"><u>Expert Advice on Boosting Your System's Performance with YL Software Registry Optimization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prepare-your-amazon-echo-dot-for-initial-configuration/"><u>How to Prepare Your Amazon Echo Dot for Initial Configuration</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-top-tier-nitro-essential-for-gamers/"><u>Is Top-Tier Nitro Essential for Gamers?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-speakers-a-guide-to-overcoming-conexant-smartaudio-hds-no-sound-dilemma-in-windows-10/"><u>Revive Your Speakers: A Guide to Overcoming Conexant SmartAudio HD's No Sound Dilemma in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-and-ipad-vpn-applications-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated iPhone & iPad VPN Applications: Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-battlefield-4-wont-start-issue-on-pc/"><u>Troubleshooting Guide: Fixing 'Battlefield 4 Won't Start' Issue on PC</u></a></li>
 </ul></div>
 

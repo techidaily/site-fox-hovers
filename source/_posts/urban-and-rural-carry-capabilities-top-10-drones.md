@@ -1,7 +1,7 @@
 ---
 title: "\"Urban and Rural Carry Capabilities  Top 10 Drones\""
-date: 2024-08-15T13:14:59.703Z
-updated: 2024-08-16T13:14:59.703Z
+date: 2025-01-05T16:42:17.788Z
+updated: 2025-01-11T05:43:11.132Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 There is no doubt that people are using drones for art (photography and film making,) surveillance, as well as scientific research and development. However, they are also starting to be used in many, many other situations that need quad-copters capable of doing some serious heavy lifting.
 
 With this rising need of consumers needing more than just a [flying camera](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal, the market for heavy lift drones is starting to reveal itself as a well-served market. This means you will need to know what you are looking for, as there will be many options laid out before you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 10 Heavy lift drones
 
@@ -90,25 +94,20 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Heavy lifting Drones: Over-10kg payload
 
 #### 1\. Vulcan UAV Airlift
 
 ![vulcan uav airlift](https://images.wondershare.com/filmora/article-images/vulcan-uav-airlift.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Airlift series is one of Vulcan's heaviest lifting drones to date. With the ability to lift and move a payload of about 30 kg, this drone has a tough, and durable frame that allows it to display such extraordinary strength and grace. Its central core is made of transparent tubes which allow users to easily check in on the power systems, while also making sure that all vitals are protected, which makes the Vulcan UAV Airlift the ideal machine for working in rugged environments.
 
 #### 2\. AZ 4K UHD Camera Drone Green Bee 1200
 
 ![az 4k uhd camera drone green bee 1200](https://images.wondershare.com/filmora/article-images/az-4k-uhd-camera-drone-green-bee-1200.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As the need for drones that can do some seriously heavy lifting has increased, the AZ 4K UHD Camera Drone Green Bee 1200 has stepped up to fill these needs. Whether you are looking to do some heavy lifting in the realm of photography or cinema, or you need a drone that can move your research and development technology around your indoor or outdoor work area, this drone has you covered. With the ability to carry a payload of up to 20 kg, and a flight time of 20 min. per battery, the AZ 4K UHD Camera Drone Green Bee 1200 is going to allow you to master any heavy lifting work situation with ease.
@@ -130,20 +129,23 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 #### 5\. ONYXSTAR HYDRA-12
 
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -169,4 +171,23 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[New] In 2024, The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-best-vocal-transformation-programs-for-video-makers/"><u>[New] The Best Vocal Transformation Programs for Video Makers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-your-view-with-the-hp-envy-27-monitor/"><u>[New] Transforming Your View with the HP Envy 27 Monitor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-drones-that-enhance-your-gopro-cinematic-experience/"><u>[Updated] 2024 Approved Best Drones That Enhance Your GoPro Cinematic Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-decoding-the-vr-revolution-latest-findings/"><u>[Updated] 2024 Approved Decoding the VR Revolution Latest Findings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-seamless-speaking-in-google-meet-sessions/"><u>[Updated] 2024 Approved Seamless Speaking in Google Meet Sessions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-basic-principles-of-story-artistry/"><u>[Updated] In 2024, Basic Principles of Story Artistry</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-prime-microphones-for-high-resolution-4k-video-shooting-for-2024/"><u>[Updated] Prime Microphones for High-Resolution 4K Video Shooting for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music-for-2024/"><u>[Updated] SwiftSoundphone Apps Top 10 for Rapid Music for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-magixs-legacy-in-vectors-finding-future-software/"><u>2024 Approved Magix's Legacy in Vectors Finding Future Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-motorolas-genius-in-depth-review-of-z2-play/"><u>2024 Approved Motorola's Genius In-Depth Review of Z2 Play</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quickcapture-5000-chrome-os-recording-pro/"><u>2024 Approved QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clear-images-made-easy-picart-backdrop-takedown-technique-for-2024/"><u>Clear Images Made Easy PicArt Backdrop Takedown Technique for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-k70-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi K70 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>In 2024, Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a1-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A1 5G Screen | Dr.fone</u></a></li>
+</ul></div>
 

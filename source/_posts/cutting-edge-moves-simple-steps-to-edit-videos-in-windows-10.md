@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Moves  Simple Steps to Edit Videos in Windows 10\""
-date: 2024-08-15T13:20:03.375Z
-updated: 2024-08-16T13:20:03.375Z
+date: 2025-01-07T17:18:35.392Z
+updated: 2025-01-11T06:47:24.150Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,24 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to trim video in Windows 10 with VLC
 
 Well, as we promised you in the beginning, it's time for the bonus tip! You have understood how to trim videos in Windows 10 Photos, let's explore VLC's magic. When Windows 10 Photos allows you basic level easy trimming for advanced features you can try [VLC](https://www.videolan.org/). For operating systems other than Windows, such as Fedora, Ubuntu, or Mac you won't be able to use Windows 10 Photos, so VLC is a good option for cross-platform video editing.
@@ -65,9 +74,6 @@ Here comes the step by step guide to trim video in VLC –
 1. Once you update and install the latest version of the VLC media player on your Windows or another computer, launch it and go to the 'View' menu for activating the 'Advanced controls' option.
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
@@ -76,20 +82,19 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -115,4 +120,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-diminuendo-film-narrative/"><u>[New] 2024 Approved Diminuendo Film Narrative</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-from-4k-to-concert-chaos-the-yi-vlogger-experience/"><u>[New] 2024 Approved From 4K to Concert Chaos The Yi Vlogger Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-techniques-recording-playstation-4-games-for-2024/"><u>[New] Essential Techniques Recording PlayStation 4 Games for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sunshine-strategies-enhancing-indoor-luminary-quality/"><u>[New] Sunshine Strategies Enhancing Indoor Luminary Quality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-android-and-ios-wedding-timers-latest-app-rankings-for-2024/"><u>[New] Top 10 Android & iOS Wedding Timers Latest App Rankings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-customize-with-confidence-google-pixel-tunes/"><u>[Updated] Customize with Confidence Google Pixel Tunes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/decoding-the-earning-dynamics-for-podcasters/"><u>Decoding the Earning Dynamics for Podcasters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/embrace-enhanced-viewing-picture-in-picture-on-ms-edge-for-2024/"><u>Embrace Enhanced Viewing Picture-in-Picture on MS Edge for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-launching-of-pathfinder-wrath-of-the-righteous-fixes-for-common-game-installation-problems/"><u>How to Ensure Smooth Launching of Pathfinder: Wrath of the Righteous – Fixes for Common Game Installation Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1x 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-c02-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia C02 to Protect Your Individual Information</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hulu-disneyplus-and-espnplus-announce-price-jumps-for-subscribers-in-latest-update/"><u>Hulu, Disney+, and ESPN+ Announce Price Jumps for Subscribers in Latest Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/phone-replacement-timing-how-regularly-should-you-consider-an-upgrade/"><u>Phone Replacement Timing: How Regularly Should You Consider an Upgrade?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pictureweaver-2021-seamless-photo-video-mix/"><u>PictureWeaver 2021 Seamless Photo-Video Mix</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/secrets-to-successful-hash-tag-application-for-improved-campaigns-on-facebook-for-2024/"><u>Secrets to Successful Hash Tag Application for Improved Campaigns on Facebook for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-to-adjusting-system-fonts-via-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide to Adjusting System Fonts via the Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vonage-vs-competitors-who-reigns-supreme-in-voip/"><u>Vonage Vs. Competitors: Who Reigns Supreme in VoIP?</u></a></li>
+</ul></div>
 

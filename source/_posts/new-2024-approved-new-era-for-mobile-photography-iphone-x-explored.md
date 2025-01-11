@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  New Era for Mobile Photography  IPhone X Explored\""
-date: 2024-08-15T13:16:07.965Z
-updated: 2024-08-16T13:16:07.965Z
+date: 2025-01-06T23:26:47.058Z
+updated: 2025-01-11T00:25:04.918Z
 tags: 
   - screen-recording
   - ai video
@@ -33,21 +33,23 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 * [Part 3: How to use portrait mode](#part3)
 * [Part 4: Video improvement](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
 
@@ -68,32 +70,25 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
@@ -101,10 +96,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -129,4 +120,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-prime-selection-of-affordable-cams-for-action-sports/"><u>[New] In 2024, Prime Selection of Affordable Cams for Action Sports</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-content-creation-in-the-digital-age-audio-vs-visual/"><u>[Updated] 2024 Approved Content Creation in the Digital Age Audio vs Visual</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deleting-youtube-content-a-step-by-step-guide/"><u>[Updated] In 2024, Deleting YouTube Content A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-your-editing-game-with-video-enhancer-v22/"><u>[Updated] In 2024, Elevate Your Editing Game with Video Enhancer V2.2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-solutions-for-the-windows-10-photos-app-stability-woes/"><u>[Updated] Swift Solutions for the Window's 10 Photos App Stability Woes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook/"><u>[Updated] The Art of Amplification A Comprehensive Guide to Sharing Videos on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-6-best-4k-dslr-cameras/"><u>[Updated] Top 6 Best 4K DSLR Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-wallet-friendly-high-definition-equipment-for-2024/"><u>[Updated] Wallet-Friendly High-Definition Equipment for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-digital-photography-incorporating-accurate-dates/"><u>2024 Approved Digital Photography Incorporating Accurate Dates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-images-with-professional-techniques/"><u>Enhance Your Images with Professional Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-video-understanding-windows-hdr-for-2024/"><u>Enhance Your Video Understanding Windows HDR for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-the-z270-gaming-pro-carbon-motherboard-chipset/"><u>Get Your Hands on the Z270 Gaming Pro Carbon Motherboard Chipset</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-iomap64sys-bsod-in-windows/"><u>How to Fix the IOMap64.sys BSOD in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a54-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v30-lite-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V30 Lite 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uniting-visuals-on-iphone-photos-with-videos/"><u>Uniting Visuals on iPhone Photos with Videos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-issues-solved-a-users-handbook-for-erasing-a-password-protected-iphone/"><u>Unlocking Issues Solved: A User's Handbook for Erasing a Password-Protected iPhone</u></a></li>
+</ul></div>
 

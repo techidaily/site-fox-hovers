@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Leveraging Preview Capabilities on a Mac"
-date: 2024-12-10T06:43:23.805Z
-updated: 2024-12-16T19:21:02.676Z
+date: 2025-01-05T02:57:42.391Z
+updated: 2025-01-10T16:16:20.437Z
 tags: 
   - screen-recording
   - ai video
@@ -35,19 +35,11 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -77,6 +69,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,6 +88,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -122,7 +122,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -142,7 +142,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -160,6 +160,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,19 +236,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>[New] In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-iphone-solutions-for-reverse-playback/"><u>[New] IPhone Solutions for Reverse Playback</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-record-rapidly-innovative-iphone-time-lapse-methods/"><u>[New] Record Rapidly Innovative iPhone Time-Lapse Methods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-art-of-sound-design-for-captivating-canvas-clips/"><u>[New] The Art of Sound Design for Captivating Canvas Clips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elite-echo-engineer-for-podcasting-excellence/"><u>[Updated] 2024 Approved Elite Echo Engineer for Podcasting Excellence</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-power-of-closing-credits-on-vimeo-videos-for-2024/"><u>[Updated] Unlocking the Power of Closing Credits on Vimeo Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneers-of-haptic-technology-unveiled/"><u>2024 Approved Pioneers of Haptic Technology Unveiled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-sub-100-routers-unveiled-a-complete-look-at-the-tp-link-archer-c8n-model/"><u>Best Sub-$100 Routers Unveiled: A Complete Look at the TP-Link Archer C8n Model</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/delving-into-the-world-of-samsung-image-processor-2023-for-2024/"><u>Delving Into the World of Samsung Image Processor, 2023 for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/elevate-language-acquisition-through-melodic-evidence-based-approaches/"><u>Elevate Language Acquisition Through Melodic, Evidence-Based Approaches</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enhancing-profiles-first-impression-for-2024/"><u>Enhancing Profile's First Impression for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-tesla-cybertruck-for-gardening-enthusiasts-exceeds-expectations-zdnet/"><u>Inside Look at Tesla Cybertruck for Gardening Enthusiasts: Exceeds Expectations! | ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repair-kotion-each-model-g2000-mic-problems/"><u>Step-by-Step Guide to Repair Kotion Each Model G2000 Mic Problems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/whispers-of-love-the-art-of-italian-pick-up-linesback-buttonfilter-button/"><u>Whispers Of Love: The Art Of Italian Pick Up LinesBack ButtonFilter Button</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-techniques-for-streamlining-console-video-saves/"><u>[New] 2024 Approved Top Techniques for Streamlining Console Video Saves</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tales-on-the-silver-screen-writing-for-cinema/"><u>[New] In 2024, Tales on the Silver Screen Writing for Cinema</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-essential-how-to-sharing-videos-from-youtube-on-instagram-for-2024/"><u>[New] The Essential How-To Sharing Videos From YouTube on Instagram for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-pc-emulators-bringing-ps1-to-life/"><u>[New] Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-tools-for-live-gameplay-screen-grabs-for-2024/"><u>[Updated] Best Tools for Live Gameplay Screen Grabs for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-turnout-video-on-your-android-device/"><u>[Updated] In 2024, How to Turnout Video on Your Android Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enlightened-approach-to-youtube-titles-with-ai/"><u>Enlightened Approach to YouTube Titles with AI</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/gopro-face-by-face-guide-to-selectivity/"><u>Gopro Face-By-Face Guide to Selectivity</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-i-successfully-deleted-every-file-on-my-pc-using-onedrive-features/"><u>How I Successfully Deleted Every File on My PC Using OneDrive Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/see-all-around-the-ultimate-guide-to-11-bridging-cams/"><u>See All Around The Ultimate Guide to #11 Bridging Cams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-lost-connection-between-powershell-and-windows/"><u>Troubleshooting: Lost Connection Between PowerShell and Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Swift Skim Windows File Compilation"
-date: 2024-12-31T03:28:40.571Z
-updated: 2025-01-04T01:27:23.569Z
+date: 2025-01-04T02:51:30.045Z
+updated: 2025-01-11T06:14:07.854Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ Windows operating system comes with an inbuilt file preview feature embedded in 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Download Quick Look App on Microsoft Store
 
 If your computer is always handling documents, spreadsheets, PDFs, presentations, images, and other files, it’s probably time to install **QuickLook for Mac** and Windows. This intelligent program lets you quickly preview files without opening them on separate apps. Just think of it as the “file viewer” feature on Windows File Explorer, which allows you to view files before loading online or opening them on local apps. Of course, this can help you know which app can open the file and if it’s the correct file to open.
@@ -36,10 +40,6 @@ Below is how to install and use QuickLook by Paddy Xu:
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
@@ -59,12 +59,16 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
@@ -72,16 +76,12 @@ Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://g
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
@@ -106,7 +106,7 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -143,15 +143,17 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-secrets-of-montage-image-assembly/"><u>[New] In 2024, Unveiling the Secrets of Montage Image Assembly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-srt-conversion-tactics-for-pc-and-mac/"><u>[New] Innovative SRT Conversion Tactics for PC and Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-the-art-complete-vsco-editor-breakdown/"><u>[New] Master the Art Complete VSCO Editor Breakdown</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-quip-collection-event-specific-jest-compilation/"><u>[New] Quip Collection Event-Specific Jest Compilation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-streamlining-srt-file-integration-on-digital-platforms/"><u>[New] Streamlining SRT File Integration on Digital Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-join-the-meme-revolution-expert-tips-for-the-metaverse/"><u>[Updated] Join the Meme Revolution Expert Tips for the Metaverse</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>2024 Approved From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-smart-8-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-risk-of-rain-2-how-to-ensure-no-more-game-crashes/"><u>Ultimate Troubleshooting for Risk of Rain 2 - How to Ensure No More Game Crashes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/44oh44kj44k544kz44o844oj44gn56c05qoe44gv44km44gf55s75yop44gu5b6p5ywd5oqa6kgtic0g6kmz57sw44ks44kk44oj/"><u>ディスコードで破棄された画像の復元技術 - 詳細ガイド</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-rediscovering-archived-discussions-on-reddit-now-for-2024/"><u>[New] Rediscovering Archived Discussions on Reddit Now for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-conquer-youtubes-copy-paste-loop-mastery-essentials/"><u>[Updated] In 2024, Conquer YouTube's Copy-Paste Loop Mastery Essentials</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-effortless-photo-integration-for-personal-use/"><u>[Updated] In 2024, Effortless Photo Integration for Personal Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimized-storage-analysis-how-many-videos-on-a-64128gb-drive/"><u>[Updated] Optimized Storage Analysis How Many Videos on a 64/128GB Drive?</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-procedure-for-windows-error-0xca00a009/"><u>Correction Procedure for Windows Error 0xCA00A009</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/humor-haven-the-ultimate-choice-of-memer-text-tools/"><u>Humor Haven The Ultimate Choice of Memer Text Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fundamentals-unveiling-internet-storys-essence/"><u>In 2024, Fundamentals Unveiling Internet Story's Essence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlined-sound-collection-adding-itunes-podcasts-with-ease-for-2024/"><u>Streamlined Sound Collection Adding iTunes Podcasts with Ease for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/uitgebreide-handleiding-voor-het-geheugen-van-google-meet-veejerij-in-de-techwereld/"><u>Uitgebreide Handleiding Voor Het Geheugen Van Google Meet: Veejerij In De Techwereld</u></a></li>
 </ul></div>
 

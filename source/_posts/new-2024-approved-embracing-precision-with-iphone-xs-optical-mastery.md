@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Embracing Precision with iPhone X's Optical Mastery\""
-date: 2025-01-01T05:39:07.006Z
-updated: 2025-01-04T08:27:35.431Z
+date: 2025-01-04T05:04:36.754Z
+updated: 2025-01-10T20:31:43.935Z
 tags: 
   - screen-recording
   - ai video
@@ -39,26 +39,18 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
 
@@ -79,7 +71,11 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -127,20 +127,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-rethinking-content-strategy-with-instagrams-new-order/"><u>[New] 2024 Approved Rethinking Content Strategy with Instagram's New Order</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-superior-fb-extra-tools-video-grabs-firefox-version/"><u>[New] 2024 Approved Superior FB Extra Tools Video Grabs, Firefox Version</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-expert-recommendations-free-and-paid-hd-playback-for-pcmacos/"><u>[New] Expert Recommendations Free & Paid HD Playback for PC/macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-home-content-a-commercialized-vlog-journey-for-2024/"><u>[New] Harnessing Home Content A Commercialized Vlog Journey for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-maximizing-4k-imaging-top-lens-choices/"><u>[Updated] 2024 Approved Maximizing 4K Imaging Top Lens Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-image-pro-insider-secrets-for-lunapic/"><u>[Updated] Elevate Your Image Pro Insider Secrets for LunaPic</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-counterclockwise-chronicles-iphones-video-tutorial/"><u>[Updated] In 2024, Counterclockwise Chronicles IPhone's Video Tutorial</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-your-guide-to-excellence-11-exceptional-bridge-camera-reviews/"><u>[Updated] Your Guide to Excellence #11 Exceptional Bridge Camera Reviews</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/how-to-use-luts-in-photoshop-cc/"><u>How to Use LUTs in PhotoShop CC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 7 If Youve Tried Everything</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-ace-2-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus Ace 2 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>In 2024, The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-elevate-your-films-soundtrack-top-imovie-audio-editing-secrets-revealed/"><u>Updated In 2024, Elevate Your Films Soundtrack Top iMovie Audio Editing Secrets Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>[New] 2024 Approved Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-immortalize-instants-with-ease-dive-into-gratis-cloud-services-and-paid-alternatives-for-2024/"><u>[New] Immortalize Instants with Ease Dive Into Gratis Cloud Services & Paid Alternatives for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-novice-to-expert-9gag-meme-crafting-basics/"><u>[New] In 2024, From Novice to Expert 9GAG Meme Crafting Basics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-the-ways-for-fee-free-pictorial-clips-for-2024/"><u>[New] Navigating the Ways for Fee-Free Pictorial Clips for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-tier-action-cams-for-sports-enthusiasts/"><u>[New] Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>[Updated] 2024 Approved Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-links-where-to-get-official-skype-ringtone-files/"><u>[Updated] In 2024, Essential Links Where to Get Official Skype Ringtone Files</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-poco-f5-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Poco F5 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-connect-to-chatgpt-when-using-a-vpn-best-practices-and-tips/"><u>How To Connect To ChatGPT When Using A VPN: Best Practices & Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>In 2024, Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerful-films-for-purpose-and-positivity/"><u>Powerful Films for Purpose and Positivity</u></a></li>
 </ul></div>
 

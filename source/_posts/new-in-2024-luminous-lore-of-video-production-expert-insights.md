@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Luminous Lore of Video Production  Expert Insights\""
-date: 2024-08-15T13:20:14.490Z
-updated: 2024-08-16T13:20:14.490Z
+date: 2025-01-03T20:45:07.534Z
+updated: 2025-01-10T23:34:31.840Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -68,6 +72,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -82,9 +90,17 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -93,8 +109,9 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -127,4 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-expressive-emojis-and-images-kinemaster-tips/"><u>[New] Expressive Emojis & Images KineMaster Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you-for-2024/"><u>[New] GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-video-for-bedtime-stories-elements-and-reviews/"><u>[New] Video for Bedtime Stories Elements and Reviews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enhancing-package-revelation-7-ways-for-2024/"><u>[Updated] Enhancing Package Revelation 7 Ways for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-close-up-filmmaking-zooming-into-details/"><u>[Updated] In 2024, Close-Up Filmmaking Zooming Into Details</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-prime-alternatives-to-gopro-selecting-the-ultimate-camera/"><u>[Updated] In 2024, Prime Alternatives to GoPro Selecting the Ultimate Camera</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-re-establish-audible-vids-on-social-sound/"><u>[Updated] Re-Establish Audible Vids on Social Sound</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-soundscape-integration-for-statements-for-2024/"><u>[Updated] Soundscape Integration for Statements for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x8c-feature-analysis/"><u>[Updated] Syma X8C Feature Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-visual-producer-studio/"><u>2024 Approved Visual Producer Studio</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-zte-axon-40-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track ZTE Axon 40 Lite without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728509554871-windows-pc/"><u>簡便儘速解決：Windows PC上免費文件恢復工具兩款選項</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/address-identity-discreprancy-on-facebook-platform-for-2024/"><u>Address Identity Discreprancy on Facebook Platform for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-tiktok-videography-with-zooming-expertise/"><u>Elevate TikTok Videography with Zooming Expertise</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-yuva-3-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Yuva 3 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/musical-alchemy-transforming-previews-into-memories-for-2024/"><u>Musical Alchemy Transforming Previews Into Memories for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-alarm-choices-best-download-junctions-for-2024/"><u>Top Alarm Choices Best Download Junctions for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Gratitude Unboxed  Free & Paid Creative OTUs\""
-date: 2024-12-15T05:55:01.969Z
-updated: 2024-12-17T06:49:08.606Z
+date: 2025-01-07T21:37:16.426Z
+updated: 2025-01-10T19:19:55.846Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ In this article, we'll show you some of the best paid and free websites offering
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Websites for Free Thanks for Watching Outro Templates
@@ -45,10 +45,6 @@ A Quick Guide:
 4. [InVideo](#part1-4)
 5. [WoFox](#part1-5)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pinterest
 
 [Pinterest](https://in.pinterest.com/pin/679832506246229622/) is a fantastic platform for businesses and individuals alike, and thanks to its free templates, it's easy to add a professional-looking outro for a podcast or YouTube video.
@@ -58,7 +54,7 @@ However, the templates are not editable, and you will need software like Filmora
 ![pinterest thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/pinterest-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Vecteezy
@@ -78,6 +74,10 @@ With Snappa, you can create professional-looking outros in just a few clicks. Si
 You can customize the fonts, colors, and images to match your brand and add your own text to personalize the message on the templates. This will help you end your videos on a positive note and leave a lasting impression on your viewers.
 
 ![snappa thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/snappa-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### InVideo
 
@@ -106,7 +106,7 @@ A Quick Guide:
 3. [Placeit](#part2-3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### iStock
@@ -118,7 +118,7 @@ You can purchase a template for **$0.22–$9.90/image or $14.90/video** and can 
 ![istock thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/istock-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Videezy
@@ -129,6 +129,10 @@ The subscription pricing starts at **$19/file**, and it's definitely worth it fo
 
 ![videezy thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/videezy-thanks-for-watching-templates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Placeit
 
 [Placeit](https://placeit.net/c/design-templates?search=thank+you+for+watching) is a premium video editor where you can choose the required templates from the stock library, all of which are easy to customize to fit your specific needs.
@@ -138,7 +142,7 @@ The subscription plan offers two options: buy a template for **$2.95** or get an
 ![placeit thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/placeit-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. A Bonus Tip: How To Edit YouTube Outro?
@@ -153,6 +157,10 @@ Filmora is a powerful and easy-to-use video editor that has everything you need 
 
 And to use Filmora making your outro without hassle, please watch this tutorial video below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Video Tutorial - How to Make a YouTube Outro
 
 ## Conclusion
@@ -165,15 +173,7 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 
 And to use Filmora making your outro without hassle, please watch this tutorial video below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Video Tutorial - How to Make a YouTube Outro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -205,24 +205,18 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-pioneering-patterns-screen-cast-with-loom-pro/"><u>[New] In 2024, Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-collection-highest-ranking-8-4k-players/"><u>[New] In 2024, Ultimate Collection Highest Ranking 8 4K Players</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlock-more-views-twitch-to-facebook-streaming-tips/"><u>[New] In 2024, Unlock More Views Twitch to Facebook Streaming Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[New] Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-stretching-out-youtube-video-quality-for-2024/"><u>[New] Stretching Out YouTube Video Quality for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-acoustic-ambiance-in-photo-videos/"><u>[Updated] 2024 Approved Acoustic Ambiance in Photo Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>[Updated] A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-droning-success-key-elements-in-selecting-ideal-fpv-propellers/"><u>[Updated] In 2024, Droning Success Key Elements in Selecting Ideal FPV Propellers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-portraying-paradoxes-with-teleportation-cgi-for-2024/"><u>[Updated] Portraying Paradoxes with Teleportation CGI for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-simplify-information-storage-via-mematic-for-2024/"><u>[Updated] Simplify Information Storage via Mematic for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-yis-high-res-action-recorder-a-deep-dive-review/"><u>[Updated] YI's High-Res Action Recorder A Deep Dive Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-camon-20-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Camon 20 Pro 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/explore-asmrs-impact-on-stress-reduction/"><u>Explore ASMR’s Impact on Stress Reduction</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10-for-2024/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10 for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-search-rankings/"><u>Harnessing the Power of Cookiebot for Enhanced Search Rankings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-c12-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Nokia C12 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>In 2024, Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-methods-transforming-pin-videos-to-mp3-format/"><u>Prime Methods Transforming Pin Videos To MP3 Format</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smiles-and-laughs-app-download/"><u>Smiles & Laughs App Download</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scripts-that-shaped-cinema/"><u>[New] Scripts That Shaped Cinema</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-dazzling-images-a-guide-to-pexels-mastery/"><u>[Updated] 2024 Approved Discovering Dazzling Images A Guide to Pexels Mastery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elite-selection-10-affordable-sites-never-lost-your-shots/"><u>[Updated] 2024 Approved Elite Selection 10 Affordable Sites, Never Lost Your Shots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[Updated] In 2024, Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-select-from-the-leading-7-android-apps-to-eradicate-ads-for-2024/"><u>[Updated] Select From the Leading 7 Android Apps to Eradicate Ads for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-alchemy-free-perfectly-crafted-dj-template-videos-for-2024/"><u>Audio Alchemy Free, Perfectly Crafted DJ Template Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparing-gopro-and-polaroids-video-editors-for-filmmakers-for-2024/"><u>Comparing GoPro & Polaroid's Video Editors for Filmmakers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465909359-dont-delay-discover-the-must-have-features-in-latest-ios-update-153/"><u>Don’t Delay: Discover the Must-Have Features in Latest iOS Update, 15.3!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-ps5-and-xbox-experience-with-top-tvs-for-2024/"><u>Elevate Your PS5 and Xbox Experience with Top TVs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/kids-and-newbies-rejoice-our-10-easiest-to-fly-drones/"><u>Kids & Newbies Rejoice! Our 10 Easiest-to-Fly Drones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximize-fun-choose-from-heres-top-5-chrome-extensions-for-facebook-vids/"><u>Maximize Fun Choose From Here's Top 5 Chrome Extensions for Facebook Vids</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/multimedia-designers-space-for-2024/"><u>Multimedia Designer's Space for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultra-compact-apple-vision-pro-carrier-half-the-bulk-full-of-style-zdnet-insights/"><u>The Ultra-Compact Apple Vision Pro Carrier: Half the Bulk, Full of Style (ZDNet Insights)</u></a></li>
 </ul></div>
 

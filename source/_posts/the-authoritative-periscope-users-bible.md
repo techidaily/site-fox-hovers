@@ -1,7 +1,7 @@
 ---
 title: "The Authoritative Periscope User's Bible"
-date: 2024-08-15T13:19:05.353Z
-updated: 2024-08-16T13:19:05.353Z
+date: 2025-01-04T00:45:03.059Z
+updated: 2025-01-10T20:42:29.379Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Knowing the functions and settings
 
  Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 
 ![use-periscope-2 ](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. **The third tab** again contains the information about list of live public broadcasts in list format.
 
 ![use-periscope-3 ](https://images.wondershare.com/filmora/article-images/use-periscope-3.jpg)
@@ -51,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 ![use-periscope-4 ](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to watch Periscope Video?
 
  If you want to enjoy a live broadcast on Periscope then you can either try the list format or go for the map version on global broadcast tab; simply touch over the ongoing event that seems interesting to you. It also allows real time interactions with the broadcasters as well as other users that are connected during a particular live event.
@@ -66,15 +75,7 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
  3\. There is a little person on bottom right corner of your app screen; it provides information about number of viewers on your broadcast. If you touch this tiny icon, it will take you to another page.
 
 ![use-periscope-5 ](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## How to Broadcast on Periscope?
 
  As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
@@ -82,21 +83,18 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
  During your very first visit to broadcast screen, you will find a permission required pop up. Here you have to hit on allow permissions option. Now enable all three options that appear on screen.
 
 ![use-periscope-6 ](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
 
 ![use-periscope-7 ](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
 ![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips to get more followers or viewers on Periscope
 
@@ -117,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
  7\. Try to build a strong community and always share a valuable content as per interest of your viewers.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -144,4 +143,23 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>[New] Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-memes-for-iphone/"><u>[New] Memes for iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-precision-photography-snippets-from-videos-on-windows-11-for-2024/"><u>[New] Precision Photography Snippets From Videos on Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-exploration-of-yis-4k-hero-series/"><u>[New] The Ultimate Exploration of Yi’s 4K HERO Series</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transforming-spaces-the-art-of-metaphysical-marketing/"><u>[New] Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-advanced-rendering-with-srgb-technology/"><u>[Updated] In 2024, Advanced Rendering with Srgb Technology</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leveraging-libraries-improving-efficiency-in-your-javascript-projects/"><u>[Updated] Leveraging Libraries Improving Efficiency in Your JavaScript Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-peak-memetic-artistry-hub-for-2024/"><u>[Updated] Peak Memetic Artistry Hub for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-top-rated-frame-rate-choices-for-cinema-slow-motion/"><u>Exploring Top-Rated Frame Rate Choices for Cinema Slow-Motion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-beats-for-chats-adding-sound-to-whatsapp/"><u>In 2024, Beats for Chats Adding Sound to WhatsApp</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-gobi-map-issue-in-black-deserts-back-4-blood-using-unreal-engine-4/"><u>Resolving Gobi Map Issue in Black Desert's 'Back 4 Blood' Using Unreal Engine 4</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-graphics-card-problems-expert-tips-from-yl-computings-tech-team/"><u>Solving Graphics Card Problems: Expert Tips From YL Computing's Tech Team</u></a></li>
+<li><a href="https://win-updates.techidaily.com/two-techniques-for-bare-metal-recovery-on-windows-server-2008-r2/"><u>Two Techniques for Bare Metal Recovery on Windows Server 2008 R2</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-youtube-videos-a-guide-to-sequential-viewing-for-2024/"><u>Unlocking YouTube Videos A Guide to Sequential Viewing for 2024</u></a></li>
+</ul></div>
 

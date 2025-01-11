@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Optimal Owing UAVs  Heavy Load Drone Rankings\""
-date: 2024-12-28T20:29:44.675Z
-updated: 2025-01-04T10:59:09.209Z
+date: 2025-01-07T23:57:07.684Z
+updated: 2025-01-11T04:38:24.108Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ With this rising need of consumers needing more than just a [flying camera](http
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Top 10 Heavy lift drones
 
 Here are the best heavy lifting drones available in 2020, broken into over-10 kg and under-10 kg payloads.
@@ -59,15 +55,15 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [FREEFLY ALTA 8](#freefly)                     | 18kg                                    | 16min       |       |
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Heavy lifting Drones: Under-10kg payload
 
 #### 1\. Tarot T-18 Ready To Fly Drone
 
 ![tarot t-18 ready to fly drone](https://images.wondershare.com/filmora/article-images/tarot-t-18-ready-to-fly-drone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
@@ -104,7 +100,7 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Heavy lifting Drones: Over-10kg payload
@@ -118,6 +114,10 @@ The Airlift series is one of Vulcan's heaviest lifting drones to date. With the 
 #### 2\. AZ 4K UHD Camera Drone Green Bee 1200
 
 ![az 4k uhd camera drone green bee 1200](https://images.wondershare.com/filmora/article-images/az-4k-uhd-camera-drone-green-bee-1200.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As the need for drones that can do some seriously heavy lifting has increased, the AZ 4K UHD Camera Drone Green Bee 1200 has stepped up to fill these needs. Whether you are looking to do some heavy lifting in the realm of photography or cinema, or you need a drone that can move your research and development technology around your indoor or outdoor work area, this drone has you covered. With the ability to carry a payload of up to 20 kg, and a flight time of 20 min. per battery, the AZ 4K UHD Camera Drone Green Bee 1200 is going to allow you to master any heavy lifting work situation with ease.
 
@@ -140,18 +140,18 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -178,17 +178,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ow-to-maximize-video-reach-with-effective-tags-titles-for-2024/"><u>[New] How to Maximize Video Reach with Effective Tags, Titles for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-inclusive-dynamic-movement-examination/"><u>[New] Inclusive Dynamic Movement Examination</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-scripting-a-captivating-cinematic-sketchpad/"><u>[Updated] 2024 Approved Scripting a Captivating Cinematic Sketchpad</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlock-limitless-creativity-with-free-after-effects-samples/"><u>[Updated] 2024 Approved Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-best-practices-in-adobe-captivate-for-videos-for-2024/"><u>[Updated] Best Practices in Adobe Captivate for Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-distortion-driven-the-artists-guide-to-altered-text/"><u>[Updated] Distortion Driven The Artist's Guide to Altered Text</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-cut-to-the-chase-how-to-zoom-effectively-in-minecraft/"><u>2024 Approved Cut to the Chase How to Zoom Effectively in Minecraft</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-giants-exploring-the-ultimate-immersive-soundbar-alternative-tested-on-zdnet/"><u>Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delve-into-digital-unraveling-the-wonders-of-technology-with-toms-guidance/"><u>Delve Into Digital: Unraveling the Wonders of Technology with Tom's Guidance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/sparkling-ideas-creating-engaging-fb-ad-videos-for-2024/"><u>Sparkling Ideas Creating Engaging FB Ad Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[New] In 2024, Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>[Updated] Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-creative-potential-with-premium-effects-extensions-for-2024/"><u>[Updated] Unlock Creative Potential with Premium Effects Extensions for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[Updated] Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-curtail-unexpected-youtube-recommendations/"><u>2024 Approved Curtail Unexpected YouTube Recommendations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-efficiently-conducting-virtual-meetings-via-zoom-in-win10/"><u>2024 Approved Efficiently Conducting Virtual Meetings via Zoom in Win10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-googles-efficient-route-to-instantaneous-visual-masterpieces/"><u>2024 Approved Google's Efficient Route to Instantaneous Visual Masterpieces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/blueprint-for-seamless-integration-of-instagram-and-tiktok-for-2024/"><u>Blueprint for Seamless Integration of Instagram and TikTok for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube-for-2024/"><u>Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a14-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A14 5G Unlock Without Password</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-ways-of-shooting-with-a-fisheye-lens/"><u>In 2024, Cutting-Edge Ways of Shooting with a Fisheye Lens</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-meizu-21-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Meizu 21 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-hardware-upgraded-for-win11-find-out/"><u>Is Your Hardware Upgraded For Win11? Find Out!</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-moto-g04-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Moto G04 on Mac</u></a></li>
+<li><a href="https://win-popular.techidaily.com/verwandeln-sie-ihre-datengeschwindigkeit-mit-einem-einfachen-tausch-von-128gb-auf-eine-schnelle-atur-ssd-mit-256gb-speicherplatz/"><u>Verwandeln Sie Ihre Datengeschwindigkeit Mit Einem Einfachen Tausch Von 128GB Auf Eine Schnelle Atur SSD Mit 256GB Speicherplatz!</u></a></li>
 </ul></div>
 

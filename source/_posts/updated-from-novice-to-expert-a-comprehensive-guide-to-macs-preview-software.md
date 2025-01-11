@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Expert  A Comprehensive Guide to Mac's Preview Software\""
-date: 2024-12-11T07:11:27.128Z
-updated: 2024-12-16T20:27:59.503Z
+date: 2025-01-05T03:28:30.482Z
+updated: 2025-01-11T05:25:43.920Z
 tags: 
   - screen-recording
   - ai video
@@ -35,11 +35,19 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -55,6 +63,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -68,10 +80,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -89,10 +97,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -104,10 +108,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -125,6 +125,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,6 +144,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -168,10 +176,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,18 +236,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-gopro-video-editors-for-pros/"><u>[New] Essential GoPro Video Editors for Pros</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-photo-to-cartoon-software-for-windows-and-mac/"><u>[New] In 2024, Best Photo to Cartoon Software for Windows & Mac</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-sketches-to-high-end-graphics-best-software-reviewed/"><u>[Updated] 2024 Approved From Sketches to High-End Graphics Best Software Reviewed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>[Updated] Crafting a Content Schedule The Path to Gaining Traction on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-from-barely-seen-to-highly-engaged-the-journey-of-youtube-short-success-for-2024/"><u>[Updated] From Barely Seen to Highly Engaged The Journey of YouTube Short Success for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[Updated] In 2024, A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
-<li><a href="https://article-files.techidaily.com/converting-social-media-audio-to-personalized-mobile-alerts/"><u>Converting Social Media Audio to Personalized Mobile Alerts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-harmonizing-images-essential-tutorials-for-color-mastery/"><u>In 2024, Harmonizing Images Essential Tutorials for Color Mastery</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-9-propluswithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 9 Pro+with/without a PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-digital-picks-free-alarm-ringtones-download/"><u>In 2024, Top Digital Picks Free Alarm Ringtones Download</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y100a-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y100A – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/streaming-titans-clash-streamlabs-versus-obs-in-the-arena-for-2024/"><u>Streaming Titans Clash Streamlabs versus OBS in the Arena for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-asus-rog-phone-7-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Asus ROG Phone 7 Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-adding-visual-variety-to-instagram-stories-step-by-step/"><u>[New] 2024 Approved Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-skyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>[New] 2024 Approved Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>[New] Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-add-customized-ringtones-and-sounds-on-your-android-phone-in-a-for-2024/"><u>[New] How to Add Customized Ringtones and Sounds on Your Android Phone in A for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>[New] Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-100-working-method-for-adding-link-to-tiktok-bio/"><u>[Updated] 100% Working Method for Adding Link to TikTok Bio</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quickly-setup-snapchat-app-on-your-mac-os-x/"><u>[Updated] 2024 Approved Quickly Setup Snapchat App on Your Mac OS X</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-15-no-cost-web-image-editors-review/"><u>[Updated] 2024 Approved Top 15 No-Cost Web Image Editors Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-convert-tweets-into-audible-format-with-ease/"><u>[Updated] Convert Tweets Into Audible Format with Ease</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-drafting-dynamic-news-endings/"><u>[Updated] Drafting Dynamic News Endings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-desktop-dials-adjusting-audio-to-a-whisper/"><u>[Updated] In 2024, Desktop Dials Adjusting Audio to a Whisper</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-path-to-perfected-morphvox-control-for-2024/"><u>[Updated] The Ultimate Path to Perfected MorphVOX Control for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-superior-screen-reporter-optimal-chromebook-choice/"><u>2024 Approved Superior Screen Reporter Optimal Chromebook Choice</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/alter-twitter-video-glimpse-artwork-for-2024/"><u>Alter Twitter Video Glimpse Artwork for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/effortless-transition-free-onlineoffline-text-animation-for-2024/"><u>Effortless Transition Free Online/Offline Text Animation for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastering-movies-with-yi-4k-hero/"><u>In 2024, Mastering Movies with YI 4K HERO</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/tumblr-mavens-live-on-snapchat-feed-for-2024/"><u>Tumblr Mavens Live on Snapchat Feed for 2024</u></a></li>
 </ul></div>
 
