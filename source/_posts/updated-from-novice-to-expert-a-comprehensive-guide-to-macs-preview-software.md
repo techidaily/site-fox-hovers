@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Expert  A Comprehensive Guide to Mac's Preview Software\""
-date: 2025-01-05T03:28:30.482Z
-updated: 2025-01-11T05:25:43.920Z
+date: 2025-01-14T21:47:43.845Z
+updated: 2025-01-16T16:30:02.972Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -44,10 +44,6 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -64,7 +60,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -97,6 +93,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -125,10 +125,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -146,7 +142,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,22 +236,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-adding-visual-variety-to-instagram-stories-step-by-step/"><u>[New] 2024 Approved Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-skyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>[New] 2024 Approved Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>[New] Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-add-customized-ringtones-and-sounds-on-your-android-phone-in-a-for-2024/"><u>[New] How to Add Customized Ringtones and Sounds on Your Android Phone in A for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>[New] Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-100-working-method-for-adding-link-to-tiktok-bio/"><u>[Updated] 100% Working Method for Adding Link to TikTok Bio</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quickly-setup-snapchat-app-on-your-mac-os-x/"><u>[Updated] 2024 Approved Quickly Setup Snapchat App on Your Mac OS X</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-15-no-cost-web-image-editors-review/"><u>[Updated] 2024 Approved Top 15 No-Cost Web Image Editors Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-convert-tweets-into-audible-format-with-ease/"><u>[Updated] Convert Tweets Into Audible Format with Ease</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-drafting-dynamic-news-endings/"><u>[Updated] Drafting Dynamic News Endings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-desktop-dials-adjusting-audio-to-a-whisper/"><u>[Updated] In 2024, Desktop Dials Adjusting Audio to a Whisper</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-path-to-perfected-morphvox-control-for-2024/"><u>[Updated] The Ultimate Path to Perfected MorphVOX Control for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-superior-screen-reporter-optimal-chromebook-choice/"><u>2024 Approved Superior Screen Reporter Optimal Chromebook Choice</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/alter-twitter-video-glimpse-artwork-for-2024/"><u>Alter Twitter Video Glimpse Artwork for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/effortless-transition-free-onlineoffline-text-animation-for-2024/"><u>Effortless Transition Free Online/Offline Text Animation for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastering-movies-with-yi-4k-hero/"><u>In 2024, Mastering Movies with YI 4K HERO</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/tumblr-mavens-live-on-snapchat-feed-for-2024/"><u>Tumblr Mavens Live on Snapchat Feed for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-fixing-photo-booth-lags-for-smoother-playbacks/"><u>[New] Fixing Photo Booth Lags for Smoother Playbacks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breaking-barriers-how-to-enjoy-virtual-journeys/"><u>[New] In 2024, Breaking Barriers How to Enjoy Virtual Journeys</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-navigating-snapchat-spotlight-feature-for-2024/"><u>[New] Navigating Snapchat Spotlight Feature for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pioneers-in-stop-motion-top-15-must-watch-films/"><u>[New] Pioneers in Stop Motion Top 15 Must-Watch Films</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-delving-into-the-galaxy-s8s-immersive-4k-display/"><u>[Updated] 2024 Approved Delving Into the Galaxy S8's Immersive 4K Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-depths-with-premium-underwater-cameras-2023/"><u>[Updated] 2024 Approved Journey Through Depths with Premium Underwater Cameras 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-beyond-reality-comparing-metaverse-and-multiverse/"><u>[Updated] Beyond Reality Comparing Metaverse & Multiverse</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-guide-to-risk-management-and-mitigation-strategies-in-market-research-for-2024/"><u>A Guide to Risk Management and Mitigation Strategies in Market Research for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-success-optimize-your-site-with-advanced-analytics/"><u>Cookiebot-Driven Success: Optimize Your Site with Advanced Analytics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cyber-celebrity-surge-2024/"><u>Cyber Celebrity Surge 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/demystifying-facebooks-oversight-judicial-panel/"><u>Demystifying Facebook's Oversight Judicial Panel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-profile-the-complete-guide-to-editing-numbers-on-tiktok/"><u>Elevate Your Profile The Complete Guide to Editing Numbers on TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enhancing-lenovo-experience-through-recording/"><u>Enhancing Lenovo Experience Through Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-meizu-21-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Meizu 21 Pro Device</u></a></li>
 </ul></div>
 

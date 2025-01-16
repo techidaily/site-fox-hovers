@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Soaring Sights  Dissecting the GoPro Karma Drone's Features\""
-date: 2024-08-15T13:13:24.256Z
-updated: 2024-08-16T13:13:24.256Z
+date: 2025-01-14T19:33:03.599Z
+updated: 2025-01-16T18:55:08.760Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -52,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -89,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 #### 5\.  Controller
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -100,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,4 +134,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-complete-self-guided-tour-to-host-and-participate-in-google-meet/"><u>[New] 2024 Approved Complete Self-Guided Tour to Host & Participate in Google Meet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-quick-capture-deep-insight-time-lapse-techniques-for-samsung-users/"><u>[New] In 2024, Quick Capture, Deep Insight Time-Lapse Techniques for Samsung Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quicksnap-studio-pro/"><u>[Updated] 2024 Approved QuickSnap Studio Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-visualizing-2023-social-medias-next-big-thing/"><u>[Updated] Visualizing 2023 Social Media's Next Big Thing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-elements-creating-striking-podcast-covers/"><u>2024 Approved Essential Elements Creating Striking Podcast Covers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-harnessing-the-power-of-hdr-in-portrait-photography/"><u>2024 Approved Harnessing the Power of HDR in Portrait Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-protecting-beats-on-instagram/"><u>2024 Approved Protecting Beats on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>2024 Approved The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-shot-recording-camcorders-for-the-hunt/"><u>2024 Approved Ultimate Shot-Recording Camcorders for the Hunt</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-your-next-audio-step-choosing-between-podcasts-and-youtube/"><u>2024 Approved Your Next Audio Step Choosing Between Podcasts and YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/5-best-hd-hunting-cameras-reviewed-for-2024/"><u>5 Best HD Hunting Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-memorable-honeymoon-video-for-2024/"><u>How to Make a Memorable Honeymoon Video for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/key-steps-to-enhance-real-time-sports-viewership/"><u>Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
+</ul></div>
 

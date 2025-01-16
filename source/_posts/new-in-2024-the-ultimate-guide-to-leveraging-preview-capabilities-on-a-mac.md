@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Leveraging Preview Capabilities on a Mac"
-date: 2025-01-05T02:57:42.391Z
-updated: 2025-01-10T16:16:20.437Z
+date: 2025-01-11T16:39:36.274Z
+updated: 2025-01-16T17:42:02.090Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -70,7 +74,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -90,7 +94,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -122,7 +126,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -141,10 +145,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -160,10 +160,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,18 +236,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-techniques-for-streamlining-console-video-saves/"><u>[New] 2024 Approved Top Techniques for Streamlining Console Video Saves</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tales-on-the-silver-screen-writing-for-cinema/"><u>[New] In 2024, Tales on the Silver Screen Writing for Cinema</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-essential-how-to-sharing-videos-from-youtube-on-instagram-for-2024/"><u>[New] The Essential How-To Sharing Videos From YouTube on Instagram for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-5-pc-emulators-bringing-ps1-to-life/"><u>[New] Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-tools-for-live-gameplay-screen-grabs-for-2024/"><u>[Updated] Best Tools for Live Gameplay Screen Grabs for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-turnout-video-on-your-android-device/"><u>[Updated] In 2024, How to Turnout Video on Your Android Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enlightened-approach-to-youtube-titles-with-ai/"><u>Enlightened Approach to YouTube Titles with AI</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/gopro-face-by-face-guide-to-selectivity/"><u>Gopro Face-By-Face Guide to Selectivity</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-i-successfully-deleted-every-file-on-my-pc-using-onedrive-features/"><u>How I Successfully Deleted Every File on My PC Using OneDrive Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/see-all-around-the-ultimate-guide-to-11-bridging-cams/"><u>See All Around The Ultimate Guide to #11 Bridging Cams</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-lost-connection-between-powershell-and-windows/"><u>Troubleshooting: Lost Connection Between PowerShell and Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>[New] 2024 Approved Unveiling the Ultimate VR Experience The HTC Vive Story</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-a-legacy-youtubers-playbook-for-success/"><u>[New] In 2024, Crafting a Legacy YouTuber’s Playbook for Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-financials-of-boosting-your-youtube-videos/"><u>[New] In 2024, The Financials of Boosting Your YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-max-360-and-hero-11-gopro-comparison-which-reigns-supreme-in-2024/"><u>[New] Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-prevent-freezing-of-streamed-videos-in-chrome-for-2024/"><u>[New] Prevent Freezing of Streamed Videos in Chrome for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>[Updated] 2024 Approved Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-tier-visual-vaulting-services/"><u>[Updated] 2024 Approved Top-Tier Visual Vaulting Services</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728478717887-windows-1187/"><u>頂級指南：如何有效地從Windows 11、8及7中進行系統克隆，以轉移到外置硬碟</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-agni-2-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Lava Agni 2 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inside-the-magic-box-how-does-vr-function/"><u>Inside the Magic Box How Does VR Function?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-your-microsoft-365-plan-in-the-world-of-windows-11-with-guidance-by-experts-at-zdnet/"><u>Mastering Your Microsoft 365 Plan in the World of Windows 11 with Guidance by Experts at ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-huawei-nova-y71-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Huawei Nova Y71 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-epson-wf-2630-drivers-now-available-compatible-with-win7-81-and-10/"><u>Updated Epson WF-2630 Drivers Now Available: Compatible with Win7, 8.1 & 10</u></a></li>
 </ul></div>
 

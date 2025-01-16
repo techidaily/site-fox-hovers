@@ -1,7 +1,7 @@
 ---
 title: "Luts Implementation for Cinematographic Coloring for 2024"
-date: 2025-01-06T23:22:08.300Z
-updated: 2025-01-10T19:11:32.229Z
+date: 2025-01-11T20:03:27.877Z
+updated: 2025-01-16T21:38:54.852Z
 tags: 
   - screen-recording
   - ai video
@@ -26,7 +26,7 @@ Color Grading Central is a company created by Denver Riddle, who is currently in
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. What is color grading central and LUTs (Lookup table)?
@@ -40,16 +40,12 @@ LUTs or Look Up Tables are nothing more than a table of numbers that apply a col
 The Color Grading Central LUTs effect is stylish and cinematic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to use Luts from color grading central to color grading for movies?
 
 ![color grading for movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Color grading is one way to enhance the look of your shots and serve your narrative vision. That's why many filmmakers, editors, and colorists working on film use Look Up Tables, or LUTs, to store color grades as templates to help speed up the process.
 
@@ -66,7 +62,7 @@ The other two types of LUTs can be either 1D or 3D LUTs, but these days they are
 ![luts in movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An input or camera LUT used at the beginning of the color correction process adjusts the footage so that the color correction tools work correctly. Color corrected recordings that require an input or camera LUT without one can lead to unexpected and unsatisfactory results.
@@ -103,6 +99,14 @@ In addition to giving away seven free color LUTs, they're also giving away an as
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
 
 If you're not already familiar with SmallHD, the company is primarily focused on creating some of the best portable monitors in the world. They also provide free LUTs for real-time on-site monitoring.
@@ -112,6 +116,10 @@ This free pack of Movie Look LUTs draws inspiration from seven modern movies, in
 If you want to add a dramatic and cinematic feel to your footage, use this free LUT pack from SmallHD.
 
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
 
@@ -131,10 +139,6 @@ The good news is that you can register, download the LUT, and then cancel. Or he
 
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. How to do color grading in Filmora?
 
 With the most recent technology, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is unquestionably an indispensable tool and can do more than just edit. Users may easily put audio and video over the clip while merging various clips, setting range markers, and more with this editor.Here is a step-by-step guide to using the various effects used in Filmora's color grading panel.
@@ -144,16 +148,12 @@ By clicking **"Effect"** and choosing **"LUT"**, where you can examine a range o
 ![lut](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Of course, if you're still dissatisfied with the result you may select **"Advanced"** for a more subtle color correction. White Balance, Vignette, and Enhancement are some of Adjust features. You can also choose a more precise pre-made configuration from the **Preset** option.
 
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -195,19 +195,18 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-10-tools-to-enhance-your-youtube-vocal-recordings/"><u>[New] 2024 Approved Top 10 Tools to Enhance Your YouTube Vocal Recordings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-affordable-skycabinet-mass-data-hoarding-on-a-budget/"><u>[New] Affordable SkyCabinet Mass Data Hoarding on a Budget</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-guide-to-use-luts-in-premiere-pro/"><u>[New] In 2024, Guide to Use LUTs in Premiere Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-smartphone-identity-iphone-x-and-galaxy-phones-through-the-lens-of-faces/"><u>[Updated] 2024 Approved Smartphone Identity IPhone X and Galaxy Phones Through the Lens of Faces</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-significant-20-public-domain-pubg-snapshot-packs-for-2024/"><u>[Updated] Significant 20 Public Domain PUBG Snapshot Packs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-step-by-step-guide-to-facebook-mastery-pro-and-novice-edition-for-2024/"><u>[Updated] Step-by-Step Guide to Facebook Mastery Pro & Novice Edition for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-learn-how-to-change-your-in-game-characters-vocal-presence-with-ease-for-free/"><u>2024 Approved Learn How to Change Your In-Game Character's Vocal Presence with Ease - For FREE</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nocturnal-landscapes-on-your-iphone/"><u>2024 Approved Nocturnal Landscapes on Your iPhone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1724312941231-abbyy-flexicapture/"><u>ABBYY FlexiCapture の正式日本市場発売開始</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creativity-meets-strength-with-crealitys-new-flagship-k1c-3d-printer-learn-about-its-impressive-specs/"><u>Creativity Meets Strength with Creality's New Flagship K1C 3D Printer - Learn About Its Impressive Specs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/discover-the-best-beat-detectors-free-and-easy-to-use-for-2024/"><u>Discover the Best Beat Detectors – Free & Easy to Use for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scripting-success-the-art-of-good-documentaries-for-2024/"><u>Scripting Success The Art of Good Documentaries for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1726222960428-tga-jpg-movavi/"><u>TGA 對 JPG 無限制的線上免費變換 - 利用 Movavi 工具</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-metas-512gb-quest-2-offers-unbeatable-value-this-october-beat-black-friday-with-prime-day-savingszdnet/"><u>Top Pick: Meta's 512GB Quest 2 Offers Unbeatable Value This October - Beat Black Friday With Prime Day Savings![ZDNet]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-save-time-money-on-passport-photos-with-our-free-generator-apps-for-2024/"><u>[New] Save Time, Money on Passport Photos with Our Free Generator Apps for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-easypodstream-how-to-set-up-and-broadcast-with-minimal-hassle/"><u>[Updated] 2024 Approved EasyPodStream How To Set Up and Broadcast with Minimal Hassle</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-master-the-art-of-clean-up-a-guide-to-bg-elimination/"><u>[Updated] 2024 Approved Master the Art of Clean-Up A Guide to BG Elimination</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-bridging-platforms-the-instagram-and-tiktok-guide-for-2024/"><u>[Updated] Bridging Platforms The Instagram & TikTok Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quintet-of-top-10-royale-battles-for-2024/"><u>[Updated] Quintet of Top 10 Royale Battles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-your-go-to-guide-for-the-finest-10-picture-databases/"><u>[Updated] Your Go-To Guide for the Finest 10 Picture Databases</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-reflect-iphone-content-onto-your-samsung-television/"><u>How to Reflect iPhone Content Onto Your Samsung Television</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-freely-available-tunes-to-elevate-your-film-and-video-compositions/"><u>In 2024, Freely Available Tunes to Elevate Your Film and Video Compositions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterclass-on-uploading-youtube-vids-to-fb-groups/"><u>In 2024, Masterclass on Uploading YouTube Vids to FB Groups</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-connect-and-use-remote-features-for-your-samsung-smart-set-top-box/"><u>Seamless Integration: Connect and Use Remote Features for Your Samsung Smart Set-Top Box</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-gene-expression-during-sporulation-occurs-in-a-highly-ordered-sequence-with-distinct-phases-such-as-asymmetrical-cell-division-and-coat-synthesis/"><u>The Gene Expression During Sporulation Occurs in a Highly Ordered Sequence, with Distinct Phases Such as 'Asymmetrical Cell Division' And 'Coat Synthesis.'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/win-top-rated-rapid-image-zoomer/"><u>Win Top-Rated Rapid Image Zoomer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288542187-winxvideo-ai/"><u>Winxvideo AI 사용: 원홍한 비디오 촬영 단계를 이루기 위해</u></a></li>
 </ul></div>
 

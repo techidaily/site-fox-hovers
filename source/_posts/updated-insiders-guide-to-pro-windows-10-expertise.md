@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Insider's Guide to Pro WINDOWS 10 Expertise"
-date: 2024-08-08T07:53:22.396Z
-updated: 2024-08-09T07:53:22.396Z
+date: 2025-01-13T17:14:38.140Z
+updated: 2025-01-16T19:44:03.111Z
 tags: 
   - screen-recording
   - ai video
@@ -30,18 +30,12 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -52,9 +46,6 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -63,9 +54,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -74,9 +62,6 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -85,9 +70,6 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -123,4 +105,25 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-100plus-gaming-channel-names-for-every-gamer-filmora/"><u>[New] 100+ Gaming Channel Names for Every Gamer - Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>[New] 2024 Approved Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-your-browsing-navigating-safaris-safe-area-mode/"><u>[New] In 2024, Elevate Your Browsing Navigating Safari's Safe Area Mode</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-11-brain-boosting-trivia-shows-for-24-for-2024/"><u>[New] Top 11 Brain-Boosting Trivia Shows for '24 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-take-photos-while-recording-videos-on-iphone/"><u>[Updated] 2024 Approved How to Take Photos While Recording Videos on iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastery-of-gesture-recognition-all-methods-explained/"><u>[Updated] 2024 Approved Mastery of Gesture Recognition All Methods Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecting-pixels-11-proven-methods-for-better-colors/"><u>[Updated] 2024 Approved Perfecting Pixels 11 Proven Methods for Better Colors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>[Updated] 2024 Approved Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-burst-life-into-slow-motion-with-top-android-apps/"><u>[Updated] Burst Life Into Slow Motion with Top Android Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-zoom-in-on-videoleap/"><u>[Updated] In 2024, How to Zoom in on Videoleap</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-c53-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme C53 Phone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-up-to-50-off-tech-news/"><u>Huge Discount Alert: Samsung 4TB Portable SSD T5 Now Available on Amazon - Up To 50% Off! | Tech News</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>In 2024, State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-top-10-youtube-business-channels-and-how-to-create-one-easily/"><u>In 2024, Top 10 YouTube Business Channels and How to Create One Easily</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

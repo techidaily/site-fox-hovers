@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Olympic Thrills Amidst Snowy Bliss in Beijing 2022\""
-date: 2025-01-09T16:52:42.788Z
-updated: 2025-01-11T05:27:29.067Z
+date: 2025-01-12T22:11:13.591Z
+updated: 2025-01-16T17:08:57.953Z
 tags: 
   - screen-recording
   - ai video
@@ -35,17 +35,21 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Nathan Chen Breaks World Record
 
 Nathan Chen of the United States set a world-record score in men's figure skating short program held at Beijing Olympics. Chen scored 113.97 at Capital Indoor Stadium in Beijing. Four years after his dreams were shattered, Chen has not only come back stronger in his performance but managed to break the world record.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
@@ -63,14 +67,10 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
@@ -79,14 +79,10 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
@@ -94,10 +90,6 @@ Following the victory, he stated that he was sure to win the gold with eight lap
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
@@ -109,15 +101,15 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
@@ -129,11 +121,19 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
@@ -156,24 +156,20 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-enhancing-your-playback-quality-tips-for-roblox-recordings-mac/"><u>[New] Enhancing Your Playback Quality Tips for Roblox Recordings (Mac)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-8-cameras-transforming-online-broadcasting/"><u>[New] In 2024, Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-macs-leading-video-shaping-tools-in-big-sur-release-for-2024/"><u>[New] Mac's Leading Video Shaping Tools in Big Sur Release for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-pro-level-performance-a-compre-cookie-box-for-2024/"><u>[New] Pro-Level Performance A Compre Cookie Box for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>[New] The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expert-endorsed-8-tripods-for-flawless-4k-footage/"><u>[Updated] 2024 Approved Expert-Endorsed 8 Tripods for Flawless 4K Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-recmaster-pro-in-depth-analysis-of-the-latest-release/"><u>[Updated] In 2024, Recmaster Pro In-Depth Analysis of the Latest Release</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere/"><u>[Updated] In 2024, Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>[Updated] Next Level Video Top Webcam Filters for Flawless Broadcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-professional-filmmaking-optics-that-elevate-4k-vision/"><u>[Updated] Professional Filmmaking Optics That Elevate 4K Vision</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-gaps-preventing-video-holds-in-photoshoots/"><u>2024 Approved Bridging Gaps Preventing Video Holds in Photoshoots</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-copyright-free-gaming-scores-the-10-leading-sources/"><u>2024 Approved Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>2024 Approved Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-moto-g73-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Moto G73 5G Unlock Without Password</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/cookiebot-enhanced-sites-experience-advanced-personalization-and-analytics/"><u>Cookiebot-Enhanced Sites: Experience Advanced Personalization and Analytics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-12-leading-motion-capture-camcorders-now-with-global-positioning/"><u>In 2024, 12 Leading Motion Capture Camcorders Now With Global Positioning</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-economic-options-in-panoramic-recording-equipment/"><u>In 2024, Economic Options in Panoramic Recording Equipment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-unstoppable-playing-of-detroit-become-human-on-your-computer/"><u>Troubleshooting Tips for Unstoppable Playing of Detroit: Become Human on Your Computer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-rated-avi-video-cutting-tools-trim-and-split-avi-videos-multi-platform/"><u>Updated 2024 Approved Top-Rated AVI Video Cutting Tools Trim and Split AVI Videos Multi-Platform</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-budget-friendly-cloud-strategies-revealed/"><u>[New] In 2024, Budget-Friendly Cloud Strategies Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kickstart-your-video-enhancement-game-with-snapchat/"><u>[New] Kickstart Your Video Enhancement Game with Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-privacy-preserving-recordings-methods-to-shield-sensitive-data/"><u>[New] Privacy-Preserving Recordings Methods to Shield Sensitive Data</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transformative-typography-in-after-effects/"><u>[New] Transformative Typography in After Effects</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-economical-audio-devices-for-vloggers-on-a-budget/"><u>[Updated] 2024 Approved Economical Audio Devices for Vloggers on a Budget</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-eyedome-hd-top-quality-chromeos-snapping-for-2024/"><u>[Updated] EyeDome HD Top Quality ChromeOS Snapping for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-affordable-skybanking-for-heavy-data-hoarding/"><u>[Updated] In 2024, Affordable SkyBanking for Heavy Data Hoarding</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>[Updated] In 2024, Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-updating-and-downloading-zebra-printer-model-zp450-drivers/"><u>Comprehensive Tutorial on Updating and Downloading Zebra Printer Model ZP450 Drivers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-movement-synopsis-overview-for-2024/"><u>Dynamic Movement Synopsis Overview for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>In 2024, Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>In 2024, Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aging-tags-boost-engagement-and-traffic-for-videos/"><u>Leveraging Tags Boost Engagement and Traffic for Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-the-zoom-tool-on-snapchat-for-better-photos-and-videos/"><u>Mastering the Zoom Tool on Snapchat for Better Photos & Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>New The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
 </ul></div>
 

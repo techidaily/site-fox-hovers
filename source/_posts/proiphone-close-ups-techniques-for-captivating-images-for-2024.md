@@ -1,7 +1,7 @@
 ---
 title: "\"Proiphone Close-Ups  Techniques for Captivating Images for 2024\""
-date: 2024-08-15T13:13:21.427Z
-updated: 2024-08-16T13:13:21.427Z
+date: 2025-01-10T16:47:10.130Z
+updated: 2025-01-16T22:32:08.455Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,10 @@ There is, so if you're looking to get to grips with this type of photography, yo
 
 With your iPhone macro photography and close-up shooting are both possible and can bring great results if you know what you're doing. However, for the really professional touch, an investment in a macro lens or specialist app will certainly kick your photography skills into high gear.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Section 2. iPhone Macro Photography Tips
 
 Taking great photos in macro mode isn't always as easy as it looks. Novice users can become frustrated when images come out dark, blurry or out of focus. Here are some top tips to get your iPhone macro photography just right, and to start building a collection of gorgeous close up images.
@@ -58,8 +62,9 @@ Taking great photos in macro mode isn't always as easy as it looks. Novice users
 Shooting in the macro range requires decent lighting, so consider when and how you are positioning your images. Early morning and midafternoon are great times of day to plan a shoot, as the soft, natural light is ideal for macro photography. Taking photos in the blazing midday sun can cause overexposure, and your iPhone may struggle to focus too.
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image source: Urdu-Mag.com
@@ -71,8 +76,9 @@ If you do want to snap some macro images in bright sunlight, try positioning you
 With any photo, focus is crucial to an awesome result. But when you're creating macro images, this becomes even more critical to the success of your photography. Try using the manual focus setting to give yourself more control over your focus point, and work on fine-tuning your skills to create the perfect image.
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-focus.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image source: PicMonkey
@@ -96,8 +102,9 @@ Different iPhone iterations have slightly different lenses, so there will be a b
 When you're shooting macro images with your iPhone, the intention is to make the background somewhat blurry, with only the objects at the front of the image in focus. You might think that this means it doesn't matter what's actually in the background, but in reality, a busy background with mixed colors can still serve to spoil your image.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-distance.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image source: GCFLearnFree
@@ -109,9 +116,6 @@ Make the subject center stage by positioning your composition to give the least 
 If you've researched photography in general, you'll already have heard of the ‘rule of thirds'. This rule is super simple to apply when using an iPhone and is just as relevant in macro photography as it is when shooting landscapes or any other composition.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Image source: SmashingHub
 
@@ -122,18 +126,6 @@ The rule states that if the image were divided into thirds horizontally and vert
 iPhone macro photography is all about looking at the world in a different way. To really accentuate this quality in your work, why not try shooting from a different perspective? Get very low down and shoot your subject from below, with the sky as a background, or snap from directly above to add drama to your images.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image source: Flickr
 
@@ -162,8 +154,9 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -189,4 +182,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-fastest-way-to-scan-windows-files-for-2024/"><u>[New] The Fastest Way to Scan Windows Files for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fast-revenues-forecasting-toolkit-for-vids/"><u>[Updated] Fast Revenues Forecasting Toolkit for Vids</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-guide-to-effective-multiframe-use-in-edge/"><u>2024 Approved Comprehensive Guide to Effective Multiframe Use in Edge</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-customizing-iphone-tones-a-step-by-step-guide/"><u>2024 Approved Customizing iPhone Tones A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-expert-tips-for-effortless-google-podcast-upload/"><u>2024 Approved Expert Tips for Effortless Google Podcast Upload</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-add-subtitles-to-windows-media-player/"><u>2024 Approved How to Add Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>2024 Approved The Crescendo Camera Making Music Videos on Mobile Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/fixing-the-obs-fullscreen-hurdle/"><u>Fixing the OBS Fullscreen Hurdle</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-tactical-edition-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Tactical Edition Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-finest-global-virtual-learning-hubs-outside-udemy/"><u>The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-free-online-conversion-transforming-mxf-files-into-mp4/"><u>Top Strategies for Free, Online Conversion: Transforming MXF Files Into MP4</u></a></li>
+</ul></div>
 
