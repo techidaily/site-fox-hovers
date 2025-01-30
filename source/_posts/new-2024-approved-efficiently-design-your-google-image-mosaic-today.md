@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Efficiently Design Your Google Image Mosaic Today\""
-date: 2025-01-20T00:02:26.447Z
-updated: 2025-01-23T01:32:13.745Z
+date: 2025-01-29T16:05:55.463Z
+updated: 2025-01-30T16:06:54.181Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,6 @@ To start, open up your desktop browser and go to the Google Photos website. You 
 
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
@@ -72,7 +68,7 @@ Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ opt
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 04**Step 4\. Select 2-9 Items for Collage**
@@ -111,6 +107,10 @@ Up, next we’ll be teaching you **how to make a collage in Google Photos** (app
 
 First of all, in order to have **Google Photos make collage**s for you, you need the app. You can download this on the App-Store. It’s FREE-to-use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 02**Step 2\. Allow Google Access to ‘All Photos’**
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
@@ -122,6 +122,10 @@ In order to proceed, you’ll need to give Google Photos permission to access al
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 04**Step 4\. Utilities > Collage**
 
@@ -141,146 +145,8 @@ The basic edit features we talked about on the web version of Google Photos is a
 
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
-### 07**Step 7\. Download and Share**
-
-When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
-
-![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
-
-## Part 3 **How to Make a Photo Collage in Google Photos on iPhone and iPad**
-
-Bonus tip If you want to **make a collage in Google Photos** for another purpose (either for a personal project or a professional project), we suggest that you check out **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**’s Stock Media This includes photos, videos, sounds, etc. that you can use both for personal reasons and commercial reasons (without incurring any fees or being penalized.) As a bonus, Filmora is also one of the best video editors out in the market right now.
-
-So, if you want to level up your collage game even more. You can go full-on and arrange a personal message video in the form of collages right here with all of the helpful tools and templates that the software comes with.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-## **●** Key Takeaways from This Episode **→**
-
-**●** Interested in learning **how to make a collage in Google Photos**? No problem We’ve included both a tutorial for the web version and on the app version of Google Photos.
-
-**●** The procedure for both is similar and incredibly easy to do — it’s a completely stress-free way of making an aesthetically pleasing collage that you can show to your friends and families
-
-**●** Of course, if you want to up your game a bit — or just level up your skills in general, there are plenty of ways of doing so. For example, you can use of Filmora V11’s NEW Stock Media library or just take advantage of its many video editing tools to create even better personal messages that your friends and families can enjoy and cherish.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The **Google Photos** collage function is very easy to use We’ll be teaching you exactly **how to make a collage in google photos** in order to answer your question.
-
-And just, to be thorough, we’ve supplied a tutorial that would work for creating a **Google Photos collage** on your desktop and another that will work for making a **collage in Google Photos**’ IOS app (for iPhone and iPad users.)
-
-#### In this article
-
-01 [How to Make a Photo Collage with Google Photos on the Web](#Part 1)
-
-02 [How to Make a Photo Collage with Google Photos on Google Photos Application](#Part 2)
-
-03 [How to Make a Photo Collage in Google Photos on iPhone and iPad](#Part 3)
-
-## Part 1 **How to Make a Photo Collage with Google Photos on the Web**
-
-First up is our tutorial on how to **make a collage in Google Photos** (web version) Technically, this can be done on just about any device (your computer, tablet, smartphone, etc.) It can also be done on most OS Systems (Windows and Mac included.) However, our demonstration will be focused on examples that show using it on your desktop.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 01**Step 1\. Go to Google Photos & Log-In**
-
-To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
-
-![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
-
-### 02**Step 2\. Open 'Utilities’**
-
-Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
-
-![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
-
-### 03**Step 3\. Create New ‘Collage’**
-
-Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
-
-![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
-
-### 04**Step 4\. Select 2-9 Items for Collage**
-
-For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
-
-![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
-
-### 05**Step 5\. Create Google Photos Collage**
-
-When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
-
-![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
-
-### 06**Step 6\. Open Settings Menu for Options**
-
-Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
-
-![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
-
-### 07**Step 7\. Download Completed Google Photos Collage**
-
-Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
-
-![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
-
-### 08**Step 8\. (Optional) Edit**
-
-If there are any changes that you want to make before downloading it or sending it over to friends and family, Google Photos, thankfully, offers an ‘Edit’ Function that has basic photo editing features that you can use to make some minor changes to the collage.
-
-## Part 2 **How to Make a Photo Collage with Google Photos on Google Photos Application**
-
-Up, next we’ll be teaching you **how to make a collage in Google Photos** (app version) Specifically, we’ll be demonstrating with an iPhone — but you can do this with just about any smartphone or tablet. All you need is a log-in for Google.
-
-### 01**Step 1\. Download Google Photos App**
-
-First of all, in order to have **Google Photos make collage**s for you, you need the app. You can download this on the App-Store. It’s FREE-to-use.
-
-### 02**Step 2\. Allow Google Access to ‘All Photos’**
-
-In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
-
-![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
-
-### 03**Step 3\. Go to the Library Page**
-
-Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
-
-![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
-
-### 04**Step 4\. Utilities > Collage**
-
-Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
-
-![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
-
-### 05**Step 5\. Create Google Photos Collage**
-
-Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
-
-![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 06**Step 6\. (Optional) Edit Photos**
-
-The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
-
-![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 07**Step 7\. Download and Share**
@@ -335,6 +201,10 @@ To start, open up your desktop browser and go to the Google Photos website. You 
 
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
@@ -359,23 +229,11 @@ When you’ve finished selecting all the photos that you want for your **Google 
 
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
@@ -400,6 +258,10 @@ First of all, in order to have **Google Photos make collage**s for you, you need
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
 
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 03**Step 3\. Go to the Library Page**
 
@@ -489,10 +351,6 @@ Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ opt
 
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
@@ -535,6 +393,10 @@ In order to proceed, you’ll need to give Google Photos permission to access al
 
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 03**Step 3\. Go to the Library Page**
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
@@ -565,9 +427,147 @@ When you’re happy with the look of your collage, you can move on by selecting 
 
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
+## Part 3 **How to Make a Photo Collage in Google Photos on iPhone and iPad**
+
+Bonus tip If you want to **make a collage in Google Photos** for another purpose (either for a personal project or a professional project), we suggest that you check out **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**’s Stock Media This includes photos, videos, sounds, etc. that you can use both for personal reasons and commercial reasons (without incurring any fees or being penalized.) As a bonus, Filmora is also one of the best video editors out in the market right now.
+
+So, if you want to level up your collage game even more. You can go full-on and arrange a personal message video in the form of collages right here with all of the helpful tools and templates that the software comes with.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+## **●** Key Takeaways from This Episode **→**
+
+**●** Interested in learning **how to make a collage in Google Photos**? No problem We’ve included both a tutorial for the web version and on the app version of Google Photos.
+
+**●** The procedure for both is similar and incredibly easy to do — it’s a completely stress-free way of making an aesthetically pleasing collage that you can show to your friends and families
+
+**●** Of course, if you want to up your game a bit — or just level up your skills in general, there are plenty of ways of doing so. For example, you can use of Filmora V11’s NEW Stock Media library or just take advantage of its many video editing tools to create even better personal messages that your friends and families can enjoy and cherish.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The **Google Photos** collage function is very easy to use We’ll be teaching you exactly **how to make a collage in google photos** in order to answer your question.
+
+And just, to be thorough, we’ve supplied a tutorial that would work for creating a **Google Photos collage** on your desktop and another that will work for making a **collage in Google Photos**’ IOS app (for iPhone and iPad users.)
+
+#### In this article
+
+01 [How to Make a Photo Collage with Google Photos on the Web](#Part 1)
+
+02 [How to Make a Photo Collage with Google Photos on Google Photos Application](#Part 2)
+
+03 [How to Make a Photo Collage in Google Photos on iPhone and iPad](#Part 3)
+
+## Part 1 **How to Make a Photo Collage with Google Photos on the Web**
+
+First up is our tutorial on how to **make a collage in Google Photos** (web version) Technically, this can be done on just about any device (your computer, tablet, smartphone, etc.) It can also be done on most OS Systems (Windows and Mac included.) However, our demonstration will be focused on examples that show using it on your desktop.
+
+### 01**Step 1\. Go to Google Photos & Log-In**
+
+To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
+
+![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
+
+### 02**Step 2\. Open 'Utilities’**
+
+Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
+
+![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
+
+### 03**Step 3\. Create New ‘Collage’**
+
+Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
+
+![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
+
+### 04**Step 4\. Select 2-9 Items for Collage**
+
+For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
+
+![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
+
+### 05**Step 5\. Create Google Photos Collage**
+
+When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
+
+![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
+
+### 06**Step 6\. Open Settings Menu for Options**
+
+Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
+
+![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 07**Step 7\. Download Completed Google Photos Collage**
+
+Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
+
+![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 08**Step 8\. (Optional) Edit**
+
+If there are any changes that you want to make before downloading it or sending it over to friends and family, Google Photos, thankfully, offers an ‘Edit’ Function that has basic photo editing features that you can use to make some minor changes to the collage.
+
+## Part 2 **How to Make a Photo Collage with Google Photos on Google Photos Application**
+
+Up, next we’ll be teaching you **how to make a collage in Google Photos** (app version) Specifically, we’ll be demonstrating with an iPhone — but you can do this with just about any smartphone or tablet. All you need is a log-in for Google.
+
+### 01**Step 1\. Download Google Photos App**
+
+First of all, in order to have **Google Photos make collage**s for you, you need the app. You can download this on the App-Store. It’s FREE-to-use.
+
+### 02**Step 2\. Allow Google Access to ‘All Photos’**
+
+In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
+
+![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
+
+### 03**Step 3\. Go to the Library Page**
+
+Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
+
+![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 04**Step 4\. Utilities > Collage**
+
+Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
+
+![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
+
+### 05**Step 5\. Create Google Photos Collage**
+
+Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
+
+![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
+
+### 06**Step 6\. (Optional) Edit Photos**
+
+The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
+
+![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
+
+### 07**Step 7\. Download and Share**
+
+When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
+
+![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
 ## Part 3 **How to Make a Photo Collage in Google Photos on iPhone and iPad**
 
@@ -615,20 +615,19 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-guide-to-asus-mg28uqs-crystal-clear-display/"><u>[New] 2024 Approved The Ultimate Guide to ASUS MG28UQ's Crystal Clear Display</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harmonizing-hashtags-instagram-tiktok-collaborative-guide/"><u>[New] In 2024, Harmonizing Hashtags Instagram-TikTok Collaborative Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-make-your-facebook-video-stand-out/"><u>[New] In 2024, How to Make Your Facebook Video Stand Out</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-7-mac-compatible-videos-viewers/"><u>[New] In 2024, Top 7 Mac-Compatible Videos Viewers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/treamline-your-vids-with-these-15-royalty-free-tracks-sites/"><u>[New] Streamline Your Vids with These 15 Royalty-Free Tracks Sites</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-drone-that-never-loses-you-top-10-list-for-2024/"><u>[New] The Drone that Never Loses You - Top 10 List for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-6-best-slideshow-making-apps-on-iphone-11xrxsx876/"><u>[Updated] 2024 Approved 6 Best Slideshow-Making Apps on iPhone 11/XR/Xs/X/8/7/6</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-audiophiles-guide-download-and-review-sound-files/"><u>[Updated] 2024 Approved Audiophile's Guide Download & Review Sound Files</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-from-stills-to-motion-creating-engaging-timelapse-videos-on-ipad/"><u>[Updated] From Stills to Motion Creating Engaging Timelapse Videos on iPad</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>In 2024, Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unmarred-stock-images-legal-and-ethical-tips/"><u>In 2024, Unmarred Stock Images Legal & Ethical Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/pathways-to-acquiring-facebooks-distinguished-verification-for-2024/"><u>Pathways to Acquiring Facebook's Distinguished Verification for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-8-essentials-before-purchasing-your-new-tablet/"><u>Top 8 Essentials Before Purchasing Your New Tablet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fix-recurring-overwatch-2-pc-instability-issues/"><u>Ultimate Guide to Fix Recurring Overwatch 2 PC Instability Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-superior-third-ranked-ipad-recording-apps/"><u>[New] 2024 Approved Superior Third-Ranked iPad Recording Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-step-by-step-guide-to-announcing-a-charity-drive-on-fb/"><u>[New] A Step-by-Step Guide to Announcing a Charity Drive on FB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-capture-clarity-best-webcams-to-elevate-your-podcasts/"><u>[New] In 2024, Capture Clarity Best Webcams to Elevate Your Podcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-digital-vaults-best-cloud-platforms-for-future-success-for-2024/"><u>[New] Mastering Digital Vaults Best Cloud Platforms for Future Success for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecurely-download-your-youtube-playlist-at-any-time/"><u>[New] Securely Download Your YouTube Playlist at Any Time</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-your-ultimate-oculus-gaming-companion-list/"><u>[New] Your Ultimate Oculus Gaming Companion List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-cinematic-slow-mo-videos-for-instagram-success/"><u>[Updated] 2024 Approved Crafting Cinematic Slow-Mo Videos for Instagram Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-accelerate-audio-playback-on-spotify-safely-and-effectively-for-2024/"><u>[Updated] Accelerate Audio Playback on Spotify Safely & Effectively for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-record-audio-on-windows-10/"><u>[Updated] How To Record Audio on Windows 10?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-webinar-conduct-with-youtube/"><u>[Updated] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a2-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A2 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-bsod-interrupt-exception-troubleshoot/"><u>Preventing BSOD: Interrupt Exception Troubleshoot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-when-mfc42ddll-isnt-detected-on-your-pc/"><u>Troubleshooting Steps for When mfc42d.dll Isn't Detected on Your PC</u></a></li>
 </ul></div>
 

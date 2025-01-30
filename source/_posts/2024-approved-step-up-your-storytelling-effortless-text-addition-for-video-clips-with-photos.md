@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step Up Your Storytelling  Effortless Text Addition for Video Clips with Photos\""
-date: 2024-08-08T07:47:35.912Z
-updated: 2024-08-09T07:47:35.912Z
+date: 2025-01-26T16:00:50.202Z
+updated: 2025-01-30T16:05:13.088Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 # How to Add Titles/Text to Video on Photos App in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -43,18 +40,20 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
 * Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
@@ -69,20 +68,21 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Click on Add and drag the video to the timeline below. Go to the effects menu and click 3D effects
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
@@ -90,14 +90,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -122,6 +123,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-30-camcorders-eye-level-display-advantage/"><u>[New] 2024 Approved Top 30 Camcorders - Eye-Level Display Advantage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-one-step-guide-to-simultaneous-cam-plus-screen-recording/"><u>[New] In 2024, One Step Guide to Simultaneous Cam + Screen Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster/"><u>[New] In 2024, The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>[New] KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-youtube-yield-comparing-channels-for-peak-performance/"><u>[New] The YouTube Yield Comparing Channels for Peak Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-full-spectrum-visual-creativity-with-vsco/"><u>[Updated] 2024 Approved Full Spectrum Visual Creativity with VSCO</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-guidelines-for-effective-video-integration-in-teaching/"><u>[Updated] 2024 Approved Guidelines for Effective Video Integration in Teaching</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-5-budget-friendly-windows-screen-recorders-2023-edition/"><u>[Updated] 2024 Approved Top 5 Budget-Friendly Windows Screen Recorders – 2023 Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-av1-decoding-for-newcomers-for-2024/"><u>[Updated] AV1 Decoding for Newcomers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-social-media-showdown-comparing-igtv-and-youtubes-unique-aspects/"><u>2024 Approved Social Media Showdown Comparing IGTV and YouTube's Unique Aspects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026731758-wav/"><u>音源データをWAVに変換する簡単ガイド：初心者用</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/dissecting-metaverse-and-omniverse-dynamics-for-2024/"><u>Dissecting Metaverse & Omniverse Dynamics for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/guide-to-legally-obtaining-youtube-movie-files-without-costing-a-penny/"><u>Guide to Legally Obtaining YouTube Movie Files Without Costing a Penny</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-momentum-meets-mass-audience/"><u>In 2024, Momentum Meets Mass Audience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-voice-memo-reference-manual/"><u>In 2024, The Ultimate Voice Memo Reference Manual</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/innovative-10-plugin-upgrades-for-fcp-users-for-2024/"><u>Innovative 10 Plugin Upgrades for FCP Users for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/prime-fast-windows-photo-displayer/"><u>Prime Fast Windows Photo Displayer</u></a></li>
+<li><a href="https://techidaily.com/understanding-ts-files-a-comprehensive-guide-on-their-purpose-and-usage/"><u>Understanding TS Files: A Comprehensive Guide on Their Purpose and Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-7-evolving-threats-in-the-cyber-arena/"><u>Unveiling 7 Evolving Threats in the Cyber Arena</u></a></li>
+</ul></div>
 

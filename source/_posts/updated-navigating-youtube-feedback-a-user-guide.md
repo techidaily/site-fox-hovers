@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating YouTube Feedback  A User Guide\""
-date: 2025-01-15T19:30:10.910Z
-updated: 2025-01-22T20:16:28.695Z
+date: 2025-01-28T16:11:42.893Z
+updated: 2025-01-30T16:06:08.151Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Want to become the master of moderation? Read on for everything you need to know
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is YouTube Comment
@@ -45,6 +45,10 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -52,6 +56,10 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -64,10 +72,6 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -87,10 +91,6 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -102,12 +102,16 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -134,10 +138,6 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,20 +175,20 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[New] 2024 Approved Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-tips-for-kinemaster-proficiency-and-excellent-competitors/"><u>[Updated] 2024 Approved Essential Tips for KineMaster Proficiency and Excellent Competitors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-flawless-photo-management-on-iphone-size-adjustment-basics-for-2024/"><u>[Updated] Flawless Photo Management on iPhone Size Adjustment Basics for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-prime-streaming-platforms-for-authors/"><u>[Updated] In 2024, Prime Streaming Platforms for Authors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reel-revolution-top-tech-for-brightening-videos/"><u>[Updated] In 2024, Reel Revolution Top Tech for Brightening Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-artisans-guide-to-striking-ae-title-designs-for-2024/"><u>[Updated] The Artisan's Guide to Striking AE Title Designs for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-integrating-twitter-videos-into-facebook-social-graph/"><u>2024 Approved Integrating Twitter Videos Into Facebook Social Graph</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamlining-skype-calls-with-advanced-zoom-use/"><u>2024 Approved Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-earning-blueprint-achieving-bank-balances/"><u>2024 Approved YouTube Earning Blueprint Achieving Bank Balances</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/compreeved-analysis-a-full-review-of-the-gecata-device/"><u>Compreeved Analysis A Full Review of the Gecata Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hilarityhub-design-memes-with-ease-and-speed/"><u>In 2024, HilarityHub Design Memes with Ease and Speed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-perfect-date-trackers-for-your-wedding-ios-and-android-edition/"><u>In 2024, Perfect Date Trackers for Your Wedding, iOS and Android Edition</u></a></li>
-<li><a href="https://win-online.techidaily.com/mp2-to-avi-converter-free-online-service-with-movavi/"><u>MP2 to AVI Converter - Free Online Service with Movavi</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-entry-editor-for-seamless-edits-across-all-platforms-for-2024/"><u>Top Entry Editor for Seamless Edits Across All Platforms for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-y55s-5g-2023-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y55s 5G (2023) Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ics-and-more-discovering-the-audio-essential-that-matches-your-yt-vision-for-2024/"><u>[New] Mics & More Discovering the Audio Essential That Matches Your YT Vision for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-revolutionary-6-applications-to-enhance-photo-editing-experience-for-2024/"><u>[New] Revolutionary 6 Applications to Enhance Photo Editing Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-a-beginners-guide-to-producing-facebook-reels/"><u>[Updated] In 2024, A Beginner's Guide to Producing Facebook Reels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>[Updated] In 2024, Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-visionary-tools-free-environmental-props/"><u>[Updated] In 2024, Visionary Tools Free Environmental Props</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos-for-2024/"><u>[Updated] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-mobvoi-ticwatch-e2-examination-why-its-not-worth-the-bargain/"><u>Affordable Mobvoi TicWatch E2 Examination - Why It's Not Worth the Bargain</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-error-re-establish-your-destiny-grope-with-these-fixes/"><u>Bypassing Error: Re-Establish Your Destiny Grope With These Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exploring-with-polaroid-camplus-ultimate-action-footage/"><u>In 2024, Exploring with Polaroid Cam+ Ultimate Action Footage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-guide-to-the-best-auto-tracking-cameras/"><u>In 2024, Guide to the Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-comprehensible-rundown-on-djis-latest-creation-inspire-2/"><u>The Comprehensible Rundown on DJI's Latest Creation - Inspire 2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975521775-top-charts-today-on-groove-stay-up-to-date-with-current-hit-songs-that-are-sure-to-keep-your-spirits-high/"><u>Top Charts Today on Groove: Stay Up-to-Date with Current Hit Songs that Are Sure to Keep Your Spirits High</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-gpu-performance-leaders-of-2024-comprehensive-graphics-card-rating-chart/"><u>Top GPU Performance Leaders of 2024: Comprehensive Graphics Card Rating Chart</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-new-looks-downloading-and-using-icons-on-ios-devices/"><u>Unlock New Looks: Downloading and Using Icons on iOS Devices</u></a></li>
 </ul></div>
 

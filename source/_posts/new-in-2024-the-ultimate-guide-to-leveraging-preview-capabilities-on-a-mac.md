@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Guide to Leveraging Preview Capabilities on a Mac"
-date: 2025-01-20T19:58:02.735Z
-updated: 2025-01-22T19:18:02.588Z
+date: 2025-01-26T16:03:51.372Z
+updated: 2025-01-30T16:07:49.644Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -58,6 +58,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -74,7 +78,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -121,10 +125,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,10 +140,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -161,6 +157,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -172,6 +172,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,14 +236,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-brushbuddies-full-examination-and-manual-2024/"><u>[New] BrushBuddies Full Examination & Manual 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-discover-the-leading-free-online-photo-editing-platforms/"><u>[New] Discover the Leading Free Online Photo Editing Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dacast-review-and-alternatives/"><u>[New] In 2024, DaCast Review and Alternatives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prove-your-expertise-in-minutes-essential-youtube-hacks-at-a-glance/"><u>[Updated] In 2024, Prove Your Expertise in Minutes Essential YouTube Hacks at a Glance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-zero-cost-wonders-traversing-the-terrain-of-tiktok-backdrops/"><u>[Updated] Zero-Cost Wonders Traversing the Terrain of TikTok Backdrops</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-techniques-to-overcome-microsofts-acpi-compliant-battery-driver-challenges/"><u>Effective Techniques to Overcome Microsoft’s ACPI-Compliant Battery Driver Challenges</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/erasing-encrypted-data-from-samsung-magiciel-when-blocked-discover-2-approaches/"><u>Erasing Encrypted Data From Samsung Magiciel When Blocked: Discover 2 Approaches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>In 2024, Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-covert-creativity-easy-photo-fixes-for-starters/"><u>[New] 2024 Approved Covert Creativity Easy Photo Fixes for Starters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>[New] 2024 Approved Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-excellent-voice-capture-gadgets-top-7-list-2023/"><u>[New] Excellent Voice Capture Gadgets, Top 7 List 2023</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>[New] In 2024, Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-djis-quadcopters-variants-basic-model-advanced-series-uhd-edition/"><u>[New] In 2024, DJI's Quadcopters Variants Basic Model, Advanced Series, UHD Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-proven-approaches-to-exceptional-android-time-lapse-photography-for-2024/"><u>[New] Proven Approaches to Exceptional Android Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-science-of-swift-facebook-visuals/"><u>[New] The Science of Swift Facebook Visuals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-2023-guide-to-enhancing-audio-on-discord-top-plugins-reviewed/"><u>[Updated] 2024 Approved The Ultimate 2023 Guide to Enhancing Audio on Discord - Top Plugins Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveil-images-clearly-10-online-editors-guide/"><u>[Updated] 2024 Approved Unveil Images Clearly 10 Online Editors' Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-virtual-reality-tours/"><u>[Updated] How to Use Virtual Reality Tours</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-desktop-image-on-windows-editions/"><u>2024 Approved Capturing Desktop Image on Windows Editions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-selection-of-multi-person-video-communication-tools/"><u>Elite Selection of Multi-Person Video Communication Tools</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/essential-guide-to-navigating-cryptocurrency-transactions-insights-by-yl-computing/"><u>Essential Guide to Navigating Cryptocurrency Transactions: Insights by YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/glion-dollys-electric-scooter-reviewed-fast-chic-but-expensive-choice-for-urban-commuting/"><u>Glion Dolly's Electric Scooter Reviewed: Fast, Chic, But Expensive Choice for Urban Commuting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-harmonious-guidelines-instagram-and-intellectual-property/"><u>In 2024, Harmonious Guidelines Instagram & Intellectual Property</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-world-with-a-fisheye-lens/"><u>Navigating the World with a Fisheye Lens</u></a></li>
 </ul></div>
 

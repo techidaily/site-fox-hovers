@@ -1,7 +1,7 @@
 ---
 title: "[New] Tackling Photo App Errors in Windows 11"
-date: 2025-01-05T03:25:45.974Z
-updated: 2025-01-10T22:47:12.196Z
+date: 2025-01-28T16:02:33.552Z
+updated: 2025-01-30T16:14:10.223Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -59,15 +63,11 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -81,13 +81,13 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -111,6 +111,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -121,10 +125,6 @@ Here is how to reinstall the Windows 10 Photos App –
 1. You have to wait a while to complete the process and reboot the Windows 10 system.
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -159,24 +159,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors-for-2024/"><u>[New] Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-radeon-relive-download-and-review/"><u>[New] Radeon Relive Download and Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>[Updated] 2024 Approved Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-step-by-step-nine-different-color-grades/"><u>[Updated] Step-by-Step Nine Different Color Grades</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-capturing-still-moments-from-clips-on-windows-11/"><u>2024 Approved Capturing Still Moments From Clips on Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-desktop-dials-adjusting-audio-to-a-whisper/"><u>2024 Approved Desktop Dials Adjusting Audio to a Whisper</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation/"><u>2024 Approved Discover the Next Big Thing in Design The Best 9 Sites Featuring Dynamic 3D Text Creation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-exploring-the-genesis-and-evolution-of-windows-movie-maker/"><u>2024 Approved Exploring the Genesis and Evolution of Windows Movie Maker</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-googles-quick-fix-for-photo-collage-enthusiasts/"><u>2024 Approved Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-image-illumination-choose-best-websites-with-photo-framing-features/"><u>2024 Approved Image Illumination Choose Best Websites with Photo Framing Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-key-top-5-ultra-light-action-recording-models/"><u>2024 Approved Key Top 5 Ultra-Light Action Recording Models</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-rapid-results-elevate-images-on-windows-11/"><u>2024 Approved Rapid Results Elevate Images on Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>2024 Approved The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-votre-fichier-wmv-en-format-avi-sans-frais-gratuit-avec-movavi/"><u>Convertissez Votre Fichier WMV en Format AVI Sans Frais - Gratuit Avec Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sonys-hd-camcorder-showcases-balanced-images-and-stability/"><u>Sony's HD Camcorder Showcases Balanced Images & Stability</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-downloading-your-dell-mouses-latest-driver/"><u>Step-by-Step Tutorial for Downloading Your Dell Mouse's Latest Driver</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-inspiration-crafting-captivating-ig-posts-for-2024/"><u>The Art of Inspiration Crafting Captivating IG Posts for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/virtual-journey-logging-top-6-methods-for-minecraft-recordings/"><u>Virtual Journey Logging Top 6 Methods for Minecraft Recordings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-are-streaming-devices-and-how-do-they-work/"><u>What Are Streaming Devices and How Do They Work?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tailor-your-own-memetic-masterpiece-now/"><u>[New] 2024 Approved Tailor Your Own Memetic Masterpiece Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-techniques-for-smooth-audio-amplification-in-lumafusion/"><u>[New] 2024 Approved Techniques for Smooth Audio Amplification in Lumafusion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ownload-youtube-icons-quickly-web-os-specific-options-explained-for-2024/"><u>[New] Download YouTube Icons Quickly Web, OS-Specific Options Explained for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-interface-mastery-with-these-less-known-windows-11-strategies-for-2024/"><u>[New] Elevate Your Interface Mastery with These Less-Known Windows 11 Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-boosting-gopro-power-endurance-tips-and-tricks/"><u>[New] In 2024, Boosting GoPro Power Endurance Tips & Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-artisans-almanac-makeup-tools-and-more-on-youtube/"><u>[New] In 2024, The Artisan's Almanac Makeup, Tools & More on Youtube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-rapid-film-techniques-make-your-own-studio-at-home-for-2024/"><u>[New] Rapid Film Techniques Make Your Own Studio At Home for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-minecraft-enthusiasts-blueprint-6-essential-recordings-strategies/"><u>[New] The Minecraft Enthusiast's Blueprint 6 Essential Recordings Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>[Updated] 2024 Approved Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-evasive-moves-for-a-shadowbanned-tiktoker-for-2024/"><u>[Updated] Evasive Moves for a Shadowbanned TikToker for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-fonepaw-screen-recorder-downloadreview-for-2024/"><u>[Updated] Fonepaw Screen Recorder Download|Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-srt-conversion-made-easy-a-step-by-step-approach/"><u>[Updated] SRT Conversion Made Easy A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-your-viewing-experience-adjust-netflix-speed-for-2024/"><u>Optimize Your Viewing Experience Adjust Netflix Speed for 2024</u></a></li>
 </ul></div>
 
