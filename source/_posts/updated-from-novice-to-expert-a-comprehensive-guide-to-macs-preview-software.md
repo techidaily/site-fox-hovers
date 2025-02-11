@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Expert  A Comprehensive Guide to Mac's Preview Software\""
-date: 2025-01-24T16:05:35.616Z
-updated: 2025-01-30T16:04:23.624Z
+date: 2025-02-10T20:23:54.211Z
+updated: 2025-02-11T17:56:41.590Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -55,10 +59,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -72,6 +72,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -89,10 +93,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -104,6 +104,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -120,10 +124,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -142,7 +142,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -172,10 +172,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,16 +236,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-add-free-text-animation-to-videos/"><u>[New] 2024 Approved How to Add Free Text Animation to Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-zoom-on-xbox-one-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Zoom on Xbox One A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-innovative-hexa-drones-2023s-best-for-2024/"><u>[New] Innovative Hexa-Drones 2023'S Best for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-premier-20-no-cost-pubg-thumbnail-assemblies-for-2024/"><u>[New] Premier 20 No-Cost PUBG Thumbnail Assemblies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-live-without-the-temptation-of-youtube-shorts/"><u>[Updated] 2024 Approved How To Live Without the Temptation of YouTube Shorts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-vision-advanced-techniques-in-hdr-portraits-for-2024/"><u>[Updated] Elevate Your Vision Advanced Techniques in HDR Portraits for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps-for-2024/"><u>Craftsmanship at Fingertips Discovering Apple's 8 Excellent Drawing Apps for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/delving-into-the-realm-of-yis-action-video-potential-for-2024/"><u>Delving Into the Realm of Yi's Action Video Potential for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/demystifying-gopro-video-capture-with-burst-mode/"><u>Demystifying GoPro Video Capture with Burst Mode</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-logitech-g-hub-not-responding-errors-for-windows-users/"><u>How to Resolve 'Logitech G Hub Not Responding' Errors for Windows Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr-for-2024/"><u>Quantum HDR Everything You May Want to Know About Quantum HDR for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-jokejigsaw-mememakermecca/"><u>[New] JokeJigsaw MemeMakerMecca</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube/"><u>[Updated] 2024 Approved Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-screen-capture-detailed-tutorial-walkthrough/"><u>[Updated] Master Screen Capture Detailed Tutorial Walkthrough</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhanced-repertoire-of-questions-to-spark-podcast-conversations/"><u>2024 Approved Enhanced Repertoire of Questions to Spark Podcast Conversations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-open-srt-soundtrack-on-windowsmacos/"><u>2024 Approved Open SRT Soundtrack on Windows/macOS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-hue-refiner-app/"><u>2024 Approved Optimal Hue Refiner App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-proven-pathways-to-promoting-in-vr-lands/"><u>2024 Approved Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-snorkel-ready-tech-the-finest-waterproof-camcorders-of-the-year/"><u>2024 Approved Snorkel-Ready Tech The Finest Waterproof Camcorders of the Year</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>2024 Approved Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-10-remarkable-e-learning-platforms-excluding-udemy/"><u>2024 Approved Top 10 Remarkable E-Learning Platforms Excluding Udemy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleashing-creativity-top-30-video-plans/"><u>2024 Approved Unleashing Creativity Top 30 Video Plans</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-whip-up-funny-images-in-adobe-design/"><u>2024 Approved Whip Up Funny Images in Adobe Design</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s17-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S17 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/spelling-assistance-now-available-on-windows/"><u>Spelling Assistance Now Available on Windows 지오피의 노트북 앱</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-social-media-savants-guide-to-stellar-instagram-posts/"><u>The Social Media Savant's Guide to Stellar Instagram Posts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-tempo-trackers-guide-accessible-free-tools/"><u>The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
 </ul></div>
 

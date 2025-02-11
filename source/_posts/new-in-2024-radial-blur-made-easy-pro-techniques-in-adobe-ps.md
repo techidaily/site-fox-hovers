@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Radial Blur Made Easy  Pro Techniques in Adobe PS\""
-date: 2025-01-26T16:05:15.994Z
-updated: 2025-01-30T16:05:02.402Z
+date: 2025-02-06T19:45:30.307Z
+updated: 2025-02-11T16:34:59.546Z
 tags: 
   - screen-recording
   - ai video
@@ -49,24 +49,36 @@ Step1 Open your Photoshop tool and upload the image that you want to edit. Click
 
 ![select the quick selection tool](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To refine the selection, use the Alt key from your keyboard. Once done with the refinement, press "Ctrl + J" to copy the new background layer. To create the background layer on Mac, hit the "Command + J" combination.
 
 ![add the background layer](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Afterward, click on the background layer and head to the "Filter" tab. From there, select "Blur" and tap "Radial Blur" from the drop-down menu. Adjust on the Radial Blur window by choosing "Zoom" as Blur Method. Also, select "Best" under the Quality section. Once done, adjust your Blur Center from the window.
 
 ![proceed with the radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 After making all the adjustments in the Radial Blur window, press the "OK" button. Once done, select the top layer and add a "Curve Adjustment Layer." Now adjust the curve properties according to your preference. Thus, you can see the radial blur effect on your photo on your screen.
 
 ![adjust the curves](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Radial Blur Effect
@@ -91,10 +103,6 @@ Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create
 
 ![import the photo in filmora](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2 Add the Required Effect
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
@@ -114,11 +122,7 @@ You can also edit the clip by adding titles or more effects. Once done with the 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -132,10 +136,6 @@ By reading this article, you have learned how to add a radial blur effect using 
 For photo and video editing, Filmora provides several features such as Split Screen, Speed Ramping, Auto Reframe, Motion Tracking, etc. To capture your on-screen activities or video meetings, this tool also provides you with a Screen Recorder.
 
 When it comes to effects, Filmora provides tons of vibrant effects such as Boris FX, Chroma Key, Mask and Blend, NewBlue FX, etc. Besides being a great photo and video editor, you can use this platform to edit and alter audio clips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Create Radial Blur Effect Using Filmora
 
@@ -160,7 +160,7 @@ Choose your preferred effect and drop it into the timeline. Now increase the dur
 ![adjust the added blur settings](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 4 Edit the Clip
@@ -199,20 +199,22 @@ By reading this article, you have learned how to add a radial blur effect using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-content-conversations-connecting-with-subscribers/"><u>[New] 2024 Approved Crafting Content Conversations Connecting With Subscribers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-making-sense-of-typical-podcaster-profits/"><u>[New] 2024 Approved Making Sense of Typical Podcaster Profits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-recording-facebook-video-calls-4-methods/"><u>[New] 2024 Approved Recording Facebook Video Calls [4 Methods]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-core-elements-in-virtual-narrative-design-for-2024/"><u>[New] Core Elements in Virtual Narrative Design for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-future-of-immersion-insights-on-lgs-360-vr-headset/"><u>[New] The Future of Immersion Insights on LG's 360 VR Headset</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-brief-beatcasts-role-of-the-melody/"><u>[Updated] 2024 Approved Brief Beatcasts Role of the Melody</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-parting-pleasantries-free-and-paid-outro-snippets-for-2024/"><u>[Updated] Parting Pleasantries Free & Paid Outro Snippets for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-portfolio-exceptional-webcam-supports/"><u>[Updated] Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-reviving-camera-victory-over-obs-glitches/"><u>[Updated] Reviving Camera Victory Over OBS Glitches</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/home-cinema-mastery-top-10-hd-players-list/"><u>Home Cinema Mastery Top 10 HD Players' List</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-captivating-clips-with-cleverly-chosen-lights/"><u>In 2024, Captivating Clips with Cleverly Chosen Lights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-futures-in-your-hands-with-powerdirector-24-unleashed/"><u>In 2024, The Future's in Your Hands with PowerDirector '24 Unleashed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>In 2024, Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-samsungs-picture-editor-features-and-drawbacks-for-2024/"><u>Unveiling Samsung's Picture Editor Features & Drawbacks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-improve-browser-performance-fb-vids-chrome/"><u>[New] 2024 Approved Improve Browser Performance FB Vids, Chrome</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[New] 2024 Approved Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-techniques-for-background-resource-sourcing/"><u>[New] Cutting-Edge Techniques for Background Resource Sourcing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-emotional-journey-awaits-best-memes-for-chuckles-and-sighs-on-ig-for-2024/"><u>[New] Emotional Journey Awaits Best Memes for Chuckles and Sighs on IG for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-decoding-the-secrets-to-efficient-cd-ripping-via-wmp/"><u>[Updated] 2024 Approved Decoding the Secrets to Efficient Cd Ripping via WMP</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-convenient-syncing-moving-media-between-pc-and-iphone/"><u>[Updated] Convenient Syncing Moving Media Between PC and iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-screen-capturing-a-resourceful-guide-for-dell-users/"><u>[Updated] In-Depth Screen Capturing A Resourceful Guide for Dell Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-infuse-humor-in-content-simple-text-meme-creation-for-2024/"><u>[Updated] Infuse Humor in Content Simple Text Meme Creation for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-ten-pro-level-drones-imagery-reimagined/"><u>[Updated] Top Ten Pro-Level Drones Imagery Reimagined</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-decreasing-decibels-a-comprehensive-guide-to-audio-fades-in-adobe-premiere-pro/"><u>2024 Approved Decreasing Decibels A Comprehensive Guide to Audio Fades in Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-critical-evaluation-of-ustream-with-equivalents-for-2024/"><u>A Critical Evaluation of Ustream with Equivalents for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-tail-of-victory-the-unmatched-success-story-of-furbos-dog-cam/"><u>A Tail of Victory: The Unmatched Success Story of Furbo's Dog Cam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-trust-in-digital-money-guides-chatgpt-and-bard/"><u>Deciphering Trust in Digital Money Guides: ChatGPT & Bard</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry-for-2024/"><u>GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-construct-memetic-mirth/"><u>In 2024, Construct Memetic Mirth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-launch-samsung-prepares-its-competitor-to-apples-vision-pro/"><u>Upcoming Launch: Samsung Prepares Its Competitor To Apple's Vision Pro</u></a></li>
 </ul></div>
 

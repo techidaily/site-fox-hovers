@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Embracing Precision with iPhone X's Optical Mastery\""
-date: 2025-01-26T16:03:06.889Z
-updated: 2025-01-30T16:04:29.362Z
+date: 2025-02-04T18:51:03.519Z
+updated: 2025-02-11T18:52:00.548Z
 tags: 
   - screen-recording
   - ai video
@@ -38,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The importance of depth
@@ -57,11 +53,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -83,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -127,24 +127,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-earnings-empire-constructing-a-profitable-youtube-channel-for-2024/"><u>[New] Earnings Empire Constructing a Profitable YouTube Channel for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-quintessential-guide-to-premium-4k-blu-ray-devices/"><u>[New] The Quintessential Guide to Premium 4K Blu-Ray Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison-for-2024/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-the-perfect-voice-and-vision-for-docs/"><u>[Updated] 2024 Approved Crafting the Perfect Voice and Vision for Docs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-analytics-essential-tools-for-beginner-marketers-on-social-media/"><u>[Updated] 2024 Approved Mastering the Art of Analytics Essential Tools for Beginner Marketers on Social Media</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[Updated] In 2024, The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-peak-psd-gradient-innovations/"><u>[Updated] Peak PSD Gradient Innovations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-vault-in-the-sky-for-every-picture-free-and-paid-alternatives-explored-for-2024/"><u>[Updated] Vault in the Sky for Every Picture Free & Paid Alternatives Explored for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/boost-your-visual-experience-solutions-for-enhancing-graphics-speed-in-windows-expert-advice-from-yl-software/"><u>Boost Your Visual Experience: Solutions for Enhancing Graphics Speed in Windows - Expert Advice From YL Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726026698635-dvdvlc/"><u>DVDをVLCメディアプレーヤーで再生する方法:トラブルシューティングガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-webp-experience-with-these-4-windows-viewer-tools/"><u>Elevate WebP Experience with These 4 Windows Viewer Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/estimated-time-required-for-a-complete-windows-10-factory-reset/"><u>Estimated Time Required for a Complete Windows 10 Factory Reset</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/free-solutions-converting-mkv-files-for-iphone-viewing/"><u>Free Solutions: Converting MKV Files for iPhone Viewing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/from-pc-to-tablet-master-recording-hulu-across-all-platforms-for-2024/"><u>From PC to Tablet Master Recording Hulu Across All Platforms for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/highpoint-masterpiece-suite-for-2024/"><u>Highpoint Masterpiece Suite for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-live-video-showdown-which-is-superior-virusmixwirecast/"><u>In 2024, Live Video Showdown Which Is Superior, VirusMix/WireCast?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-time-honored-tech-selfies-with-iphone-x/"><u>In 2024, Time-Honored Tech Selfies with iPhone X</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/leading-tactics-sourcing-high-quality-photo-and-video-backdrops-for-2024/"><u>Leading Tactics Sourcing High-Quality Photo & Video Backdrops for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/panorama-pixels-cutting-edge-photo-assembler/"><u>Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-step-by-step-screen-shotting-for-xbox-enthusiasts/"><u>[New] 2024 Approved Step-by-Step Screen Shotting for Xbox Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-the-essential-secrets-of-morphvox-for-2024/"><u>[New] Discovering the Essential Secrets of MorphVOX for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>[New] From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-10-histology-streams-for-academics-for-2024/"><u>[New] Top 10 Histology Streams for Academics for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-snapseed-simplified-the-photographers-first-toolkit/"><u>[Updated] 2024 Approved Snapseed Simplified The Photographer's First Toolkit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-worlds-unveiled-jaunt-vr-in-focus/"><u>[Updated] Immersive Worlds Unveiled Jaunt VR in Focus</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-impressive-display-innovations-top-10-mac-displays-of-the-year-for-2024/"><u>[Updated] Impressive Display Innovations - Top 10 Mac Displays of the Year for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-capturing-yesterdays-essence-your-path-from-pixel-to-playback/"><u>[Updated] In 2024, Capturing Yesterday's Essence Your Path From Pixel to Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>2024 Approved Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/building-a-winning-portfolio-with-windows-11-video-editing-skills-for-2024/"><u>Building a Winning Portfolio with Windows 11 Video Editing Skills for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-methods-for-ios-photo-album-order-and-cloud-syncing-excellence/"><u>Cutting-Edge Methods for iOS Photo Album Order & Cloud Syncing Excellence</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-hulu-merits-essential-5-reasons/"><u>Exploring Hulu Merits: Essential 5 Reasons</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-dev-error-5573-a-step-by-step-tutorial-for-playstation-and-pc-gamers/"><u>Fixing Dev Error 5573 - A Step-by-Step Tutorial for PlayStation & PC Gamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-narzo-60-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme Narzo 60 5G Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-um7300-49-ultra-hd-smart-led-tv-evaluation-affordable-entry-level-4k-television/"><u>LG UM7300 49 Ultra HD Smart LED TV Evaluation – Affordable Entry-Level 4K Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-users-ultimate-tutorial-creating-a-map-for-external-drive-connections/"><u>MacOS User's Ultimate Tutorial: Creating a Map for External Drive Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-computing-mini-vs-desktop-decisions/"><u>Size Matters in Computing: Mini Vs. Desktop Decisions</u></a></li>
 </ul></div>
 

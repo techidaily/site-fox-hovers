@@ -1,7 +1,7 @@
 ---
 title: "\"Gratitude Unboxed  Free & Paid Creative OTUs\""
-date: 2025-01-26T16:03:32.050Z
-updated: 2025-01-30T16:09:48.913Z
+date: 2025-02-05T20:02:19.444Z
+updated: 2025-02-11T21:13:40.431Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ A Quick Guide:
 4. [InVideo](#part1-4)
 5. [WoFox](#part1-5)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pinterest
 
 [Pinterest](https://in.pinterest.com/pin/679832506246229622/) is a fantastic platform for businesses and individuals alike, and thanks to its free templates, it's easy to add a professional-looking outro for a podcast or YouTube video.
@@ -54,7 +50,11 @@ However, the templates are not editable, and you will need software like Filmora
 ![pinterest thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/pinterest-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Vecteezy
@@ -65,6 +65,10 @@ As you create more and more videos, you'll want to find ways to make them stand 
 
 ![vecteezy thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/vecteezy-thanks-for-watching-templates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Snappa
 
 There are a variety of free templates that you can use for your **thanks for watching outros** on [Snappa](https://snappa.com/templates/youtube-end-screen?afmc=2qs), resulting in a professional and polished look for your channel.
@@ -74,6 +78,10 @@ With Snappa, you can create professional-looking outros in just a few clicks. Si
 You can customize the fonts, colors, and images to match your brand and add your own text to personalize the message on the templates. This will help you end your videos on a positive note and leave a lasting impression on your viewers.
 
 ![snappa thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/snappa-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### InVideo
 
@@ -101,10 +109,6 @@ A Quick Guide:
 2. [Videezy](#part2-2)
 3. [Placeit](#part2-3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### iStock
 
 [iStock](https://www.istockphoto.com/search/2/film?phrase=thanks%20for%20watching%20outro) is an excellent resource for finding high-quality, paid **thanks for watching outro** templates. With a wide variety of options to choose from, it is easy to find the perfect template to match your channel's style.
@@ -114,7 +118,7 @@ You can purchase a template for **$0.22–$9.90/image or $14.90/video** and can 
 ![istock thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/istock-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Videezy
@@ -126,11 +130,7 @@ The subscription pricing starts at **$19/file**, and it's definitely worth it fo
 ![videezy thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/videezy-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Placeit
@@ -142,7 +142,11 @@ The subscription plan offers two options: buy a template for **$2.95** or get an
 ![placeit thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/placeit-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. A Bonus Tip: How To Edit YouTube Outro?
@@ -170,10 +174,6 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 And to use Filmora making your outro without hassle, please watch this tutorial video below.
 
 ### Video Tutorial - How to Make a YouTube Outro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -205,22 +205,14 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rafting-video-magic-summit-for-2024/"><u>[New] Crafting Video Magic Summit for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[New] Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-capturing-the-extreme-the-gopro-hero5-black-vs-hero4-silver-duel/"><u>[Updated] 2024 Approved Capturing the Extreme The GoPro Hero5 Black Vs Hero4 Silver Duel</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-getting-started-with-azures-speech-to-text-feature/"><u>[Updated] 2024 Approved Getting Started with Azure's Speech-to-Text Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>[Updated] A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-harness-the-power-of-engagement-boosting-youtube-traffic-for-2024/"><u>[Updated] Harness the Power of Engagement Boosting YouTube Traffic for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>[Updated] The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-enhancing-artistic-photographs-with-illustrators-motion-blur/"><u>2024 Approved Enhancing Artistic Photographs with Illustrator's Motion Blur</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-guide-to-writing-successful-vlogging-scripts/"><u>A Guide to Writing Successful Vlogging Scripts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/crafting-captivating-online-titles-simplified-for-2024/"><u>Crafting Captivating Online Titles Simplified for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-snipers-manual-to-capturing-live-online-music/"><u>In 2024, The Sniper’s Manual to Capturing Live Online Music</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/no-video-display-on-sony-a6400-screen-for-2024/"><u>No Video Display on Sony A6400 Screen for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/softening-audio-fl-basics-for-2024/"><u>Softening Audio FL Basics for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/egic-monetization-for-game-streams/"><u>Strategic Monetization for Game Streams</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-assistance-no-more-trouble/"><u>Tech Assistance: No More Trouble</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unlock-creative-potentials-with-device-based-filters-for-videographers/"><u>Unlock Creative Potentials with Device-Based Filters for Videographers</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-back-track-technique-reverse-video-in-ios-devices/"><u>[New] Back-Track Technique Reverse Video in iOS Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-boost-video-influence-techniques-for-exceptional-client-spotlights/"><u>2024 Approved Boost Video Influence Techniques for Exceptional Client Spotlights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>2024 Approved Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streamline-your-media-experience-with-pip-in-safari/"><u>2024 Approved Streamline Your Media Experience with PIP in Safari</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-voice-over-advantage-elevating-video-quality/"><u>2024 Approved The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-browser-based-vertical-video-editing-solutions/"><u>In 2024, Best Browser-Based Vertical Video Editing Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-setup-for-championship-streaming/"><u>In 2024, The Ultimate Setup for Championship Streaming</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sudden-disappearance-of-files-in-folder-fix-it-now-with-these-7-methods/"><u>Sudden Disappearance of Files in Folder - Fix It Now with These 7 Methods</u></a></li>
 </ul></div>
 

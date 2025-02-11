@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Stylizing  Boost Your Digital Artistry on PC Photos Editor\""
-date: 2024-08-08T07:49:17.936Z
-updated: 2024-08-09T07:49:17.936Z
+date: 2025-02-09T19:08:10.112Z
+updated: 2025-02-11T18:04:01.462Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -42,23 +38,25 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 * Firstly, open a video or a photo from your phone gallery
 * Select the **Edit and Create** option and click on Draw
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
 
@@ -69,26 +67,24 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * You can see a range of options when you click on Draw, but you need to select the drawing tool
 * You get 7 options for tool selection – filled polygon, filled ellipse, ellipse, filled rectangle, rectangle, straight line, and free hand pencil. Select the free hand pencil option
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
@@ -96,6 +92,10 @@ The Photos app has an interface that is restructured with dark theme options and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -120,6 +120,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[New] 2024 Approved Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-guide-to-color-correction-implementing-luts-within-ae-projects/"><u>[New] Expert Guide to Color Correction Implementing LUTs Within AE Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-hidden-techniques-for-private-anonymous-instagram-live-participation-for-2024/"><u>[New] The Hidden Techniques for Private, Anonymous Instagram Live Participation for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-content-that-wins-on-ig-unboxing-edition/"><u>[Updated] 2024 Approved Crafting Content That Wins on IG Unboxing Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-innovative-android-for-ultimate-3d-playback/"><u>[Updated] 2024 Approved Innovative Android for Ultimate 3D Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>[Updated] 2024 Approved Mastering Mobile Audio IPhone Voice Memos Made Easy</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-bite-sized-beginnings-easy-steps-to-launch-personalbusiness-channels-from-phones/"><u>[Updated] Bite-Sized Beginnings Easy Steps to Launch Personal/Business Channels From Phones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-proven-strategies-elevating-your-mobile-capture-game-with-mobizens-expertise/"><u>[Updated] In 2024, Proven Strategies Elevating Your Mobile Capture Game with Mobizen's Expertise</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>[Updated] In 2024, Upload Wizardry Selecting the Best YouTube to Twitter Convertors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-meditative-tunes-compilation-top-10-legal-streams/"><u>2024 Approved Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dinner-baked-salmon-with-quinoa-and-steamed-broccoli/"><u>Dinner: Baked Salmon with Quinoa and Steamed Broccoli</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-action-videography-face-off-gopro-and-garmin/"><u>In 2024, Action Videography Face-Off GoPro & Garmin</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-enhance-your-films-with-these-vfx-sites/"><u>In 2024, Enhance Your Films with These VFx Sites</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-sony-xperia-1-v-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Sony Xperia 1 V FRP?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-m34-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy M34 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iral-video-tags-tips-for-popular-youtube-shorts/"><u>Top Viral Video Tags Tips for Popular YouTube Shorts</u></a></li>
+<li><a href="https://win11.techidaily.com/wavitunes/"><u>WAVファイルがiTunesで利用可能にするためのガイドと、挿入しきれないケースへの解決方法</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/why-does-my-system-stall-unexpectedly-expert-analysis-by-yl-software-professionals/"><u>Why Does My System Stall Unexpectedly? Expert Analysis by YL Software Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/your-quick-and-easy-guide-removing-backgrounds-in-picsart/"><u>Your Quick & Easy Guide Removing Backgrounds in Picsart</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Face Forward  Comparing Apple and Samsung's Face-Detection Capabilities\""
-date: 2024-08-15T13:08:54.941Z
-updated: 2024-08-16T13:08:54.941Z
+date: 2025-02-04T19:38:34.752Z
+updated: 2025-02-11T20:47:58.787Z
 tags: 
   - screen-recording
   - ai video
@@ -49,21 +49,16 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -74,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -83,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
  The Face ID by Apple in its iPhone X also makes itself proficient enough to detect the modifications in the appearances such as growing of beard or if a lady has applied makeup. Or if you have shaved your beard fully, the device takes a confirmation with the help of a passcode. What’s more, you don’t have to worry if you are wearing scarf or shades, cap, hat and even contact lenses, Face ID will work properly with the accessories too.
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
@@ -92,16 +96,14 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -126,8 +128,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-forge-memes-that-captivate-audiences/"><u>[New] In 2024, How to Forge Memes that Captivate Audiences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>[New] In 2024, In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] In 2024, The Power of Quantum HDR in Visual Arts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid-for-2024/"><u>[Updated] 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unraveling-the-apple-podcast-app-submission-system/"><u>[Updated] 2024 Approved Unraveling the Apple Podcast App Submission System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-apple-macbook-air-vs-macbook-pro-which-m1-laptop-is-better-for-2024/"><u>[Updated] Apple MacBook Air Vs. MacBook Pro Which M1 Laptop Is Better for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-still-to-dynamic-the-xs-action-camera-unboxed-for-2024/"><u>[Updated] From Still to Dynamic The XS Action Camera Unboxed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-minimal-shake-cam-for-dynamic-shooting/"><u>[Updated] Minimal-Shake Cam for Dynamic Shooting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peak-craft-space-25-appraisal/"><u>[Updated] Peak Craft Space 25 Appraisal</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-snappy-sharing-uploading-and-publishing-short-videos-online/"><u>[Updated] Snappy Sharing Uploading and Publishing Short Videos Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-win-friendly-art-programs-all-free-and-subscription-options-for-2024/"><u>[Updated] Top Win-Friendly Art Programs All-Free & Subscription Options for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-chinese-vr-headset-marketplace-wonders/"><u>2024 Approved Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960550833-get-up-and-running-quick-download-of-hp-envy-5660-driver-software/"><u>Get Up & Running: Quick Download of HP Envy 5660 Driver Software!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-self-designed-instagram-ringtone-creation-steps/"><u>In 2024, Self-Designed Instagram Ringtone Creation Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/masterclass-in-selecting-prime-hdr-cameras/"><u>Masterclass in Selecting Prime HDR Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-applications-for-animating-3d-scenes-for-2024/"><u>Premium Applications for Animating 3D Scenes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/providing-constructive-critiques-to-chromeos-dev-team-a-comprehensive-guide/"><u>Providing Constructive Critiques to ChromeOS Dev Team – A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/revolutionary-techniques-to-change-video-borders-in-tiktok-for-2024/"><u>Revolutionary Techniques to Change Video Borders in TikTok for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/strategie-uniche-di-ripristino-in-windows-server-2008-r2-scopri-i-nuovi-metodi/"><u>Strategie Uniche Di Ripristino in Windows Server 2008 (R2) - Scopri I Nuovi Metodi</u></a></li>
+</ul></div>
 

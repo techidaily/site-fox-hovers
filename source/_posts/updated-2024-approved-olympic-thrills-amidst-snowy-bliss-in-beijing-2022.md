@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Olympic Thrills Amidst Snowy Bliss in Beijing 2022\""
-date: 2025-01-28T16:09:20.264Z
-updated: 2025-01-30T16:10:33.643Z
+date: 2025-02-07T17:33:42.017Z
+updated: 2025-02-11T21:19:36.917Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
@@ -39,11 +35,11 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Nathan Chen Breaks World Record
 
@@ -52,10 +48,14 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
@@ -63,15 +63,7 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
@@ -79,7 +71,15 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
 
@@ -104,20 +104,20 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
@@ -156,18 +156,21 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-elevate-your-social-media-game-discover-the-best-5-youtube-promotion-strategies/"><u>[New] In 2024, Elevate Your Social Media Game Discover the Best 5 YouTube Promotion Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23/"><u>[New] In 2024, Riding Ahead with Clarity Hats Cam Excellence in the Year of '23</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-assembling-a-spectacular-screenplay-cut-out/"><u>[Updated] 2024 Approved Assembling a Spectacular Screenplay Cut-Out</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-choosing-the-optimal-power-source-for-advanced-drones/"><u>[Updated] 2024 Approved Choosing the Optimal Power Source for Advanced Drones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expert-tips-on-basic-color-correction-in-photos/"><u>[Updated] 2024 Approved Expert Tips on Basic Color Correction in Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-secrets-to-professional-streams-selecting-from-the-best-9-filters/"><u>[Updated] 2024 Approved Secrets to Professional Streams Selecting From the Best 9 Filters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vigorous-voyages-the-longest-flight-drone-elite/"><u>[Updated] In 2024, Vigorous Voyages The Longest Flight Drone Elite</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>[Updated] Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-motion-capturer-polaroids-camplus-action-wrap-up/"><u>2024 Approved The Ultimate Motion Capturer Polaroid's Cam+ Action Wrap-Up</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools-for-2024/"><u>Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ive-video-ends-top-6-budget-friendly-options/"><u>Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-essential-checklist-preparing-and-optimizing-your-brand-new-computer-in-5-moves/"><u>The Essential Checklist: Preparing and Optimizing Your Brand New Computer in 5 Moves</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today-for-2024/"><u>The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhance-filmmaking-on-iphone-top-camera-extensions-listed/"><u>[New] 2024 Approved Enhance Filmmaking on iPhone Top Camera Extensions Listed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>[New] 2024 Approved Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>[Updated] Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtubes-secrets-integrating-text-overlays-in-your-clips/"><u>[Updated] In 2024, YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplified-strategies-for-novice-level-nft-crafting/"><u>2024 Approved Simplified Strategies for Novice-Level NFT Crafting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-your-portal-into-creation-easy-metaverse-personas/"><u>2024 Approved Your Portal Into Creation Easy Metaverse Personas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-ultimate-selection-of-no-watermark-free-video-compressors-available-for-immediate-online-use/"><u>Discover the Ultimate Selection of No-Watermark Free Video Compressors Available for Immediate Online Use.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-sony-xperia-5-v-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Sony Xperia 5 V?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-security-alert-comprehensive-tutorial-on-identifying-and-cleaning-ios-infections/"><u>IPhone Security Alert: Comprehensive Tutorial on Identifying and Cleaning iOS Infections</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-system-safety-with-safe-mode-on-windows-8/"><u>Mastering the Art of System Safety with Safe Mode on Windows 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-htc-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on HTC U23, is it possible?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/secrets-to-precision-in-picking-drone-power-units/"><u>Secrets to Precision in Picking Drone Power Units</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smooth-sailing-with-kinemaster-in-film-edits-for-2024/"><u>Smooth Sailing with Kinemaster in Film Edits for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlining-media-with-apple-music-and-video-mixes/"><u>Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/windows-10-speaks-a-summary-of-recent-additions/"><u>Windows 10 Speaks A Summary of Recent Additions</u></a></li>
 </ul></div>
 

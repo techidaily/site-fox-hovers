@@ -1,7 +1,7 @@
 ---
 title: "[New] Efficient Photographic Snipping Techniques, Windows 11 for 2024"
-date: 2025-01-26T16:00:52.364Z
-updated: 2025-01-30T16:05:06.762Z
+date: 2025-02-06T19:55:08.240Z
+updated: 2025-02-11T21:26:21.383Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -52,10 +56,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -66,7 +66,7 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
@@ -77,10 +77,6 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
@@ -90,7 +86,7 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -105,11 +101,15 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -143,19 +143,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-review-of-googles-ar-stickers-for-2024/"><u>[Updated] Comprehensive Review of Google's AR Stickers for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-easy-ways-to-merge-igtv-and-instagram-stories-for-2024/"><u>[Updated] Easy Ways to Merge IGTV & Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-voice-commands-to-texts-pay-nothing-for-it/"><u>[Updated] In 2024, Voice Commands to Texts Pay Nothing for It</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-windows-for-videographers-hdr-insights-for-2024/"><u>[Updated] Windows for Videographers HDR Insights for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-your-youtube-potential-6-crucial-actions-for-visibility/"><u>2024 Approved Unleash Your YouTube Potential 6 Crucial Actions for Visibility</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-urls-for-accessing-copyright-free-gaming-scores/"><u>Essential URLs for Accessing Copyright-Free Gaming Scores</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-natural-language-processing-differ-from-machine-learning-in-ai/"><u>How Does Natural Language Processing Differ From Machine Learning in AI?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-gt-5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme GT 5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complete-methodology-for-sharing-srt-content-on-instagram-and-youtube/"><u>In 2024, Complete Methodology for Sharing SRT Content on Instagram and YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-nokia-c110-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Nokia C110 Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-f54-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy F54 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unveiling-the-art-of-podcast-storytelling-expert-tips-plus-10plus-sample-scripts/"><u>In 2024, Unveiling the Art of Podcast Storytelling Expert Tips + 10+ Sample Scripts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-drivers-free-downloads-for-win-1078-users/"><u>Latest NVIDIA Drivers: Free Downloads for Win 10/7/8 Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-pros-guide-to-srt-alterations-on-a-macbook-for-2024/"><u>The Pro's Guide to SRT Alterations on a MacBook for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-camera-control-tips-for-unshakable-images-for-2024/"><u>[New] Camera Control Tips for Unshakable Images for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-metamorphose-into-the-metaverse-an-easy-avatar-guide/"><u>[New] In 2024, Metamorphose Into the Metaverse An Easy Avatar Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-viral-fame-boosting-your-videos-popularity-on-youtube/"><u>[New] Mastering Viral Fame Boosting Your Video's Popularity on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-popular-photographs-their-narratives-unveiled/"><u>[Updated] 2024 Approved Popular Photographs Their Narratives Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dive-into-iphone-x-animoji-the-complete-users-edition-for-2024/"><u>[Updated] Dive Into iPhone X Animoji The Complete User's Edition for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>2024 Approved Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discovering-the-tech-marvel-in-apples-m1-max-clip/"><u>2024 Approved Discovering the Tech Marvel in Apple's M1 Max Clip</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-budget-for-video-popularity-on-youtube/"><u>2024 Approved How to Budget for Video Popularity on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ethereal-editing-in-extended-frame-rate-for-2024/"><u>Ethereal Editing in Extended Frame Rate for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-top-pick-magsafe-charger-on-sale-for-apple-users-save-up-to-60-today/"><u>Exclusive Deal: Top Pick MagSafe Charger on Sale for Apple Users - Save Up To $60 Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-png-images-into-bmp-format-with-movavi/"><u>Free Online Converter: Transforming PNG Images Into BMP Format with Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/honoring-ten-years-at-mondlyback-filter-excellence/"><u>Honoring Ten Years at MondlyBack Filter Excellence</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your ZTE Blade A73 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-sound-to-sight-choosing-between-audio-and-video-media/"><u>In 2024, From Sound to Sight Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-picks-7-exceptional-android-adblocking-apps-for-2024/"><u>Top Picks 7 Exceptional Android AdBlocking Apps for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unmatched-longevity-suse-extends-19-year-support-on-latest-distributions-a-standout-in-the-linux-world-techinsights/"><u>Unmatched Longevity: SUSE Extends 19-Year Support on Latest Distributions - A Standout in the Linux World | TechInsights</u></a></li>
 </ul></div>
 
