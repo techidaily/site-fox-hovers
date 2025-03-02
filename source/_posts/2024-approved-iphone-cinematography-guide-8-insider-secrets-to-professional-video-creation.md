@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Cinematography Guide  8 Insider Secrets to Professional Video Creation\""
-date: 2024-08-22T23:21:24.521Z
-updated: 2024-08-23T23:21:24.521Z
+date: 2025-02-23T17:07:16.022Z
+updated: 2025-03-02T20:18:08.405Z
 tags: 
   - screen-recording
   - ai video
@@ -48,43 +48,24 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use the Grid
 
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
 
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Slow Motion\\Time Lapse Mode
 
  One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
 
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Put your iPhone in Airplane Mode
 
  There is nothing worse than being in the middle of recording a great video, and then being interrupted by a notification. Even worse, since phones vibrate when they receive a notification, and it will ruin the entire video if that happens, since the phone will move and throw off the exposure and the light enhancements which you have been using.
@@ -99,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
@@ -131,8 +109,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pro-tips-combining-gopro-with-time-lapse-shooting-techniques/"><u>[New] 2024 Approved Pro Tips Combining GoPro with Time-Lapse Shooting Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[New] 2024 Approved Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-6-vital-video-forms-for-captivated-viewers/"><u>[New] 6 Vital Video Forms for Captivated Viewers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-advanced-techniques-for-360-video-editing-in-premiere/"><u>[New] Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-engaging-creativity-crafting-compelling-facebook-ads-for-2024/"><u>[Updated] Engaging Creativity Crafting Compelling Facebook Ads for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ice-warriors-unleashed-at-2022-games/"><u>2024 Approved Ice Warriors Unleashed at 2022 Games</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11/"><u>A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x90s-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X90S Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-realme-gt-5-pro-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Realme GT 5 Pro lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 10 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-compatible-drivers-for-arduino-mega-2560/"><u>Quick Download: Compatible Drivers for Arduino Mega 2560</u></a></li>
+</ul></div>
 

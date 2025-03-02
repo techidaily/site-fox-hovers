@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Olympic Thrills Amidst Snowy Bliss in Beijing 2022\""
-date: 2025-02-07T17:33:42.017Z
-updated: 2025-02-11T21:19:36.917Z
+date: 2025-02-27T20:40:17.351Z
+updated: 2025-03-02T20:12:41.770Z
 tags: 
   - screen-recording
   - ai video
@@ -37,25 +37,13 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Nathan Chen Breaks World Record
 
 Nathan Chen of the United States set a world-record score in men's figure skating short program held at Beijing Olympics. Chen scored 113.97 at Capital Indoor Stadium in Beijing. Four years after his dreams were shattered, Chen has not only come back stronger in his performance but managed to break the world record.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
@@ -71,15 +59,7 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
 
@@ -103,15 +83,7 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
@@ -156,21 +128,17 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhance-filmmaking-on-iphone-top-camera-extensions-listed/"><u>[New] 2024 Approved Enhance Filmmaking on iPhone Top Camera Extensions Listed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>[New] 2024 Approved Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>[Updated] Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtubes-secrets-integrating-text-overlays-in-your-clips/"><u>[Updated] In 2024, YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplified-strategies-for-novice-level-nft-crafting/"><u>2024 Approved Simplified Strategies for Novice-Level NFT Crafting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-your-portal-into-creation-easy-metaverse-personas/"><u>2024 Approved Your Portal Into Creation Easy Metaverse Personas</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discover-the-ultimate-selection-of-no-watermark-free-video-compressors-available-for-immediate-online-use/"><u>Discover the Ultimate Selection of No-Watermark Free Video Compressors Available for Immediate Online Use.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-sony-xperia-5-v-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Sony Xperia 5 V?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-security-alert-comprehensive-tutorial-on-identifying-and-cleaning-ios-infections/"><u>IPhone Security Alert: Comprehensive Tutorial on Identifying and Cleaning iOS Infections</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-system-safety-with-safe-mode-on-windows-8/"><u>Mastering the Art of System Safety with Safe Mode on Windows 8</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-htc-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on HTC U23, is it possible?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/secrets-to-precision-in-picking-drone-power-units/"><u>Secrets to Precision in Picking Drone Power Units</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/smooth-sailing-with-kinemaster-in-film-edits-for-2024/"><u>Smooth Sailing with Kinemaster in Film Edits for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/streamlining-media-with-apple-music-and-video-mixes/"><u>Streamlining Media with Apple Music & Video Mixes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/windows-10-speaks-a-summary-of-recent-additions/"><u>Windows 10 Speaks A Summary of Recent Additions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dynamic-typography-adding-layers-to-your-illustration/"><u>[New] 2024 Approved Dynamic Typography Adding Layers to Your Illustration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-crafting-professional-icons-with-pre-made-graphic-elements/"><u>[New] Crafting Professional Icons with Pre-Made Graphic Elements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cutting-edge-approaches-share-youtube-content-on-facebook-for-2024/"><u>[New] Cutting-Edge Approaches Share YouTube Content on Facebook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-chuckle-clips-for-iphone/"><u>[New] In 2024, Chuckle Clips for iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-smart-selections-the-premier-list-of-costless-streamers-apps-and-software-for-2024/"><u>[New] Smart Selections The Premier List of Costless Streamers Apps & Software for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-aliens-fireteam-elite-keeps-crashing-on-pc/"><u>[SOLVED] Aliens: Fireteam Elite Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-leading-workplace-cloud-reservoirs/"><u>[Updated] In 2024, Leading Workplace Cloud Reservoirs</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ideviceiphone/"><u>IDevice搞修：如何修好iPhone更新不能完成的故障</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-maximizing-your-sightline-in-roblox-playground/"><u>In 2024, Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/perfecting-your-google-podcast-submission-process-for-2024/"><u>Perfecting Your Google Podcast Submission Process for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/quick-and-easy-system-backups-with-onekey-securely-transferring-data-to-recovery-partitions/"><u>Quick and Easy System Backups with OneKey: Securely Transferring Data to Recovery Partitions</u></a></li>
 </ul></div>
 

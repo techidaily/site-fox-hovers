@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Photography Excellence  Follow the Top 10 Rules\""
-date: 2024-08-22T23:22:19.783Z
-updated: 2024-08-23T23:22:19.783Z
+date: 2025-03-01T20:00:55.584Z
+updated: 2025-03-02T16:28:26.839Z
 tags: 
   - screen-recording
   - ai video
@@ -58,60 +58,36 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
 
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Direction of Subject
 
  Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
 
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fill Your Frame
 
  Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
 
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclsion
 
  Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
@@ -120,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -146,8 +119,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>[New] 2024 Approved Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-soloists-path-to-trending-podcasts/"><u>[New] 2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ace-guide-to-constructing-virtual-classroom-headlines/"><u>[New] Ace Guide to Constructing Virtual Classroom Headlines</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elite-watchlist-top-10-advanced-video-capture-programs-for-2024/"><u>[New] Elite Watchlist Top 10 Advanced Video Capture Programs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-photographers-roadmap-to-stunning-hdr-portraits-for-2024/"><u>[New] The Photographer's Roadmap to Stunning HDR Portraits for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>[Updated] 2024 Approved Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-srt-transition-subbed-content-conversion-strategies/"><u>[Updated] 2024 Approved SRT Transition Subbed Content Conversion Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-filmmakers-companion-for-advanced-lut-expertise/"><u>[Updated] A Filmmaker's Companion for Advanced LUT Expertise</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfecting-live-steam-playback-a-step-by-step-approach/"><u>[Updated] In 2024, Perfecting Live Steam Playback A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-complete-guide-for-posting-photos-online/"><u>[Updated] In 2024, The Complete Guide for Posting Photos Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/discover-the-premier-4k-cameras-of-today-for-2024/"><u>Discover the Premier 4K Cameras of Today for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-4-wont-boot-here-are-the-best-solutions-to-get-you-racing-by-2024/"><u>Forza Horizon 4 Won't Boot? Here Are the Best Solutions to Get You Racing by 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-converter-aac-to-mp4-audio-format-movevi/"><u>Free Online Converter: AAC to MP4 Audio Format - Movevi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>In 2024, Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-video-mastery-without-relying-on-xsplit/"><u>In 2024, Video Mastery Without Relying on Xsplit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-youtube-titulos-con-algoritmos-for-2024/"><u>Mastering YouTube Títulos Con Algoritmos for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209874567-9780983088523-reiki-the-ultimate-guide-vol-3/"><u>Reiki the Ultimate Guide, Vol. 3 | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-f14-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-tecno-spark-10-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Tecno Spark 10 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

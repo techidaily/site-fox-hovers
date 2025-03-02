@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Framing Emotions Through Color Grading\""
-date: 2024-08-22T23:21:18.512Z
-updated: 2024-08-23T23:21:18.512Z
+date: 2025-02-25T18:34:32.060Z
+updated: 2025-03-02T16:10:09.085Z
 tags: 
   - screen-recording
   - ai video
@@ -64,9 +64,6 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
@@ -95,9 +92,6 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step2Select the specific video portion
 
 #####
@@ -106,23 +100,14 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 You will notice that the color changes depending on your selected preset.
 
 In the Presets tab, there are different templates, including Common, 3D LUT, Vignette, and Film. While in Adjust tab, you can modify the white balance, such as color tint and color temperature, 3D LUT, Color, Light, HSL, and Vignette, etc.
@@ -141,9 +126,6 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
@@ -216,8 +198,22 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2023-in-review-social-medias-viral-videos-on-twitter/"><u>[New] 2023 in Review Social Media's Viral Videos on Twitter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ain-command-over-youtubes-video-playback-speed-for-2024/"><u>[New] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-success-starts-with-these-strategies/"><u>[New] In 2024, Instagram Success Starts with These Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unearthing-inshots-video-magic-for-editors-for-2024/"><u>[New] Unearthing InShot’s Video Magic for Editors for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-distinctions-a-look-at-youtube-and-dailymention/"><u>[New] Unveiling Distinctions A Look at YouTube and DailyMention</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-chuckle-on-the-go-best-comedy-tone-sites-for-2024/"><u>[Updated] Chuckle on the Go Best Comedy Tone Sites for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-explore-the-ultimate-selection-of-free-slide-show-designs-for-2024/"><u>[Updated] Explore the Ultimate Selection of Free Slide Show Designs for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>[Updated] In 2024, File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-s18e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo S18e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inside-the-2023-samsung-bd-j5900-innovations/"><u>Inside the 2023 Samsung BD-J5900 Innovations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-up-viewers-innovative-cooking-channel-naming-tips/"><u>Spice Up Viewers Innovative Cooking Channel Naming Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/standout-14-animation-techniques-for-texts/"><u>Standout 14 Animation Techniques for Texts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-importing-audio-for-inshot-edits/"><u>Step-by-Step Guide Importing Audio for InShot Edits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-f34-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy F34 5G Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unraveling-the-complexities-of-whatsapp-communication/"><u>Unraveling the Complexities of WhatsApp Communication</u></a></li>
+</ul></div>
 

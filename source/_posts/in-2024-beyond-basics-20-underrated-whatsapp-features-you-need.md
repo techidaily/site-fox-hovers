@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Beyond Basics  20 Underrated WhatsApp Features You Need\""
-date: 2025-02-04T17:40:56.671Z
-updated: 2025-02-11T16:07:06.102Z
+date: 2025-02-25T16:47:44.604Z
+updated: 2025-03-02T17:40:35.204Z
 tags: 
   - screen-recording
   - ai video
@@ -77,10 +77,6 @@ Many times, we have just one or a few people whose texts matter the most. So, av
 
 ![Whatsapp Pin Prioritized Contacts](https://images.wondershare.com/filmora/article-images/whatsapp-pin-prioritized-contacts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Source: techmesto.com
 
 #### 7.Export Chat Logs
@@ -95,10 +91,6 @@ Though we have already mentioned the shortcuts for bold, italics, and other text
 
 ![Whatsapp Font Tricks Formatting](https://images.wondershare.com/filmora/article-images/whatsapp-font-tricks-formatting.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 9.You Can Apply All WhatsApp Font Tricks on One Word or Sentence
 
 There are plenty of things you can do with one word. It can be bold, italic, monospace, and strikethrough all at the same time. Apply the native settings or shortcuts one after another and voila!
@@ -110,10 +102,6 @@ There are plenty of things you can do with one word. It can be bold, italic, mon
 While typing a WhatsApp message if you need to cross-check certain areas with someone else, and don’t want to copy the text or overwrite your clipboard, you can directly share the text without copy-pasting or taking screenshots. This WhatsApp Typing Trick is in the same native setting strip mentioned earlier, which you can access by tapping and holding the text section you want to share, which will open the formatting strip. Once it opens then click on the 3 dots, which will turn the strip into a panel, in the panel you will find what you are looking for. The coolest part is that you can share the text not only in WhatsApp but multiple other apps like Zoom, Skype, Email… even Bluetooth!
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the Hidden Features of WhatsApp?
 
@@ -129,10 +117,6 @@ There are many ways how you can save mobile data consumed by WhatsApp. First, yo
 
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Source: androidauthority.com
 
 #### 3.Share Your Location Without Ado
@@ -144,10 +128,6 @@ If there is confusion with a location, where sharing addresses is not an option,
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 5.Restore Your Chat History, and Deleted Chats
 
@@ -165,19 +145,11 @@ Not every message thread is important, and many people have the habit of deletin
 
 ![Whatsapp Auto Delete Messages](https://images.wondershare.com/filmora/article-images/whatsapp-auto-delete-messages.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 8.Mute Stories that You Don’t Want to See
 
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
 
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
 
@@ -200,10 +172,6 @@ Some of the best WhatsApp video editing tricks are coming up, wherein you can ad
 There are no download options for photos and videos for WhatsApp Statuses, yet you can have it on your PC, iPhone, and Android device and surprise a loved one by editing the videos they did not send you personally. To do this, you can go to File Manager >> Settings >> Turn on Show Hidden Files; after doing this go back to Internal Storage >> WhatsApp >> Media >> Statuses. Once you have the Video, you can import it to Filmora and use a gamut of video editing tools to create the magic!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2.Record Video Calls from PC and Improve Its Quality
 
@@ -246,15 +214,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/xperts-choice-extracting-youtube-video-intros-online/"><u>[New] Expert's Choice Extracting Youtube Video Intros Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-effortlessly-migrate-to-macos-sierra-version/"><u>[New] In 2024, How-To Effortlessly Migrate to macOS Sierra Version</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-presentation-adding-textures-to-your-project/"><u>[New] In 2024, Perfecting Presentation Adding Textures to Your Project</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[New] Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-successful-youtube-sponsorship-deals/"><u>2024 Approved Crafting Successful YouTube Sponsorship Deals</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s17-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo S17 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/iphone-hacks-for-minimalist-video-presentation/"><u>IPhone Hacks for Minimalist Video Presentation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-the-release-of-gpt-5-already-on-the-horizon-estimated-timeline-and-more/"><u>Is the Release of GPT-5 Already on the Horizon? Estimated Timeline & More</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-lonely-moments-using-chatgpt-technology/"><u>Overcoming Lonely Moments Using ChatGPT Technology</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-facebook-refuses-to-fade-away/"><u>Why Facebook Refuses to 'Fade Away'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-demystifying-the-use-of-slug-lines-in-film-scripts/"><u>[New] 2024 Approved Demystifying the Use of Slug Lines in Film Scripts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dissecting-ffmpeg-the-gateway-to-original-audio-retention/"><u>[New] In 2024, Dissecting FFmpeg The Gateway to Original Audio Retention</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-what-do-podcast-producers-really-make-for-2024/"><u>[New] What Do Podcast Producers Really Make for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>[Updated] 2024 Approved Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-single-out-focal-point-using-affinity/"><u>[Updated] Single-Out Focal Point Using Affinity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-to-smooth-audio-crossfade-for-2024/"><u>[Updated] The Ultimate Guide to Smooth Audio Crossfade for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-teen-movies-for-your-next-binge-session-on-netflix/"><u>Essential Teen Movies for Your Next Binge Session on Netflix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enable-usb-c-connectivity-in-windows-nx-professional-driver-packs-available-here/"><u>How to Enable USB-C Connectivity in Windows nX: Professional Driver Packs Available Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-revitalize-your-laptops-processor-cpu/"><u>How to Revitalize Your Laptop's Processor (CPU)?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-method-to-archive-webcam-discussions/"><u>In 2024, Method to Archive Webcam Discussions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-the-secrets-of-effective-screencasts/"><u>In 2024, Unveiling the Secrets of Effective Screencasts</u></a></li>
+<li><a href="https://discover-best.techidaily.com/reversing-and-rotating-mp4-video-playback-correcting-vertical-misalignment-in-hd-footage/"><u>Reversing and Rotating MP4 Video Playback: Correcting Vertical Misalignment in HD Footage</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-16-t-trillion-non-cash-deals-dominated-by-asia-insights-from-zdnet/"><u>The Future Is Now: 1.6 T Trillion Non-Cash Deals Dominated by Asia | Insights From ZDNET</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-seamless-download-and-update-process-for-windows-rndis-drivers/"><u>Troubleshooting Guide: Seamless Download and Update Process for Windows RNDIS Drivers</u></a></li>
 </ul></div>
 
